@@ -376,4 +376,4 @@ db = FAISS.from_documents(raw_texts, embedding_model)
 DB_FAISS_PATH = "vectorstore/db_faiss_varanasi"
 db.save_local(DB_FAISS_PATH)
 
-print(f"✅ Indexed {len(raw_texts)} varanasi data into FAISS DB.")
+print(f"Indexed {len(raw_texts)} varanasi data into FAISS DB.")
