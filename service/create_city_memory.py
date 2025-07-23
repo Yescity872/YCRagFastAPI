@@ -4,7 +4,7 @@ from langchain.schema import Document
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
-with open(r'data/varanasi/varanasi.json','r',encoding='utf-8') as f:
+with open(r'..\data\varanasi\varanasi.json','r',encoding='utf-8') as f:
     data=json.load(f)
 
 raw_texts=[]
@@ -62,6 +62,57 @@ for transport in data["Connectivity(Transportation-Hub"]:
         )
     )
 
+# for place in data["Places-to-visit"]:
+#     name = place.get("places ", "").strip()
+#     category = place.get("category", "")
+#     latlon = place.get("lat-lon", "")
+#     address = place.get("address", "")
+#     gmap = place.get("location-link", "")
+#     open_day = place.get("open-day", "")
+#     open_time = place.get("open-time", "")
+#     guide = place.get("guide-availiblity", "")
+#     year = place.get("establish-year", "")
+#     fee = place.get("fee", "")
+#     description = place.get("description", "")
+#     essentials = place.get("essential", "")
+#     story = place.get("story", "")
+#     image0 = place.get("image0", "")
+#     image1 = place.get("image1", "")
+#     image2 = place.get("image2", "")
+#     video = place.get("video", "")
+
+#     # 💡 Build rich description for semantic search
+#     full_desc = (
+#         f"Place Name: {name}\n"
+#         f"Category: {category}\n"
+#         f"Location: {latlon}\n"
+#         f"Address: {address}\n"
+#         f"Google Maps: {gmap}\n"
+#         f"Open Days: {open_day}\n"
+#         f"Timings: {open_time}\n"
+#         f"Guide Availability: {guide}\n"
+#         f"Established: {year}\n"
+#         f"Entry Fees: {fee}\n"
+#         f"Description: {description}\n"
+#         f"Essentials to Know: {essentials}\n"
+#         f"Historical Story: {story}\n"
+#         f"Images: {image0}, {image1}, {image2}\n"
+#         f"Video: {video}\n"
+#     )
+
+#     raw_texts.append(
+#         Document(
+#             page_content=full_desc,
+#             metadata={
+#                 "section": "places-to-visit"
+#             }
+#         )
+#     )
+
+from langchain.schema import Document
+
+raw_texts = []
+
 for place in data["Places-to-visit"]:
     name = place.get("places ", "").strip()
     category = place.get("category", "")
@@ -104,10 +155,12 @@ for place in data["Places-to-visit"]:
         Document(
             page_content=full_desc,
             metadata={
-                "section": "places-to-visit"
+                "section": "places-to-visit",
+                "category": category  # ✅ Now it's stored!
             }
         )
     )
+
 
 for gem in data["Hidden-gems"]:
     name = gem.get("hidden-gems", "")
@@ -373,7 +426,7 @@ embedding_model=HuggingFaceEmbeddings(model_name="sentence-transformers/all-Mini
 
 db = FAISS.from_documents(raw_texts, embedding_model)
 
-DB_FAISS_PATH = "vectorstore/db_faiss_varanasi"
+DB_FAISS_PATH = "../vectorstore/db_faiss_varanasi"
 db.save_local(DB_FAISS_PATH)
 
 print(f"Indexed {len(raw_texts)} varanasi data into FAISS DB.")
