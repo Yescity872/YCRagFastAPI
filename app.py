@@ -1,7 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from service.query_classifier import classify_query_with_gemini
+# from service.query_classifier import classify_query_with_gemini
+from routers.tralli_router import router as tralli_router
 
 app = FastAPI()
 
@@ -21,7 +22,9 @@ class QueryInput(BaseModel):
 def read_root():
     return {"message": "Yescity travel bot is running"}
 
-@app.post('/classify')
-def classify_user_query(input: QueryInput):
-    category = classify_query_with_gemini(input.query)
-    return {"category": category}
+# @app.post('/classify')
+# def classify_user_query(input: QueryInput):
+#     category = classify_query_with_gemini(input.query)
+#     return {"category": category}
+
+app.include_router(tralli_router)

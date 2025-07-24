@@ -62,7 +62,7 @@ def classify_query_with_gemini(query: str) -> str:
         answer = response.text.strip().lower()
 
         valid = ["places", "food", "souvenir", "transport", "miscellaneous"]
-        # clean and validate
+        
         for v in valid:
             if v in answer:
                 return v
