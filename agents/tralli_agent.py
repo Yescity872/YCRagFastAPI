@@ -1,24 +1,25 @@
+# from bots.tralli_food_bot import food_bot
+from bots.tralli_food_bot import FoodBot
+from bots.tralli_place_bot import places_bot
+from bots.tralli_souvenir_bot import souvenir_bot
+from bots.tralli_transport_bot import transport_bot
+from bots.tralli_misc_bot import misc_bot
+
+bot=FoodBot()
+
 def handle_places_query(query: str) -> dict:
-    return {
-        "response": f"Based on your query, here are some popular tourist places: {query}"
-    }
+    return {"response": places_bot(query)}
 
 def handle_food_query(query: str) -> dict:
-    return {
-        "response": f"Here are some local food places or dishes to try: {query}"
-    }
+    # return {"response": food_bot(query)}
+    return {"response": bot.food_bot(query)}
+    # return {"response": "Food query implemented"}
 
 def handle_souvenir_query(query: str) -> dict:
-    return {
-        "response": f"These are some markets or souvenirs you might be interested in: {query}"
-    }
+    return {"response": souvenir_bot(query)}
 
 def handle_transport_query(query: str) -> dict:
-    return {
-        "response": f"Here’s how you can get around based on your query: {query}"
-    }
+    return {"response": transport_bot(query)}
 
 def handle_miscellaneous_query(query: str) -> dict:
-    return {
-        "response": f"This seems to be a general query. Here’s some help: {query}"
-    }
+    return {"response": misc_bot(query)}
