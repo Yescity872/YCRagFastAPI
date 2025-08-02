@@ -220,8 +220,8 @@ class FoodBot:
         ])
 
         prompt = f"""
-        You are a food expert in Varanasi. Recommend exactly 3 places that best match the query.
-        Always provide exactly 3 results unless fewer are available.
+        You are a food expert in Varanasi. Recommend food places that best match the query.
+        Always provide exact results do not hallucinate.Only give the result in the format provided do not include extra text or summary.Do not exceed the result by 5.
 
         Context:
         {context}
@@ -237,12 +237,23 @@ class FoodBot:
         1. Kashi Chat Bhandar (Street Food) - Tamatar Chaat
         2. Blue Lassi (Desserts) - Mango Lassi
         3. Deena Chat Bhandar (Street Food) - Kachori
+
+        
         """
+        # Respond in this exact format:
+        # 1. Place Name
+        # 2. Place Name 
+        # 3. Place Name
+
+        # Example:
+        # 1. Kashi Chat Bhandar
+        # 2. Blue Lassi
+        # 3. Deena Chat Bhandar
 
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
-            temperature=0.7,  # Increased for more variety
+            temperature=0.5,  # Increased for more variety
             max_tokens=300
         )
         return response.choices[0].message.content
