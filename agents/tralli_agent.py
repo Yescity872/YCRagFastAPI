@@ -1,15 +1,16 @@
 # from bots.tralli_food_bot import food_bot
 from bots.tralli_food_bot import FoodBot
-from bots.tralli_place_bot import places_bot
+from bots.tralli_place_bot import PlaceBot
 from bots.tralli_souvenir_bot import SouvenirBot
 from bots.tralli_transport_bot import transport_bot
 from bots.tralli_misc_bot import misc_bot
 
+bot1=PlaceBot()
 bot2=FoodBot()
 bot3=SouvenirBot()
 
 def handle_places_query(query: str) -> dict:
-    return {"response": places_bot(query)}
+    return {"response": bot1.place_bot(query)}
 
 def handle_food_query(query: str) -> dict:
     # return {"response": food_bot(query)}
