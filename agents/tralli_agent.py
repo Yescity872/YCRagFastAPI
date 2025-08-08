@@ -8,6 +8,7 @@ from bots.tralli_misc_bot import misc_bot
 bot1=PlaceBot()
 bot2=FoodBot()
 bot3=SouvenirBot()
+# bot4=TransportBot()
 
 def handle_places_query(query: str) -> dict:
     return {"response": bot1.place_bot(query)}
