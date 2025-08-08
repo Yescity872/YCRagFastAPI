@@ -1,179 +1,179 @@
-from fastapi import APIRouter
-from pydantic import BaseModel
-from service.query_classifier import classify_query_with_gemini
-from agents.tralli_agent import (
-    handle_places_query,
-    handle_food_query,
-    handle_souvenir_query,
-    handle_transport_query,
-    handle_miscellaneous_query
-)
-import json
-from typing import List, Dict
+# from fastapi import APIRouter
+# from pydantic import BaseModel
+# from service.query_classifier import classify_query_with_gemini
+# from agents.tralli_agent import (
+#     handle_places_query,
+#     handle_food_query,
+#     handle_souvenir_query,
+#     handle_transport_query,
+#     handle_miscellaneous_query
+# )
+# import json
+# from typing import List, Dict
 
-router = APIRouter()
+# router = APIRouter()
 
-# Load data once at startup
-with open(r'data/varanasi/food_data.json', 'r', encoding='utf-8') as f:
-    FOOD_DATA = json.load(f)
+# # Load data once at startup
+# with open(r'data/varanasi/food_data.json', 'r', encoding='utf-8') as f:
+#     FOOD_DATA = json.load(f)
 
-with open(r'data/varanasi/souvenir_data.json', 'r', encoding='utf-8') as f:
-    SOUVENIR_DATA = json.load(f)
+# with open(r'data/varanasi/souvenir_data.json', 'r', encoding='utf-8') as f:
+#     SOUVENIR_DATA = json.load(f)
 
-with open(r'data/varanasi/place_data.json', 'r', encoding='utf-8') as f:  # Added places data
-    PLACES_DATA = json.load(f)
+# with open(r'data/varanasi/place_data.json', 'r', encoding='utf-8') as f:  # Added places data
+#     PLACES_DATA = json.load(f)
 
-class QueryInput(BaseModel):
-    query: str
+# class QueryInput(BaseModel):
+#     query: str
 
-category_handlers = {
-    "places": handle_places_query,
-    "food": handle_food_query,
-    "souvenir": handle_souvenir_query,
-    "transport": handle_transport_query,
-    "miscellaneous": handle_miscellaneous_query
-}
+# category_handlers = {
+#     "places": handle_places_query,
+#     "food": handle_food_query,
+#     "souvenir": handle_souvenir_query,
+#     "transport": handle_transport_query,
+#     "miscellaneous": handle_miscellaneous_query
+# }
 
-def extract_numbered_names(response_text: str) -> List[str]:
-    """Extract numbered names from model response text"""
-    lines = response_text.split('\n')
-    names = []
-    for line in lines:
-        if not line.strip():
-            continue
-        clean_line = line.split('. ', 1)[1] if '. ' in line else line
-        name = clean_line.split(' - ')[0].split(' (')[0]
-        names.append(name.strip())
-    return names
+# def extract_numbered_names(response_text: str) -> List[str]:
+#     """Extract numbered names from model response text"""
+#     lines = response_text.split('\n')
+#     names = []
+#     for line in lines:
+#         if not line.strip():
+#             continue
+#         clean_line = line.split('. ', 1)[1] if '. ' in line else line
+#         name = clean_line.split(' - ')[0].split(' (')[0]
+#         names.append(name.strip())
+#     return names
 
-def get_food_data_by_names(place_names: List[str]) -> List[Dict]:
-    """Match food places by name"""
-    matching_places = []
-    seen = set()
-    for name in place_names:
-        for item in FOOD_DATA['Food']:
-            if (name.lower() in item['food-place'].lower() or
-                item['food-place'].lower() in name.lower()):
-                if item['food-place'] not in seen:
-                    matching_places.append(item)
-                    seen.add(item['food-place'])
-    return matching_places
+# def get_food_data_by_names(place_names: List[str]) -> List[Dict]:
+#     """Match food places by name"""
+#     matching_places = []
+#     seen = set()
+#     for name in place_names:
+#         for item in FOOD_DATA['Food']:
+#             if (name.lower() in item['food-place'].lower() or
+#                 item['food-place'].lower() in name.lower()):
+#                 if item['food-place'] not in seen:
+#                     matching_places.append(item)
+#                     seen.add(item['food-place'])
+#     return matching_places
 
-def get_souvenir_data_by_names(shop_names: List[str]) -> List[Dict]:
-    """Match souvenir shops by name"""
-    matching_shops = []
-    seen = set()
-    for name in shop_names:
-        for shop in SOUVENIR_DATA['Shopping']:
-            if (name.lower() in shop['shops'].lower() or
-                shop['shops'].lower() in name.lower()):
-                if shop['shops'] not in seen:
-                    matching_shops.append(shop)
-                    seen.add(shop['shops'])
-    return matching_shops
+# def get_souvenir_data_by_names(shop_names: List[str]) -> List[Dict]:
+#     """Match souvenir shops by name"""
+#     matching_shops = []
+#     seen = set()
+#     for name in shop_names:
+#         for shop in SOUVENIR_DATA['Shopping']:
+#             if (name.lower() in shop['shops'].lower() or
+#                 shop['shops'].lower() in name.lower()):
+#                 if shop['shops'] not in seen:
+#                     matching_shops.append(shop)
+#                     seen.add(shop['shops'])
+#     return matching_shops
+
+# # def get_places_data_by_names(place_names: List[str]) -> List[Dict]:
+# #     """Match places by name across all sections"""
+# #     matching_places = []
+# #     seen = set()
+    
+# #     for name in place_names:
+# #         # Search in Places-to-visit
+# #         for place in PLACES_DATA.get('Places-to-visit', []):
+# #             place_name = place.get('places', '') or place.get('places ', '')
+# #             if place_name and (name.lower() in place_name.lower() or 
+# #                              place_name.lower() in name.lower()):
+# #                 if place_name not in seen:
+# #                     matching_places.append(place)
+# #                     seen.add(place_name)
+        
+# #         # Search in Hidden-gems
+# #         for place in PLACES_DATA.get('Hidden-gems', []):
+# #             place_name = place.get('hidden-gems', '')
+# #             if place_name and (name.lower() in place_name.lower() or 
+# #                              place_name.lower() in name.lower()):
+# #                 if place_name not in seen:
+# #                     matching_places.append(place)
+# #                     seen.add(place_name)
+        
+# #         # Search in Nearby-tourist-spot
+# #         for place in PLACES_DATA.get('Nearby-tourist-spot', []):
+# #             place_name = place.get('places', '') or place.get('places ', '')
+# #             if place_name and (name.lower() in place_name.lower() or 
+# #                              place_name.lower() in name.lower()):
+# #                 if place_name not in seen:
+# #                     matching_places.append(place)
+# #                     seen.add(place_name)
+    
+# #     return matching_places
 
 # def get_places_data_by_names(place_names: List[str]) -> List[Dict]:
-#     """Match places by name across all sections"""
+#     """Match places by exact name across all sections"""
 #     matching_places = []
 #     seen = set()
     
-#     for name in place_names:
-#         # Search in Places-to-visit
-#         for place in PLACES_DATA.get('Places-to-visit', []):
-#             place_name = place.get('places', '') or place.get('places ', '')
-#             if place_name and (name.lower() in place_name.lower() or 
-#                              place_name.lower() in name.lower()):
-#                 if place_name not in seen:
-#                     matching_places.append(place)
-#                     seen.add(place_name)
-        
-#         # Search in Hidden-gems
-#         for place in PLACES_DATA.get('Hidden-gems', []):
-#             place_name = place.get('hidden-gems', '')
-#             if place_name and (name.lower() in place_name.lower() or 
-#                              place_name.lower() in name.lower()):
-#                 if place_name not in seen:
-#                     matching_places.append(place)
-#                     seen.add(place_name)
-        
-#         # Search in Nearby-tourist-spot
-#         for place in PLACES_DATA.get('Nearby-tourist-spot', []):
-#             place_name = place.get('places', '') or place.get('places ', '')
-#             if place_name and (name.lower() in place_name.lower() or 
-#                              place_name.lower() in name.lower()):
-#                 if place_name not in seen:
-#                     matching_places.append(place)
-#                     seen.add(place_name)
+#     # Normalize the input names for case-insensitive comparison
+#     normalized_names = {name.strip().lower() for name in place_names}
+    
+#     # Search in Places-to-visit
+#     for place in PLACES_DATA.get('Places-to-visit', []):
+#         place_name = (place.get('places', '').strip() or 
+#                      place.get('places ', '').strip()).lower()
+#         if place_name in normalized_names and place_name not in seen:
+#             matching_places.append(place)
+#             seen.add(place_name)
+    
+#     # Search in Hidden-gems
+#     for place in PLACES_DATA.get('Hidden-gems', []):
+#         place_name = place.get('hidden-gems', '').strip().lower()
+#         if place_name in normalized_names and place_name not in seen:
+#             matching_places.append(place)
+#             seen.add(place_name)
+    
+#     # Search in Nearby-tourist-spot
+#     for place in PLACES_DATA.get('Nearby-tourist-spot', []):
+#         place_name = (place.get('places', '').strip() or 
+#                      place.get('places ', '').strip()).lower()
+#         if place_name in normalized_names and place_name not in seen:
+#             matching_places.append(place)
+#             seen.add(place_name)
     
 #     return matching_places
 
-def get_places_data_by_names(place_names: List[str]) -> List[Dict]:
-    """Match places by exact name across all sections"""
-    matching_places = []
-    seen = set()
-    
-    # Normalize the input names for case-insensitive comparison
-    normalized_names = {name.strip().lower() for name in place_names}
-    
-    # Search in Places-to-visit
-    for place in PLACES_DATA.get('Places-to-visit', []):
-        place_name = (place.get('places', '').strip() or 
-                     place.get('places ', '').strip()).lower()
-        if place_name in normalized_names and place_name not in seen:
-            matching_places.append(place)
-            seen.add(place_name)
-    
-    # Search in Hidden-gems
-    for place in PLACES_DATA.get('Hidden-gems', []):
-        place_name = place.get('hidden-gems', '').strip().lower()
-        if place_name in normalized_names and place_name not in seen:
-            matching_places.append(place)
-            seen.add(place_name)
-    
-    # Search in Nearby-tourist-spot
-    for place in PLACES_DATA.get('Nearby-tourist-spot', []):
-        place_name = (place.get('places', '').strip() or 
-                     place.get('places ', '').strip()).lower()
-        if place_name in normalized_names and place_name not in seen:
-            matching_places.append(place)
-            seen.add(place_name)
-    
-    return matching_places
+# @router.post("/tralli/query")
+# async def classify_and_handle_query(input: QueryInput):
+#     category = classify_query_with_gemini(input.query)
+#     handler = category_handlers.get(category, handle_miscellaneous_query)
+#     result = handler(input.query)
 
-@router.post("/tralli/query")
-async def classify_and_handle_query(input: QueryInput):
-    category = classify_query_with_gemini(input.query)
-    handler = category_handlers.get(category, handle_miscellaneous_query)
-    result = handler(input.query)
+#     if category == "food":
+#         place_names = extract_numbered_names(result['response'])
+#         food_places = get_food_data_by_names(place_names)
+#         return {
+#             "category": category,
+#             "results": food_places
+#         }
 
-    if category == "food":
-        place_names = extract_numbered_names(result['response'])
-        food_places = get_food_data_by_names(place_names)
-        return {
-            "category": category,
-            "results": food_places
-        }
+#     if category == "souvenir":
+#         shop_names = extract_numbered_names(result['response'])
+#         souvenir_shops = get_souvenir_data_by_names(shop_names)
+#         return {
+#             "category": category,
+#             "results": souvenir_shops
+#         }
 
-    if category == "souvenir":
-        shop_names = extract_numbered_names(result['response'])
-        souvenir_shops = get_souvenir_data_by_names(shop_names)
-        return {
-            "category": category,
-            "results": souvenir_shops
-        }
+#     if category == "places":
+#         place_names = extract_numbered_names(result['response'])
+#         places = get_places_data_by_names(place_names)
+#         return {
+#             "category": category,
+#             "results": places
+#         }
 
-    if category == "places":
-        place_names = extract_numbered_names(result['response'])
-        places = get_places_data_by_names(place_names)
-        return {
-            "category": category,
-            "results": places
-        }
-
-    return {
-        "category": category,
-        **result
-    }
+#     return {
+#         "category": category,
+#         **result
+#     }
 
 # from fastapi import APIRouter
 # from pydantic import BaseModel
@@ -339,3 +339,217 @@ async def classify_and_handle_query(input: QueryInput):
 #         "category": category,
 #         **result
 #     }
+
+# from fastapi import APIRouter, HTTPException
+# from pydantic import BaseModel
+# from service.query_classifier import classify_query_with_gemini
+# from agents.tralli_agent import get_city_handlers
+# import json
+# import os
+# from typing import List, Dict
+
+# router = APIRouter()
+
+# class CityQueryInput(BaseModel):
+#     city: str
+#     query: str
+
+# def extract_numbered_names(response_text: str) -> List[str]:
+#     lines = response_text.split('\n')
+#     names = []
+#     for line in lines:
+#         if not line.strip():
+#             continue
+#         clean_line = line.split('. ', 1)[1] if '. ' in line else line
+#         name = clean_line.split(' - ')[0].split(' (')[0]
+#         names.append(name.strip())
+#     return names
+
+# def load_json_data(path: str):
+#     try:
+#         with open(path, 'r', encoding='utf-8') as f:
+#             return json.load(f)
+#     except FileNotFoundError:
+#         raise HTTPException(status_code=404, detail=f"{path} not found.")
+
+# @router.post("/tralli/query")
+# async def classify_and_handle_query(input: CityQueryInput):
+#     city = input.city.lower()
+#     query = input.query
+
+#     # Load handlers for the selected city
+#     handlers = get_city_handlers(city)
+#     if not handlers:
+#         raise HTTPException(status_code=400, detail=f"City '{city}' not supported.")
+
+#     category = classify_query_with_gemini(query)
+#     handler = handlers.get(category, handlers.get("miscellaneous"))
+
+#     result = handler(query)
+
+#     if category == "food":
+#         food_data = load_json_data(f"data/{city}/food_data.json")
+#         place_names = extract_numbered_names(result['response'])
+#         seen = set()
+#         matches = [
+#             item for name in place_names
+#             for item in food_data.get("Food", [])
+#             if name.lower() in item['food-place'].lower() and item['food-place'] not in seen and not seen.add(item['food-place'])
+#         ]
+#         return {"category": category, "results": matches}
+
+#     elif category == "souvenir":
+#         print("📦 Raw souvenir bot response:", result['response'])
+#         souvenir_data = load_json_data(f"data/{city}/souvenir_data.json")
+#         shop_names = extract_numbered_names(result['response'])
+#         seen = set()
+#         matches = [
+#             item for name in shop_names
+#             for item in souvenir_data.get("Shopping", [])
+#             if name.lower() in item['shops'].lower() and item['shops'] not in seen and not seen.add(item['shops'])
+#         ]
+#         return {"category": category, "results": matches}
+
+#     elif category == "places":
+#         places_data = load_json_data(f"data/{city}/place_data.json")
+#         place_names = extract_numbered_names(result['response'])
+#         seen = set()
+#         matches = []
+
+#         for name in place_names:
+#             lname = name.strip().lower()
+#             for section in ["Places-to-visit", "Hidden-gems", "Nearby-tourist-spot"]:
+#                 for item in places_data.get(section, []):
+#                     pname = (item.get("places") or item.get("places ") or item.get("hidden-gems") or "").strip().lower()
+#                     if pname == lname and pname not in seen:
+#                         matches.append(item)
+#                         seen.add(pname)
+#         return {"category": category, "results": matches}
+
+#     return {"category": category, **result}
+
+from fastapi import APIRouter, HTTPException
+from pydantic import BaseModel
+from service.query_classifier import classify_query_with_gemini
+from agents.tralli_agent import get_city_handlers
+import json
+import os
+from typing import List, Dict
+
+router = APIRouter()
+
+class CityQueryInput(BaseModel):
+    city: str
+    query: str
+
+# === UTILITIES ===
+
+def extract_numbered_names(response_text: str) -> List[str]:
+    lines = response_text.strip().split('\n')
+    names = []
+    for line in lines:
+        if not line.strip():
+            continue
+        try:
+            clean_line = line.split('. ', 1)[1] if '. ' in line else line
+            name = clean_line.split(' - ')[0].split(' (')[0]
+            names.append(name.strip())
+        except IndexError:
+            continue
+    return names
+
+def load_city_data(city: str, filename: str) -> dict:
+    path = os.path.join("data", city.lower(), filename)
+    if not os.path.exists(path):
+        raise HTTPException(status_code=404, detail=f"{filename} not found for city '{city}'")
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def get_food_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
+    FOOD_DATA = load_city_data(city, "food_data.json")
+    matching_places = []
+    seen = set()
+    for name in place_names:
+        for item in FOOD_DATA.get('Food', []):
+            place = item.get('food-place', '').strip()
+            if (name.lower() in place.lower() or place.lower() in name.lower()):
+                if place not in seen:
+                    matching_places.append(item)
+                    seen.add(place)
+    return matching_places
+
+def get_souvenir_data_by_names(city: str, shop_names: List[str]) -> List[Dict]:
+    SOUVENIR_DATA = load_city_data(city, "souvenir_data.json")
+    matching_shops = []
+    seen = set()
+    for name in shop_names:
+        for shop in SOUVENIR_DATA.get('Shopping', []):
+            shop_name = shop.get('shops', '').strip()
+            if (name.lower() in shop_name.lower() or shop_name.lower() in name.lower()):
+                if shop_name not in seen:
+                    matching_shops.append(shop)
+                    seen.add(shop_name)
+    return matching_shops
+
+def get_places_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
+    PLACES_DATA = load_city_data(city, "place_data.json")
+    matching_places = []
+    seen = set()
+    normalized_names = {name.strip().lower() for name in place_names}
+
+    for section in ['Places-to-visit', 'Hidden-gems', 'Nearby-tourist-spot']:
+        for place in PLACES_DATA.get(section, []):
+            if section == 'Hidden-gems':
+                name_key = 'hidden-gems'
+            else:
+                name_key = 'places' if 'places' in place else 'places '
+            place_name = place.get(name_key, '').strip().lower()
+            if place_name in normalized_names and place_name not in seen:
+                matching_places.append(place)
+                seen.add(place_name)
+    return matching_places
+
+# === MAIN ROUTE ===
+
+@router.post("/tralli/query")
+async def classify_and_handle_query(input: CityQueryInput):
+    city = input.city.lower()
+    query = input.query
+    print(f"🧠 Classifying query for city '{city}': {query}")
+
+    try:
+        category = classify_query_with_gemini(query)
+        print(f"🔍 Detected category: {category}")
+
+        handlers = get_city_handlers(city)
+        if not handlers or category not in handlers:
+            raise HTTPException(status_code=400, detail=f"No handler found for category '{category}' in city '{city}'")
+
+        handler = handlers[category]
+        result = handler(query)
+        print("📦 Raw bot response:", result.get('response', 'No response'))
+
+        if category == "food":
+            place_names = extract_numbered_names(result['response'])
+            food_places = get_food_data_by_names(city, place_names)
+            return {"category": category, "results": food_places}
+
+        if category == "souvenir":
+            shop_names = extract_numbered_names(result['response'])
+            souvenir_shops = get_souvenir_data_by_names(city, shop_names)
+            return {"category": category, "results": souvenir_shops}
+
+        if category == "places":
+            place_names = extract_numbered_names(result['response'])
+            places = get_places_data_by_names(city, place_names)
+            return {"category": category, "results": places}
+
+        # Default return for transport and miscellaneous
+        return {"category": category, **result}
+
+    except HTTPException as http_exc:
+        raise http_exc
+    except Exception as e:
+        print(f" Internal error: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+

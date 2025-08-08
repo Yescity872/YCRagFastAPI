@@ -153,7 +153,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 load_dotenv()
 
 class FoodBot:
-    def __init__(self):
+    def __init__(self,city:str):
+        self.city = city.lower()
         # Initialize models and clients
         # self.model = SentenceTransformer('all-MiniLM-L6-v2')
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
@@ -167,7 +168,7 @@ class FoodBot:
 
         self.model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-        DB_FAISS_PATH = f"vectorstore/db_faiss_food_varanasi"
+        DB_FAISS_PATH = os.path.join("vectorstore", self.city, "db_faiss_food")
         if not os.path.exists(DB_FAISS_PATH):
             self.vectorstore=None
             return
@@ -220,7 +221,7 @@ class FoodBot:
         ])
 
         prompt = f"""
-        You are a food expert in Varanasi. Recommend food places that best match the query.
+        You are a food expert in {self.city.title()}. Recommend food places that best match the query.
         Always provide exact results do not hallucinate.Only give the result in the format provided do not include extra text or summary.Do not exceed the result by 5.
 
         Context:

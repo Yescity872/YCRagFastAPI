@@ -21,12 +21,13 @@ from langchain_huggingface import HuggingFaceEmbeddings
 load_dotenv()
 
 class SouvenirBot:
-    def __init__(self):
+    def __init__(self,city:str):
+        self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         
         self.model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-        DB_FAISS_PATH = "vectorstore\db_faiss_shopping_varanasi"
+        DB_FAISS_PATH = os.path.join("vectorstore", self.city, "db_faiss_shopping")
         if not os.path.exists(DB_FAISS_PATH):
             self.vectorstore = None
             return
