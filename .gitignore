@@ -2,3 +2,4 @@
 code.txt
 .env
 data/
+create_memory\create_place_memory_pinecone.py
