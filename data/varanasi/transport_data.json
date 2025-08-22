@@ -1,0 +1,259 @@
+{"Local-transport": [
+        {
+            "from": "Varanasi Junction",
+            "to": "Kashi Vishwanath Temple",
+            "auto-price": "Rs 80-120",
+            "cab-price": "Rs 160-230",
+            "bike-price": "Rs 40-50"
+        },
+        {
+            "from": "Varanasi Junction",
+            "to": "Sarnath",
+            "auto-price": "Rs 130-180",
+            "cab-price": "Rs 230-300",
+            "bike-price": "Rs 80-100"
+        },
+        {
+            "from": "Varanasi Junction",
+            "to": "Manikarnika Ghat",
+            "auto-price": "Rs 90-130",
+            "cab-price": "Rs 170-230",
+            "bike-price": "Rs 40-50"
+        },
+        {
+            "from": "Varanasi Junction",
+            "to": "Namo Ghat",
+            "auto-price": "Rs 110-150",
+            "cab-price": "Rs 170-220",
+            "bike-price": "Rs 60-70"
+        },
+        {
+            "from": "Varanasi Junction",
+            "to": "Banaras Hindu University (BHU)",
+            "auto-price": "Rs 140-200",
+            "cab-price": "Rs 250-300",
+            "bike-price": "Rs 90-110"
+        },
+        {
+            "from": "Varanasi Junction",
+            "to": "Varanasi Airport",
+            "auto-price": "Rs 300-310",
+            "cab-price": "Rs 500-600",
+            "bike-price": "Rs 210-250"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Kashi Vishwanath Temple",
+            "auto-price": "Rs 110-150",
+            "cab-price": "Rs 150-220",
+            "bike-price": "Rs 65-75"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Sarnath",
+            "auto-price": "Rs 200-240",
+            "cab-price": "Rs 290-350",
+            "bike-price": "Rs 140-160"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Manikarnika Ghat",
+            "auto-price": "Rs 120-150",
+            "cab-price": "Rs 170-230",
+            "bike-price": "Rs 70-90"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Namo Ghat",
+            "auto-price": "Rs 150-190",
+            "cab-price": "Rs 230-300",
+            "bike-price": "Rs 100-140"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Godowlia Chowk",
+            "auto-price": "Rs 110-140",
+            "cab-price": "Rs 140-200",
+            "bike-price": "Rs 60-70"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Varanasi Junction",
+            "auto-price": "Rs 150-200",
+            "cab-price": "Rs 200-250",
+            "bike-price": "Rs 100-110"
+        },
+        {
+            "from": "Banaras Hindu University",
+            "to": "Varanasi Airport",
+            "auto-price": "Rs 390-420",
+            "cab-price": "Rs 500-750",
+            "bike-price": "Rs 280-340"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Varanasi Airport",
+            "auto-price": "Rs 300-350",
+            "cab-price": "Rs 490-550",
+            "bike-price": "Rs 240-270"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Varanasi Junction",
+            "auto-price": "Rs 90-120",
+            "cab-price": "Rs 130-190",
+            "bike-price": "Rs 50-60"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Sarnath",
+            "auto-price": "Rs 150-200",
+            "cab-price": "Rs 200-250",
+            "bike-price": "Rs 90-110"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Manikarnika Ghat"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Namo Ghat",
+            "auto-price": "Rs 90-110",
+            "cab-price": "Rs 120-180",
+            "bike-price": "Rs 50-60"
+        },
+        {
+            "from": "Kashi Vishwanath Temple",
+            "to": "Banaras Hindu University (BHU)",
+            "auto-price": "Rs 100-140",
+            "cab-price": "Rs 130-180",
+            "bike-price": "Rs 60-70"
+        },
+        {
+            "from": "Sarnath",
+            "to": "kashi Vishwanath Temple",
+            "auto-price": "Rs 210-250",
+            "cab-price": "Rs 300-400",
+            "bike-price": "Rs 150-200"
+        },
+        {
+            "from": "Sarnath",
+            "to": "Manikarnika Ghat",
+            "auto-price": "Rs 150-200",
+            "cab-price": "Rs 200-250",
+            "bike-price": "Rs 90-110"
+        },
+        {
+            "from": "Sarnath",
+            "to": "Varanasi Airport",
+            "auto-price": "Rs 330-380",
+            "cab-price": "Rs 500-600",
+            "bike-price": "Rs 230-260"
+        },
+        {
+            "from": "Sarnath",
+            "to": "Varanasi junction",
+            "auto-price": "Rs 140-180",
+            "cab-price": "Rs 250-300",
+            "bike-price": "Rs 90-110"
+        },
+        {
+            "from": "Sarnath",
+            "to": "Banaras Hindu University (BHU)",
+            "auto-price": "Rs 200-250",
+            "cab-price": "Rs 310-400",
+            "bike-price": "Rs 150-200"
+        },
+        {
+            "from": "Sarnath",
+            "to": "Namo Ghat",
+            "auto-price": "Rs 130-180",
+            "cab-price": "Rs 150-200",
+            "bike-price": "Rs 70-80"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Sarnath",
+            "auto-price": "Rs 110-150",
+            "cab-price": "Rs 150-200",
+            "bike-price": "Rs 60-80"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Kashi Vishwanath Temple",
+            "auto-price": "Rs 90-110",
+            "cab-price": "Rs 120-180",
+            "bike-price": "Rs 40-60"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Manikarnika Ghat",
+            "auto-price": "Rs 100-140",
+            "cab-price": "Rs 120-180",
+            "bike-price": "Rs 40-60"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Varanasi Airport",
+            "auto-price": "Rs 330-380",
+            "cab-price": "Rs 500-700",
+            "bike-price": "Rs 240-270"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Varanasi Junction",
+            "auto-price": "Rs 130-180",
+            "cab-price": "Rs 200-300",
+            "bike-price": "Rs 70-90"
+        },
+        {
+            "from": "Namo Ghat",
+            "to": "Banaras Hindu University (BHU)",
+            "auto-price": "Rs 130-180",
+            "cab-price": "Rs 170-250",
+            "bike-price": "Rs 70-100"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Varanasi Junction",
+            "auto-price": "Rs 320-360",
+            "cab-price": "Rs 550-650",
+            "bike-price": "Rs 230-270"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Manikarnika Ghat",
+            "auto-price": "Rs 320-360",
+            "cab-price": "Rs 470-600",
+            "bike-price": "Rs 220-270"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Kashi Vishwanath Temple",
+            "auto-price": "Rs 320-350",
+            "cab-price": "Rs 490-590",
+            "bike-price": "Rs 240-270"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Namo Ghat",
+            "auto-price": "Rs 320-370",
+            "cab-price": "Rs 550-650",
+            "bike-price": "Rs 240-270"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Banaras Hindu University (BHU)",
+            "auto-price": "Rs 370-420",
+            "cab-price": "Rs 600-700",
+            "bike-price": "Rs 290-320"
+        },
+        {
+            "from": "Varanasi Airport",
+            "to": "Sarnath",
+            "auto-price": "Rs 320-370",
+            "cab-price": "Rs 480-580",
+            "bike-price": "Rs 230-260"
+        }
+    ]
+}
