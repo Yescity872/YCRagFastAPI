@@ -14,7 +14,8 @@ import os
 from groq import Groq
 from typing import List, Optional
 from dotenv import load_dotenv
-from langchain.vectorstores import FAISS
+# from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 from langchain_huggingface import HuggingFaceEmbeddings
 
