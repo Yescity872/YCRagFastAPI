@@ -24,7 +24,7 @@ class SouvenirBot:
     def __init__(self,city:str):
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        
+        print(os.getenv("GROQ_API_KEY"))
         self.model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
         DB_FAISS_PATH = os.path.join("vectorstore", self.city, "db_faiss_shopping")
@@ -122,6 +122,6 @@ class SouvenirBot:
         response = self._generate_response(query, docs)
         return response
 
-if __name__ == "__main__":
-    os.environ["GROQ_API_KEY"] = "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"
-    bot = SouvenirBot()
+# if __name__ == "__main__":
+#     os.environ["GROQ_API_KEY"] = "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"
+#     bot = SouvenirBot()
