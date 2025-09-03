@@ -1,12 +1,15 @@
+import os
 import json 
-from langchain_community.vectorstores import FAISS
 from langchain.docstore.document import Document
 from langchain_huggingface import HuggingFaceEmbeddings
-import requests
-requests.get("https://huggingface.co", verify=False)
+from dotenv import load_dotenv
+from pinecone import Pinecone, ServerlessSpec
 
-# Load your places data
-with open(r'..\data\varanasi\place_data.json','r',encoding='utf-8') as f:
+load_dotenv()
+
+# Load your places data (cross-platform path)
+DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "data", "varanasi", "place_data.json"))
+with open(DATA_PATH,'r',encoding='utf-8') as f:
     places_data = json.load(f)
 
 def create_embedding_text(place):
@@ -48,10 +51,33 @@ for section in sections:
             metadata=metadata
         ))
 
-# Create and save vectorstore
+# Create embeddings and upsert to Pinecone (shared index, namespaced by category)
 embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-db = FAISS.from_documents(documents, embedding_model)
-db.save_local("../vectorstore/db_faiss_places_varanasi")
+texts = [doc.page_content for doc in documents]
+metas = [doc.metadata for doc in documents]
+vectors = embedding_model.embed_documents(texts)
+dimension = len(vectors[0]) if vectors and vectors[0] else 384
 
-print(f"Indexed {len(documents)} places across {len(sections)} categories with complete metadata.")
-print("Vector store created successfully!")
+INDEX_NAME = os.getenv("PINECONE_INDEX", "ycrag-travel")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+if not PINECONE_API_KEY:
+    raise SystemExit("PINECONE_API_KEY not set in environment.")
+
+pc = Pinecone(api_key=PINECONE_API_KEY)
+if not pc.has_index(INDEX_NAME):
+    pc.create_index(
+        name=INDEX_NAME,
+        dimension=dimension,
+        metric="cosine",
+        spec=ServerlessSpec(cloud=os.getenv("PINECONE_CLOUD", "aws"), region=os.getenv("PINECONE_REGION", "us-east-1")),
+    )
+index = pc.Index(INDEX_NAME)
+
+namespace = "varanasi-places"
+payload = [{"id": f"places-{i}", "values": vals, "metadata": meta} for i, (vals, meta) in enumerate(zip(vectors, metas))]
+
+CHUNK = 100
+for i in range(0, len(payload), CHUNK):
+    index.upsert(vectors=payload[i:i+CHUNK], namespace=namespace)
+
+print(f"Upserted {len(payload)} place vectors to Pinecone index '{INDEX_NAME}' in namespace '{namespace}'.")

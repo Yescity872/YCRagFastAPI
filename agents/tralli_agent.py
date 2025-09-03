@@ -30,7 +30,7 @@
 from bots.tralli_place_bot import PlaceBot
 from bots.tralli_food_bot import FoodBot
 from bots.tralli_souvenir_bot import SouvenirBot
-# from bots.tralli_transport_bot import transport_bot
+from bots.tralli_transport_bot import TransportBot
 # from bots.tralli_misc_bot import misc_bot
 
 def get_city_handlers(city: str):
@@ -38,13 +38,13 @@ def get_city_handlers(city: str):
         bot1 = PlaceBot(city)
         bot2 = FoodBot(city)
         bot3 = SouvenirBot(city)
-        # bot4 = TransportBot(city)
+        bot4 = TransportBot(city)
 
         return {
             "places": lambda query: {"response": bot1.place_bot(query)},
             "food": lambda query: {"response": bot2.food_bot(query)},
             "souvenir": lambda query: {"response": bot3.souvenir_bot(query)},
-            # "transport": lambda query: {"response": transport_bot(query)},
+            "transport": lambda query: {"response": bot4.transport_bot(query)},
             # "miscellaneous": lambda query: {"response": misc_bot(query)},
         }
     except Exception as e:

@@ -14,10 +14,9 @@ import os
 from groq import Groq
 from typing import List, Optional
 from dotenv import load_dotenv
-# from langchain.vectorstores import FAISS
-from langchain_community.vectorstores import FAISS
-from langchain.schema import Document
 from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.schema import Document
+from pinecone import Pinecone
 
 load_dotenv()
 
@@ -25,18 +24,17 @@ class SouvenirBot:
     def __init__(self,city:str):
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        print(os.getenv("GROQ_API_KEY"))
-        self.model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
-
-        DB_FAISS_PATH = os.path.join("vectorstore", self.city, "db_faiss_shopping")
-        if not os.path.exists(DB_FAISS_PATH):
-            self.vectorstore = None
-            return
-        self.vectorstore = FAISS.load_local(
-            DB_FAISS_PATH,
-            self.model,
-            allow_dangerous_deserialization=True
-        )
+        self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        # Pinecone setup
+        self.namespace = f"{self.city}-souvenir"
+        try:
+            api_key = os.getenv("PINECONE_API_KEY")
+            index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
+            self.pc = Pinecone(api_key=api_key) if api_key else None
+            self.index = self.pc.Index(index_name) if self.pc else None
+        except Exception as e:
+            print("Pinecone init error:", e)
+            self.index = None
 
     def _get_relevant_docs(
         self,
@@ -44,8 +42,16 @@ class SouvenirBot:
         category_filter: Optional[str] = None,
         k: int = 3
     ) -> List[Document]:
-        
-        docs = self.vectorstore.similarity_search(query, k=k * 5)
+        if not self.index:
+            return []
+        try:
+            qvec = self.embeddings.embed_query(query)
+            res = self.index.query(vector=qvec, top_k=max(1, k*5), include_metadata=True, namespace=self.namespace)
+            matches = getattr(res, "matches", []) or res.get("matches", [])
+            docs = [Document(page_content="", metadata=m.metadata if hasattr(m, "metadata") else m.get("metadata", {})) for m in matches]
+        except Exception as e:
+            print("Pinecone query error:", e)
+            return []
         
         filtered_docs = []
         for doc in docs:
@@ -116,13 +122,12 @@ class SouvenirBot:
         Returns:
             String with list of souvenir shops
         """
-        if not self.vectorstore:
-            return "Vectorstore not loaded. Please make sure FAISS index exists."
+        if not self.index:
+            return "Vector index not available. Check Pinecone config."
 
         docs = self._get_relevant_docs(query, category_filter=category)
         response = self._generate_response(query, docs)
         return response
 
-# if __name__ == "__main__":
-#     os.environ["GROQ_API_KEY"] = "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"
-#     bot = SouvenirBot()
+if __name__ == "__main__":
+    pass
