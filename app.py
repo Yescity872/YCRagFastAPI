@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from langchain_huggingface import HuggingFaceEmbeddings
 # from service.query_classifier import classify_query_with_gemini
 from routers.tralli_router import router as tralli_router
 import os
@@ -22,6 +23,16 @@ class QueryInput(BaseModel):
 @app.get('/')
 def read_root():
     return {"message": "Yescity travel bot is running"}
+
+# Warm-up to reduce cold start latency on Render
+@app.on_event("startup")
+def warmup_embeddings():
+    try:
+        emb = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        emb.embed_query("warmup")
+        print("Embeddings model warmed up.")
+    except Exception as e:
+        print(f"Warmup failed: {e}")
 
 # @app.post('/classify')
 # def classify_user_query(input: QueryInput):
