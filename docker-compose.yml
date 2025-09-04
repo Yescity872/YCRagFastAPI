@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  api:
+    build: .
+    image: ycrag-fastapi:local
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      TOKENIZERS_PARALLELISM: "false"
+ 
+   

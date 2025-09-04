@@ -31,8 +31,10 @@ from bots.tralli_place_bot import PlaceBot
 from bots.tralli_food_bot import FoodBot
 from bots.tralli_souvenir_bot import SouvenirBot
 from bots.tralli_transport_bot import TransportBot
+from functools import lru_cache
 # from bots.tralli_misc_bot import misc_bot
 
+@lru_cache(maxsize=8)
 def get_city_handlers(city: str):
     try:
         bot1 = PlaceBot(city)

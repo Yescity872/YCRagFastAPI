@@ -145,18 +145,18 @@ import os
 from groq import Groq
 from typing import List, Optional
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEmbeddings
+from service.embeddings import get_embeddings
 from pinecone import Pinecone
 from langchain.schema import Document
 
 load_dotenv()
 
 class FoodBot:
-    def __init__(self,city:str):
+    def __init__(self, city: str):
         self.city = city.lower()
         # Initialize models and clients
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        self.embeddings = get_embeddings()
         # Pinecone setup
         self.namespace = f"{self.city}-food"
         try:
@@ -172,16 +172,22 @@ class FoodBot:
     def _get_relevant_docs(
         self,
         query: str,
-        category_filter: Optional[str] = None,
-        min_rating: Optional[float] = None,
-        k: int = 3
+    category_filter: Optional[str] = None,
+    min_rating: Optional[float] = None,
+    k: int = 2,
     ) -> List[Document]:
         """Retrieve documents from Pinecone and apply filtering"""
         if not self.index:
             return []
         try:
             qvec = self.embeddings.embed_query(query)
-            res = self.index.query(vector=qvec, top_k=max(1, k*5), include_metadata=True, namespace=self.namespace)
+            res = self.index.query(
+                vector=qvec,
+                top_k=max(1, k*2),
+                include_metadata=True,
+                include_values=False,
+                namespace=self.namespace,
+            )
             matches = getattr(res, "matches", []) or res.get("matches", [])
             docs = [Document(page_content="", metadata=m.metadata if hasattr(m, "metadata") else m.get("metadata", {})) for m in matches]
         except Exception as e:
@@ -252,8 +258,8 @@ class FoodBot:
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
-            temperature=0.5,  # Increased for more variety
-            max_tokens=300
+            temperature=0.3,
+            max_tokens=160,
         )
         return response.choices[0].message.content
 

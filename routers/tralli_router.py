@@ -431,6 +431,7 @@
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from service.query_classifier import classify_query_with_gemini
+from service.async_utils import run_blocking
 from agents.tralli_agent import get_city_handlers
 import json
 import os
@@ -518,7 +519,8 @@ async def classify_and_handle_query(input: CityQueryInput):
     print(f"🧠 Classifying query for city '{city}': {query}")
 
     try:
-        category = classify_query_with_gemini(query)
+        # Offload blocking classifier to a worker thread
+        category = await run_blocking(classify_query_with_gemini, query)
         print(f"🔍 Detected category: {category}")
 
         handlers = get_city_handlers(city)
@@ -526,20 +528,19 @@ async def classify_and_handle_query(input: CityQueryInput):
             raise HTTPException(status_code=400, detail=f"No handler found for category '{category}' in city '{city}'")
 
         handler = handlers[category]
-        result = handler(query)
+        # Offload the potentially blocking bot handler (LLM + vector DB)
+        result = await run_blocking(handler, query)
         print("📦 Raw bot response:", result.get('response', 'No response'))
 
         if category == "food":
             place_names = extract_numbered_names(result['response'])
             food_places = get_food_data_by_names(city, place_names)
             return {"category": category, "results": food_places}
-
-        if category == "souvenir":
+        elif category == "souvenir":
             shop_names = extract_numbered_names(result['response'])
             souvenir_shops = get_souvenir_data_by_names(city, shop_names)
             return {"category": category, "results": souvenir_shops}
-
-        if category == "places":
+        elif category == "places":
             place_names = extract_numbered_names(result['response'])
             places = get_places_data_by_names(city, place_names)
             return {"category": category, "results": places}

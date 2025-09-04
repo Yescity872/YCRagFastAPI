@@ -96,12 +96,16 @@ import os
 import json
 from typing import List, Dict, Any
 from pathlib import Path
+import sys
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEmbeddings
+# Ensure project root is on sys.path for `service` imports when run directly
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+from service.embeddings import get_embeddings
 from pinecone import Pinecone, ServerlessSpec
 
 # Ensure we load environment variables from the project root .env
-ROOT_DIR = Path(__file__).resolve().parents[1]
 ENV_PATH = ROOT_DIR / ".env"
 _loaded = load_dotenv(dotenv_path=ENV_PATH, override=True)
 if not _loaded:
@@ -111,7 +115,6 @@ if not _loaded:
 # --- Config ---
 CITY = "varanasi"
 INDEX_NAME = os.getenv("PINECONE_INDEX", "ycrag-travel")  # Shared Pinecone index
-EMBED_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"  # 384-dim
 PINECONE_REGION = os.getenv("PINECONE_REGION", "us-east-1")
 PINECONE_CLOUD = os.getenv("PINECONE_CLOUD", "aws")
 
@@ -139,14 +142,24 @@ for place in food_data.get("Food", []):
     metadata = {
         "food-place": place.get("food-place", ""),
         "category": place.get("category", ""),
-        "address": place.get("address", "N/A"),
+    "address": place.get("address", "N/A"),
         "menu-special": place.get("menu-special", "N/A"),
-        "description": place.get("description", "N/A"),
-        "taste": float(place.get("taste", 0) or 0),
+    "description": place.get("description", "N/A"),
+    "taste": place.get("taste", ""),
         "lat-lon": place.get("lat-lon", ""),
         "veg/non-veg": place.get("veg/non-veg", ""),
         "value-for-money": place.get("value-for-money", ""),
-        "hygeine": place.get("hygeine", ""),
+    "service": place.get("service", ""),
+    "hygeine": place.get("hygeine", ""),
+    "open-day": place.get("open-day", ""),
+    "open-time": place.get("open-time", ""),
+    "phone": place.get("phone", ""),
+    "location-link": place.get("location-link", ""),
+    "menu-link": place.get("menu-link", ""),
+    "image0": place.get("image0", ""),
+    "image1": place.get("image1", ""),
+    "image2": place.get("image2", ""),
+    "video": place.get("video", ""),
     }
     texts.append(text)
     metadatas.append(metadata)
@@ -155,10 +168,10 @@ if not texts:
     raise SystemExit("No food records found to index. Check your data file.")
 
 # --- Embeddings ---
-emb = HuggingFaceEmbeddings(model_name=EMBED_MODEL_NAME)
+emb = get_embeddings()
 vectors = emb.embed_documents(texts)  # List[List[float]]
 
-# Determine dimension (should be 384 for the model above)
+# Determine dimension from vectors (384 for HF MiniLM, 768 for Google unless projected)
 dimension = len(vectors[0]) if vectors and vectors[0] else 384
 
 # --- Pinecone setup ---

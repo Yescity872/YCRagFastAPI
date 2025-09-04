@@ -2,7 +2,7 @@ import os
 from typing import List, Optional
 from groq import Groq
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEmbeddings
+from service.embeddings import get_embeddings
 from langchain.schema import Document
 from pinecone import Pinecone
 
@@ -13,7 +13,7 @@ class TransportBot:
     def __init__(self, city: str):
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        self.embeddings = get_embeddings()
         # Pinecone setup
         self.namespace = f"{self.city}-transport"
         try:

@@ -14,7 +14,7 @@ import os
 from groq import Groq
 from typing import List, Optional
 from dotenv import load_dotenv
-from langchain_huggingface import HuggingFaceEmbeddings
+from service.embeddings import get_embeddings
 from langchain.schema import Document
 from pinecone import Pinecone
 
@@ -24,7 +24,7 @@ class SouvenirBot:
     def __init__(self,city:str):
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
-        self.embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+        self.embeddings = get_embeddings()
         # Pinecone setup
         self.namespace = f"{self.city}-souvenir"
         try:
@@ -40,13 +40,19 @@ class SouvenirBot:
         self,
         query: str,
         category_filter: Optional[str] = None,
-        k: int = 3
+        k: int = 2,
     ) -> List[Document]:
         if not self.index:
             return []
         try:
             qvec = self.embeddings.embed_query(query)
-            res = self.index.query(vector=qvec, top_k=max(1, k*5), include_metadata=True, namespace=self.namespace)
+            res = self.index.query(
+                vector=qvec,
+                top_k=max(1, k*2),
+                include_metadata=True,
+                include_values=False,
+                namespace=self.namespace,
+            )
             matches = getattr(res, "matches", []) or res.get("matches", [])
             docs = [Document(page_content="", metadata=m.metadata if hasattr(m, "metadata") else m.get("metadata", {})) for m in matches]
         except Exception as e:
@@ -102,8 +108,8 @@ class SouvenirBot:
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
-            temperature=0.5,
-            max_tokens=300
+            temperature=0.3,
+            max_tokens=160,
         )
         return response.choices[0].message.content
 

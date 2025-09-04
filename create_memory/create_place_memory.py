@@ -1,9 +1,15 @@
 import os
 import json 
+from pathlib import Path
+import sys
 from langchain.docstore.document import Document
-from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 from pinecone import Pinecone, ServerlessSpec
+# Ensure project root on sys.path and import embeddings
+ROOT_DIR = Path(__file__).resolve().parents[1]
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
+from service.embeddings import get_embeddings
 
 load_dotenv()
 
@@ -52,7 +58,7 @@ for section in sections:
         ))
 
 # Create embeddings and upsert to Pinecone (shared index, namespaced by category)
-embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+embedding_model = get_embeddings()
 texts = [doc.page_content for doc in documents]
 metas = [doc.metadata for doc in documents]
 vectors = embedding_model.embed_documents(texts)
