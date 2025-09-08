@@ -435,7 +435,7 @@ from service.async_utils import run_blocking
 from agents.tralli_agent import get_city_handlers
 import json
 import os
-from typing import List, Dict
+from typing import List, Dict, Iterable, Optional
 
 router = APIRouter()
 
@@ -459,15 +459,36 @@ def extract_numbered_names(response_text: str) -> List[str]:
             continue
     return names
 
-def load_city_data(city: str, filename: str) -> dict:
-    path = os.path.join("data", city.lower(), filename)
-    if not os.path.exists(path):
-        raise HTTPException(status_code=404, detail=f"{filename} not found for city '{city}'")
-    with open(path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+def load_city_data(city: str, filename: str, alt_filenames: Optional[Iterable[str]] = None) -> dict:
+    """Load a JSON data file for a city with graceful fallbacks.
+
+    Args:
+        city: City name (folder under data/)
+        filename: Primary expected filename (e.g. food_data.json)
+        alt_filenames: Optional iterable of alternative filenames to try
+                       (e.g. ["food_data_r.json", f"{city}_food.json"]).
+    Returns:
+        Parsed JSON dict.
+    Raises:
+        HTTPException 404 if none of the files exist.
+    """
+    city_dir = os.path.join("data", city.lower())
+    attempts = [filename]
+    if alt_filenames:
+        for alt in alt_filenames:
+            if alt not in attempts:
+                attempts.append(alt)
+
+    for candidate in attempts:
+        path = os.path.join(city_dir, candidate)
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+    raise HTTPException(status_code=404, detail=f"None of the expected files found for city '{city}': {attempts}")
 
 def get_food_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
-    FOOD_DATA = load_city_data(city, "food_data.json")
+    # Support variant filenames (rishikesh uses food_data_r.json)
+    FOOD_DATA = load_city_data(city, "food_data.json", ["food_data_r.json", f"{city}_food.json", f"food_{city}.json"])  # type: ignore
     matching_places = []
     seen = set()
     for name in place_names:
@@ -480,7 +501,7 @@ def get_food_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
     return matching_places
 
 def get_souvenir_data_by_names(city: str, shop_names: List[str]) -> List[Dict]:
-    SOUVENIR_DATA = load_city_data(city, "souvenir_data.json")
+    SOUVENIR_DATA = load_city_data(city, "souvenir_data.json", ["souvenir_data_r.json", f"{city}_souvenir.json", f"souvenir_{city}.json"])  # type: ignore
     matching_shops = []
     seen = set()
     for name in shop_names:
@@ -493,7 +514,7 @@ def get_souvenir_data_by_names(city: str, shop_names: List[str]) -> List[Dict]:
     return matching_shops
 
 def get_places_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
-    PLACES_DATA = load_city_data(city, "place_data.json")
+    PLACES_DATA = load_city_data(city, "place_data.json", ["place_data_r.json", f"{city}_place.json", f"places_{city}.json"])  # type: ignore
     matching_places = []
     seen = set()
     normalized_names = {name.strip().lower() for name in place_names}
@@ -545,7 +566,7 @@ async def classify_and_handle_query(input: CityQueryInput):
             places = get_places_data_by_names(city, place_names)
             return {"category": category, "results": places}
 
-        # Default return for transport and miscellaneous
+    # Default return for transport and miscellaneous (they may already contain full info)
         return {"category": category, **result}
 
     except HTTPException as http_exc:
