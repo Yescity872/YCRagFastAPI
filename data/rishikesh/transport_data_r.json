@@ -1,0 +1,270 @@
+{
+    "Local-transport": [
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Shivpuri",
+            "auto-price": "",
+            "cab-price": "Rs 700-800",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Triveni Ghat",
+            "auto-price": "",
+            "cab-price": "Rs 700-800",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Parmarth Niketan",
+            "auto-price": "",
+            "cab-price": "Rs 1000-1100",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Laxman Jhula",
+            "auto-price": "",
+            "cab-price": "Rs 900-100",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Gole Market",
+            "auto-price": "",
+            "cab-price": "Rs 700-800",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Tapovan",
+            "auto-price": "",
+            "cab-price": "Rs 800-900",
+            "bike-price": null
+        },
+        {
+            "from": "Haridwar Railway Station",
+            "to": "Byasi",
+            "auto-price": "",
+            "cab-price": "Rs 950-1050",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Dehradun Airport",
+            "auto-price": "",
+            "cab-price": "Rs 650-750",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Triveni Ghat",
+            "auto-price": "",
+            "cab-price": "Rs 450-550",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Parmarth Niketan",
+            "auto-price": "",
+            "cab-price": "Rs 450-550",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Laxman Jhula",
+            "auto-price": "",
+            "cab-price": "Rs 400-500",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Gole Market",
+            "auto-price": "",
+            "cab-price": "Rs 450-550",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Tapovan",
+            "auto-price": "",
+            "cab-price": "Rs 400-500",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Byasi",
+            "auto-price": "",
+            "cab-price": "Rs 500-600",
+            "bike-price": null
+        },
+        {
+            "from": "Shivpuri ",
+            "to": "Haridwar Railway Junction",
+            "auto-price": "",
+            "cab-price": "Rs 1000-1100",
+            "bike-price": null
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Dehradun Airport",
+            "auto-price": "",
+            "cab-price": "Rs 350-450",
+            "bike-price": null
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Shivpuri",
+            "auto-price": "",
+            "cab-price": "Rs 300-400",
+            "bike-price": null
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Haridwar Railway Junction",
+            "auto-price": "",
+            "cab-price": "Rs 700-800",
+            "bike-price": null
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Parmarth Niketan",
+            "auto-price": "",
+            "cab-price": "Rs 300-400",
+            "bike-price": "Rs 100-140"
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Laxman Jhula",
+            "auto-price": "",
+            "cab-price": "Rs 200-300",
+            "bike-price": "Rs 90-120"
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Gole Market",
+            "auto-price": "",
+            "cab-price": "Rs 80-100",
+            "bike-price": "Rs 20-30"
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Tapovan",
+            "auto-price": "",
+            "cab-price": "Rs 100-200",
+            "bike-price": "Rs 30-50"
+        },
+        {
+            "from": "Triveni Ghat",
+            "to": "Byasi",
+            "auto-price": "",
+            "cab-price": "Rs 550-650",
+            "bike-price": null
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "shivpuri",
+            "auto-price": "",
+            "cab-price": "Rs 550-650",
+            "bike-price": null
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Dehradun Airport",
+            "auto-price": "",
+            "cab-price": "Rs 600-700",
+            "bike-price": null
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Haridwar Railway Junction",
+            "auto-price": "",
+            "cab-price": "Rs 900-1000",
+            "bike-price": null
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Parmarth Niketan",
+            "auto-price": "",
+            "cab-price": "Rs 100-150",
+            "bike-price": "Rs 20-40"
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Triveni Ghat",
+            "auto-price": "",
+            "cab-price": "Rs 300-400",
+            "bike-price": "Rs 90-120"
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Tapovan",
+            "auto-price": "",
+            "cab-price": "Rs 300-400",
+            "bike-price": "Rs 60-80"
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Byasi",
+            "auto-price": "",
+            "cab-price": "Rs 800-900",
+            "bike-price": null
+        },
+        {
+            "from": "Laxman Jhula",
+            "to": "Gole Market",
+            "auto-price": "",
+            "cab-price": "Rs 250-350",
+            "bike-price": "Rs 90-120"
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Shivpuri",
+            "auto-price": "",
+            "cab-price": "Rs 900-1100",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Gole Market",
+            "auto-price": "",
+            "cab-price": "Rs 550-650",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Tapovan",
+            "auto-price": "",
+            "cab-price": "Rs 650-750",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Byasi",
+            "auto-price": "",
+            "cab-price": "Rs 1400-1500",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Laxman Jhula",
+            "auto-price": "",
+            "cab-price": "Rs 800-1100",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Triveni Ghat",
+            "auto-price": "",
+            "cab-price": "Rs 500-700",
+            "bike-price": null
+        },
+        {
+            "from": "Dehradhun Airport",
+            "to": "Parmarth Niketan",
+            "auto-price": "",
+            "cab-price": "Rs 1000-1200",
+            "bike-price": null
+        }
+    ]
+}

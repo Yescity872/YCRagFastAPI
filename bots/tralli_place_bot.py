@@ -82,9 +82,8 @@ class PlaceBot:
             f"Location: {doc.metadata.get('address', 'N/A')}"
             for doc in docs
         ])
-
         prompt = f"""
-        You are a travel expert in Varanasi. Recommend places that best match the query.
+        You are a travel expert in {self.city.title()}. Recommend places that best match the query.
         Always provide exact results from the context, do not hallucinate. Only return results in the format below without extra text or summaries. Limit to a maximum of 5 results.
 
         Context:

@@ -32,7 +32,7 @@ from bots.tralli_food_bot import FoodBot
 from bots.tralli_souvenir_bot import SouvenirBot
 from bots.tralli_transport_bot import TransportBot
 from functools import lru_cache
-# from bots.tralli_misc_bot import misc_bot
+from bots.tralli_misc_bot import misc_bot
 
 @lru_cache(maxsize=8)
 def get_city_handlers(city: str):
@@ -47,7 +47,7 @@ def get_city_handlers(city: str):
             "food": lambda query: {"response": bot2.food_bot(query)},
             "souvenir": lambda query: {"response": bot3.souvenir_bot(query)},
             "transport": lambda query: {"response": bot4.transport_bot(query)},
-            # "miscellaneous": lambda query: {"response": misc_bot(query)},
+             "miscellaneous": lambda query: {"response": misc_bot(query)},
         }
     except Exception as e:
         print(f"Error initializing bots for city '{city}':", e)
