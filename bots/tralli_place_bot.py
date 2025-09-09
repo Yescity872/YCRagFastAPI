@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from langchain.schema import Document
 from pinecone import Pinecone
+from service.metadata_order import ordered_meta
 
 load_dotenv()
 
@@ -72,12 +73,12 @@ class PlaceBot:
 
     def _generate_response(self, query: str, docs: List[Document]) -> str:
         context = "\n\n".join([
-            f"Place: {doc.metadata.get('name', 'N/A')}\n"
+            f"Place: {doc.metadata.get('places') or doc.metadata.get('name') or 'N/A'}\n"
             f"Category: {doc.metadata.get('category', 'N/A')}\n"
             f"Section: {doc.metadata.get('section', 'N/A')}\n"
             f"Description: {doc.metadata.get('description', 'N/A')}\n"
             f"Essential Info: {doc.metadata.get('essential', 'N/A')}\n"
-            f"Opening Hours: {doc.metadata.get('open-time', 'N/A')}\n"
+            f"Opening Hours: {doc.metadata.get('openTime') or doc.metadata.get('open-time', 'N/A')}\n"
             f"Entry Fee: {doc.metadata.get('fee', 'N/A')}\n"
             f"Location: {doc.metadata.get('address', 'N/A')}"
             for doc in docs
@@ -133,6 +134,11 @@ class PlaceBot:
         docs = self._get_relevant_docs(query, category_filter=category, section_filter=section)
         response = self._generate_response(query, docs)
         return response
+
+    def place_bot_results(self, query: str, category: Optional[str] = None, section: Optional[str] = None, k: int = 5) -> List[dict]:
+        """Structured alternative returning ordered metadata dicts (no LLM)."""
+        docs = self._get_relevant_docs(query, category_filter=category, section_filter=section, k=k)
+        return [ordered_meta(d.metadata) for d in docs]
 
 if __name__ == "__main__":
     pass

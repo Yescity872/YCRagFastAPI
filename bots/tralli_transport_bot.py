@@ -1,5 +1,6 @@
 import os
 from typing import List, Optional
+import json
 from groq import Groq
 from dotenv import load_dotenv
 from service.embeddings import get_embeddings
@@ -43,36 +44,43 @@ class TransportBot:
             return []
 
     def _generate_response(self, query: str, docs: List[Document]) -> str:
-        context = "\n\n".join([
-            f"From: {doc.metadata.get('from', 'N/A')} -> To: {doc.metadata.get('to', 'N/A')}\n"
-            f"Auto Price: {doc.metadata.get('auto-price', 'N/A')}\n"
-            f"Cab Price: {doc.metadata.get('cab-price', 'N/A')}\n"
-            f"Bike Price: {doc.metadata.get('bike-price', 'N/A')}"
-            for doc in docs
-        ])
+        # Build a concise JSON-ready context list
+        context_items = []
+        for doc in docs:
+            context_items.append({
+                "from": (doc.metadata.get("from") or "").strip(),
+                "to": (doc.metadata.get("to") or "").strip(),
+                "autoPrice": (doc.metadata.get("autoPrice") or doc.metadata.get("auto-price") or "").strip(),
+                "cabPrice": (doc.metadata.get("cabPrice") or doc.metadata.get("cab-price") or "").strip(),
+                "bikePrice": (doc.metadata.get("bikePrice") or doc.metadata.get("bike-price") or "").strip(),
+            })
+
+        context_json = json.dumps(context_items, ensure_ascii=False)
 
         prompt = f"""
-        You are a transport assistant for {self.city.title()}. Based on the context, suggest ways to get around or routes matching the query.
-        Only return results in the strict format below, up to 5 lines, no extra commentary.
+You are a precise transport routing assistant for the city of {self.city.title()}.
+Given the provided JSON context list of route options and the user query, select up to 5 most relevant distinct routes.
 
-        Context:
-        {context}
+Rules:
+1. ONLY use routes exactly as they appear in context (no fabrication, no new places).
+2. Return ONLY a JSON array (no markdown, no prose) of objects with keys: from, to, autoPrice, cabPrice, bikePrice.
+3. Preserve price strings exactly (don't reorder, don't add units, don't change casing).
+4. If a price value is missing or blank, return it as an empty string.
+5. Do not include duplicate (from,to) pairs.
 
-        Query: {query}
+ContextRoutes: {context_json}
+UserQuery: {query}
 
-        Respond in this exact format:
-        1. From A to B - Auto: X - Cab: Y - Bike: Z
-        2. From A to B - Auto: X - Cab: Y - Bike: Z
-        3. From A to B - Auto: X - Cab: Y - Bike: Z
-        """
+Output JSON Array Only:
+"""
 
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
-            temperature=0.4,
-            max_tokens=300
+            temperature=0.2,
+            max_tokens=400
         )
-        return response.choices[0].message.content
+        return response.choices[0].message.content.strip()
 
     def transport_bot(self, query: str) -> str:
         docs = self._get_relevant_docs(query)

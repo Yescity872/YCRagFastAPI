@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from langchain.schema import Document
 from pinecone import Pinecone
+from service.metadata_order import ordered_meta
 
 load_dotenv()
 
@@ -80,8 +81,8 @@ class SouvenirBot:
         context = "\n\n".join([
             f"Shop: {doc.metadata.get('shops', 'N/A')}\n"
             f"Category: {doc.metadata.get('category', 'N/A')}\n"
-            f"Famous For: {doc.metadata.get('famous-for', 'N/A')}\n"
-            f"Price Range: {doc.metadata.get('price-range', 'N/A')}"
+            f"Famous For: {doc.metadata.get('famousFor') or doc.metadata.get('famous-for', 'N/A')}\n"
+            f"Price Range: {doc.metadata.get('priceRange') or doc.metadata.get('price-range', 'N/A')}"
             for doc in docs
         ])
         prompt = f"""
@@ -133,6 +134,11 @@ class SouvenirBot:
         docs = self._get_relevant_docs(query, category_filter=category)
         response = self._generate_response(query, docs)
         return response
+
+    def souvenir_bot_results(self, query: str, category: Optional[str] = None, k: int = 5) -> List[dict]:
+        """Structured alternative returning ordered metadata dicts (no LLM)."""
+        docs = self._get_relevant_docs(query, category_filter=category, k=k)
+        return [ordered_meta(d.metadata) for d in docs]
 
 if __name__ == "__main__":
     pass

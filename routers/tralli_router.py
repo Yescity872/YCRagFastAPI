@@ -493,7 +493,8 @@ def get_food_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
     seen = set()
     for name in place_names:
         for item in FOOD_DATA.get('Food', []):
-            place = item.get('food-place', '').strip()
+            # Support both legacy kebab-case and new camelCase key
+            place = (item.get('foodPlace') or item.get('food-place') or '').strip()
             if (name.lower() in place.lower() or place.lower() in name.lower()):
                 if place not in seen:
                     matching_places.append(item)
@@ -504,10 +505,20 @@ def get_souvenir_data_by_names(city: str, shop_names: List[str]) -> List[Dict]:
     SOUVENIR_DATA = load_city_data(city, "souvenir_data.json", ["souvenir_data_r.json", f"{city}_souvenir.json", f"souvenir_{city}.json"])  # type: ignore
     matching_shops = []
     seen = set()
+    # Support both legacy 'Shopping' (Varanasi) and new 'Shop' (Rishikesh) schema keys
+    records = SOUVENIR_DATA.get('Shopping') or SOUVENIR_DATA.get('Shop') or []
+    if not isinstance(records, list):
+        return []
+
     for name in shop_names:
-        for shop in SOUVENIR_DATA.get('Shopping', []):
+        lname = name.strip().lower()
+        for shop in records:
             shop_name = shop.get('shops', '').strip()
-            if (name.lower() in shop_name.lower() or shop_name.lower() in name.lower()):
+            if not shop_name:
+                continue
+            sname = shop_name.lower()
+            # Bi-directional fuzzy containment (simple heuristic)
+            if lname in sname or sname in lname:
                 if shop_name not in seen:
                     matching_shops.append(shop)
                     seen.add(shop_name)
@@ -519,14 +530,31 @@ def get_places_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
     seen = set()
     normalized_names = {name.strip().lower() for name in place_names}
 
-    for section in ['Places-to-visit', 'Hidden-gems', 'Nearby-tourist-spot']:
-        for place in PLACES_DATA.get(section, []):
-            if section == 'Hidden-gems':
-                name_key = 'hidden-gems'
-            else:
-                name_key = 'places' if 'places' in place else 'places '
-            place_name = place.get(name_key, '').strip().lower()
-            if place_name in normalized_names and place_name not in seen:
+    # Support both legacy section names (Varanasi) and new Rishikesh ones
+    section_candidates = [
+        'Places-to-visit', 'Hidden-gems', 'Nearby-tourist-spot',  # legacy
+        'Place', 'HiddenGem', 'NearbySpot'  # new camelCase style
+    ]
+
+    for section in section_candidates:
+        records = PLACES_DATA.get(section)
+        if not isinstance(records, list):
+            continue
+        for place in records:
+            # Determine the probable name field
+            name_field_candidates = [
+                'places', 'places ', 'hidden-gems', 'hiddenGems'
+            ]
+            pname = ''
+            for cand in name_field_candidates:
+                if cand in place and isinstance(place[cand], str) and place[cand].strip():
+                    pname = place[cand].strip()
+                    break
+            # Fallback: try generic key used in new schema (all use 'places')
+            if not pname and isinstance(place.get('places'), str):
+                pname = place.get('places', '').strip()
+            place_name = pname.lower()
+            if place_name and place_name in normalized_names and place_name not in seen:
                 matching_places.append(place)
                 seen.add(place_name)
     return matching_places
@@ -565,8 +593,32 @@ async def classify_and_handle_query(input: CityQueryInput):
             place_names = extract_numbered_names(result['response'])
             places = get_places_data_by_names(city, place_names)
             return {"category": category, "results": places}
+        elif category == "transport":
+            # Transport bot now returns a JSON array; attempt to parse
+            raw = result.get('response', '[]')
+            try:
+                parsed = json.loads(raw)
+                # Ensure list of dicts shape
+                if isinstance(parsed, list):
+                    # Basic normalization of keys
+                    cleaned = []
+                    for r in parsed:
+                        if not isinstance(r, dict):
+                            continue
+                        cleaned.append({
+                            'from': (r.get('from') or '').strip(),
+                            'to': (r.get('to') or '').strip(),
+                            'autoPrice': r.get('autoPrice', ''),
+                            'cabPrice': r.get('cabPrice', ''),
+                            'bikePrice': r.get('bikePrice', ''),
+                        })
+                    return {"category": category, "results": cleaned}
+            except Exception as e:
+                print("Transport JSON parse error:", e)
+                # Fall back to raw response
+                return {"category": category, **result}
 
-    # Default return for transport and miscellaneous (they may already contain full info)
+        # Default return for miscellaneous (already formatted)
         return {"category": category, **result}
 
     except HTTPException as http_exc:

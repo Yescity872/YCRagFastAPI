@@ -27,29 +27,35 @@ DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", CITY, DATA_FIL
 with open(os.path.abspath(DATA_PATH), 'r', encoding='utf-8') as f:
     transport_data = json.load(f)
 
-SECTION = "Local-transport"
+SECTION_KEY = "Transport"
 
-def create_embedding_text(route: Dict[str, Any]) -> str:
+def create_embedding_text(item: Dict[str, Any]) -> str:
     return (
-    f"From {route.get('from','')} to {route.get('to','')} - "
-    f"Cab: {route.get('cab-price','') or ''} - Auto: {route.get('auto-price','') or ''} - "
-    f"Bike: {route.get('bike-price') or ''}"
+        f"From {item.get('from','')} to {item.get('to','')} - "
+        f"Cab: {item.get('cabPrice','')} - Auto: {item.get('autoPrice','')} - "
+        f"Bike: {item.get('bikePrice','')}"
     )
 
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-for route in transport_data.get(SECTION, []):
-    text = create_embedding_text(route)
-    metadata = {
-    'from': route.get('from','') or '',
-    'to': route.get('to','') or '',
-    'auto-price': route.get('auto-price','') or '',
-    'cab-price': route.get('cab-price','') or '',
-    # Some entries have null -> convert to empty string to satisfy Pinecone constraints
-    'bike-price': route.get('bike-price') or '',
-    'section': SECTION,
-    }
+def _build_ordered_metadata(item: Dict[str, Any], section: str) -> Dict[str, Any]:
+    ordered_keys = list(item.keys())
+    meta: Dict[str, Any] = {}
+    for k in ordered_keys:
+        v = item.get(k)
+        if v is None:
+            continue
+        if isinstance(v, str) and k in {'from','to'}:
+            v = v.strip()
+        meta[k] = v
+    meta['section'] = section
+    meta['orderedKeys'] = ordered_keys + ['section']
+    return meta
+
+for item in transport_data.get(SECTION_KEY, []):
+    text = create_embedding_text(item)
+    metadata = _build_ordered_metadata(item, SECTION_KEY)
     texts.append(text)
     metadatas.append(metadata)
 

@@ -28,42 +28,41 @@ DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", CITY, DATA_FIL
 with open(os.path.abspath(DATA_PATH), 'r', encoding='utf-8') as f:
     places_data = json.load(f)
 
-SECTIONS = ["Places-to-visit", "Hidden-gems", "Nearby-tourist-spot"]
+SECTION_KEYS = ["Place", "HiddenGem", "NearbySpot"]
 
-def create_embedding_text(place: Dict[str, Any]) -> str:
-    name = place.get('places', '')
+def create_embedding_text(item: Dict[str, Any]) -> str:
+    name = item.get('places', '')
     return (
-        f"{name} - Category: {place.get('category','')} - "
-        f"Description: {place.get('description','')} - Essential: {place.get('essential','')} - "
-        f"Story: {place.get('story','')}"
+        f"{name} - Category: {item.get('category','')} - "
+        f"Description: {item.get('description','')} - Essential: {item.get('essential','')} - "
+        f"Story: {item.get('story','')}"
     )
+
+
+    
 
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-for section in SECTIONS:
-    for place in places_data.get(section, []):
-        text = create_embedding_text(place)
-        metadata = {
-            'name': place.get('places', ''),
-            'category': place.get('category',''),
-            'address': place.get('address',''),
-            'lat-lon': place.get('lat-lon',''),
-            'open-day': place.get('open-day',''),
-            'open-time': place.get('open-time',''),
-            'establish-year': place.get('establish-year',''),
-            'fee': place.get('fee',''),
-            'description': place.get('description',''),
-            'essential': place.get('essential',''),
-            'story': place.get('story',''),
-            'distance': place.get('distance',''),
-            'section': section,
-            'location-link': place.get('location-link',''),
-            'image0': place.get('image0',''),
-            'image1': place.get('image1',''),
-            'image2': place.get('image2',''),
-            'video': place.get('video',''),
-        }
+def _build_ordered_metadata(item: Dict[str, Any], section: str) -> Dict[str, Any]:
+    ordered_keys = list(item.keys())
+    meta: Dict[str, Any] = {}
+    for k in ordered_keys:
+        v = item.get(k)
+        if v is None:
+            continue
+        if isinstance(v, str) and k == 'places':
+            v = v.strip()
+        meta[k] = v
+    # Add synthetic keys at end
+    meta['section'] = section
+    meta['orderedKeys'] = ordered_keys + ['section']
+    return meta
+
+for key in SECTION_KEYS:
+    for item in places_data.get(key, []):
+        text = create_embedding_text(item)
+        metadata = _build_ordered_metadata(item, key)
         texts.append(text)
         metadatas.append(metadata)
 

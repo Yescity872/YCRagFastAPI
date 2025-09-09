@@ -148,6 +148,7 @@ from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from pinecone import Pinecone
 from langchain.schema import Document
+from service.metadata_order import ordered_meta
 
 load_dotenv()
 
@@ -217,10 +218,10 @@ class FoodBot:
 
     def _generate_response(self, query: str, docs: List[Document]) -> str:
         context = "\n\n".join([
-            f"Place: {doc.metadata.get('food-place', 'N/A')}\n"
+            f"Place: {doc.metadata.get('foodPlace') or doc.metadata.get('food-place', 'N/A')}\n"
             f"Category: {doc.metadata.get('category', 'N/A')}\n"
             f"Rating: {doc.metadata.get('taste', 'N/A')}\n"
-            f"Specialties: {doc.metadata.get('menu-special', 'N/A')}"
+            f"Specialties: {doc.metadata.get('menuSpecial') or doc.metadata.get('menu-special', 'N/A')}"
             for doc in docs
         ])
 
@@ -287,6 +288,11 @@ class FoodBot:
         response = self._generate_response(query, docs)
         
         return response
+
+    def food_bot_results(self, query: str, category: Optional[str] = None, min_rating: Optional[float] = None, k: int = 5) -> List[dict]:
+        """Structured alternative returning ordered metadata dicts (no LLM)."""
+        docs = self._get_relevant_docs(query, category_filter=category, min_rating=min_rating, k=k)
+        return [ordered_meta(d.metadata) for d in docs]
 
 # Example usage
 # if __name__ == "__main__":

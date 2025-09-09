@@ -27,39 +27,35 @@ DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", CITY, DATA_FIL
 with open(os.path.abspath(DATA_PATH), 'r', encoding='utf-8') as f:
     souvenir_data = json.load(f)
 
-SECTION = "Shopping"
+SECTION_KEY = "Shop"
 
-def create_embedding_text(shop: Dict[str, Any]) -> str:
+def create_embedding_text(item: Dict[str, Any]) -> str:
     return (
-        f"Shop: {shop.get('shops','(Unnamed)')} - "
-        f"Famous for: {shop.get('famous-for','')} - "
-        f"Category: {shop.get('category','')} - "
-        f"Price range: {shop.get('price-range','')} - "
-        f"Address: {shop.get('address','')}"
+        f"Shop: {item.get('shops','(Unnamed)')} - "
+        f"Famous for: {item.get('famousFor','')} - "
+        f"Price range: {item.get('priceRange','')} - "
+        f"Address: {item.get('address','')}"
     )
 
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-for shop in souvenir_data.get(SECTION, []):
-    text = create_embedding_text(shop)
-    metadata = {
-        'shops': shop.get('shops',''),
-        'category': shop.get('category',''),
-        'famous-for': shop.get('famous-for',''),
-        'price-range': shop.get('price-range',''),
-        'open-day': shop.get('open-day',''),
-        'open-time': shop.get('open-time',''),
-        'phone': shop.get('phone') or '',
-        'website': shop.get('website') or '',
-        'address': shop.get('address',''),
-        'lat-lon': shop.get('lat-lon',''),
-        'location-link': shop.get('location-link',''),
-        'image0': shop.get('image0',''),
-        'image1': shop.get('image1',''),
-        'image2': shop.get('image2',''),
-        'section': SECTION,
-    }
+def _build_ordered_metadata(item: Dict[str, Any]) -> Dict[str, Any]:
+    ordered_keys = list(item.keys())
+    meta: Dict[str, Any] = {}
+    for k in ordered_keys:
+        v = item.get(k)
+        if v is None:
+            continue
+        if isinstance(v, str) and k == 'shops':
+            v = v.strip()
+        meta[k] = v
+    meta['orderedKeys'] = ordered_keys
+    return meta
+
+for item in souvenir_data.get(SECTION_KEY, []):
+    text = create_embedding_text(item)
+    metadata = _build_ordered_metadata(item)
     texts.append(text)
     metadatas.append(metadata)
 

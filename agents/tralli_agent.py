@@ -46,7 +46,7 @@ def get_city_handlers(city: str):
             "places": lambda query: {"response": bot1.place_bot(query)},
             "food": lambda query: {"response": bot2.food_bot(query)},
             "souvenir": lambda query: {"response": bot3.souvenir_bot(query)},
-            "transport": lambda query: {"response": bot4.transport_bot(query)},
+            "transport": lambda query: bot4.transport_bot_structured(query),
              "miscellaneous": lambda query: {"response": misc_bot(query)},
         }
     except Exception as e:

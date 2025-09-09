@@ -25,52 +25,50 @@ INDEX_NAME = os.getenv("PINECONE_INDEX", "ycrag-travel")  # Shared Pinecone inde
 PINECONE_REGION = os.getenv("PINECONE_REGION", "us-east-1")
 PINECONE_CLOUD = os.getenv("PINECONE_CLOUD", "aws")
 
-# --- Load data ---
-# rishikesh food data file name differs from varanasi one
+# --- Load data (new camelCase metadata) ---
 DATA_FILE = "food_data_r.json"
 data_path = os.path.join(os.path.dirname(__file__), "..", "data", CITY, DATA_FILE)
 with open(os.path.abspath(data_path), "r", encoding="utf-8") as f:
     food_data = json.load(f)
 
 
-def create_embedding_text(place: Dict[str, Any]) -> str:
-    """Combine key fields for embedding (concise, semantic)."""
+def create_embedding_text(item: Dict[str, Any]) -> str:
+    """Combine key fields (using new JSON keys) for semantic embedding."""
     return (
-        f"{place.get('food-place','')} - "
-        f"Category: {place.get('category','')} - "
-        f"Specialties: {place.get('menu-special', '')} - "
-        f"Description: {place.get('description', '')}"
+        f"{item.get('foodPlace','')} - "
+        f"Category: {item.get('category','')} - "
+        f"Specialties: {item.get('menuSpecial', '')} - "
+        f"Description: {item.get('description', '')}"
     )
 
 
-# Build payloads
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-for place in food_data.get("Food", []):
-    text = create_embedding_text(place)
-    metadata = {
-        "food-place": place.get("food-place", ""),
-        "category": place.get("category", ""),
-        "address": place.get("address", "N/A"),
-        "menu-special": place.get("menu-special", "N/A"),
-        "description": place.get("description", "N/A"),
-        "taste": place.get("taste", ""),
-        "lat-lon": place.get("lat-lon", ""),
-        "veg/non-veg": place.get("veg/non-veg", ""),
-        "value-for-money": place.get("value-for-money", ""),
-        "service": place.get("service", ""),
-        "hygeine": place.get("hygeine", ""),
-        "open-day": place.get("open-day", ""),
-        "open-time": place.get("open-time", ""),
-        "phone": place.get("phone") or "",  # some are null
-        "location-link": place.get("location-link", ""),
-        "menu-link": place.get("menu-link", ""),
-        "image0": place.get("image0", ""),
-        "image1": place.get("image1", ""),
-        "image2": place.get("image2", ""),
-        "video": place.get("video", ""),
-    }
+def _build_ordered_metadata(item: Dict[str, Any]) -> Dict[str, Any]:
+    """Preserve original JSON key order and drop nulls.
+
+    We also record the original key order in orderedKeys so clients can
+    reconstruct ordering after retrieval (Pinecone won't preserve it).
+    """
+    ordered_keys = list(item.keys())  # insertion order from JSON parser
+    meta: Dict[str, Any] = {}
+    for k in ordered_keys:
+        v = item.get(k)
+        if v is None:
+            continue  # drop null per Pinecone rules
+        if isinstance(v, str):
+            # Trim only the primary name field for consistency
+            if k in {"foodPlace"}:
+                v = v.strip()
+        meta[k] = v
+    # Append orderedKeys marker
+    meta["orderedKeys"] = ordered_keys
+    return meta
+
+for item in food_data.get("Food", []):
+    text = create_embedding_text(item)
+    metadata = _build_ordered_metadata(item)
     texts.append(text)
     metadatas.append(metadata)
 
