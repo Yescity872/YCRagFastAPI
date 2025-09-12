@@ -1,11 +1,11 @@
 import os
 from groq import Groq
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 from service.embeddings import get_embeddings
+from service.metadata_order import ordered_meta
 from langchain.schema import Document
 from pinecone import Pinecone
-from service.metadata_order import ordered_meta
 
 load_dotenv()
 
@@ -14,8 +14,8 @@ class PlaceBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        # Pinecone setup
-        self.namespace = f"{self.city}-places"
+        # Rishikesh new namespace style
+        self.namespace = f"Place-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-places"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
@@ -116,7 +116,7 @@ class PlaceBot:
         query: str,
         category: Optional[str] = None,
         section: Optional[str] = None
-    ) -> str:
+    ) -> Dict[str, Any]:
         """
         Get place recommendations based on query with optional filters
         
@@ -129,16 +129,11 @@ class PlaceBot:
             String with list of recommended places
         """
         if not self.index:
-            return "Vector index not available. Check Pinecone config."
-
+            return {"results": []}
         docs = self._get_relevant_docs(query, category_filter=category, section_filter=section)
-        response = self._generate_response(query, docs)
-        return response
-
-    def place_bot_results(self, query: str, category: Optional[str] = None, section: Optional[str] = None, k: int = 5) -> List[dict]:
-        """Structured alternative returning ordered metadata dicts (no LLM)."""
-        docs = self._get_relevant_docs(query, category_filter=category, section_filter=section, k=k)
-        return [ordered_meta(d.metadata) for d in docs]
+        ordered_results = [ordered_meta(d.metadata) for d in docs]
+        # text removed per updated API contract
+        return {"results": ordered_results}
 
 if __name__ == "__main__":
     pass

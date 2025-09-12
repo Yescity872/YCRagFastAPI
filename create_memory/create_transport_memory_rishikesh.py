@@ -39,23 +39,28 @@ def create_embedding_text(item: Dict[str, Any]) -> str:
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-def _build_ordered_metadata(item: Dict[str, Any], section: str) -> Dict[str, Any]:
-    ordered_keys = list(item.keys())
-    meta: Dict[str, Any] = {}
-    for k in ordered_keys:
-        v = item.get(k)
+def _sanitize(meta: Dict[str, Any]) -> Dict[str, Any]:
+    cleaned: Dict[str, Any] = {}
+    for k, v in meta.items():
         if v is None:
             continue
-        if isinstance(v, str) and k in {'from','to'}:
-            v = v.strip()
-        meta[k] = v
-    meta['section'] = section
-    meta['orderedKeys'] = ordered_keys + ['section']
-    return meta
+        cleaned[k] = v
+    return cleaned
 
 for item in transport_data.get(SECTION_KEY, []):
     text = create_embedding_text(item)
-    metadata = _build_ordered_metadata(item, SECTION_KEY)
+    metadata_raw = {
+        'cityId': item.get('cityId'),
+        'cityName': item.get('cityName'),
+        'from': (item.get('from') or '').strip(),
+        'to': (item.get('to') or '').strip(),
+        'cabPrice': item.get('cabPrice'),
+        'autoPrice': item.get('autoPrice'),
+        'bikePrice': item.get('bikePrice'),
+        'premium': item.get('premium'),
+        'section': SECTION_KEY,
+    }
+    metadata = _sanitize(metadata_raw)
     texts.append(text)
     metadatas.append(metadata)
 

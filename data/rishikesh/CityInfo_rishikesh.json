@@ -1,0 +1,22 @@
+{
+    "CityInfo": [
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "stateOrUT": "Uttarakhand",
+            "alternateNames": [
+                "Hrishikesh",
+                "Kubjamrak"
+            ],
+            "languagesSpoken": [
+                "Hindi",
+                "Garhwali"
+            ],
+            "climateInfo": "It has a humid subtropical climate with hot summers, heavy monsoon rains and mild winters. ",
+            "bestTimeToVisit": "October to March (Winter Season) – Especially November to February. Reason: Pleasant and cool weather, ideal for river rafting, yoga, and sightseeing; perfect for Ganga Aarti at Triveni Ghat, sunrise views, adventure sports, and festivals like International Yoga Festival, Mahashivratri, and Basant Panchami",
+            "cityHistory": "It is associated with Ram. According to legend, hare he came on the advice of sage Vasishtha to do penance for killing Ravana. the king of Lanka. There are scores of ancient temples and ashrams affording spiritual solace to pilgrims, the important among them being temple of Bharata Pushkar temple, Shatrughan temple, Lahkhsmana temple, Geeta Bhawan and the Punjab Kshetra. Rishikesh, also known as the “place of sagas” is a spiritual town situated 24 kms upstream from Haridwar, at the confluence of the Chandrabhaga and Ganga. It is believed that God by the name of “Hrishikesh” had appeared as an answer to the hard penances by Rabhiya Rishi and henceforth the place derived its name. It is the starting point for the Char Dham pilgrimage and an ideal destination not only for pilgrims but also for the people who are interested in medtation, yoga and other aspects of Hinduism. For the adventure seekers, Rishikesh is the suggested place for starting their trekking expeditions to the Himalayan peaks and for rafting. Also, International Yoga week which attracts participation from across the world, is held here, every year, in February on the banks of the Ganga.",
+            "coverImage": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153418/ggy0tszkubp2srfurvzj.jpg",
+            "premium": "FREE"
+        }
+    ]
+}

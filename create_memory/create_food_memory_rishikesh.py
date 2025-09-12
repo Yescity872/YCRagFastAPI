@@ -42,33 +42,52 @@ def create_embedding_text(item: Dict[str, Any]) -> str:
     )
 
 
+# Build payloads
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-def _build_ordered_metadata(item: Dict[str, Any]) -> Dict[str, Any]:
-    """Preserve original JSON key order and drop nulls.
-
-    We also record the original key order in orderedKeys so clients can
-    reconstruct ordering after retrieval (Pinecone won't preserve it).
-    """
-    ordered_keys = list(item.keys())  # insertion order from JSON parser
-    meta: Dict[str, Any] = {}
-    for k in ordered_keys:
-        v = item.get(k)
+def _sanitize(meta: Dict[str, Any]) -> Dict[str, Any]:
+    cleaned: Dict[str, Any] = {}
+    for k, v in meta.items():
         if v is None:
-            continue  # drop null per Pinecone rules
-        if isinstance(v, str):
-            # Trim only the primary name field for consistency
-            if k in {"foodPlace"}:
-                v = v.strip()
-        meta[k] = v
-    # Append orderedKeys marker
-    meta["orderedKeys"] = ordered_keys
-    return meta
+            continue  # drop nulls
+        if isinstance(v, list):
+            # keep only non-null strings, convert numbers/bools to strings for safety if needed
+            cleaned_list = [str(x) if x is not None else "" for x in v if x is not None]
+            cleaned[k] = cleaned_list
+        else:
+            cleaned[k] = v
+    return cleaned
 
 for item in food_data.get("Food", []):
     text = create_embedding_text(item)
-    metadata = _build_ordered_metadata(item)
+    metadata_raw: Dict[str, Any] = {
+        "cityId": item.get("cityId"),
+        "cityName": item.get("cityName"),
+        "flagship": item.get("flagship"),
+        "foodPlace": (item.get("foodPlace") or "").strip(),
+        "lat": item.get("lat"),
+        "lon": item.get("lon"),
+        "address": item.get("address"),
+        "locationLink": item.get("locationLink"),
+        "category": item.get("category"),
+        "vegOrNonVeg": item.get("vegOrNonVeg"),
+        "valueForMoney": item.get("valueForMoney"),
+        "service": item.get("service"),
+        "taste": item.get("taste"),
+        "hygiene": item.get("hygiene"),
+        "menuSpecial": item.get("menuSpecial"),
+        "menuLink": item.get("menuLink"),
+        "openDay": item.get("openDay"),
+        "openTime": item.get("openTime"),
+        "phone": item.get("phone") or "",  # force empty string instead of None
+        "website": item.get("website") or "",  # Pinecone disallows null
+        "description": item.get("description"),
+        "images": item.get("images", []),
+        "videos": item.get("videos", []),
+        "premium": item.get("premium"),
+    }
+    metadata = _sanitize(metadata_raw)
     texts.append(text)
     metadatas.append(metadata)
 

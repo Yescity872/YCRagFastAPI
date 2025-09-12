@@ -44,25 +44,42 @@ def create_embedding_text(item: Dict[str, Any]) -> str:
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-def _build_ordered_metadata(item: Dict[str, Any], section: str) -> Dict[str, Any]:
-    ordered_keys = list(item.keys())
-    meta: Dict[str, Any] = {}
-    for k in ordered_keys:
-        v = item.get(k)
+def _sanitize(meta: Dict[str, Any]) -> Dict[str, Any]:
+    cleaned: Dict[str, Any] = {}
+    for k, v in meta.items():
         if v is None:
             continue
-        if isinstance(v, str) and k == 'places':
-            v = v.strip()
-        meta[k] = v
-    # Add synthetic keys at end
-    meta['section'] = section
-    meta['orderedKeys'] = ordered_keys + ['section']
-    return meta
+        if isinstance(v, list):
+            cleaned[k] = [str(x) for x in v if x is not None]
+        else:
+            cleaned[k] = v
+    return cleaned
 
 for key in SECTION_KEYS:
     for item in places_data.get(key, []):
         text = create_embedding_text(item)
-        metadata = _build_ordered_metadata(item, key)
+        metadata_raw = {
+            'cityId': item.get('cityId'),
+            'cityName': item.get('cityName'),
+            'places': (item.get('places') or '').strip(),
+            'category': item.get('category'),
+            'lat': item.get('lat'),
+            'lon': item.get('lon'),
+            'address': item.get('address'),
+            'locationLink': item.get('locationLink'),
+            'openDay': item.get('openDay'),
+            'openTime': item.get('openTime'),
+            'establishYear': item.get('establishYear'),
+            'fee': item.get('fee'),
+            'description': item.get('description'),
+            'essential': item.get('essential'),
+            'story': item.get('story'),
+            'premium': item.get('premium'),
+            'images': item.get('images', []),
+            'videos': item.get('videos', []),
+            'section': key,
+        }
+        metadata = _sanitize(metadata_raw)
         texts.append(text)
         metadatas.append(metadata)
 

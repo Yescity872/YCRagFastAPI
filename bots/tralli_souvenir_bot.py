@@ -12,7 +12,7 @@
 
 import os
 from groq import Groq
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from langchain.schema import Document
@@ -26,8 +26,8 @@ class SouvenirBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        # Pinecone setup
-        self.namespace = f"{self.city}-souvenir"
+        # New namespace for Rishikesh uses Shop- category name
+        self.namespace = f"Shop-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-souvenir"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
@@ -49,7 +49,7 @@ class SouvenirBot:
             qvec = self.embeddings.embed_query(query)
             res = self.index.query(
                 vector=qvec,
-                top_k=max(1, k*2),
+                top_k=k,
                 include_metadata=True,
                 include_values=False,
                 namespace=self.namespace,
@@ -72,7 +72,7 @@ class SouvenirBot:
 
             if match:
                 filtered_docs.append(doc)
-                if len(filtered_docs) >= k * 2:
+                if len(filtered_docs) >= k:
                     break
 
         return filtered_docs[:k] if filtered_docs else docs[:k]
@@ -117,7 +117,7 @@ class SouvenirBot:
         self,
         query: str,
         category: Optional[str] = None
-    ) -> str:
+    ) -> Dict[str, Any]:
         """
         Get souvenir recommendations based on query with optional filters
         
@@ -126,19 +126,14 @@ class SouvenirBot:
             category: Filter by category (e.g., "Sarees", "Jewellery")
             
         Returns:
-            String with list of souvenir shops
+            Dict with list of souvenir shops metadata
         """
         if not self.index:
-            return "Vector index not available. Check Pinecone config."
-
-        docs = self._get_relevant_docs(query, category_filter=category)
-        response = self._generate_response(query, docs)
-        return response
-
-    def souvenir_bot_results(self, query: str, category: Optional[str] = None, k: int = 5) -> List[dict]:
-        """Structured alternative returning ordered metadata dicts (no LLM)."""
-        docs = self._get_relevant_docs(query, category_filter=category, k=k)
-        return [ordered_meta(d.metadata) for d in docs]
+            return {"results": []}
+        # Force k to 2 to keep top_k fixed and return most relevant results
+        docs = self._get_relevant_docs(query, category_filter=category, k=2)
+        ordered_results = [ordered_meta(d.metadata) for d in docs]
+        return {"results": ordered_results}
 
 if __name__ == "__main__":
     pass

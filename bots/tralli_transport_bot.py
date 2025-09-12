@@ -1,11 +1,11 @@
 import os
-from typing import List, Optional
-import json
+from typing import List, Optional, Dict, Any
 from groq import Groq
 from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from langchain.schema import Document
 from pinecone import Pinecone
+from service.metadata_order import ordered_meta
 
 load_dotenv()
 
@@ -15,8 +15,7 @@ class TransportBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        # Pinecone setup
-        self.namespace = f"{self.city}-transport"
+        self.namespace = f"Transport-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-transport"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
@@ -26,65 +25,57 @@ class TransportBot:
             print("Pinecone init error:", e)
             self.index = None
 
-    def _get_relevant_docs(
-        self,
-        query: str,
-        k: int = 3
-    ) -> List[Document]:
+    def _get_relevant_docs(self, query: str, k: int = 2) -> List[Document]:
         if not self.index:
             return []
         try:
             qvec = self.embeddings.embed_query(query)
-            res = self.index.query(vector=qvec, top_k=max(1, k*5), include_metadata=True, namespace=self.namespace)
+            res = self.index.query(
+                vector=qvec, 
+                top_k=k, 
+                include_metadata=True, 
+                include_values=False,
+                namespace=self.namespace
+            )
             matches = getattr(res, "matches", []) or res.get("matches", [])
             docs = [Document(page_content="", metadata=m.metadata if hasattr(m, "metadata") else m.get("metadata", {})) for m in matches]
-            return docs[:k]
+            return docs
         except Exception as e:
             print("Pinecone query error:", e)
             return []
 
     def _generate_response(self, query: str, docs: List[Document]) -> str:
-        # Build a concise JSON-ready context list
-        context_items = []
-        for doc in docs:
-            context_items.append({
-                "from": (doc.metadata.get("from") or "").strip(),
-                "to": (doc.metadata.get("to") or "").strip(),
-                "autoPrice": (doc.metadata.get("autoPrice") or doc.metadata.get("auto-price") or "").strip(),
-                "cabPrice": (doc.metadata.get("cabPrice") or doc.metadata.get("cab-price") or "").strip(),
-                "bikePrice": (doc.metadata.get("bikePrice") or doc.metadata.get("bike-price") or "").strip(),
-            })
-
-        context_json = json.dumps(context_items, ensure_ascii=False)
-
+        context = "\n\n".join([
+            f"From: {doc.metadata.get('from', 'N/A')} -> To: {doc.metadata.get('to', 'N/A')}\nAuto Price: {doc.metadata.get('autoPrice') or doc.metadata.get('auto-price', 'N/A')}\nCab Price: {doc.metadata.get('cabPrice') or doc.metadata.get('cab-price', 'N/A')}\nBike Price: {doc.metadata.get('bikePrice') or doc.metadata.get('bike-price', 'N/A')}"
+            for doc in docs
+        ])
         prompt = f"""
-You are a precise transport routing assistant for the city of {self.city.title()}.
-Given the provided JSON context list of route options and the user query, select up to 5 most relevant distinct routes.
+        You are a transport assistant for {self.city.title()}. Based on the context, suggest ways to get around or routes matching the query.
+        Only return results in the strict format below, up to 5 lines, no extra commentary.
 
-Rules:
-1. ONLY use routes exactly as they appear in context (no fabrication, no new places).
-2. Return ONLY a JSON array (no markdown, no prose) of objects with keys: from, to, autoPrice, cabPrice, bikePrice.
-3. Preserve price strings exactly (don't reorder, don't add units, don't change casing).
-4. If a price value is missing or blank, return it as an empty string.
-5. Do not include duplicate (from,to) pairs.
+        Context:
+        {context}
 
-ContextRoutes: {context_json}
-UserQuery: {query}
+        Query: {query}
 
-Output JSON Array Only:
-"""
-
+        Respond in this exact format:
+        1. From A to B - Auto: X - Cab: Y - Bike: Z
+        2. From A to B - Auto: X - Cab: Y - Bike: Z
+        3. From A to B - Auto: X - Cab: Y - Bike: Z
+        """
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
-            temperature=0.2,
-            max_tokens=400
+            temperature=0.4,
+            max_tokens=300,
         )
-        return response.choices[0].message.content.strip()
+        return response.choices[0].message.content
 
-    def transport_bot(self, query: str) -> str:
-        docs = self._get_relevant_docs(query)
-        return self._generate_response(query, docs)
+    def transport_bot(self, query: str) -> Dict[str, Any]:
+        # Force k to 2 to keep top_k fixed and return most relevant results
+        docs = self._get_relevant_docs(query, k=2)
+        ordered_results = [ordered_meta(d.metadata) for d in docs]
+        return {"results": ordered_results}
 
 
 if __name__ == "__main__":

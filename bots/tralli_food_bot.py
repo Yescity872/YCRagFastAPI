@@ -143,23 +143,19 @@
 
 import os
 from groq import Groq
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 from service.embeddings import get_embeddings
 from pinecone import Pinecone
-from langchain.schema import Document
 from service.metadata_order import ordered_meta
-
-load_dotenv()
+from langchain.schema import Document
 
 class FoodBot:
     def __init__(self, city: str):
         self.city = city.lower()
-        # Initialize models and clients
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        # Pinecone setup
-        self.namespace = f"{self.city}-food"
+        self.namespace = f"Food-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-food"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
@@ -168,23 +164,15 @@ class FoodBot:
         except Exception as e:
             print("Pinecone init error:", e)
             self.index = None
-        
 
-    def _get_relevant_docs(
-        self,
-        query: str,
-    category_filter: Optional[str] = None,
-    min_rating: Optional[float] = None,
-    k: int = 2,
-    ) -> List[Document]:
-        """Retrieve documents from Pinecone and apply filtering"""
+    def _get_relevant_docs(self, query: str, category_filter: Optional[str] = None, min_rating: Optional[float] = None, k: int = 2) -> List[Document]:
         if not self.index:
             return []
         try:
             qvec = self.embeddings.embed_query(query)
             res = self.index.query(
                 vector=qvec,
-                top_k=max(1, k*2),
+                top_k=k,
                 include_metadata=True,
                 include_values=False,
                 namespace=self.namespace,
@@ -194,40 +182,36 @@ class FoodBot:
         except Exception as e:
             print("Pinecone query error:", e)
             return []
-        
-        filtered_docs = []
+
+        filtered_docs: List[Document] = []
         for doc in docs:
             metadata = doc.metadata
             match = True
-            
-            # Make filters less strict
             if category_filter:
-                categories = metadata.get('category', '').lower().split(',')
+                categories = metadata.get("category", "").lower().split(",")
                 if category_filter.lower() not in categories:
                     match = False
-                    
-            if min_rating is not None and float(metadata.get('taste', 0)) < min_rating:
+            if min_rating is not None and float(metadata.get("taste", 0)) < min_rating:
                 match = False
-                
             if match:
                 filtered_docs.append(doc)
-                if len(filtered_docs) >= k*2:  # Keep more filtered docs
+                if len(filtered_docs) >= k:
                     break
-        
         return filtered_docs[:k] if filtered_docs else docs[:k]
 
     def _generate_response(self, query: str, docs: List[Document]) -> str:
-        context = "\n\n".join([
-            f"Place: {doc.metadata.get('foodPlace') or doc.metadata.get('food-place', 'N/A')}\n"
-            f"Category: {doc.metadata.get('category', 'N/A')}\n"
-            f"Rating: {doc.metadata.get('taste', 'N/A')}\n"
-            f"Specialties: {doc.metadata.get('menuSpecial') or doc.metadata.get('menu-special', 'N/A')}"
-            for doc in docs
-        ])
-
+        context = "\n\n".join(
+            [
+                f"Place: {doc.metadata.get('foodPlace') or doc.metadata.get('food-place', 'N/A')}\n"
+                f"Category: {doc.metadata.get('category', 'N/A')}\n"
+                f"Rating: {doc.metadata.get('taste', 'N/A')}\n"
+                f"Specialties: {doc.metadata.get('menuSpecial') or doc.metadata.get('menu-special', 'N/A')}"
+                for doc in docs
+            ]
+        )
         prompt = f"""
         You are a food expert in {self.city.title()}. Recommend food places that best match the query.
-        Always provide exact results do not hallucinate.Only give the result in the format provided do not include extra text or summary.Do not exceed the result by 5.
+        Always provide exact results do not hallucinate. Only give the result in the format provided; no extra text or summary. Do not exceed 5 results.
 
         Context:
         {context}
@@ -236,26 +220,9 @@ class FoodBot:
 
         Respond in this exact format:
         1. Place Name (Category) - Specialty
-        2. Place Name (Category) - Specialty 
+        2. Place Name (Category) - Specialty
         3. Place Name (Category) - Specialty
-
-        Example:
-        1. Kashi Chat Bhandar (Street Food) - Tamatar Chaat
-        2. Blue Lassi (Desserts) - Mango Lassi
-        3. Deena Chat Bhandar (Street Food) - Kachori
-
-        
         """
-        # Respond in this exact format:
-        # 1. Place Name
-        # 2. Place Name 
-        # 3. Place Name
-
-        # Example:
-        # 1. Kashi Chat Bhandar
-        # 2. Blue Lassi
-        # 3. Deena Chat Bhandar
-
         response = self.groq_client.chat.completions.create(
             messages=[{"role": "user", "content": prompt}],
             model="meta-llama/llama-4-scout-17b-16e-instruct",
@@ -264,35 +231,11 @@ class FoodBot:
         )
         return response.choices[0].message.content
 
-    def food_bot(
-        self,
-        query: str,
-        category: Optional[str] = None,
-        min_rating: Optional[float] = None
-    ) -> str:
-        """
-        Get food recommendations based on query with optional filters
-        
-        Args:
-            query: Natural language search query
-            category: Filter by category (e.g., "Street Food")
-            min_rating: Minimum taste rating (0-5)
-            
-        Returns:
-            String with list of food place names
-        """
-        # Retrieve relevant documents
-        docs = self._get_relevant_docs(query, category_filter=category, min_rating=min_rating)
-        
-        # Generate response using Groq
-        response = self._generate_response(query, docs)
-        
-        return response
-
-    def food_bot_results(self, query: str, category: Optional[str] = None, min_rating: Optional[float] = None, k: int = 5) -> List[dict]:
-        """Structured alternative returning ordered metadata dicts (no LLM)."""
-        docs = self._get_relevant_docs(query, category_filter=category, min_rating=min_rating, k=k)
-        return [ordered_meta(d.metadata) for d in docs]
+    def food_bot(self, query: str, category: Optional[str] = None, min_rating: Optional[float] = None) -> Dict[str, Any]:
+        # Force k to 2 to keep top_k fixed and return most relevant results
+        docs = self._get_relevant_docs(query, category_filter=category, min_rating=min_rating, k=2)
+        ordered_results = [ordered_meta(d.metadata) for d in docs]
+        return {"results": ordered_results}
 
 # Example usage
 # if __name__ == "__main__":

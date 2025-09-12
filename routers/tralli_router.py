@@ -429,13 +429,11 @@
 #     return {"category": category, **result}
 
 from fastapi import APIRouter, HTTPException
+from fastapi.concurrency import run_in_threadpool
 from pydantic import BaseModel
 from service.query_classifier import classify_query_with_gemini
-from service.async_utils import run_blocking
 from agents.tralli_agent import get_city_handlers
-import json
-import os
-from typing import List, Dict, Iterable, Optional
+from typing import Dict, Any
 
 router = APIRouter()
 
@@ -443,187 +441,22 @@ class CityQueryInput(BaseModel):
     city: str
     query: str
 
-# === UTILITIES ===
-
-def extract_numbered_names(response_text: str) -> List[str]:
-    lines = response_text.strip().split('\n')
-    names = []
-    for line in lines:
-        if not line.strip():
-            continue
-        try:
-            clean_line = line.split('. ', 1)[1] if '. ' in line else line
-            name = clean_line.split(' - ')[0].split(' (')[0]
-            names.append(name.strip())
-        except IndexError:
-            continue
-    return names
-
-def load_city_data(city: str, filename: str, alt_filenames: Optional[Iterable[str]] = None) -> dict:
-    """Load a JSON data file for a city with graceful fallbacks.
-
-    Args:
-        city: City name (folder under data/)
-        filename: Primary expected filename (e.g. food_data.json)
-        alt_filenames: Optional iterable of alternative filenames to try
-                       (e.g. ["food_data_r.json", f"{city}_food.json"]).
-    Returns:
-        Parsed JSON dict.
-    Raises:
-        HTTPException 404 if none of the files exist.
-    """
-    city_dir = os.path.join("data", city.lower())
-    attempts = [filename]
-    if alt_filenames:
-        for alt in alt_filenames:
-            if alt not in attempts:
-                attempts.append(alt)
-
-    for candidate in attempts:
-        path = os.path.join(city_dir, candidate)
-        if os.path.exists(path):
-            with open(path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-    raise HTTPException(status_code=404, detail=f"None of the expected files found for city '{city}': {attempts}")
-
-def get_food_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
-    # Support variant filenames (rishikesh uses food_data_r.json)
-    FOOD_DATA = load_city_data(city, "food_data.json", ["food_data_r.json", f"{city}_food.json", f"food_{city}.json"])  # type: ignore
-    matching_places = []
-    seen = set()
-    for name in place_names:
-        for item in FOOD_DATA.get('Food', []):
-            # Support both legacy kebab-case and new camelCase key
-            place = (item.get('foodPlace') or item.get('food-place') or '').strip()
-            if (name.lower() in place.lower() or place.lower() in name.lower()):
-                if place not in seen:
-                    matching_places.append(item)
-                    seen.add(place)
-    return matching_places
-
-def get_souvenir_data_by_names(city: str, shop_names: List[str]) -> List[Dict]:
-    SOUVENIR_DATA = load_city_data(city, "souvenir_data.json", ["souvenir_data_r.json", f"{city}_souvenir.json", f"souvenir_{city}.json"])  # type: ignore
-    matching_shops = []
-    seen = set()
-    # Support both legacy 'Shopping' (Varanasi) and new 'Shop' (Rishikesh) schema keys
-    records = SOUVENIR_DATA.get('Shopping') or SOUVENIR_DATA.get('Shop') or []
-    if not isinstance(records, list):
-        return []
-
-    for name in shop_names:
-        lname = name.strip().lower()
-        for shop in records:
-            shop_name = shop.get('shops', '').strip()
-            if not shop_name:
-                continue
-            sname = shop_name.lower()
-            # Bi-directional fuzzy containment (simple heuristic)
-            if lname in sname or sname in lname:
-                if shop_name not in seen:
-                    matching_shops.append(shop)
-                    seen.add(shop_name)
-    return matching_shops
-
-def get_places_data_by_names(city: str, place_names: List[str]) -> List[Dict]:
-    PLACES_DATA = load_city_data(city, "place_data.json", ["place_data_r.json", f"{city}_place.json", f"places_{city}.json"])  # type: ignore
-    matching_places = []
-    seen = set()
-    normalized_names = {name.strip().lower() for name in place_names}
-
-    # Support both legacy section names (Varanasi) and new Rishikesh ones
-    section_candidates = [
-        'Places-to-visit', 'Hidden-gems', 'Nearby-tourist-spot',  # legacy
-        'Place', 'HiddenGem', 'NearbySpot'  # new camelCase style
-    ]
-
-    for section in section_candidates:
-        records = PLACES_DATA.get(section)
-        if not isinstance(records, list):
-            continue
-        for place in records:
-            # Determine the probable name field
-            name_field_candidates = [
-                'places', 'places ', 'hidden-gems', 'hiddenGems'
-            ]
-            pname = ''
-            for cand in name_field_candidates:
-                if cand in place and isinstance(place[cand], str) and place[cand].strip():
-                    pname = place[cand].strip()
-                    break
-            # Fallback: try generic key used in new schema (all use 'places')
-            if not pname and isinstance(place.get('places'), str):
-                pname = place.get('places', '').strip()
-            place_name = pname.lower()
-            if place_name and place_name in normalized_names and place_name not in seen:
-                matching_places.append(place)
-                seen.add(place_name)
-    return matching_places
-
-# === MAIN ROUTE ===
-
 @router.post("/tralli/query")
-async def classify_and_handle_query(input: CityQueryInput):
+async def classify_and_handle_query(input: CityQueryInput) -> Dict[str, Any]:
     city = input.city.lower()
-    query = input.query
-    print(f"🧠 Classifying query for city '{city}': {query}")
+    handlers = get_city_handlers(city)
+    if not handlers:
+        raise HTTPException(status_code=400, detail=f"City '{city}' not supported.")
 
-    try:
-        # Offload blocking classifier to a worker thread
-        category = await run_blocking(classify_query_with_gemini, query)
-        print(f"🔍 Detected category: {category}")
+    # Run blocking classification in threadpool
+    category = await run_in_threadpool(classify_query_with_gemini, input.query)
+    handler = handlers.get(category, handlers.get("miscellaneous"))
 
-        handlers = get_city_handlers(city)
-        if not handlers or category not in handlers:
-            raise HTTPException(status_code=400, detail=f"No handler found for category '{category}' in city '{city}'")
-
-        handler = handlers[category]
-        # Offload the potentially blocking bot handler (LLM + vector DB)
-        result = await run_blocking(handler, query)
-        print("📦 Raw bot response:", result.get('response', 'No response'))
-
-        if category == "food":
-            place_names = extract_numbered_names(result['response'])
-            food_places = get_food_data_by_names(city, place_names)
-            return {"category": category, "results": food_places}
-        elif category == "souvenir":
-            shop_names = extract_numbered_names(result['response'])
-            souvenir_shops = get_souvenir_data_by_names(city, shop_names)
-            return {"category": category, "results": souvenir_shops}
-        elif category == "places":
-            place_names = extract_numbered_names(result['response'])
-            places = get_places_data_by_names(city, place_names)
-            return {"category": category, "results": places}
-        elif category == "transport":
-            # Transport bot now returns a JSON array; attempt to parse
-            raw = result.get('response', '[]')
-            try:
-                parsed = json.loads(raw)
-                # Ensure list of dicts shape
-                if isinstance(parsed, list):
-                    # Basic normalization of keys
-                    cleaned = []
-                    for r in parsed:
-                        if not isinstance(r, dict):
-                            continue
-                        cleaned.append({
-                            'from': (r.get('from') or '').strip(),
-                            'to': (r.get('to') or '').strip(),
-                            'autoPrice': r.get('autoPrice', ''),
-                            'cabPrice': r.get('cabPrice', ''),
-                            'bikePrice': r.get('bikePrice', ''),
-                        })
-                    return {"category": category, "results": cleaned}
-            except Exception as e:
-                print("Transport JSON parse error:", e)
-                # Fall back to raw response
-                return {"category": category, **result}
-
-        # Default return for miscellaneous (already formatted)
-        return {"category": category, **result}
-
-    except HTTPException as http_exc:
-        raise http_exc
-    except Exception as e:
-        print(f" Internal error: {str(e)}")
-        raise HTTPException(status_code=500, detail=f"Internal server error: {str(e)}")
+    # Run the synchronous bot logic in threadpool to avoid blocking event loop
+    payload = await run_in_threadpool(handler, input.query)
+    if isinstance(payload, str):
+        payload = {"results": []}
+    # Always exclude any 'text' field per requirement
+    results = payload.get("results", [])
+    return {"category": category, "results": results}
 

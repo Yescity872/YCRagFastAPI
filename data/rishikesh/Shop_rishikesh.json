@@ -1,0 +1,246 @@
+{
+    "Shop": [
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "GoleMarket ",
+            "lat": 30.1083,
+            "lon": 78.2972,
+            "address": "4842+Q4R, Manvendera Nagar, Rishikesh, Uttarakhand 249201, India",
+            "locationLink": "https://maps.app.goo.gl/ysZ2fhEVcpUrBshc8",
+            "famousFor": "General market",
+            "priceRange": "50-3000",
+            "openDay": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday",
+            "openTime": "9:00 AM - 9:00 PM",
+            "phone": null,
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153722/awkiaxnbkko3vs6uwwsy.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153724/jms8qopap61q3rphavkb.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153729/e09e1klalni24popciib.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Bada Bazaar",
+            "lat": 30.1047,
+            "lon": 78.2989,
+            "address": "6, Ghat Rd, Mayakund, Rishikesh, Uttarakhand 249201, India",
+            "locationLink": "https://maps.app.goo.gl/3zXMbkt3upA3F5AE8",
+            "famousFor": "General market",
+            "priceRange": "250-5000",
+            "openDay": "Monday to Sunday",
+            "openTime": "Open 24 hours",
+            "phone": null,
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153731/bpgsqzyfafrwy9cydaqk.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153732/kgw1qdpvwkqvynsgyqlv.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153733/ulqpcx6gfrr9gih8j1cy.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Music for soul store",
+            "lat": 30.1212,
+            "lon": 78.3133,
+            "address": "48C7+G86, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+            "locationLink": "https://maps.app.goo.gl/1haQ6qB4aTLWVwMi8",
+            "famousFor": "Music-related items",
+            "priceRange": " 200-6000",
+            "openDay": "Monday to Friday, Saturday",
+            "openTime": "10:00 AM - 8:00 PM",
+            "phone": null,
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153735/knrxwcblu7uopjlf0mis.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153736/c7gusfdjhddstgvq5tym.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153737/jcslrshongq9mjdppjpe.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Laxman Jula market",
+            "lat": 30.1251,
+            "lon": 78.3306,
+            "address": "48GJ+36R, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249302",
+            "locationLink": "https://maps.app.goo.gl/KdTNkSuPqbWocUW79",
+            "famousFor": "General market, spiritual items, handicrafts",
+            "priceRange": "50-1500",
+            "openDay": "Monday to Sunday",
+            "openTime": "8:00 AM - 11:00 PM",
+            "phone": "+91 97602 21415",
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153739/lapvimims5q7qsplap5y.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153740/cnkovwijpisrxqqjyqdm.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153741/j1vyula2cpim8pvhzmj3.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Adventure axis",
+            "lat": 30.1283,
+            "lon": 78.3232,
+            "address": "162, Badrinath Rd, Near Tapovan Police Check Post, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249192",
+            "locationLink": "https://maps.app.goo.gl/7vPHbA64RqFDtBvd8",
+            "famousFor": "Adventure sports equipment/services",
+            "priceRange": "500-725000",
+            "openDay": "Monday to Friday",
+            "openTime": "10:30 AM - 7:30 PM",
+            "phone": "+91 76692 80002",
+            "website": "https://www.adventureaxis.in/",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153744/dg6anbaligizwkuqaquq.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153745/d3jxxdk5kzbesoexcwjl.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153746/gu1ry1lcgtdylfoxgoql.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "khadi Bhandar",
+            "lat": 30.1071,
+            "lon": 78.2989,
+            "address": "Haridwar Rd, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+            "locationLink": "https://maps.app.goo.gl/hLNTqDxSbsxvCKo3A",
+            "famousFor": "Khadi products (hand-spun, hand-woven fabrics)",
+            "priceRange": "200-2000",
+            "openDay": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday",
+            "openTime": "10:30 AM - 8:00 PM",
+            "phone": null,
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153748/ttt2to5b2lezjvpnom9q.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153750/bbra4ep3hk0ztkvccrpz.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153751/tciwewlqqdnxavy1pzvu.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Jain Spice Shop",
+            "lat": 30.127,
+            "lon": 78.3264,
+            "address": "Stairway . Near laxman temple, Laxman Jhula Rd, Tapovan, Rishikesh, Jonk, Uttarakhand 249137",
+            "locationLink": "https://maps.app.goo.gl/MUCMTfXfL9JbyvNS8",
+            "famousFor": "Spices",
+            "priceRange": "50-3000",
+            "openDay": "Monday to Sunday",
+            "openTime": "9:00 AM - 9:30 PM",
+            "phone": "+91 70555 65071",
+            "website": "https://cookingmasala.com/",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153754/d5uqlt6ktkskljupb305.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153755/n1ezoes4bvkacn6clvom.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153756/sjdngqt9jxmu1iemzx7l.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Ganpat Gems Paradise",
+            "lat": 30.1209,
+            "lon": 78.3132,
+            "address": "Parmarth Niketan, Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+            "locationLink": "https://maps.app.goo.gl/UpPdgzvWim1dWUAk8",
+            "famousFor": "Gems and jewelry",
+            "priceRange": "300-10000",
+            "openDay": "Monday to Sunday",
+            "openTime": "9:00 AM - 9:00 PM",
+            "phone": "+91 97604 97182",
+            "website": "http://www.rishikeshgems.com/",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153761/sz0phw4bqdgnuj8fagyq.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153762/jn39wqsw9kffuzpsx02j.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153762/kye4e3v4ybm6cun13bum.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Scorpion Handicrafts",
+            "lat": 30.127,
+            "lon": 78.3264,
+            "address": "Laxman Jhula Rd, Tapovan, Rishikesh, Jonk, Uttarakhand 249192",
+            "locationLink": "https://maps.app.goo.gl/xQFrSRVZRg4GVdT79",
+            "famousFor": "Handicrafts",
+            "priceRange": "200-5000",
+            "openDay": "Monday to Sunday",
+            "openTime": "8:00 AM - 9:00 PM",
+            "phone": "+91 99174 49863",
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153764/xbxcvj21en85x9qwtnk9.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153765/uyyhqgb3bkqgj1ronceg.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153766/o7lliggvruerhd0fz1fi.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Crafted Experiences",
+            "lat": 30.1214,
+            "lon": 78.3177,
+            "address": "1, Ram Jhula, sivanandnagar, Muni Ki Reti, Rishikesh, Uttarakhand 249192",
+            "locationLink": "https://maps.app.goo.gl/mLx365j6ZnUUN1qC6",
+            "famousFor": "Handicrafts, spiritual items",
+            "priceRange": "800-4000",
+            "openDay": "Monday to Sunday",
+            "openTime": "9:00 AM - 9:00 PM",
+            "phone": "+91 97607 53808",
+            "website": null,
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153768/m3w7dpwiinfqw1dfjxgb.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153770/iete25euyrfpgksqetu8.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153771/ltjxzt8qkgcbvqlkxnfj.jpg"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "flagShip": false,
+            "shops": "Namaste Rishikesh Pashmina Store",
+            "lat": 30.1261,
+            "lon": 78.3287,
+            "address": "Chowk, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249192",
+            "locationLink": "https://maps.app.goo.gl/vK7LPoB3xZgZsyMJA",
+            "famousFor": "Pashmina products",
+            "priceRange": "1200-30000",
+            "openDay": "Monday to Sunday",
+            "openTime": "10:00 AM - 9:30 PM",
+            "phone": null,
+            "website": "https://sites.google.com/view/namasterishikeshpashmina",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153774/v8a2llbvqntaj7yn4dmu.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153775/hhptqfoe9e3806rkqgo3.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153776/tmkxfseaqpragwgfyzj3.jpg"
+            ],
+            "premium": "FREE"
+        }
+    ]
+}

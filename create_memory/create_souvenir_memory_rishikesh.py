@@ -40,22 +40,42 @@ def create_embedding_text(item: Dict[str, Any]) -> str:
 texts: List[str] = []
 metadatas: List[Dict[str, Any]] = []
 
-def _build_ordered_metadata(item: Dict[str, Any]) -> Dict[str, Any]:
-    ordered_keys = list(item.keys())
-    meta: Dict[str, Any] = {}
-    for k in ordered_keys:
-        v = item.get(k)
+def _sanitize(meta: Dict[str, Any]) -> Dict[str, Any]:
+    cleaned: Dict[str, Any] = {}
+    for k, v in meta.items():
         if v is None:
             continue
-        if isinstance(v, str) and k == 'shops':
-            v = v.strip()
-        meta[k] = v
-    meta['orderedKeys'] = ordered_keys
-    return meta
+        if isinstance(v, list):
+            cleaned[k] = [str(x) for x in v if x is not None]
+        else:
+            cleaned[k] = v
+    return cleaned
 
 for item in souvenir_data.get(SECTION_KEY, []):
     text = create_embedding_text(item)
-    metadata = _build_ordered_metadata(item)
+    # Maintain canonical key order consistent with source JSON.
+    # NOTE: Pinecone rejects explicit null values; our sanitizer below drops them.
+    # null in source they will be omitted from stored metadata (cleaner retrieval).
+    metadata_raw = {
+        'cityId': item.get('cityId'),
+        'cityName': item.get('cityName'),
+        'flagShip': item.get('flagShip'),
+        'shops': (item.get('shops') or '').strip(),
+        'lat': item.get('lat'),
+        'lon': item.get('lon'),
+        'address': item.get('address'),
+        'locationLink': item.get('locationLink'),
+        'famousFor': item.get('famousFor'),
+        'priceRange': item.get('priceRange'),
+        'openDay': item.get('openDay'),
+        'openTime': item.get('openTime'),
+        'phone': item.get('phone'),      # keep None -> will be dropped
+        'website': item.get('website'),  # keep None -> will be dropped
+        'images': item.get('images', []),
+        'premium': item.get('premium'),
+        # 'section': SECTION_KEY,  # Removed to match raw data schema exactly
+    }
+    metadata = _sanitize(metadata_raw)
     texts.append(text)
     metadatas.append(metadata)
 

@@ -28,46 +28,37 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
+CATEGORIES = [
+    "place","food","shop","transport","accommodation","activity","hiddengem","itinerary","nearbyspot","cityinfo","connectivity","misc"
+]
+
 def classify_query_with_gemini(query: str) -> str:
     prompt = f"""
-    You are a travel assistant that classifies queries into one of the following categories:
-    - places: tourist attractions like ghats, temples, monuments, sightseeing
-    - food: cafes, restaurants, dishes, street food
-    - souvenir: local markets, shops, gifts, things to buy
-    - transport: taxis, buses, autos, trains, getting around
-    - miscellaneous: anything that doesn’t fit above
+You are a travel assistant that classifies a user query into exactly one of these categories (return only the category word in lowercase):
+- place: tourist attractions, sights, landmarks, temples, ghats, monuments
+- food: restaurants, cafes, dishes, street food, cuisine
+- shop: markets, shops, things to buy, price ranges, souvenirs, shopping
+- transport: taxis, autos, cabs, buses, trains, routes, getting around
+- accommodation: hotels, hostels, stays, rooms, facilities
+- activity: adventure or experiential activities (rafting, yoga class, bungee, meditation session)
+- hiddengem: lesser-known spots, secret places, offbeat locations
+- nearbyspot: nearby excursions or out-of-town trips (short travel from city)
+- itinerary: day-by-day trip planning (1-day, 2-day plan etc.)
+- cityinfo: climate, history, best time, language, general city facts
+- connectivity: airport, railway, bus stand distances, how to reach city
+- misc: anything not fitting above categories
 
-    ### Examples ###
-    Q: What are the best temples in Varanasi?
-    A: places
-
-    Q: Where should I eat local food?
-    A: food
-
-    Q: What can I buy from Varanasi markets?
-    A: souvenir
-
-    Q: How to reach Dashashwamedh Ghat?
-    A: transport
-
-    Q: top 10 ghats i can travel in varanasi?
-    A: places
-
-    Q: Nearest police station?
-    A: miscellaneous
-    """
-
+Query: {query}
+Answer with only one category token.
+"""
     try:
-        response = model.generate_content(prompt + query)
-        answer = response.text.strip().lower()
-
-        valid = ["places", "food", "souvenir", "transport", "miscellaneous"]
-        
-        for v in valid:
+        response = model.generate_content(prompt)
+        answer = (response.text or "").strip().lower()
+        for v in CATEGORIES:
             if v in answer:
                 return v
-        return "miscellaneous"
+        return "misc"
     except Exception as e:
         print("Gemini error:", e)
-        return "miscellaneous"
+        return "misc"
 

@@ -1,0 +1,191 @@
+{
+    "NearbySpot": [
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Byasi",
+            "distance": "30 km from Rishikesh on Badrinath highway",
+            "category": "Adventure / Nature",
+            "lat": 30.0693,
+            "lon": 78.4709,
+            "address": "Byasi, Tehri Garhwal, Uttarakhand 249192",
+            "locationLink": "https://maps.google.com/?q=Byasi+Uttarakhand",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "Ancient (traditional)",
+            "fee": "Free",
+            "description": "A small village on the Ganga known for rafting and riverside camping. It offers Class III-IV rapids and sandy beaches ideal for adventure sports. Visitors enjoy jungle camping and riverside relaxation.",
+            "essential": "Wear life jackets and helmets for rafting; follow instructor’s commands; keep campsites clean; avoid plastic and loud music; obtain permits for camping; respect riverside shrine etiquette.",
+            "story": "Byasi means a settlement by the river. It has no major mythic origin; rather, it is valued for its scenic Ganga shores. Bathing here is considered purifying by pilgrims on the Char Dham route, but the site is primarily noted for modern adventure tourism.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153820/aj1p4ob2pknlseipl0f2.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153821/mo1czloavv4ej7tdx4ey.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153825/lu5dmzlwkh4mgamy9oy2.jpg"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/ofP6b83PnL0?si=UKUy0n6EoOEl3Do4"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Devprayag",
+            "distance": "70 km from Rishikesh",
+            "category": "Religious / Pilgrimage",
+            "lat": 30.146,
+            "lon": 78.598,
+            "address": "Devprayag, Tehri Garhwal, Uttarakhand 249190",
+            "locationLink": "https://maps.google.com/?q=Devprayag+Uttarakhand",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "Ancient (mythic)",
+            "fee": "Free",
+            "description": "A holy confluence town where the Alaknanda and Bhagirathi rivers merge to form the Ganga . It is known for the ancient Raghunathji Temple on the riverbank. The setting is sacred and picturesque, attracting pilgrims en route to the Char Dham temples.",
+            "essential": "Modest dress required; remove shoes at temples; avoid alcohol and non-vegetarian food; use designated ghats for bathing; keep the confluence clean; follow priestly or local guidance during rituals.",
+            "story": "Devprayag literally means “godly confluence.” According to Hindu lore, Lord Rama and King Dasharatha performed penance here. The Raghunath Temple (over 10,000 years old by legend) stands at the sangam, making the spot a revered Shakti-Pitha where the Ganga river truly begins.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153828/zy6hdrrmihjgdegjaqbr.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153831/rjejb3tdr9l8b4kdgotf.webp",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153834/chx8kw0jnfmi1jhzlonb.png"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/jKJuxu50Kz0?si=l2dVEBUEonSbiyfo"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Muni ki Reti",
+            "distance": "just before Rishikesh town, 2–3 km from Ram Jhula",
+            "category": "Spiritual / Cultural",
+            "lat": 30.07,
+            "lon": 78.16,
+            "address": "Muni Ki Reti, Rishikesh, Uttarakhand 249137",
+            "locationLink": "https://maps.google.com/?q=Muni+Ki+Reti+Rishikesh",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "Ancient",
+            "fee": "Free",
+            "description": "A town by Rishikesh known for its many ashrams and temples along the Ganga. Its name means “Sands of the Sages.” Famous as the site of Sivananda’s Divine Life Society and Swarg Ashram, it serves as a spiritual rest stop. The holy Ram Jhula footbridge provides access to ashrams on both riverbanks.",
+            "essential": "Shoes off in temple premises; maintain silence during meditation; respect local monks and rituals; donate if entering ashram programs; avoid littering on ghats; use only designated ferry/bridge crossings across the river.\t",
+            "story": "Legend holds that King Bharata (brother of Rama) did penance on these sandbanks and that Muni ki Reti is the gateway to the Char Dham temple. It evolved into a meditation center; Swami Sivananda and others founded major ashrams here in the early 20th century, making it a hub of Vedantic learning.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153838/g3xu4lmnahiwehkoplxi.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153841/ktwqfs3ssoa7i26syemq.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153842/dpjajqhsrufhyxxwsqmd.jpg"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/1EXvrY9XbtE?si=PYUXFn7SW5z04Mw4"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Swarg Ashram",
+            "distance": "Across the Ganga near Ram Jhula",
+            "category": "Spiritual / Ashram",
+            "lat": 30.1165,
+            "lon": 78.3131,
+            "address": "Swargashram, Rishikesh, Uttarakhand 249304",
+            "locationLink": "https://maps.google.com/?q=Swargashram+Rishikesh",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "20th century",
+            "fee": "Paid (donation)\t",
+            "description": "A cluster of ashrams and temples on the east bank of the Ganges near Ram Jhula. Founded in memory of Swami Vishudhanand (Kali Kamliwala), it offers yoga, meditation, and cultural programs. Foreigners frequent it for its relaxed, “heavenly” atmosphere and ethnic charm",
+            "essential": "Follow ashram norms: dress modestly, remove shoes, keep silence in meditation halls; avoid photography during ceremonies; respect the daily aarti and chanting schedules; handle donations as asked by trust; stay on designated paths.",
+            "story": "According to local legend, Swarg Ashram derives its name from the belief that this was the spot where ancient sages meditated to attain moksha (liberation) and enter Swarg (heaven). The story links it to the saptarishis (seven great sages) who were said to have performed intense penance on the banks of the holy Ganga. Later, Swami Vishudhanand Ji, a 19th-century saint famously known as Kali Kamli Wala, chose this site to spread spiritual teachings and serve pilgrims and sadhus. The ashram was built in his memory and became a sanctuary for seekers of enlightenment. Even today, the serene environment, spiritual vibrations, and daily rituals like the Ganga Aarti remind visitors of those mythological times when the gods themselves were believed to descend to listen to the prayers echoing through the valley.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153845/onrqsjgoyny02mrlukpl.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153846/brj3rjkxhojcokthh6h1.webp",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153847/w5nqvpvktiqidfgapxey.jpg"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/E2MB9PvNXpw?si=khqAkE7uCG7lryv0"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Malakunthi Waterfall",
+            "distance": "10–12 km from Rishikesh",
+            "category": "Nature / Waterfall",
+            "lat": 30.0667,
+            "lon": 78.3,
+            "address": "Malakhunti Village (near Rishikesh), Uttarakhand",
+            "locationLink": "https://maps.google.com/?q=Malakunti+Uttarakhand",
+            "openDay": "Monday–Sunday",
+            "openTime": "06:00 AM – 6:PM",
+            "establishYear": "Natural",
+            "fee": "Free",
+            "description": "A multi-tiered waterfall in the hills outside Rishikesh, reached by a 2–3 km forest trek from Malakhunti village. It cascades over limestone rocks into natural pools, offering a serene picnic spot. Its flow is strongest during monsoon and post-monsoon months.",
+            "essential": "Trek on marked trails only; wear sturdy shoes; do not climb near the falls; carry water and snacks; avoid trekking alone; no littering or camping without permission; heed weather warnings (avoid slippery rocks when wet).",
+            "story": "Mahakunthi Waterfall, nestled in the serene forests near Rishikesh, is steeped in local legend linking it to the Mahabharata era. According to folklore, it is believed that Kunti, the revered mother of the Pandavas, once meditated and performed penance in this sacred region during their exile. The name \"Mahakunthi\" is said to derive from her, symbolizing her spiritual greatness and connection to the divine. The waterfall, surrounded by dense Himalayan greenery, is considered a place of purification and quiet reflection, attracting seekers and pilgrims journeying to the nearby Neelkanth Mahadev Temple.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153850/f1eiedojorrzjywxj9ul.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153851/wcpfvm2ir1bdq5bi2ykl.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153852/omsmumxa43qrudheyzmn.jpg"
+            ],
+            "videos": [],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Narendra Nagar",
+            "distance": "15 km uphill from Rishikesh",
+            "category": "Cultural / Scenic",
+            "lat": 30.1617,
+            "lon": 78.2871,
+            "address": "Narendra Nagar, Tehri Garhwal, Uttarakhand",
+            "locationLink": "https://maps.google.com/?q=Narendranagar+Uttarakhand",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "1919",
+            "fee": "Free",
+            "description": "A hillside town 16 km from Rishikesh (elevation ~1322 m) with panoramic views of the Ganga and Doon Valley. Formerly Tehri’s capital (founded by Maharaja Narendra Shah), it features a royal palace (now Ananda Spa) and hilltop temples. The scenic sunsets and colonial-era heritage make it a tranquil escape",
+            "essential": "Respect private and historic sites (palace area); follow local guides on nature walks; avoid wandering after dark in forest areas; do not disturb wildlife; use proper waste disposal to keep the town clean; seek permission before photographing locals or sacred spots.",
+            "story": "In 1919 King Narendra Shah moved the Tehri capital here for its beauty. British Viceroys later vacationed in its palace. The town’s history as a royal hill station is its legacy. The name honors Maharaja Narendra, and local lore recalls the palace turning into a princely retreat by the Ganges.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153854/pkqi7uf5xh1wihaqkcwo.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153857/zztswn8tvlgsbt0p9h97.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153858/bziod7eaa429j7lsxeuq.png"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/ZIL5D53tdDo?si=TTq2VQY1EfgiVLZK"
+            ],
+            "premium": "FREE"
+        },
+        {
+            "cityId": "68a57ac9fe74fcba8502d52b",
+            "cityName": "Rishikesh",
+            "places": "Mussoorie (Extended trip)",
+            "distance": "75–80 km from Rishikesh",
+            "category": "Hill Station / Scenic",
+            "lat": 30.45,
+            "lon": 78.08,
+            "address": "Mussoorie, Dehradun district, Uttarakhand",
+            "locationLink": "https://maps.google.com/?q=Mussoorie+Uttarakhand",
+            "openDay": "Monday–Sunday",
+            "openTime": "Opens 24/7",
+            "establishYear": "1825",
+            "fee": "Free",
+            "description": "A famous hill resort town (“Queen of the Hills”) in the Garhwal Himalayas. At ~2005 m elevation, it overlooks Dehradun Valley. Founded in 1825 by British officers, it features colonial architecture, viewpoints like Camel’s Back Road and Lal Tibba, and natural attractions (Kempty Falls nearby)",
+            "essential": "Expect cool climate; carry jackets (snowfall in winter); use local buses or hire taxis carefully (mountain roads); do not litter on trails; protect forest areas and follow fire-ban rules; be cautious of monkeys near markets; check for altitude sickness if not acclimatized.",
+            "story": "Mussoorie’s name comes from a local shrub. As a British hill station, it has colonial heritage (est. 1825 by Capt. Frederick Young). It became a summer capital for British officials and later a popular retreat for Indian leaders (e.g. Nehru family). It’s culturally tied to Tibetan Buddhist settlements at Happy Valley.",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153862/rn054qqojp3ecf6mtv4o.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153867/xwjlydnvbuyrset7lrta.jpg",
+                "https://i0.wp.com/www.manjulikapramod.com/wp-content/uploads/2021/11/Mussoorie-Library-Chowk.jpg?resize=800%2C738&ssl=1"
+            ],
+            "videos": [
+                "https://www.youtube.com/embed/XIu2U5Fe9jA?si=b8cnLx3S0tqntKuG"
+            ],
+            "premium": "FREE"
+        }
+    ]
+}
