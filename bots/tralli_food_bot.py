@@ -155,7 +155,7 @@ class FoodBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        self.namespace = f"Food-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-food"
+        self.namespace = f"Food-{self.city.title()}"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")

@@ -9,7 +9,8 @@
             "lon": 77.9037,
             "locationLink": "https://maps.app.goo.gl/BjhQrkCpp4KomVTn9",
             "majorFlightsTrainsBuses": "Delhi to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c54"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -20,7 +21,8 @@
             "lon": 78.2699,
             "locationLink": "https://maps.app.goo.gl/LaS4ghYzKJmMZThm9",
             "majorFlightsTrainsBuses": "Mumbai to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c55"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -31,7 +33,8 @@
             "lon": 78.26,
             "locationLink": "https://maps.app.goo.gl/Sgxp5aZt1qh7p3Mg6",
             "majorFlightsTrainsBuses": "Hyderabad to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c56"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -42,7 +45,8 @@
             "lon": 78.2618,
             "locationLink": "https://maps.app.goo.gl/MQVfKL47uoo49NeT9",
             "majorFlightsTrainsBuses": "Bengaluru to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c57"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -53,7 +57,8 @@
             "lon": 78.2309,
             "locationLink": "https://maps.app.goo.gl/qqDWCyJMw79qjf3w8",
             "majorFlightsTrainsBuses": "Jaipur to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c58"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -64,7 +69,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Chandigarh to Rishikesh flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -75,7 +81,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Kolkata to Rishikesh flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -86,7 +93,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Ahmedabad to Rishikesh by flight",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -97,7 +105,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "12017 DDN SHTBDI EXP[NDLS to Dehradun Train Station]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -108,7 +117,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "12038 SIDDHABALI J SH[Delhi Junction to Kotdwar]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -119,7 +129,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "12055 DDN JANSHTBDI[NDLS to Dehradun Train Station]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -130,7 +141,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "12401 KOTA DDN AC EXP[Kota Junction to Degradun Train Station]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -141,7 +153,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "13009 DOON EXPRESS[Howrah to Yog Nagari Rishikesh]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -152,7 +165,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "14609 HEMKUNT EXPRESS[Katra to Yog Nagari Rishikesh]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -163,7 +177,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "14610 HEMKUNT EXPRESS[Katra to Yog Nagari Rishikesh]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -174,7 +189,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "13151 KOAA JAT EXPRES[Kolkata to Jammu Tawi]",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -185,7 +201,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Buses from Delhi to Rishikesh ",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -196,7 +213,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Buses from Jaipur to Rishikesh ",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -207,7 +225,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Buses from Agra to Rishikesh",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -218,7 +237,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Buses from Lucknow to Rishikesh",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -229,7 +249,8 @@
             "lon": null,
             "locationLink": null,
             "majorFlightsTrainsBuses": "Buses from Haridwar to Rishikesh",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f720f4dc4834768c5b"
         }
     ]
 }

@@ -21,7 +21,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/pB9dALNMHk9ZhUbv5",
             "publicWashroomsLat": 30.113,
             "publicWashroomsLon": 78.296,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cea"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -44,7 +45,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/tV6Q2P81dW2UPUHH8",
             "publicWashroomsLat": 30.104,
             "publicWashroomsLon": 78.3,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768ceb"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -67,7 +69,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/r4TGqxFY4oEesfEy8",
             "publicWashroomsLat": 30.119,
             "publicWashroomsLon": 78.307,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cef"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -90,7 +93,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/ydfBSe4ez1myp1YQ6",
             "publicWashroomsLat": 30.122,
             "publicWashroomsLon": 78.316,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cef"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -113,7 +117,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/tq34QTuNb1QMfFpP7",
             "publicWashroomsLat": 30.127,
             "publicWashroomsLon": 78.327,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cef"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -136,7 +141,8 @@
             "publicWashroomsLocationLink": "https://maps.app.goo.gl/83TEHhWHaeBospeG9",
             "publicWashroomsLat": 30.127,
             "publicWashroomsLon": 78.331,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cef"
         }
     ]
 }

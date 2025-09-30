@@ -26,7 +26,7 @@ load_dotenv()
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-1.5-flash")
+model = genai.GenerativeModel("models/gemini-flash-latest")
 
 CATEGORIES = [
     "place","food","shop","transport","accommodation","activity","hiddengem","itinerary","nearbyspot","cityinfo","connectivity","misc"

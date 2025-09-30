@@ -432,6 +432,7 @@ from fastapi import APIRouter, HTTPException
 from fastapi.concurrency import run_in_threadpool
 from pydantic import BaseModel
 from service.query_classifier import classify_query_with_gemini
+from service.async_utils import run_blocking
 from agents.tralli_agent import get_city_handlers
 from typing import Dict, Any
 
@@ -449,14 +450,13 @@ async def classify_and_handle_query(input: CityQueryInput) -> Dict[str, Any]:
         raise HTTPException(status_code=400, detail=f"City '{city}' not supported.")
 
     # Run blocking classification in threadpool
-    category = await run_in_threadpool(classify_query_with_gemini, input.query)
+    category = await run_blocking(classify_query_with_gemini, input.query)
     handler = handlers.get(category, handlers.get("miscellaneous"))
 
     # Run the synchronous bot logic in threadpool to avoid blocking event loop
-    payload = await run_in_threadpool(handler, input.query)
+    payload = await run_blocking(handler, input.query)
     if isinstance(payload, str):
         payload = {"results": []}
     # Always exclude any 'text' field per requirement
     results = payload.get("results", [])
     return {"category": category, "results": results}
-

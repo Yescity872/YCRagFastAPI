@@ -15,7 +15,7 @@ class PlaceBot:
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
         # Rishikesh new namespace style
-        self.namespace = f"Place-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-places"
+        self.namespace = f"Place-{self.city.title()}"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")

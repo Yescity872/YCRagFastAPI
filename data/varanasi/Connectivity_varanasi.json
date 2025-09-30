@@ -1,0 +1,257 @@
+{
+    "Connectivity": [
+        {
+            "_id": "68c7f27d20f4dc4834768b22",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Lahartara Bus Stop",
+            "distance": "5.9km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3163,
+            "lon": 76.6504,
+            "locationLink": "https://maps.app.goo.gl/zR5xh4AQnyqbjECZ8",
+            "majorFlightsTrainsBuses": "Flights from Chandigarh to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b28",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Shramjeevi Express (12391/12392)[NDLS to Rajgir]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b1c",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Lal Bahadur Shastri International Airport, Varanasi",
+            "distance": "25km from Rathyatra Crossing (City Centre) ",
+            "lat": 25.4513,
+            "lon": 82.8557,
+            "locationLink": "https://maps.app.goo.gl/XfJrZBvqEx6mmnBe6",
+            "majorFlightsTrainsBuses": "Flight from Delhi to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b24",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Kashi Vishwanath Express (15127/15128)[NDLS to Banaras]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b29",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Lichchavi Express (14005/14006)[Anand Vihar Terminal to Sitamarhi Junction]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2a",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Brahmaputra Mail (15657/15658)[Old Delhi to Kamakhya]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2c",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Bhubaneswar-Varanasi Express (12875/12876)[Bhubaneshwar to Varanasi]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2e",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses from Lucknow to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b30",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses from Ayodhya to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b31",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses From Ranchi to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b1e",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Varansi city station",
+            "distance": "5.8km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3344,
+            "lon": 83.0143,
+            "locationLink": "https://maps.app.goo.gl/tMGkqyhbwh4zmvYA6",
+            "majorFlightsTrainsBuses": "Flight from Hyderabad to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b1f",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Banaras Railway Station",
+            "distance": "4km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3161,
+            "lon": 82.9915,
+            "locationLink": "https://maps.app.goo.gl/xLBABW7qteFe7YgM9",
+            "majorFlightsTrainsBuses": "Flight from Bangalore to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b20",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Singh bus service Varanasi cant",
+            "distance": "2.7km from Rathyatra Crossing (City Centre)",
+            "lat": 25.2942,
+            "lon": 82.936,
+            "locationLink": "https://maps.app.goo.gl/JXwykVa7pH8Gm2tP7",
+            "majorFlightsTrainsBuses": "Flight from Kolkata to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b21",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Private Bus Stand",
+            "distance": "6.8km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3311,
+            "lon": 82.9939,
+            "locationLink": "https://maps.app.goo.gl/bMoohk96AYjvMBg8A",
+            "majorFlightsTrainsBuses": "Flight from Jaipur to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b23",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "Varanasi Bus Service",
+            "distance": "3.3km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3286,
+            "lon": 82.9902,
+            "locationLink": "https://maps.app.goo.gl/g9yAoTUQRZSKNa8t9",
+            "majorFlightsTrainsBuses": "Flight from Sharjah to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b25",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Mahabodhi Express (12280/12279)[NDLS to Jhansi]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b26",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Shiv Ganga Express (12560/12559)[NDLS to Banaras]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2f",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses from Jaipur to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b1d",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": "varanasi Cantt railway station",
+            "distance": "6.4km from Rathyatra Crossing (City Centre)",
+            "lat": 25.3226,
+            "lon": 82.9848,
+            "locationLink": "https://maps.app.goo.gl/5mZ8q6zuNaKUooYP9",
+            "majorFlightsTrainsBuses": "Flight from Mumbai  to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b27",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Vande Bharat Express (22435/22436)[NDLS to Varanasi Junction Railway Station]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2b",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Mysuru-Varanasi Express (22687/22688)[Mysuru toVaranasi]"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b2d",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses from Delhi to Varanasi"
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b32",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "nearestAirportStationBusStand": null,
+            "distance": null,
+            "lat": null,
+            "lon": null,
+            "locationLink": null,
+            "majorFlightsTrainsBuses": "Buses From Nagpur to Varanasi"
+        }
+    ]
+}

@@ -6,7 +6,8 @@
             "day1": "Rishikesh 1-Day Trip Plan (Most Important Places)",
             "day2": "Rishikesh 2-Day Trip Plan (Next Most Important Places)",
             "day3": "Rishikesh 3-Day Trip Plan (Additional Important / Outskirts)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf1"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -14,7 +15,8 @@
             "day1": null,
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -22,7 +24,8 @@
             "day1": "This plan covers the absolute must-see places in Rishikesh, arranged in a time-efficient sequence for a fulfilling single-day visit.",
             "day2": "If you have two days, you can expand on the core experiences of Day 1 by adding more natural beauty and adventure or deeper spiritual exploration.",
             "day3": "This plan (which was previously provided in detail) expands your Rishikesh experience to include more distant but highly scenic and significant locations, enriching your journey.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf3"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -30,7 +33,8 @@
             "day1": null,
             "day2": "Day 1: (As per the 1-Day Plan)",
             "day3": "Day 1: (As per the 2-Day Plan)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -38,7 +42,8 @@
             "day1": "Morning: Spiritual Dawn & Ganges Immersion (7:00 AM – 12:00 PM)",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf5"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -46,7 +51,8 @@
             "day1": null,
             "day2": "Triveni Ghat, Bharat Mandir",
             "day3": "Triveni Ghat, Bharat Mandir",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -54,7 +60,8 @@
             "day1": "7:00 AM – 8:30 AM: Triveni Ghat & Bharat Mandir",
             "day2": "Ram Jhula, Parmarth Niketan Ashram, Laxman Jhula, Trimbakeshwar Temple",
             "day3": "Ram Jhula, Parmarth Niketan Ashram, Laxman Jhula, Trimbakeshwar Temple",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf7"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -62,7 +69,8 @@
             "day1": "Start your day with a peaceful dip in the holy Ganges at Triveni Ghat, a significant bathing spot. Witness the morning rituals and serene atmosphere.",
             "day2": "Chaurasi Kutia (Beatles Ashram)",
             "day3": "Chaurasi Kutia (Beatles Ashram)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf8"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -70,7 +78,8 @@
             "day1": "Visit the ancient Bharat Mandir, located right next to Triveni Ghat.",
             "day2": "Evening Ganga Aarti at Parmarth Niketan.",
             "day3": "Evening Ganga Aarti at Parmarth Niketan.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf9"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -78,7 +87,8 @@
             "day1": "Essentials: Remove footwear before entering the ghat area; maintain cleanliness.",
             "day2": "Day 2: Nature, Adventure & Serenity (Next most important)",
             "day3": "Day 2: (As per the 2-Day Plan above)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cfa"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -86,7 +96,8 @@
             "day1": "Transportation: From Indermani Badoni Chowk (Natraj Chowk), Triveni Ghat is approximately 1 km (Auto: ₹140, Cab: ₹400, Bike: ₹30).",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cfb"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -94,7 +105,8 @@
             "day1": "8:30 AM – 9:30 AM: Breakfast",
             "day2": "Morning: Waterfall & Nature (8:00 AM – 1:00 PM)",
             "day3": "Neer Garh Waterfall",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cfc"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -102,7 +114,8 @@
             "day1": "Enjoy a local breakfast near Triveni Ghat or try a refreshing lassi from Pappu Lassi Wala (near Main Bazar Rd, Mayakund).",
             "day2": "8:00 AM – 11:00 AM: Neer Garh Waterfall",
             "day3": "Tapovan area (cafes, shopping)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cfd"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -110,7 +123,8 @@
             "day1": "9:30 AM – 10:00 AM: Travel to Ram Jhula Area",
             "day2": "Take an auto or scooter from the Laxman Jhula area to Neer Garh Waterfall (approx. 5 km, auto + short trek). Enjoy the natural beauty and the refreshing pools.",
             "day3": "Adventure option: Bungee Jumping/Giant Swing OR Serenity option: Vashistha Gufa",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cfe"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -118,7 +132,8 @@
             "day1": "Take an auto or e-rickshaw towards the Ram Jhula area.",
             "day2": "Essentials: Wear comfortable trekking shoes; carry water.",
             "day3": "Local market and dinner.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cff"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -126,7 +141,8 @@
             "day1": "10:00 AM – 12:00 PM: Parmarth Niketan Ashram & Ram Jhula",
             "day2": "11:00 AM – 1:00 PM: Tapovan Area & Brunch",
             "day3": "Day 3: Hilltop Views & Wildlife/Spiritual Excursion (Lesser priority / Further out)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d00"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -134,7 +150,8 @@
             "day1": "Explore Parmarth Niketan Ashram, Rishikesh's largest ashram. Experience its tranquil environment and visit the temples within.",
             "day2": "Return from the waterfall and have brunch at one of the lovely cafes in the Tapovan area. You can try Shambala Cafe, Ira’s Kitchen & Tea Room, or Beatles Cafe for healthy and tasty options.",
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d01"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -142,7 +159,8 @@
             "day1": "Walk across the famous Ram Jhula bridge, enjoying the scenic views of the Ganges.",
             "day2": "Take some time to explore this area known for its yoga and meditation centers.",
             "day3": "Morning: Sunrise Views (Requires very early departure, e.g., 5:00 AM)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d02"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -150,7 +168,8 @@
             "day1": null,
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -158,7 +177,8 @@
             "day1": "Afternoon: Iconic Bridges & Beatles Heritage (12:00 PM – 5:00 PM)",
             "day2": "Afternoon: Adventure or Secluded Meditation (1:00 PM – 6:00 PM)",
             "day3": "5:00 AM – 10:00 AM: Kunjapuri Devi Temple",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d04"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -166,7 +186,8 @@
             "day1": null,
             "day2": "Option A: Adventure Thrill (if interested)",
             "day3": "Start very early to drive uphill to Kunjapuri Devi Temple (approx. 25 km from Rishikesh). Witness breathtaking sunrise views over the Himalayas and the Ganges valley, and seek blessings.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -174,7 +195,8 @@
             "day1": "12:00 PM – 1:00 PM: Laxman Jhula & Trimbakeshwar Temple",
             "day2": "Head to Jumpin Heights in Mohanchatti (approx. 15 km from Rishikesh) for Bungee Jumping or the Giant Swing. This is a thrilling experience.",
             "day3": "Essentials: Wear comfortable shoes; carry warm clothes; requires an early start.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d06"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -182,7 +204,8 @@
             "day1": "Walk from Ram Jhula to Laxman Jhula, another iconic suspension bridge over the Ganges.",
             "day2": "Note: Allocate 3-4 hours for this, including travel and activity.",
             "day3": "10:00 AM – 1:00 PM: Neelkanth Mahadev Temple",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d07"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -190,7 +213,8 @@
             "day1": "Visit the 13-story Trimbakeshwar Temple (Tera Manzil Temple), located near Laxman Jhula.",
             "day2": "Option B: Peaceful Contemplation",
             "day3": "Travel to Neelkanth Mahadev Temple (approx. 30 km from Rishikesh, a scenic drive). Pay homage at this sacred Shiva temple, nestled amidst dense forests.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d08"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -198,7 +222,8 @@
             "day1": "Essentials: Be cautious of monkeys; walk on the left; avoid overcrowding. Remove shoes before entering temples.",
             "day2": "Visit Vashistha Gufa (near Shivpuri, approx. 20-25 km from Rishikesh). This is a serene meditation cave where Sage Vashistha is believed to have meditated. Ideal for those seeking peace and spiritual depth.",
             "day3": "Essentials: Dress modestly; remove footwear; be prepared for winding roads.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d09"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -206,7 +231,8 @@
             "day1": null,
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -214,7 +240,8 @@
             "day1": "1:00 PM – 2:00 PM: Lunch",
             "day2": "Essentials: Maintain silence inside; remove shoes before entering.",
             "day3": "Afternoon: Wildlife or Deep Spirituality (Choose one based on interest)",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d0b"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -222,7 +249,8 @@
             "day1": "Have lunch in the Laxman Jhula/Tapovan area. Options include The 60's Cafe, Little Buddha Cafe, or Uttar Dakshin for South Indian cuisine.",
             "day2": "Evening: Local Market & Dinner (6:00 PM onwards)",
             "day3": "Option A: Wildlife Safari",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d0c"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -230,7 +258,8 @@
             "day1": "2:00 PM – 2:30 PM: Travel to Beatles Ashram",
             "day2": "Stroll through Rishikesh's local markets like Bada Bazaar or Gole Market for local handicrafts, spiritual items, or clothing.",
             "day3": "Visit Rajaji National Park (Chilla Range) (approx. 15 km from Rishikesh). Enjoy a jeep safari to spot elephants, deer, and various bird species.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d0d"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -238,7 +267,8 @@
             "day1": "Take an auto or scooter to Chaurasi Kutia (Beatles Ashram).",
             "day2": "For dinner, consider a rooftop experience at The Sitting Elephant or fine dining at Jal & Jalebi by Ganges for special vegetarian options.",
             "day3": "Note: Jeep safari slots are fixed (morning/afternoon); ensure booking in advance.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d0e"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -246,7 +276,8 @@
             "day1": "2:30 PM – 4:30 PM: Explore Chaurasi Kutia (Beatles Ashram)",
             "day2": null,
             "day3": "Option B: Tranquil Retreat",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d0f"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -254,7 +285,8 @@
             "day1": "Discover this unique and historic abandoned ashram, famous for hosting The Beatles. Explore its meditation huts and artistic graffiti.",
             "day2": null,
             "day3": "Explore Phool Chatti Ashram or Jhilmil Gufa for quiet meditation and a deeper spiritual experience. These are less commercialized and offer a serene environment.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d10"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -262,7 +294,8 @@
             "day1": "Essentials: Wear comfortable shoes; carry water; there's an entry fee.",
             "day2": null,
             "day3": "Evening: Departure or Leisure",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d11"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -270,7 +303,8 @@
             "day1": "4:30 PM – 5:00 PM: Return to Parmarth Niketan Area",
             "day2": null,
             "day3": "Return to Rishikesh. Depending on your departure schedule, you can relax at your hotel or enjoy a final meal at a preferred restaurant.",
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d12"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -278,7 +312,8 @@
             "day1": "Travel back from Beatles Ashram to the Parmarth Niketan area.",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d13"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -286,7 +321,8 @@
             "day1": "Evening: Grand Ganga Aarti & Leisure (5:00 PM – 8:00 PM)",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d14"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -294,7 +330,8 @@
             "day1": null,
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768cf2"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -302,7 +339,8 @@
             "day1": "5:00 PM – 6:30 PM: Leisure / Local Market Stroll",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d16"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -310,7 +348,8 @@
             "day1": "Relax for a bit before the Aarti, or quickly browse the shops around Ram Jhula/Parmarth Niketan.",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d17"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -318,7 +357,8 @@
             "day1": "6:30 PM – 8:00 PM: Ganga Aarti at Parmarth Niketan Ghat",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d18"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -326,7 +366,8 @@
             "day1": "Arrive at Parmarth Niketan's ghat at least 30 minutes before sunset to secure a good spot for the mesmerizing Ganga Aarti ceremony. This spiritual experience with lamps, hymns, and rituals is a must-see.",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d19"
         },
         {
             "cityId": "68a57ac9fe74fcba8502d52b",
@@ -334,7 +375,8 @@
             "day1": "Essentials: Arrive early for a good view; maintain silence during the ceremony.",
             "day2": null,
             "day3": null,
-            "premium": "FREE"
+            "premium": "FREE",
+            "_id": "68c7f5f820f4dc4834768d1a"
         }
     ]
 }

@@ -27,7 +27,7 @@ class SouvenirBot:
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
         # New namespace for Rishikesh uses Shop- category name
-        self.namespace = f"Shop-{self.city.title()}" if self.city == "rishikesh" else f"{self.city}-souvenir"
+        self.namespace = f"Shop-{self.city.title()}"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")

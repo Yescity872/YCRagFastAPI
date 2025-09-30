@@ -14,7 +14,7 @@ class MiscBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        self.namespace = f"Misc-{self.city.title()}" if self.city == "rishikesh" else f"misc-{self.city}"
+        self.namespace = f"Misc-{self.city.title()}"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")

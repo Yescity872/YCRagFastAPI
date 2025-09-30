@@ -1,0 +1,446 @@
+{
+    "Accommodation": [
+        {
+            "_id": "68c7f27d20f4dc4834768b4f",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Pearl Courtyard",
+            "lat": 25.3094,
+            "lon": 82.9942,
+            "address": "D47/200 B, near Girja Ghar Chauraha, opposite NIDAN KENDRA, Godowliya, Luxa, Varanasi, Uttar Pradesh 221010",
+            "locationLink": "https://www.google.com/maps/place/Pearl+Courtyard/@25.3094433, 82.9941629, 15z/data=!4m9!3m8!1s0x398e2f3f35b8d999:0x1b3cd8353acce6b!5m2!4m1!1i2!8m2!3d25.3094437!4d83.0044412!16s%2Fg%2F11rv1j1jkb?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "4-star hotel",
+            "roomTypes": "Standard ,Superior and delux rooms Approx (₹ 5,167-₹ 11,265)",
+            "facilities": "Wi-Fi,breakfast, Parking,Air Conditioning,Laundry service,room service,Restaurant,Spa",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437906/t4kky1mp1piytsoqmf2g.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437907/edaero6bz31dr0tygex2.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437908/l3vhyhlysifjafem1vq6.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b50",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": true,
+            "hotels": "Brijrama Palace, Varanasi - By The Ganges",
+            "lat": 25.3053,
+            "lon": 82.9991,
+            "address": "Darbhanga Ghat, Dashashwamedh, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/BrijRama+Palace, +Varanasi+%7C+By+the+Ganges/@25.305348, 82.999058, 15z/data=!4m9!3m8!1s0x398e31e229e0603b:0x5087deadae3eab31!5m2!4m1!1i2!8m2!3d25.3053484!4d83.0093363!16s%2Fg%2F11b6jggm_5?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "5-star hotel",
+            "roomTypes": "Luxury rooms (₹ 26,450- ₹ 79,600)",
+            "facilities": "Wi-Fi,breakfast, Air Conditioning,Laundry service,room service,Restaurant,Spa",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437915/uhvcnlutfcwgpxvyjlm7.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437918/bxno3afe36tzoenqjkrk.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437921/lc9gnzc4j7x1mhtuoamw.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b58",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Sun Rise Lodge",
+            "lat": 25.309,
+            "lon": 83.0119,
+            "address": "Dasaswmedh Meer Ghat, D-3/21, Tripura Bhairwi Rd, Bangali Tola, Varanasi, Domari, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Sunrise+Lodge/@25.3090193, 83.011862, 17z/data=!4m10!3m9!1s0x398e2e1e2bf8a617:0x30a46e04632cbe88!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3090193!4d83.011862!16s%2Fg%2F11bbrg25pk?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "1-star hotel",
+            "roomTypes": "Delux Rooms (₹ 1,500-₹ 2,200)",
+            "facilities": "Wi-Fi,Air Conditioning,Laundry service,room service        ",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437973/eehv3kjuh9xxyqpqqff0.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437975/jiflzuaf3hdyfuusxgjs.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437977/h4mgbjqassbggrgjjzcg.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b53",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "The Kashi Residency",
+            "lat": 25.2865,
+            "lon": 82.9962,
+            "address": "B 30/252, Assi Rd, Near Assi Ghat, Nagwa, Varanasi, Uttar Pradesh 221005",
+            "locationLink": "https://www.google.com/maps/place/The+Kashi+Residency+Varanasi/@25.2864726, 82.9961567, 15z/data=!4m9!3m8!1s0x398e31f7f9d25617:0x539db40a4d997c85!5m2!4m1!1i2!8m2!3d25.286473!4d83.006435!16s%2Fg%2F11qrp26sjr?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,mid-range hotel",
+            "roomTypes": "Double Room with Private Bathroom(₹ 2,025-₹ 2,250)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Laundry service,room service,Restaurant,Fitness centre",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437941/vjkaemzf4jznalvqeeg2.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437942/twjdp2dzggzam7g31tpi.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437944/r6knxt14uqmwwpscetqg.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b56",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Ma Vishalakshi Paying Guest House",
+            "lat": 25.3098,
+            "lon": 82.9977,
+            "address": "Badadev, Godowlia, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Vishalakshi+Paying+Guest+House/@25.3098026, 82.9976703, 15z/data=!4m17!1m5!2m4!1sMa+Vishalakshi+Paying+Guest+House!5m2!5m1!1s2025-07-19!3m10!1s0x398e2e1da86f18df:0x4af348362539da1d!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3098026!4d83.006425!15sCiFNYSBWaXNoYWxha3NoaSBQYXlpbmcgR3Vlc3QgSG91c2WSAQVob3RlbKoBUhABKgYiAm1hKAAyHxABIhvX5ETmfRgVZMJhfatq97e26X1OaCvS3PzHscgyJRACIiFtYSB2aXNoYWxha3NoaSBwYXlpbmcgZ3Vlc3QgaG91c2XgAQA!16s%2Fg%2F11c1p3_4ps?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,GuestHouse",
+            "roomTypes": "Standard Rooms(₹ 1,100-₹ 1,500)",
+            "facilities": "Wi-Fi,breakfast,Parking,Air Conditioning,Parking,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437963/xhvyv2iugz4xrj6bbfta.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437964/xmhpwqe2binmueqchq0k.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437965/uezoelsrmzlovfyxwtel.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b57",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Shiva Inn Varanasi",
+            "lat": 25.3089,
+            "lon": 83.0113,
+            "address": "D 5/131 Tripura Bhairwi Rd, Meerghat Tiraha, 2, Kashi Vishwnath Rd, near Sri, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Shiva+Inn+Varanasi/@25.3089214, 83.011316, 17z/data=!3m1!4b1!4m10!3m9!1s0x398e2e1e3bfa4a47:0x73a7f3f57571c5d5!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3089214!4d83.011316!16s%2Fg%2F11g9dg7qn8?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "1-star hotel",
+            "roomTypes": "Double or Triple delux rooms (₹ 1,512-₹ 3,239)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Parking,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437968/xkz3wjfbb2jx2jeygmpw.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437969/yelagthakv0l3undc6zg.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437971/by6gk6eyzrvypul4w1a7.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5a",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Sahi River View Guest House",
+            "lat": 25.2884,
+            "lon": 83.0058,
+            "address": "B1/158 A2,, Assi Ghat Rd, Varanasi, Uttar Pradesh 221005",
+            "locationLink": "https://www.google.com/maps/place/Sahi+River+View+Guest+House/@25.288379, 83.005836, 17z/data=!4m10!3m9!1s0x398e31edc62f6a65:0x8ef165ee639d9bae!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.288379!4d83.005836!16s%2Fg%2F119tbccl6?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "1-star hotel",
+            "roomTypes": "Double or Twin Room with Bathroom(₹ 1,900),Deluxe Double or Twin Room(₹ 2,156-₹ 2,200),Double or Twin Room with Balcony(₹ 1,960-₹ 2,000),Triple Room with Private Bathroom(₹ 2,100)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437983/tspqoqwer9coql2u0yns.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437985/qzinvasqvm7tro6ncemr.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437986/n7ngyprqepqjggg3wadi.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5b",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Hotel Banaras Haveli",
+            "lat": 25.2882,
+            "lon": 82.9948,
+            "address": "B.1/224, Assi Ghat Rd, Shivala, Varanasi, Uttar Pradesh 221005",
+            "locationLink": "https://www.google.com/maps/place/HOTEL+BANARAS+HAVELI/@25.2882225, 82.9947933, 15z/data=!4m9!3m8!1s0x398e31ed95a8601f:0xe6d9c6555c537a4b!5m2!4m1!1i2!8m2!3d25.2882229!4d83.0050716!16s%2Fg%2F11b6d1l0cm?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Standard Room(₹ 2,213-₹ 2,845),Superior Room(₹ 2,845-₹ 3,161),Superior Room With Triple Bed(₹ 3,161-₹ 3,794),Superior Room With River View(₹ 3,794-₹ 4,110),Executive Room With River View(₹ 4,426-₹ 4,742),Family Room(₹ 4,742)",
+            "facilities": "Wi-Fi,breakfast,Parking,Air Conditioning,Laundry service,room service,Restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437993/sgtlc3xqbg4dlisdgfha.jpg",
+                "20&output-format=webp&downsize=720:*",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437994/mfm4ehzridljxvdevqhr.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437997/e5iceyx9px9u7uciypaw.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5d",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Kashi Stay Guest house",
+            "lat": 25.3098,
+            "lon": 83.0103,
+            "address": "D7/27 dashashwamedh, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Kashi+Stay+Guest+house/@25.309839, 83.0102615, 17z/data=!4m10!3m9!1s0x398e2ff6e8173229:0xb4f3a6e702770c0c!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.309839!4d83.0102615!16s%2Fg%2F11f7pt98y_?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,GuestHouse",
+            "roomTypes": "Family Room with Bathroom(₹ 1,499-₹ 1,530)",
+            "facilities": "Wi-Fi,Air Conditioning,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438009/uoy7egfl9desmw4vtgr8.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438011/odmfkoycmyb3v1n4lfue.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438012/fnjphhcdzlrvy63bydjt.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5e",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Satshree Kothi",
+            "lat": 25.317,
+            "lon": 83.0139,
+            "address": "K-60/6 Siddhmata Gali, Maidagin Xing, Golghar, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Satshree+Kothi+(Luxury+Hotel+)/@25.3170032, 83.0138853, 17z/data=!4m10!3m9!1s0x398e2f2a564eec4b:0x876c400f29790cd2!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3170032!4d83.0138853!16s%2Fg%2F11y3nq2q13?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Bunk Bed in Mixed Dormitory Room(₹ 600)",
+            "facilities": "Wi-Fi,Breakfast,Air Conditioning,room service,restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438015/kl8ibmwf4tbqyv3ljqkq.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438016/myo7cs1vdg8kdvviuxt0.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438018/zljjx1jilhbki2slkujl.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b4c",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": true,
+            "hotels": "Taj Ganges Varanasi",
+            "lat": 25.3361,
+            "lon": 82.9864,
+            "address": "Nadesar Palace, Raja Bazar Rd, opp. Taksal Cinema hall, Nadesar, Chaukaghat, Varanasi, Uttar Pradesh 221002",
+            "locationLink": "https://www.google.com/maps/place/Taj+Ganges, +Varanasi/@25.3360957, 82.9863626, 17z/data=!3m1!4b1!4m9!3m8!1s0x398e2ddb8a8c14a9:0xf040da7440f76fd6!5m2!4m1!1i2!8m2!3d25.3360957!4d82.9863626!16s%2Fg%2F1tvq2jfn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "5-star hotel",
+            "roomTypes": "Superior Room City View Twin Bed(₹ 16,999-₹ 19,000),Deluxe Room City View King Bed(₹ 21,999 - ₹ 24,000),Luxury Room City View King Bed with Bathtub(₹ 24,799-₹ 27,800),Deluxe Suite 1 Bedroom Garden View Double Bed(₹ 52,499)",
+            "facilities": "Wi-Fi,breakfast, Parking, Pool,Air Conditioning,,Laundry service,,room service,Restaurant,Spa,Fitness centre,Bar",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437882/v8hlz9ztngmycqpr7rq3.jpg",
+                "20&output-format=webp&downsize=810:*",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437885/hkms0cy2gejqzdm3anh0.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437890/yruex3crjdupruzgvuss.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b4d",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": true,
+            "hotels": "DoubleTree by Hilton Varanasi",
+            "lat": 25.3517,
+            "lon": 82.9938,
+            "address": "SA 2/320, Chhota Lalpur, Pandeypur, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/DoubleTree+by+Hilton+Varanasi/@25.3516877, 82.9938294, 17z/data=!4m9!3m8!1s0x398e2e7f9ba40807:0x6c41b9a145472fb3!5m2!4m1!1i2!8m2!3d25.3516877!4d82.9938294!16s%2Fg%2F11tk2gvyyn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "5-star hotel",
+            "roomTypes": "Deluxe King(₹ 5,500-₹ 10,500),Deluxe Twin(₹ 5,500-₹ 10,500),Premium King(₹ 7,000-₹ 12,000),Premium King Pool View(₹ 7,500-₹ 12,500),Premium Twin Pool View(₹ 7,500-₹ 12,500),Business Suite Pool View(₹ 25,000-₹ 30,000),Presidential Suite(₹ 1,05,000-₹ 1,10,000)",
+            "facilities": "Wi-Fi,breakfast, Parking, Pool,Air Conditioning,,Laundry service,,room service,Restaurant,Spa,Fitness centre,Bar",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437894/f8oycivrvc0njwdb0vaw.jpg",
+                "0&output-format=webp&downsize=720:*",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437895/digawbxnrfgavq0n8acm.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437898/qbpqxerrr5x0fy5elve6.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b52",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Dwivedi Hotels Sri Omkar Palace",
+            "lat": 25.3043,
+            "lon": 82.9981,
+            "address": "D22/10 Bengali Tola Road Near Chausatthi Temple Bengali Tola, Chausatthi Ghat, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Dwivedi+Hotels+Sri+Omkar+Palace/@25.3043418, 82.998096, 15z/data=!4m9!3m8!1s0x398e31e3d3267b65:0xc41a61c884e2bffe!5m2!4m1!1i2!8m2!3d25.3043422!4d83.0083743!16s%2Fg%2F11csr3xddt?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Standard Rooms(₹ 2,433-₹ 3,181)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Laundry service,room service,Restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437931/djnkzfuywuahq341w4kn.jpg",
+                "19&output-format=webp&downsize=720:*",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437932/rqfpwbioaviogufeozi0.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437938/hmgarkhsbi8yxtacpmz7.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b55",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Palette Heritage Varanasi Retreat",
+            "lat": 25.3206,
+            "lon": 82.9921,
+            "address": "near GGIC College, behind Banjara Lawn, Badshahbag Colony, Badshah Bagh Colony, Ramakanth Nagar, Chetganj, Varanasi, Uttar Pradesh 221002",
+            "locationLink": "https://www.google.com/maps/place/Palette+Heritage+Varanasi+Retreat/@25.3206111, 82.9921389, 17z/data=!4m10!3m9!1s0x398e2d303989f8af:0x78ed25caca8fa816!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3206111!4d82.9921389!16s%2Fg%2F11lzx0sjyh?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Classic(₹ 1,425-₹ 1,586),Suite(₹ 1,425-₹ 1,586)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Parking,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437953/xn7ociurtcl2qpxbtzt4.jpg",
+                "0&output-format=webp&downsize=720:*",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437957/giotsztf2kijvfdgih4t.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437961/s7wuehqysi6kqcau0m6u.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b59",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Hotel Temple on Ganges",
+            "lat": 25.2877,
+            "lon": 83.0058,
+            "address": "B1/152 A-2k, Assi Ghat Rd, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
+            "locationLink": "https://www.google.com/maps/place/Hotel+Temple+On+Ganges/@25.2877431, 83.0058342, 17z/data=!4m10!3m9!1s0x398e31eda5345631:0x6a0ccb2209112c0a!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.2877431!4d83.0058342!16s%2Fg%2F1tk6nr2r?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Delux Rooms (₹ 4,999-₹ 10,799)",
+            "facilities": "Wi-Fi,breakfast,Parking,Air Conditioning,Laundry service,room service,Restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437979/c6slwbzfrdi8jyavl7pq.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437980/v0wxvcg6svkpqkx19aj3.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437981/co51xnokajzh4c63nq8r.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5c",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Banaras Guest House",
+            "lat": 25.2887,
+            "lon": 83.0049,
+            "address": "B1/240, Assi Ghat Rd, near Alok Hospital, Assi ghat, Shivala, Varanasi, Uttar Pradesh 221005",
+            "locationLink": "https://www.google.com/maps/place/Banaras+Guest+House/@25.2887216, 83.0049764, 17z/data=!3m1!4b1!4m10!3m9!1s0x398e31edeef29463:0x33c757cea40dde6b!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.2887216!4d83.0049764!16s%2Fg%2F11cp7jcjg1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "1-star hotel",
+            "roomTypes": "Classic Triple Room(₹ 3,415-₹ 4,098)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Laundry service,room service,Restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437999/iuf4tiskvgafykynqwrx.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438005/tvivlnsksix2wtoziyvw.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438006/krbzdmb8vowcffixxgix.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b61",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Shri Ram Paying Guest House",
+            "lat": 25.3142,
+            "lon": 83.0134,
+            "address": "CK 14, 10, Shitala Gali, Thatheri Bazar, Ghasi Tola, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Shri+Ram+Paying+Guest+House/@25.3141928, 83.01341, 17z/data=!4m10!3m9!1s0x398e2e17e7a527b5:0x826b3bb5c1242778!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3141928!4d83.01341!16s%2Fg%2F11vj6_zgm1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,mid-range hotel",
+            "roomTypes": "Deluxe Family Room(₹ 2,375),Family Double Room(₹ 2,850)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,laundry service,room service,restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438035/gq79gwfqzptseoitf3im.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438037/dv0idsvfhzkm55v4zjll.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438038/h13asmtr0qctwvmpcku1.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b4e",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Hotel Dolphin International",
+            "lat": 25.2999,
+            "lon": 82.9998,
+            "address": "Plot No. B 20, 48, Bhelupur Rd, near Jain Mandir, Bhelupur, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Hotel+Dolphin+International/@25.299949, 82.9997845, 17z/data=!4m9!3m8!1s0x398e31fbea81e9d7:0xcfd7507eeb5652f8!5m2!4m1!1i2!8m2!3d25.299949!4d82.9997845!16s%2Fg%2F1pzwn2hm9?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Deluxe Room(₹ 5,000-₹ 6,600),Executive Double Room(₹ 4,500-₹ 7,600),King Suite(₹ 7,000-₹ 7,800),Standard Studio(₹ 6,500-₹ 8,000),Suite with Hot Tub(₹ 9,000-₹ 10,500),Executive Triple Room(₹ 5,500-₹ 11,800),Quadruple Room(₹ 7,500-₹ 15,900)",
+            "facilities": "Wi-Fi,breakfast, Parking,Air Conditioning,,Laundry service,room service,Restaurant,Spa",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437901/ohq4pruwokgh4fgfghg4.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437902/vczqfs9uzhpxc0jlwn3r.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437904/ovdyoy2sginklbozhdpb.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b51",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Hotel Ganges Grand",
+            "lat": 25.3094,
+            "lon": 82.9964,
+            "address": "Front Of, Marwari Hospital Building, D-37/47, Dashashwamedh Ghat Rd, Crossing, Godowlia, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Hotel+Ganges+Grand+-+Varanasi/@25.3093845, 82.9964317, 15z/data=!4m9!3m8!1s0x398e2e1da1081d05:0x8863d5ee5688ee07!5m2!4m1!1i2!8m2!3d25.3093849!4d83.00671!16s%2Fg%2F11c1t_b0q0?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Executive Double Room(₹ 5,200-₹ 8,000),Deluxe Double Room with Balcony(₹ 9,200-₹ 12,000)",
+            "facilities": "Wi-Fi,breakfast, Parking,Air Conditioning,Laundry service,room service,Restaurant",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437923/o0kkcbmjiinq13prtm3x.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437926/oqrbv5qmr0lnlu76uu09.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437927/yl6jowh99zznq215btba.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b54",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Hotel Ananda Kashi",
+            "lat": 25.3205,
+            "lon": 83.014,
+            "address": "near Maidagin petrol pump, K 53/48-5, near Maidaigin petrol pump, Madhyameshwar, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Hotel+Ananda+Kashi+%7C+Best+Hotel+in+Varanasi/@25.320507, 83.0140282, 17z/data=!4m10!3m9!1s0x398e2f3f1a1b3847:0xe2580a7583896894!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.320507!4d83.0140282!16s%2Fg%2F11l5zdc80m?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "3-star hotel",
+            "roomTypes": "Studio(₹ 3,350-₹ 4,650),Suite(₹ 5,800-₹ 7,800)",
+            "facilities": "Wi-Fi,breakfast,Air Conditioning,Parking,Laundry service,room service,Restaurant,Fitness centre",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437946/oel60imaxe9lmo3oops3.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437947/cm7r6qi9c3akynuqkhpx.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437948/bmyd2aeczu0og5kk5grg.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b5f",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Lotus Paying Guesthouse",
+            "lat": 25.3059,
+            "lon": 83.0092,
+            "address": "D, 19/27-S, Kewal Gali, near Kali, Mata Temple, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Lotus+Paying+Guesthouse/@25.3059872, 83.0092294, 17z/data=!4m10!3m9!1s0x398e31e3ac5f6da5:0x3e6e8a6fbab2deec!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3059872!4d83.0092294!16s%2Fg%2F11cr_7ksrf?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "1-star hotel",
+            "roomTypes": "Non AC Room(₹ 743),AC Room(₹ 1,188)",
+            "facilities": "Wi-Fi,Air Conditioning,Laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438021/hs747kczxep1lirqngr5.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438025/swctr9cwtqatpgq7oyyr.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438028/fhnvl0d2oolsu7tuv0uo.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b60",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Baba Vishwanath Residency",
+            "lat": 25.3075,
+            "lon": 83.0093,
+            "address": "D, Navgrah Mandir, 17/13, Bhuteshwar Gali, near Hanuman Mandir, Dashashwamedh, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Baba+Vishwanath+Residency/@25.3075498, 83.0092725, 17z/data=!4m10!3m9!1s0x398e312fe695e8ad:0x70198bad09d2b583!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.3075498!4d83.0092725!16s%2Fg%2F11vm3sb84j?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,mid-range hotel",
+            "roomTypes": "Double Room(₹ 2,025-₹ 2,250),Triple Room with Private Bathroom(₹ 2,879),Family Room with Private Bathroom(₹ ₹ 4,679-5,199),Single Room(₹ 1,440)",
+            "facilities": "Wi-Fi,Air Conditioning,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438030/ltqhpcoyqb421f8asy5s.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438032/qwtzt7xqnlfglyerhfut.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438033/rl2db8atuw9s1iag447i.jpg"
+            ]
+        },
+        {
+            "_id": "68c7f27d20f4dc4834768b62",
+            "cityId": "68c7454b4ea2df675385f352",
+            "cityName": "Varanasi",
+            "flagship": false,
+            "hotels": "Southern Grand Kashi",
+            "lat": 25.3115,
+            "lon": 83.0096,
+            "address": "Bhimashankar Guest House, Shri Kashi Vishwanath Temple, Corridor, Lahori Tola, Varanasi, Uttar Pradesh 221001",
+            "locationLink": "https://www.google.com/maps/place/Southern+Grand+Kashi/@25.311548, 83.0095996, 17z/data=!4m10!3m9!1s0x398e2e1e9c8e6673:0xef8101e96a9ebf5d!5m3!1s2025-07-19!4m1!1i2!8m2!3d25.311548!4d83.0095996!16s%2Fg%2F11sv7vvng7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+            "category": "Affordable,mid-range hotel",
+            "roomTypes": "Superior Double Room(₹ 4,990-₹ 5,990),Superior Triple Room(₹ 6,190)",
+            "facilities": "Wi-Fi,Air Conditioning,laundry service,room service",
+            "images": [
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438040/y0lcgosh7mdwnpvmxud1.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438042/r0wj9zn4igrxg7qoumxe.jpg",
+                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438043/es9jt0zf5p62sl6t5sii.jpg"
+            ]
+        }
+    ]
+}

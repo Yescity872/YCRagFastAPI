@@ -14,7 +14,7 @@ class AccommodationBot:
         self.city = city.lower()
         self.groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
         self.embeddings = get_embeddings()
-        self.namespace = f"Accommodation-{self.city.title()}" if self.city == "rishikesh" else f"accommodation-{self.city}"
+        self.namespace = f"Accommodation-{self.city.title()}"
         try:
             api_key = os.getenv("PINECONE_API_KEY")
             index_name = os.getenv("PINECONE_INDEX", "ycrag-travel")
