@@ -1,0 +1,284 @@
+{
+  "transport": [
+    {
+      "_id": "68c7f22920f4dc4834768aa6",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Taj Mahal",
+      "autoPrice": "Rs 70-110",
+      "cabPrice": "Rs 70-110",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa7",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Fatehpur Sikri",
+      "autoPrice": null,
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aaa",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Sadar Bazaar",
+      "autoPrice": "Rs 75-90",
+      "cabPrice": "Rs 90-110",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aab",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Agra cantt",
+      "autoPrice": "Rs 90-110",
+      "cabPrice": "Rs 105-130",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aac",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Mehtab Bagh",
+      "autoPrice": "Rs 110-130",
+      "cabPrice": "Rs 130-160",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aae",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Keetham lake",
+      "autoPrice": null,
+      "cabPrice": "Rs 730-800",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab2",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Mehtab Bagh",
+      "autoPrice": "Rs 150-170",
+      "cabPrice": "Rs 170-220",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab8",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Mehtab Bagh",
+      "autoPrice": "Rs 170-200",
+      "cabPrice": "Rs 210-250",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768abc",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Keetham lake",
+      "autoPrice": null,
+      "cabPrice": "Rs 630-730",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768abd",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Agra Fort",
+      "autoPrice": "Rs 70-100",
+      "cabPrice": "Rs 80-110",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa9",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Ram Bagh",
+      "autoPrice": "Rs 110-140",
+      "cabPrice": "Rs 120-170",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aaf",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Ram Bagh",
+      "autoPrice": "Rs 160-180",
+      "cabPrice": "Rs 210-240",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab0",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Sadar Bazaar",
+      "autoPrice": "Rs 100-120",
+      "cabPrice": "Rs120-140",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab7",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Sadar Bazaar",
+      "autoPrice": "Rs 70-90",
+      "cabPrice": "Rs 80-100",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa8",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra fort ",
+      "to": "Keetham lake",
+      "autoPrice": null,
+      "cabPrice": "Rs 690-750",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aad",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Fatehpur Sikri",
+      "autoPrice": null,
+      "cabPrice": "Rs 750-850",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab3",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Agra Fort",
+      "autoPrice": "Rs 80-110",
+      "cabPrice": "Rs 85-110",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab4",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Fatehpur Sikri",
+      "autoPrice": null,
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab9",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Taj Mahal",
+      "autoPrice": "Rs 120-140",
+      "cabPrice": "Rs 140-170",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768abf",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Mehtab Bagh",
+      "autoPrice": "Rs 150-180",
+      "cabPrice": "Rs 190-240",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab1",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Taj Mahal",
+      "to": "Agra cantt",
+      "autoPrice": "Rs 125-150",
+      "cabPrice": "Rs 160-180",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab5",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Keetham lake",
+      "autoPrice": null,
+      "cabPrice": "Rs 600-700",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ab6",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Ram Bagh",
+      "autoPrice": "Rs 190-210",
+      "cabPrice": "Rs 220-250",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aba",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Agra Cantt",
+      "to": "Agra fort",
+      "autoPrice": "Rs 90-110",
+      "cabPrice": "Rs 100-140",
+      "bikePrice": "Rs 20-30"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768abb",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Fatehpur Sikri",
+      "autoPrice": null,
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null
+    },
+    {
+      "_id": "68c7f22920f4dc4834768abe",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Ram Bagh",
+      "autoPrice": "Rs 160-190",
+      "cabPrice": "Rs 190-230",
+      "bikePrice": "Rs 70-80"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ac0",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Taj Mahal",
+      "autoPrice": "Rs 105-130",
+      "cabPrice": "Rs 120-160",
+      "bikePrice": "Rs 50-60"
+    },
+    {
+      "_id": "68c7f22920f4dc4834768ac1",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "from": "Sadar Bazaar ",
+      "to": "Agra Cantt",
+      "autoPrice": "Rs 60-90",
+      "cabPrice": "Rs 80-110",
+      "bikePrice": "Rs 20-30"
+    }
+  ]
+}

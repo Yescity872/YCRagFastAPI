@@ -1,0 +1,148 @@
+{
+  "activity": [
+    {
+      "_id": "68c7f22920f4dc4834768a92",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Explore Agra Fort & Fatehpur Sikri",
+      "bestPlaces": "Agra Fort, Fatehpur Sikri (Buland Darwaza, Jama Masjid)",
+      "description": "Walk through the royal halls of Akbar and Shah Jahan in Agra Fort, then head to Fatehpur Sikri for a glimpse into Mughal architectural brilliance.",
+      "essentials": [
+        "Both are UNESCO heritage sites. Go with a guide for rich history. Closed on Fridays."
+      ],
+      "fee": "Agra Fort: ₹50 (Indians), ₹650 (Foreigners). Fatehpur Sikri: ₹40 (Indians), ₹600 (Foreigners)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263195/mvakfiy1lbfyu3vybcgi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Kt5xwMVBeMA?si=0TgywJecvTWyXr6l"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a94",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Watch Live Cultural & Dance Performance",
+      "bestPlaces": "Kalakriti Cultural & Convention Center, Agra Auditorium",
+      "description": "Immerse yourself in folk music, dance, and vibrant costumes showcasing the Mughal and Brij culture of Agra.",
+      "essentials": [
+        "Shows run in the evening. Combine with dinner package if available. Pre-book online or at venue."
+      ],
+      "fee": "₹300–₹1200 depending on seating",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263199/aoiob9ldpaenmfibikmz.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/5tdBNdcVQL8?si=yVABxWQfyZG5HY5I"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a93",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Sunset Boat Ride on the Yamuna River",
+      "bestPlaces": "Near Mehtab Bagh or Taj View Ghat",
+      "description": "Enjoy a peaceful boat ride on the Yamuna with mesmerizing views of the Taj Mahal bathed in the evening glow.",
+      "essentials": [
+        "Best at sunset for golden Taj reflections. Book in advance during peak season. Avoid monsoon months."
+      ],
+      "fee": "₹150–₹500 (per person), Private ride extra",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263197/wyklvumjvndm5mayor8s.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/DFcmon2KJFU?si=vwhdXtUKWK7lTX2s"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a97",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Try Authentic Mughlai Cuisine",
+      "bestPlaces": "Pinch of Spice, Peshawri ITC, Jahanpanah",
+      "description": "Dive into the rich and creamy flavors of Mughal-inspired dishes in Agra’s top-rated Mughlai restaurants.",
+      "essentials": [
+        "Signature dishes: Mutton Korma, Butter Chicken, Naan. Ask for mild spice if needed. Prefer dinner time for ambience."
+      ],
+      "fee": "₹400–₹1000 per person (based on restaurant)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263207/ba7og6vgbwkijtzm99hs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/M8opv5S-Mfs?si=MxQLwxaXG2VEp4lY"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a98",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Shopping for Local Souvenirs marble handicraft, Taj replica, Leather Product",
+      "bestPlaces": "Sadar Bazaar, Shilpgram, Marble Emporiums",
+      "description": "Agra is famous for marble inlay work, leather goods, and miniature Taj replicas – perfect for keepsakes or gifts.",
+      "essentials": [
+        "Bargain smartly in street shops. Choose fixed-price government emporiums for quality. Taj replicas made of real marble are costlier."
+      ],
+      "fee": "Taj Replica: ₹300–₹5000, Marble Handicrafts: ₹100–₹10,000+ ,Leather Items: ₹500–₹3000",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263211/tzdorx7y9b4stbuutzy7.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/n7fJwA6bTf4?si=-nFnHrfHYXyBzYCT"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a91",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Visit the Taj Mahal at Sunrise + Mehtab Bagh + Professional Photoshoot",
+      "bestPlaces": "Taj Mahal East Gate, Mehtab Bagh",
+      "description": "Experience the beauty of the Taj at sunrise, followed by a scenic walk through Mehtab Bagh. A professional photoshoot adds lasting memories.",
+      "essentials": [
+        "Reach before sunrise for less crowd. Mehtab Bagh gives a perfect river-side Taj view. Book photoshoot online or through local guides."
+      ],
+      "fee": "Taj Mahal: ₹50 (Indians), ₹1100 (Foreigners), ₹200 extra for Mausoleum. Mehtab Bagh: ₹25 (Indians), ₹300 (Foreigners). Photoshoot (optional): ₹500–₹2000",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263193/abfpylwlfqa269cm6q5o.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/0NSq1-Ne26Y?si=3Mzji6Er26lTWBxU"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a95",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Attend the \"Mohabbat-e-Taj\" Light & Sound Show",
+      "bestPlaces": "Kalakriti Cultural Center",
+      "description": "A theatrical masterpiece narrating the story of Shah Jahan and Mumtaz through dance, drama, and stunning visuals.",
+      "essentials": [
+        "Available in English & Hindi. Book seats online in advance. Duration ~1 hour."
+      ],
+      "fee": "₹600–₹1200 (Standard to VIP seats)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263200/pdivvxmirq1jpnxzenwm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/EQoINYU-Dmw?si=hLxzr3FaJ0sGzRSo"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a96",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "topActivities": "Street Food Tour – Flavors of Agra",
+      "bestPlaces": "Sadar Bazaar, Kinari Bazaar, Chaat Gali",
+      "description": "Explore the delicious world of Agra’s local street food filled with spicy, tangy, and sweet treats that define the city's food culture.",
+      "essentials": [
+        "Must-try: Bedai, Jalebi, Bhalla, Petha. Go with a local or guided food tour. Evening is the best time."
+      ],
+      "fee": "₹200–₹500 depending on what you eat",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263203/olsougfqoz6vsae5yxmc.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_oUSGK8D4CA?si=C5sQb17WYPjK5zSq"
+      ]
+    }
+  ]
+}

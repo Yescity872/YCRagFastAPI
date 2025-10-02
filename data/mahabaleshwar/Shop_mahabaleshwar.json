@@ -1,0 +1,151 @@
+{
+  "shop": [
+    {
+      "_id": "68c7f5ba20f4dc4834768c33",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "shops": "Imperial Stores",
+      "lat": 17.9236,
+      "lon": 73.6608,
+      "address": "92, Dr Sabne Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Imperial+Stores/@17.9236107, 73.6608225, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc265519c80eb43:0xc9681ce4596bb182!8m2!3d17.9236107!4d73.6608225!16s%2Fg%2F11hdt2_1kv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "General Store",
+      "priceRange": "40-3,500",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM - 10:00 PM",
+      "phone": "2168260100",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196226/rn9w0bjlyxdrxi3yrup5.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196228/oq1pgwumop6ppcojzx7g.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196229/klxgq8os3mgdwolbbedg.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c35",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "shops": "Pallod's Super Shoppe",
+      "lat": 17.9243,
+      "lon": 73.6583,
+      "address": "Dr Sabne Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Pallod's+Super+Shoppe/@17.9243905, 73.6583333, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc265523e14428f:0xd7d35f1ba45246a7!8m2!3d17.9243905!4d73.6583333!16s%2Fg%2F11dfj0mvh_?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Toy store",
+      "priceRange": "50-3,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "09:30 AM - 10:30 PM",
+      "phone": "9822081484",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196236/mtqwjlycuprqd3oadjhs.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196238/hvcgrxgiww8rkeo2gcbp.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196239/q06kkemcrydh8s5stz6n.png"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c32",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "shops": "Raw Gallery",
+      "lat": 17.9235,
+      "lon": 73.6598,
+      "address": "WMF5+CXC, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Raw+Gallery/@17.9235717, 73.659897, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc265518474ab63:0xc60fbe9e2f4fd7e6!8m2!3d17.9235717!4d73.659897!16s%2Fg%2F11dfh_bn9p?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Craft store",
+      "priceRange": "200-2,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "09:00 AM - 9:30 PM",
+      "phone": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196221/ubpheejuzebgtkpvckzt.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196223/qzyx3lpypljb5rffhu54.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196224/jpsomh9oikw1udeqazyp.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c36",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "shops": "Nayaan Arts",
+      "lat": 17.9241,
+      "lon": 73.6585,
+      "address": "WMF5+MCC, Dr Sabne Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Nayaan+Arts/@17.9241882, 73.6585105, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc265523c6bcac3:0x5b0e52f297bb1acb!8m2!3d17.9241882!4d73.6585105!16s%2Fg%2F11fx9lrcjj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Scrapbooking store",
+      "priceRange": "100-20,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "09:30 AM - 10:00 PM",
+      "phone": "2168260038",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196241/ytcq8kc5xsbkvfgz4ss4.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196243/l8n1ovuoihjdhy0xtpax.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196246/ghd4eekykcdleoakx4oc.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c30",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "shops": "Main market Mahabaleshwar",
+      "lat": 17.9234,
+      "lon": 73.6607,
+      "address": "143, Dr Sabne Rd, Main market, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Main+market+Mahabaleshwar/@17.92349, 73.6607679, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc2654d81745e6b:0x50204ade6a92d74b!8m2!3d17.92349!4d73.6607679!16s%2Fg%2F11g8cl2sh8?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "General market",
+      "priceRange": "20-2,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "8:00 AM - 11:00 PM",
+      "phone": "8149793554",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196210/fkmkzg83yk77ktliwxyl.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196212/uxcgbawhethl0njiqriz.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196213/shljckrat2gkv30hgb0e.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c31",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "shops": "PALLOD Mahabaleshwar",
+      "lat": 17.9237,
+      "lon": 73.6567,
+      "address": "63, Dr Sabne Rd, main market, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/PALLOD+Mahabaleshwar/@17.8741307, 73.2200383, 9.49z/data=!4m6!3m5!1s0x3bc2655224f7c533:0x91a4a74d727548f8!8m2!3d17.9240382!4d73.6590298!16s%2Fg%2F1pxqcf803?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "clothing store",
+      "priceRange": "300-36,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00 AM - 9:00 PM",
+      "phone": "2168260272",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196216/hue9jnv64xqtkr640vog.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196217/ypfkpdbiuutw2v8iotqp.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196219/cdllpzbahvydguhq7cba.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c34",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "shops": "SAI CHIKKI - THE FUDGE CORNER",
+      "lat": 17.9238,
+      "lon": 73.6593,
+      "address": "76, Dr Sabne Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/SAI+CHIKKI+-+THE+FUDGE+CORNER/@17.923843, 73.6593369, 17z/data=!3m1!4b1!4m6!3m5!1s0x3bc26583080178a3:0x21e99e19bb867c19!8m2!3d17.923843!4d73.6593369!16s%2Fg%2F11ghnqmz77?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Shopping mall",
+      "priceRange": "35-500",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00 AM - 10:00 PM",
+      "phone": "9545577538",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196230/kz9axbilntel9lwidhih.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196233/u855dspweuvl9ohatark.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196234/kvbrguhtz8497dhgwht9.webp"
+      ]
+    }
+  ]
+}

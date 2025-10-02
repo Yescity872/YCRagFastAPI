@@ -1,0 +1,148 @@
+{
+  "activity": [
+    {
+      "_id": "68c7f5ba20f4dc4834768c27",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Boating",
+      "bestPlaces": "Venna lake",
+      "description": "Calm lake with scenic surroundings ideal for boating.\nGreat spot for couples and families.\nBest during early morning or sunset hours",
+      "essentials": [
+        "Carry sunscreen and sunglasses.\nLife jackets are provided on-site.\nVisit before 11 AM to avoid rush.\n"
+      ],
+      "fee": "₹500–₹700 for 30 mins (Row Boat - 4 seater)\n₹300–₹400 for 15 mins (Paddle Boat - 2 seater)\nTickets at the lake entry counter, cash preferred",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196196/li5wznuadafo4pulyefu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/IpwKhOhu4UU?si=eEgsBYUAcagRwNvB\""
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c2c",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Camping",
+      "bestPlaces": "Tapola, Krishna Valley",
+      "description": "Camp by the riverside under starlit skies.\nIncludes bonfire, music, and basic outdoor meals.\nPerfect for groups and peaceful nature stays.",
+      "essentials": [
+        "Pre-book on weekends/holidays.\nCarry mosquito repellent, warm jacket.\nMobile networks are weak at night."
+      ],
+      "fee": "₹1,200–₹2,000 per person (with tent, meals)\n₹200 extra for kayaking or zip-lining (if available)\nBook via local campsites or websites like Thrillophilia",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196204/wq3uvrtbitx1rkcmcxvy.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/mNmgWH1pxfU?si=fto2mfN2LjRRWSl9"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c2e",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Sightseeing by Jeep",
+      "bestPlaces": "Kate’s Point, Arthur’s Seat, Elphinstone Point",
+      "description": "Hire local jeeps for full/half-day sightseeing.\nCovers 6–10 viewpoints depending on package.\nIncludes guide-driver who shares local facts.",
+      "essentials": [
+        "Start early to cover all points before sunset.\nFix rates before trip and check jeep condition.\nAvoid rainy days; roads get slippery."
+      ],
+      "fee": "₹1,200–₹1,800 per jeep (shared with group)\nFull-day packages cost more, up to ₹2,500\nEntry fee at some points ₹20–₹50 extra",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196208/nrktgxcy57euyxqlinps.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/KuBRlETRlCQ?si=2kYVxbiM-rzgl3oh"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c29",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Horse Riding",
+      "bestPlaces": "Venna Lake, Table Land",
+      "description": "Short scenic rides guided by locals.\nIdeal for photos, especially with hill backdrops.\nFun activity for kids and beginners.",
+      "essentials": [
+        "Negotiate rates beforehand with the handlers.\nMorning rides are cooler and less crowded.\nKeep ₹100 notes handy; card not accepted.\n"
+      ],
+      "fee": "₹150–₹300 per ride (Short loop)\n₹400–₹600 for longer trail rides (15–20 min)\nCharges vary by horse and ride distance",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196199/jfiwj3dgnkgin2b6byrh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_CklTK19wMU?si=5mV27WgE2DQiTSaL"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c2d",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Water Sports",
+      "bestPlaces": "Tapola (Mini Kashmir)",
+      "description": "Scenic lake with jet skiing, kayaking, and boating.\nSurrounded by green valleys and peaceful ambiance.\nBest during morning or evening time",
+      "essentials": [
+        "Clothes may get wet—carry extra set.\nAvoid mid-day due to heat and tan.\nLife jackets are mandatory and included.\n"
+      ],
+      "fee": "Jet Ski: ₹600–₹800 per round\nKayaking: ₹200–₹300 (30 mins)\nSpeed Boat: ₹1,000 (4–6 persons, 20 mins)\n",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196206/gruaa5rmxczri8rpt8fd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/KuBRlETRlCQ?si=2kYVxbiM-rzgl3oh"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c28",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Strawberry Farm Visit",
+      "bestPlaces": "Mapro Garden, Laxmi Farms",
+      "description": "Seasonal fruit farm experience and berry picking.\nLearn about cultivation and processing of strawberries.\nIncludes tasting of jams, juices, and chocolates.",
+      "essentials": [
+        "Visit between December to March for fruit season.\nPre-booking advisable during weekends.\nComfortable footwear for walking through fields."
+      ],
+      "fee": "Entry Free (Mapro Garden)\nPaid Farm Tours ₹100–₹200 per person\nOptional purchases like jam packs, ₹200–₹350",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196197/m6t5pvflcv1eomsupqox.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_pL_qYMFQEk?si=MEBodA_R8gCL5JDG"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c2b",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Trekking",
+      "bestPlaces": "Arthur’s Seat, Elephant’s Head Point",
+      "description": "Short, scenic treks suitable for all ages.\nSurreal rock formations and deep valleys.\nGreat for nature walks and photos.\n",
+      "essentials": [
+        "Wear hiking shoes; avoid slippers.\nCarry 1L water, dry snacks, and power bank.\nDo not trek alone early morning or late evening."
+      ],
+      "fee": "Entry Free\nGuide (optional): ₹200–₹400 per group\nLocal snack stalls charge ₹20–₹50\n",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196202/qpdmlad3yrw3kftl4w1i.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/dvtTLbTVLuM?si=QnuwDMxQYnwkWtWT"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c2a",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "topActivities": "Sunset Viewing",
+      "bestPlaces": "Wilson Point, Bombay Point",
+      "description": "Famous viewpoints for golden sunsets.\nIdeal for couples, friends, and photographers.\nCalm atmosphere with panoramic valley view.",
+      "essentials": [
+        "Reach 30 mins before sunset to get a spot.\nCarry shawl/jacket—it gets windy.\nAvoid peak weekends due to crowd"
+      ],
+      "fee": "Entry Free\nParking: ₹30–₹50 for two-wheelers, ₹80–₹100 for cars\nOptional tea/snacks stalls nearby (₹20–₹100)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196200/f2quv214cmqrbncaps0f.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_v0ISIO-I2Q?si=uAh8mYvwWKDE5OgW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "transport": [
+    {
+      "_id": "68c875339dad7b39dff58598",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "College Street",
+      "to": "Marble Palace",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a6",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Indian Museum",
+      "to": "Victoria Memorial",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a7",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Zoological Garden Alipore",
+      "to": "Victoria Memorial",
+      "cabPrice": "Rs 120-220",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585ab",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Belur Math",
+      "to": "Dakshineswar ",
+      "cabPrice": "Rs 120-220",
+      "bikePrice": "Rs 60-80"
+    },
+    {
+      "_id": "68c875339dad7b39dff585ac",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Bow Barracks",
+      "to": "Shobhabazar Rajbari",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 50-70"
+    },
+    {
+      "_id": "68c875339dad7b39dff585ae",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Howrah Bridge",
+      "to": "Prinsep Ghat",
+      "cabPrice": "Rs 120-220",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585b0",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Shobhabazar Rajbari",
+      "to": "Jorasanko",
+      "cabPrice": "Rs 160-260",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff58599",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "College Street",
+      "to": "Jorasanko Thakur Bari",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859c",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Kalighat Temple",
+      "to": "Birla Mandir",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff58597",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "College Street",
+      "to": "Bow Barracks ",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Kalighat Temple",
+      "to": "Dakshineswar Kali Temple",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": "Rs 160-180"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859d",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Kalighat Temple",
+      "to": "The Mother Teresa House",
+      "cabPrice": "Rs 200-300",
+      "bikePrice": "Rs 50-70"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859f",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Science City",
+      "to": "Birla Industrial Museum",
+      "cabPrice": "Rs 130-230",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a1",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Eden Gardens",
+      "to": "Jorasanko Thakur Bari",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a2",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Eden Gardens",
+      "to": "Fort William",
+      "cabPrice": "Rs 120-220",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a3",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Fort William",
+      "to": "Victoria Memorial",
+      "cabPrice": "Rs 120-229",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a9",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Nakhoda Masjid",
+      "to": "Dakshineswar",
+      "cabPrice": "Rs 220-320",
+      "bikePrice": "Rs 110-130"
+    },
+    {
+      "_id": "68c875339dad7b39dff585aa",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "The Mother Teresa House",
+      "to": "St. Paul's Cathedral",
+      "cabPrice": "Rs 110-130",
+      "bikePrice": "Rs 280-380"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "College Street",
+      "to": "Victoria Memorial",
+      "cabPrice": "Rs 180-280",
+      "bikePrice": "Rs 50-70"
+    },
+    {
+      "_id": "68c875339dad7b39dff5859e",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Science City",
+      "to": "Birla Mandir",
+      "cabPrice": "Rs 130-230",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a0",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Science City",
+      "to": "Zoological Garden",
+      "cabPrice": "Rs 200-300",
+      "bikePrice": "Rs 70-90"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a4",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Fort William",
+      "to": "Bow Barracks",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 30-50"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a5",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Indian Museum",
+      "to": "Birla Industrial Museum",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585a8",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Nakhoda Masjid",
+      "to": "Indian Museum",
+      "cabPrice": "Rs 150-250",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585ad",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Howrah Bridge",
+      "to": "Marble Palace",
+      "cabPrice": "Rs 100-200",
+      "bikePrice": "Rs 40-60"
+    },
+    {
+      "_id": "68c875339dad7b39dff585af",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "Prinsep Ghat",
+      "to": "Shobhabazar Rajbari",
+      "cabPrice": "Rs 160-260",
+      "bikePrice": "Rs 70-90"
+    },
+    {
+      "_id": "68c875339dad7b39dff585b1",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "St. Paul's Cathedral",
+      "to": "Fort William",
+      "cabPrice": "Rs 130-230",
+      "bikePrice": "Rs 50-70"
+    },
+    {
+      "_id": "68c875339dad7b39dff585b2",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "from": "St. Paul's Cathedral",
+      "to": "Eden Garden",
+      "cabPrice": "Rs 120-220",
+      "bikePrice": "Rs 40-60"
+    }
+  ]
+}

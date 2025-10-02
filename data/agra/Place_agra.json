@@ -1,0 +1,472 @@
+{
+  "place": [
+    {
+      "_id": "68c7f22820f4dc4834768a71",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Taj Mahal",
+      "category": "Historical Monument",
+      "lat": 27.1751,
+      "lon": 78.0421,
+      "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+      "locationLink": "https://maps.app.goo.gl/Wibij5JbYVbrRg1b7",
+      "openDay": "Monday to Sunday (Friday Closed)",
+      "openTime": "Sunrise to sunset daily, closed on Fridays.Night Viewing: 8:30 PM to 12:30 AM, during the full moon and two nights before and after. ",
+      "establishYear": "1631 – 1653",
+      "fee": "50rs(Indian),1100rs(Foreigners)",
+      "description": "Commissioned by Emperor Shah Jahan between 1632 and 1653 in memory of his wife Mumtaz Mahal, the Taj Mahal is a UNESCO World Heritage Site renowned for its white marble architecture and intricate craftsmanship.",
+      "essential": "To make the most of your visit to the Taj Mahal, it's recommended to buy tickets online to avoid long queues. Consider staying in a nearby hotel, such as one in the Taj Ganj area, for convenience. Vehicles are not allowed close to the monument, so you’ll be dropped about 0.5 to 1 km away; from there, you can either walk or take a battery rickshaw for around 20 rupees. FREE cloakroom facilities are available at the entrance, where you can safely store your bags—only cameras and phones are allowed inside. Keep in mind that photography is restricted within the main mausoleum. The best times to visit are early morning or evening, when the crowds are thinner and the lighting is ideal for photography. To enrich your experience, consider hiring a guide for historical insights, and set aside 2–3 hours to explore the monument thoroughly.",
+      "story": "The Taj Mahal, located in Agra, was commissioned in 1632 by the Mughal emperor Shah Jahan as a mausoleum for his favorite wife, Mumtaz Mahal, who died during childbirth. Completed in 1653, it is made of white Makrana marble and exemplifies Mughal architecture, blending Persian, Islamic, and Indian styles. The complex includes a mosque, guest house, gardens, and the main tomb. The symmetry, calligraphy, and pietra dura inlay make it a masterpiece. A UNESCO World Heritage Site, the Taj Mahal stands as a symbol of eternal love and is one of the most visited monuments in the world.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262785/pr4fq2anvdnvq9iyt1fn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262790/fgd3leqmmowex9pozn4e.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262794/c4wnr7r6mkavaxoot1pm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/RKH8APy2Jik?si=GKWfneFZnsjfbR4V"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a72",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Agra Fort",
+      "category": "Historical Monument",
+      "lat": 27.1795,
+      "lon": 78.0211,
+      "address": "Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003",
+      "locationLink": "https://maps.app.goo.gl/jZBhbdXAZnyywvPq8",
+      "openDay": "Monday to Sunday",
+      "openTime": "Sunrise to sunset daily.",
+      "establishYear": "1565 – 1573",
+      "fee": "50rs(Indians),40rs(Indian on friday),650rs(foreigners),600rs(foreigners on friday)",
+      "description": "Constructed by Emperor Akbar in 1565, this red sandstone fort served as the main residence of the Mughal emperors. It houses notable structures like the Jahangir Palace and Khas Mahal",
+      "essential": "There are FREE cloakrooms available at the counters where you can safely store your bags; only cameras and phones are allowed inside the monument. To gain a deeper understanding of the Taj Mahal’s history and significance, it's advisable to hire a guide, and you should allocate 2–3 hours for a complete and enriching visit",
+      "story": "Agra Fort, a UNESCO World Heritage Site, was built by Emperor Akbar in 1565 as a military structure and later developed into a royal residence by Shah Jahan. Made of red sandstone, it encloses several palaces, such as the Jahangir Mahal and Khas Mahal, and audience halls like Diwan-i-Am and Diwan-i-Khas. Shah Jahan was imprisoned here by his son Aurangzeb, and it’s said he spent his final days gazing at the Taj Mahal. The fort played a key role in India’s history, changing hands between the Mughals, Marathas, and British over centuries due to its strategic importance.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262806/eykogwiemp54pb35nw68.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262807/aljm1djfqmpxvqrjtlem.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262809/fvi2jqk9wyeapnadkgqo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/IV4RxvXYGzo?si=LoMjoVDN_RlhoJcR"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a78",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Mariam’s Tomb",
+      "category": "Historical Monument",
+      "lat": 27.213,
+      "lon": 77.9498,
+      "address": "6W8V+43Q, Mathura Rd, near Pathwari Mandir, Kailash Mode, Sikandra, Agra, Bainpur Mustkil, Uttar Pradesh 282007",
+      "locationLink": "https://maps.app.goo.gl/ad93FTYXZJC7acDd8",
+      "openDay": "Monday to Sunday",
+      "openTime": " 06:00 AM – 06:00 PM",
+      "establishYear": "~1623",
+      "fee": "25rs(Indians),300rs(foreigners)",
+      "description": "Mariam's Tomb is the mausoleum of Mariam-uz-Zamani, the wife of Emperor Akbar and mother of Emperor Jahangir. Built in 1623 by Jahangir, the tomb is a blend of Mughal and Hindu architectural styles, reflecting the syncretic culture of the time.",
+      "essential": "Carry water to stay hydrated, wear comfortable shoes for walking, and visit during early morning or late afternoon for pleasant weather and better photography lighting.",
+      "story": "The Tomb of Mariam-uz-Zamani, wife of Emperor Akbar and mother of Jahangir, lies near Sikandra in Agra. Constructed in 1623, it originally belonged to a Mughal noble and was later adapted as Mariam's final resting place by her son. Built using red sandstone, the structure features simple yet elegant Mughal architecture with Hindu elements, reflecting her Rajput heritage. Unlike other Mughal tombs, it lacks a dome and is relatively austere, highlighting her quiet presence in court life. Though less grand than contemporary tombs, it offers valuable insight into Mughal women’s roles and their architectural commemorations.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262848/vsmreybavzhwxtvvukwn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262850/u281bfftbtfxi1qeysnz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262851/ugyobli5stuslux73nrq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/X0WStOzlUxc?si=3XB_7dF7M0jF9dYm"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a81",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Ram bagh",
+      "category": "Historical Garden",
+      "lat": 27.1947,
+      "lon": 78.0258,
+      "address": "Ram Bagh, Agra, Uttar Pradesh, 282006, India",
+      "locationLink": "https://maps.app.goo.gl/BnCpKSSrbR3k3cUS6",
+      "openDay": "Monday to Sunday",
+      "openTime": "Sunrise to sunset daily.",
+      "establishYear": "~1528",
+      "fee": "25rs(Indians),300rs(foreigners)",
+      "description": "The Aram Bagh (also known as Ram Bahg)is the oldest Mughal Garden in India, originally built by the Mughal Emperor Babur in 1526,[1] located about five kilometers northeast of the Taj Mahal in Agra, India. Babur was temporarily buried there before being interred in Kabul.",
+      "essential": "Wear comfortable shoes for a leisurely stroll, bring water, visit in the morning or evening for cooler weather, and consider a guide for historical significance",
+      "story": "Ram Bagh, also known as Aram Bagh (\"Garden of Rest\"), is the oldest Mughal garden in India, laid out by Emperor Babur in 1528. Located on the banks of the Yamuna, it was inspired by Persian charbagh (four-part) gardens and designed as a symbol of paradise. Babur is believed to have been temporarily buried here before his remains were moved to Kabul. The garden was later restored by Nur Jahan. With its terraced lawns, water channels, and pavilions, Ram Bagh served both as a leisure spot and a model for future Mughal gardens, including those around the Taj.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262930/txzjuno2x3kjnxehvgm1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262932/fidd1pmyqfqfka9rk6g4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262936/gq35funjlxpqpeotdwyq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/8rRbsTShQ8I?si=V5r883JIzd84jeeD"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a74",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Mehtab Bagh",
+      "category": "Historical Garden",
+      "lat": 27.1796,
+      "lon": 78.0414,
+      "address": "Mehtab Bagh, Nagla Devjit, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/wQ1LZmdATamLAw8e6",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 06:00 PM",
+      "establishYear": "1530 (by Babur), later renovated by Shah Jahan",
+      "fee": "25rs(Indians),300rs(Foreigners)",
+      "description": "This garden complex, established by Emperor Babur, offers a serene environment and a unique vantage point of the Taj Mahal from across the Yamuna River.",
+      "essential": "The Taj Mahal is ideal for photography, especially during sunrise and sunset when the lighting adds a magical touch. In the evenings, it's advisable to carry mosquito repellent for comfort. For a unique perspective, don’t miss the stunning front view of the Taj from the Yamuna riverside",
+      "story": "Mehtab Bagh, or “Moonlight Garden,” is a Mughal-era garden complex located directly opposite the Taj Mahal across the Yamuna River. Originally built by Emperor Babur, it was later redesigned by Shah Jahan to provide a perfect viewing platform for the Taj. Aligned precisely with the Taj Mahal, it was part of the visual and symbolic symmetry of the riverfront complex. The garden features pathways, pavilions, and reflecting pools. Legend suggests it was the planned site for a \"Black Taj,\" Shah Jahan’s own mausoleum, though no evidence supports this. Today, it remains a peaceful spot for viewing the Taj.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262823/miiv418ud4wjnpkq1kgy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262826/hgan6keqtidjvhaqv3tc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262827/mdwjlwmrxoqefwran7wr.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/MDo6-brgkl8?si=AVa_nS4Io3tB64Y2"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a76",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Tomb of Akbar the Great (Sikandra)",
+      "category": "Historical Monument",
+      "lat": 27.212,
+      "lon": 77.9489,
+      "address": "Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007",
+      "locationLink": "https://maps.app.goo.gl/Xx4BSMCxNXYi6epS8",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 06:00 PM (Closed on Fridays)",
+      "establishYear": "1605 – 1613",
+      "fee": "30rs(Indians),25rs(Indian on friday),310rs(foreigners),300rs(foreigners on friday)",
+      "description": "This mausoleum, blending Hindu, Christian, Islamic, Buddhist, and Jain designs, was initiated by Akbar and completed by his son Jahangir in 1613.",
+      "essential": "Visit early for a peaceful experience, wear comfortable shoes, carry water, hire a guide for insights, and respect the heritage site",
+      "story": "Located in Sikandra, the Tomb of Akbar was started by the emperor himself and completed by his son Jahangir in 1613. It features a unique blend of Hindu, Islamic, Buddhist, and Jain architectural elements, showcasing Akbar’s vision of religious tolerance. The structure is made of red sandstone with marble inlays and sits within a vast garden enclosed by high walls and gateways. The central tomb has a multi-storied structure crowned with a marble pavilion. The tomb complex also houses the graves of Akbar’s family members. It remains a symbol of Akbar’s powerful legacy and inclusive policies.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262837/podel5tg4cyoer7t9dms.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262838/vz1dzcm1mkmn5buxjehb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262839/j9wkdhjnl2eyjhnp7ezn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/xn90JuZbQbg?si=BMhUbQk82zdff2aE"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7a",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Guru Ka Taal",
+      "category": "Religious/Pilgrimage",
+      "lat": 27.2285,
+      "lon": 77.9519,
+      "address": "Chennai - Delhi Hwy, Maharishi Puram Colony, Agra, Uttar Pradesh 282007",
+      "locationLink": "https://maps.app.goo.gl/kAAVQJ3KghdKWkux9",
+      "openDay": "Monday to Sunday",
+      "openTime": " 24 Hours",
+      "establishYear": "1610s (exact dates unclear)",
+      "fee": "FREE",
+      "description": "Guru Ka Taal is a historical Sikh pilgrimage site where Guru Tegh Bahadur, the ninth Sikh Guru, was arrested by Mughal authorities. The site features a Gurdwara and a reservoir (Taal) and is known for its serene environment and architectural beauty.",
+      "essential": "Dress modestly and cover your head before entering the Gurdwara, follow Sikh customs respectfully, and participate in the community kitchen (Langar) for a humble meal.",
+      "story": "Guru Ka Taal is a historic Sikh pilgrimage site in Agra, originally a water reservoir (taal) built in the early 17th century. It gained spiritual significance when the ninth Sikh Guru, Guru Tegh Bahadur, voluntarily surrendered to the Mughal emperor Aurangzeb here in 1675 to protect religious FREEdom. Later, a gurudwara was built at the site to commemorate this act of sacrifice. Featuring red sandstone architecture and twelve intricately carved towers (eight still standing), Guru Ka Taal is a serene place of worship today. It holds immense reverence among Sikhs and also showcases fine Mughal-era craftsmanship.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262859/q2xa9xzcnwozomobihmf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262860/uugjjvmx7jeq46rcotys.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262861/ml3zedblhysktjl30u1w.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/T5s2JNzcjRA?si=Kt6Jj16g_Kj1G0sF"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7c",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Anguri Bagh",
+      "category": "Historical Park",
+      "lat": 27.1795,
+      "lon": 78.0211,
+      "address": "52HF+966, Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003",
+      "locationLink": "https://maps.app.goo.gl/A3HC9exsDPY8idhC6",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 07:30 PM",
+      "establishYear": "1637 (inside Agra Fort)",
+      "fee": "Rs35",
+      "description": "Anguri Bagh, meaning 'Grape Garden', is a charbagh-style garden located within Agra Fort. Built in 1637 by Shah Jahan, it served as the private area for the royal ladies and is known for its geometric patterns and lush greenery.",
+      "essential": "Explore the surrounding structures of Agra Fort for a comprehensive experience, and hire a guide to understand the historical significance of the garden and its Mughal-era design.",
+      "story": "Anguri Bagh, meaning \"Grape Garden,\" is a formal Mughal garden located within the Agra Fort. Built in 1637 by Shah Jahan, it was once planted with grapes and flowers, intended as a private retreat for the imperial women. The garden is laid out in the charbagh (four-part) style with geometrically arranged plots and pathways. In the center is an ornate marble platform for gatherings. The garden was linked to the Khas Mahal, and its underground chambers—known as zenana baths—were cooled by running water. Anguri Bagh offers insight into the refined lifestyle of the Mughal royalty.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262895/gg3xhqkz5ldgb9l6orbr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262896/agzbolplwmfco3uvldfd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262897/yohdnoclwveaqz7p6sbs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/B9RYyo88YXY?si=yAUwn-nNAIXkbU44"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7d",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Moti Masjid",
+      "category": "Historical/Religious",
+      "lat": 27.1811,
+      "lon": 78.0211,
+      "address": "52HC+VFH, Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003",
+      "locationLink": "https://maps.app.goo.gl/FVJVWa5P3frVDBJu5",
+      "openDay": "Monday to Sunday",
+      "openTime": "Open during Agra Fort's operating hours.",
+      "establishYear": "1648 – 1653",
+      "fee": "Rs50(Indians),650(Foreigners)",
+      "description": "The Moti Masjid (lit. 'Pearl Mosque') is a 17th-century congregational mosque located within the Agra Fort UNESCO World Heritage Site. Built by Mughal Emperor Shah Jahan, the mosque is made entirely of white marble",
+      "essential": "Dress modestly by covering shoulders and knees, remove shoes before entering, visit early morning or late afternoon for a peaceful experience, and consider hiring a guide for historical insights.",
+      "story": "The Moti Masjid, or “Pearl Mosque,” is located inside the Agra Fort and was built by Emperor Shah Jahan between 1648 and 1654. It is named for its pristine white marble construction, which gives it a pearl-like glow. This private mosque was used by the emperor and his court. Featuring three domes and a subtle, elegant design, it contrasts with Shah Jahan’s more ornate projects. The mosque's symmetry, serene courtyard, and lack of decorative excess reflect purity and devotion. It remains one of the finest examples of Mughal religious architecture within a fort complex.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262900/qpg5qemt49egrxqoc9xw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262902/j5fvsxqzlr85gvqv2xjd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262903/wte7rym3s8xnlitbdx5k.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/lhTpyD-t3E4?si=y01JUcstX0BNVJwv"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7f",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "The Chhatrapati Shivaji Maharaj",
+      "category": "Statue",
+      "lat": 27.1739,
+      "lon": 78.0421,
+      "address": "52GC+6JM, Dipak Rd, PWD, Munda para, Rakabganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/3ZGEtdL6tLJks7Dt8",
+      "openDay": "Expected to be all seven days (pending official opening, as it’s under construction)",
+      "openTime": "No specific hours generally listed; publicly accessible.",
+      "establishYear": "Completed in 1803",
+      "fee": "FREE",
+      "description": "The Chhatrapati Shivaji Maharaj Smarak or Chhatrapati Shivaji Maharaj Memorial is a proposed monument Shivaji, the founder of the Maratha Empire. The statue will be located in Mumbai's Back Bay.[3] As of May 2024, construction of the monument has not yet started despite being expected to be completed by October 2022.",
+      "essential": "Check the official website or local tourism office for opening updates as it’s under construction, expect standard museum rules like no flash photography, and consider a guide for context once open.",
+      "story": "The Chhatrapati Shivaji Maharaj Statue in Agra commemorates the legendary Maratha king's bold escape from Mughal captivity. In 1666, Shivaji was detained at Agra Fort by Emperor Aurangzeb after a political disagreement. Defying odds, Shivaji executed a daring escape, concealed in fruit baskets. The modern statue, installed as a tribute to his bravery and strategic genius, serves as a symbol of resistance and pride. Though not a Mughal-era structure, the statue reminds visitors of the complex political history between the Mughals and the Marathas and celebrates India's diverse heritage of valor and independence.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262913/eacxixbtqxpsdwvg3bpk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262915/guxahh82u8ujwrr9ucan.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262918/ksouecog0vqkgk7blolv.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/-NyegrntMbU?si=3L8oYiQDEimILHJn"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a80",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "The red Taj Mahal",
+      "category": "Historical Monument",
+      "lat": 27.1925,
+      "lon": 78.0247,
+      "address": "125, Mahatma Gandhi Rd, Kripal Colony, Sanjay Nagar, Pashupati Colony, Civil Lines, Agra, Uttar Pradesh 282002",
+      "locationLink": "https://maps.app.goo.gl/mMSR1tPww91Gi4RY8",
+      "openDay": "Monday to Sunday",
+      "openTime": " 06:00 AM – 08:00 PM",
+      "establishYear": "Completed in 1803",
+      "fee": "FREE",
+      "description": "The Red Taj Mahal is a little-known mausoleum in Agra, India, dedicated to Dutch adventurer John Hessing who served as the Commander of the Agra fort. Commissioned by his wife in 1803, the tomb is designed in the Mughal style and is made of red sandstone with a double dome and slender turrets",
+      "essential": "Appreciate the intricate marble work, visit early morning or late afternoon for the best light, bring water, and hire a guide to enhance your experience.",
+      "story": "The Red Taj Mahal is the tomb of John Hessing, a Dutch officer in the Maratha army, located in the Roman Catholic Cemetery of Agra. Built in 1803 by his wife Ann Hessing after his death during the siege of Ujjain, it is a red sandstone replica of the iconic Taj Mahal. Despite being smaller and lesser-known, it mirrors the original’s symmetry and elegance. This Indo-European fusion monument stands out as a rare Christian tomb modeled on Islamic architecture. Often overlooked, it is nicknamed the “Red Taj Mahal” and offers a unique colonial-era twist on Mughal design.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262923/m6maydgv7giycfdoc6kt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262924/cqhkokuapynhnpyz7bro.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262926/mdnam960enoluyeagzx6.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/SKHPEvR5Vss?si=ws7mfq3k4r1OEErB"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a82",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Sardar Bazar Agra",
+      "category": "Market/Shopping",
+      "lat": 27.1833,
+      "lon": 78.0167,
+      "address": "Sadar Bazar, Agra Cantt, Agra, Uttar Pradesh, 282001, India",
+      "locationLink": "https://maps.app.goo.gl/YKuequcBT7zzAX368",
+      "openDay": "Monday to Sunday,Some shops may be closed on tuesday",
+      "openTime": "Generally 09:00 AM – 09:00 PM, varies by shop.",
+      "establishYear": "Evolved over time during mughal period",
+      "fee": "FREE",
+      "description": "Sadar Bazaar is a popular shopping destination for tourists visiting Agra. It is located close to Agra Cantonment railway station and is in proximity to the Taj Mahal and Agra Fort.",
+      "essential": "Wear comfortable shoes for the bustling market, be cautious with belongings, bargain for better prices, and try local street food from hygienic vendors.",
+      "story": "adar Bazar is one of Agra's most vibrant and bustling markets, located near the Cantonment area. Though not a historical monument, it has been a commercial hub since British colonial times and remains popular among locals and tourists. The market offers a wide range of goods—leather products, handicrafts, sweets like petha, spices, garments, and souvenirs. It’s also known for street food and Agra’s local culture. Sadar Bazar reflects the city’s modern, everyday pulse while existing in the shadows of Mughal grandeur, making it a lively contrast to the serenity of Agra’s historical sites.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262939/u701ocn17v0yqb8ltye4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262940/vza2h6rwvsehp7atqg26.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262941/idnzg7kxb2y4e0zfzuon.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/5I7fwqeux8M?si=E0AdKS1fmGKgb5sT"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a73",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Fatehpur Sikri",
+      "category": "Historical City",
+      "lat": 27.0937,
+      "lon": 77.6616,
+      "address": "Fatehpur Sikri, Uttar Pradesh 283110, India",
+      "locationLink": "https://maps.app.goo.gl/XQ9hgkEWQpRTbYxp7",
+      "openDay": "Monday to Sunday",
+      "openTime": "Sunrise to sunset daily.",
+      "establishYear": "1571 – 1585",
+      "fee": "50rs(Indians),40rs(Indians on friday),610rs(Foreigners),600rs(Foreigners on Friday)",
+      "description": "Founded by Emperor Akbar in 1571, Fatehpur Sikri served as the Mughal capital for over a decade. Notable structures include Jodha Bai Palace, Panch Mahal, Rang Mahal, Diwan-e-Khas, Diwan-e-Aam, Buland Darwaza, Jama Masjid, Tomb of Salim Chishti, Birbal’s House, Daulat Khana, and Anup Talao.",
+      "essential": "Carry water and sun protection, and wear comfortable walking shoes to ensure a pleasant visit, as exploring the area involves a fair amount of walking. Local guides can greatly enhance the experience by providing valuable insights into the history and significance of the monument",
+      "story": "Fatehpur Sikri was established in 1571 by Emperor Akbar as the capital of the Mughal Empire and remained so for about 14 years. Built to honor the Sufi saint Sheikh Salim Chishti, who predicted Akbar’s heir, the city showcases Indo-Islamic architecture. Notable structures include Buland Darwaza, Panch Mahal, Diwan-i-Khas, and the Jama Masjid. The city was abandoned due to water shortages and strategic concerns but remains a UNESCO World Heritage Site. Its well-preserved palaces, courtyards, and mosques reflect Akbar’s vision of a centralized empire and his interest in religious tolerance and architectural innovation.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262812/ilrtyxuwoehgtca1ibie.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262818/ytjbgojqdrfdzoshysai.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262820/nztshhr70057a0sucmtj.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Y4NSz_RM5kk?si=A6wCyjx6KyfK_Dre"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a77",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Jama Masjid (Agra)",
+      "category": "Religious",
+      "lat": 27.1795,
+      "lon": 78.0211,
+      "address": "Jama Masjid, Subash Bazar, Kinari Bazar, Hing ki Mandi, Mantola, Agra, Uttar Pradesh 282003",
+      "locationLink": "https://maps.app.goo.gl/ccXh9cK9eLt8M68R6",
+      "openDay": "Monday to Sunday",
+      "openTime": "Open from early morning to late evening for prayers and visitors.",
+      "establishYear": "1643 – 1648",
+      "fee": "FREE",
+      "description": "Constructed in 1648 by Emperor Shah Jahan's daughter, Jahanara Begum, Jama Masjid is one of India's largest mosques. Its red sandstone structure, complemented by intricate white marble decorations and a stunning central dome, showcases the architectural brilliance of the Mughal era. The mosque remains an active place of worship and a testament to Agra's rich cultural heritage.",
+      "essential": "Dress modestly, covering shoulders and knees; Women may need to cover their heads; Shoes must be removed before entering; Be respectful during prayer times.",
+      "story": "Agra’s Jama Masjid was built in 1648 by Shah Jahan and dedicated to his daughter Jahanara Begum. Located opposite the Agra Fort, it is one of the largest mosques in India. Constructed using red sandstone with white marble inlay, the mosque features a large courtyard, five entrances, and three domes. Its architectural symmetry and calligraphic inscriptions reflect Mughal aesthetics. Despite being damaged during British colonial rule, it remains a functioning mosque and a prominent landmark. The mosque’s historical and religious significance continues to attract worshippers and tourists alike, standing as a legacy of imperial devotion and grandeur.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262843/fhepre4jxdcc2ks47vka.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262844/dqqt7ljhoqlp09vhohk0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262845/osiucthwsp5ckhegr7a8.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/5blQQ3BizUs?si=UaXtlwiB7BacwHSx"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a79",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Chini Ka Rauza",
+      "category": "Historical Monument",
+      "lat": 27.2016,
+      "lon": 78.0378,
+      "address": "Katra Wazir Khan, Agra, Uttar Pradesh 282006",
+      "locationLink": "https://maps.app.goo.gl/6XBNQWExV6E2BBGLA",
+      "openDay": "Monday to Sunday",
+      "openTime": " 06:00 AM – 06:00 PM",
+      "establishYear": "1628 – 1639 (some sources say 1635)",
+      "fee": "FREE",
+      "description": "Chini Ka Rauza is a funerary monument dedicated to Allama Afzal Khan, a scholar and poet during the reign of Shah Jahan. Built in 1635, it is renowned for its Persian-style glazed tile work, known as 'chini', which gives the monument its name.",
+      "essential": "Appreciate the Persian architecture and intricate tile work, and combine the visit with nearby monuments like Itimad-ud-Daulah’s Tomb for a more enriching experience.",
+      "story": "Chini Ka Rauza is a lesser-known but artistically significant tomb located on the eastern bank of the Yamuna in Agra. Built in 1635, it is the final resting place of Afzal Khan Shirazi, a Persian scholar, poet, and Prime Minister under Shah Jahan. The tomb is noted for its unique Persian-influenced architecture and the use of colorful glazed ceramic tiles—called \"chini\" in Persian—on the facade. Though many tiles have worn away, remnants of blue, green, and yellow hues remain. The structure stands as a symbol of Persian cultural influence during the Mughal era and its fusion with Indian architecture.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262853/u4gcgcwdk1tu5qfxobdt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262854/srs0lifky7y6edk5p8nb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262856/syljpjoo3nblhtl66434.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/flv-IG_BIJs?si=E-9Wm7f4UHSRUHKJ"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7e",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "The sheesh Mahal",
+      "category": "Monument",
+      "lat": 27.1808,
+      "lon": 78.0215,
+      "address": "52HF+F7X, Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003",
+      "locationLink": "https://maps.app.goo.gl/enAAKSbF1GnTfhjRA",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 06:00 PM",
+      "establishYear": "1631 – 1640",
+      "fee": "Rs50(Indians),650(Foreigners)",
+      "description": "The Sheesh Mahal (Urdu: محل شیش\" ;The Palace of Mirrors\") is a palace located within the Shah Burj block in northern-western corner of Lahore Fort. It was constructed under the reign of Mughal Emperor Shah Jahan in 1631–32, with some additions later under Sikh Maharaja Ranjit Singh. The ornate white marble pavilion is inlaid with pietra dura and complex mirrorwork of the finest quality. The hall was reserved for personal use by the imperial family and close aides. It is among the 21 monuments that were built by successive Mughal emperors inside Lahore Fort, and forms the \"jewel in the Fort’s crown.\"[1] As part of the larger Lahore Fort Complex, it has been inscribed as a UNESCO World Heritage Site since 1981",
+      "essential": "Avoid touching the delicate mirrors, note that photography is restricted, wear comfortable shoes for exploring, and visit early morning or late afternoon for optimal lighting.",
+      "story": "The Sheesh Mahal, or “Palace of Mirrors,” is situated inside Agra Fort and was built by Shah Jahan in the 17th century as part of the royal private apartments. Designed as a luxurious harem, its walls and ceilings are embedded with tiny convex mirrors, which sparkle in candlelight, creating a dazzling effect. It also features fine stucco work, marble paneling, and cooling water channels. Used primarily by the royal women, the Sheesh Mahal reflects the Mughals' emphasis on artistic elegance, sensory experience, and architectural brilliance. It remains a major draw for visitors exploring Agra Fort’s inner palaces.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262906/fogx1riebwb7zmzzzsyu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262908/iam2j51akfbw8jdbrdtx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262910/kle3sictznpneabkwtqi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uQDRdEt16AE?si=-YSwizu2c2t9FCCX"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a75",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "itmad ud daulah(Baby Taj)",
+      "category": "Historical Monument",
+      "lat": 27.1925,
+      "lon": 78.0319,
+      "address": "Moti Bagh, Agra, Uttar Pradesh 282006",
+      "locationLink": "https://maps.app.goo.gl/3RK55QMAbjhbobJu6",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 12:00 AM (Midnight)",
+      "establishYear": "1622 – 1628",
+      "fee": "30rs(Indians),25rs(Indian on friday),310rs(foreigners),300rs(foreigners on friday)",
+      "description": "Built between 1622 and 1628, this mausoleum was commissioned by Nūr Jahān, the wife of Emperor Jahangir, for her father Mirzā Ghiyās Beg. It's often referred to as the \"Baby Taj\" due to its resemblance to the Taj Mahal and is considered a draft of the latter. The tomb marks a significant transition in Mughal architecture, being the first to be entirely made of white marble and adorned with intricate inlay work.",
+      "essential": "Visit during early morning or late afternoon for optimal lighting and fewer crowds; Photography is allowed, but removing shoes is mandatory before entering the main mausoleum.  On the back side you can see the view of river Yamuna You can enjoy Evening sunset and click photos",
+      "story": "Often called the “Baby Taj,” this tomb was commissioned by Nur Jahan, wife of Emperor Jahangir, for her father Mirza Ghiyas Beg, the Itmad-ud-Daulah (“Pillar of the State”). Constructed between 1622 and 1628, it marks a transition from red sandstone to white marble in Mughal architecture and is considered a precursor to the Taj Mahal. The tomb is richly decorated with inlay work using semi-precious stones, intricate jali (lattice) screens, and floral designs. It is the first Mughal structure built entirely of white marble and reflects Persian influence, both in its aesthetics and the garden layout.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262831/wxbvgmphgdrhmm5m0c5x.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262833/hf4aexsmkz2a985far07.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262834/uzlo5zl6oqfw05ibbd0h.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/v8DM8sE5wX0?si=OCfI82HDMaZ3ArL0"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a7b",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "places": "Keetham Lake (Sur Sarovar Bird Sanctuary)",
+      "category": "Nature/Water Body",
+      "lat": 27.2465,
+      "lon": 77.856,
+      "address": "6VP3+C32, Mathura Delhi Highway, Near Runakata, near Walter World, Dolfine, Arsena, Uttar Pradesh 282007",
+      "locationLink": "https://maps.app.goo.gl/ufKu2MJafKhAKXaS6",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 06:00 PM",
+      "establishYear": "Natural lake, declared sanctuary in 1991",
+      "fee": "Rs30(entry),Rs500(camera),Rs100(parking).Rs20(extra for bear park",
+      "description": "Keetham Lake, also known as Sur Sarovar, is a scenic man-made reservoir that forms part of the Sur Sarovar Bird Sanctuary. It is a haven for bird watchers, especially during the migratory season, hosting a variety of bird species.",
+      "essential": "Carry binoculars for bird watching, visit during winter months for peak migratory bird sightings, and wear comfortable clothes for walking around the sanctuary.",
+      "story": "Keetham Lake, officially known as Sur Sarovar Bird Sanctuary, is located about 20 km from Agra along the Delhi-Agra highway. Declared a bird sanctuary in 1991, it spans over 7.9 square kilometers and includes both terrestrial and aquatic ecosystems. The lake, shaped like a pentagon, attracts over 165 species of migratory and resident birds, including pintails, spoonbills, and flamingoes. It also houses the Blind School and Bear Rescue Center run by Wildlife SOS. The sanctuary serves as a peaceful retreat for birdwatchers, nature lovers, and conservationists, playing a crucial role in regional biodiversity.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262864/a7uxwmgjcbmx20pjo24m.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262865/vrmmgxogrhtrepskf2kl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262892/wcfdmst2f8bogtsv0kll.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/sctHMnx1GBA?si=5L7SQ49mFXEUeSJ4"
+      ]
+    }
+  ]
+}

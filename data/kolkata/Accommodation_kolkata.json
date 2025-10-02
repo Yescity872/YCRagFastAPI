@@ -1,0 +1,417 @@
+{
+  "accommodation": [
+    {
+      "_id": "68c875309dad7b39dff5853e",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Aquatica Water Park & Resort",
+      "lat": 22.5626,
+      "lon": 88.4652,
+      "address": "Kouchpukur,P.O Hathgachia,P.S. :K.L.C थक्दारी मार्ग, Township, near Rajarhat, Dhapa Manpur P, West Bengal 700156",
+      "locationLink": "https://www.google.com/maps/place/Aquatica+Banquet+Resort+%26+Water+Park/@22.5625745, 88.4652202, 17z/data=!4m9!3m8!1s0x3a02750e54b44c0d:0x3182cd1bd4b1e8da!5m2!4m1!1i2!8m2!3d22.5625745!4d88.4652202!16zL20vMGJiOTVu?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "resort",
+      "roomTypes": "Deluxe Room(₹ 1,276-₹ 2,256),Super Deluxe Room(₹ 1,669-₹ 2,689),Combo Offer (Deluxe Room + 2 Water Park Tickets)(₹ 1,980)",
+      "facilities": "FREE Wi-Fi,Breakfast,FREE parking,Accessible,Pool,Air-conditioned,Laundry service,Room Service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960432/db0tbioa3ozf8edbeky6.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960433/noubd3soybqnz0vwq8yu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960434/vbqlxhxcqpcma5kzcefx.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58541",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Bubble Beds Kolkata",
+      "lat": 22.514,
+      "lon": 88.3438,
+      "address": "13/1 B, Shri Mohan Ln, opposite Matri Bhavan Hospital, Sahanagar, Kalighat, Kolkata, West Bengal 700026",
+      "locationLink": "https://www.google.com/maps/place/Bubble+Beds+Kolkata/@22.5139918, 88.3437546, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027176cda35c47:0xe0511b7b59f78f2b!5m2!4m1!1i2!8m2!3d22.5139918!4d88.3437546!16s%2Fg%2F11dz5cg2nl?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2-star hotel",
+      "roomTypes": "Room 3A: 6 Bed Female Dormitory AC(₹ 321),Room 1B: 12 Bed Male Dormitory AC(₹ 423),Room 3B: 8 Bed Mix Dormitory AC(₹ 466),Room 2B: 8 Bed Mix Dormitory AC(₹ 483),Room 2A: 6 Bed Mix Dormitory AC(₹ 509),Room 3D: Single Occupancy Private Room non-AC - shared washroom(₹ 594),Room 1A: Triple Occupancy Private Room AC with shared bathroom(₹ 1,106),Room 4A: Triple Occupancy Private Room AC(₹ 1,576),Room 3C: Triple Occupancy Private Room AC(₹ 1,619),Room 1C: Quadruple Private Room AC(₹ 1,858)",
+      "facilities": "FREE Wi-Fi,FREE parking,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960447/d8xabdng9js7crvntabh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960448/wvq8y3btskvxudxewwf8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960450/gxzsn0ffyz2pvcqskteo.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58547",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Roland Hotel",
+      "lat": 22.5363,
+      "lon": 88.3567,
+      "address": "28A, Rowland Rd, near Landsdown Crossing, Rowland Row, Ballygunge, Kolkata, West Bengal 700020",
+      "locationLink": "https://www.google.com/maps/place/Roland+Hotel/@22.5363245, 88.3566852, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a0277231c8892e3:0xc18de84f343a10db!5m2!4m1!1i2!8m2!3d22.5363245!4d88.3566852!16s%2Fg%2F1tggryn0?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Room(₹ 2,260-₹ 2,764),Premier Room with Bay Window Seating(₹ 3,050),Suite(₹ 6,551)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960476/a1ozmii8xnssydzxtkcx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960477/n8t3viz3buitzbsquxub.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960481/cryt7ad2q0kvhwutfq56.jpg",
+        "0&output-format=jpg&downsize=720:*"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58548",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "The Elite Apartment Hotel",
+      "lat": 22.5037,
+      "lon": 88.4047,
+      "address": "441, Hussainpur Main Rd, Madurdaha, Hussainpur, Kolkata, West Bengal 700107",
+      "locationLink": "https://www.google.com/maps/place/The+Elite+Apartment+Hotel/@22.503727, 88.4046655, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a0273fb19a573af:0xb4f566904f59a105!5m2!4m1!1i2!8m2!3d22.503727!4d88.4046655!16s%2Fg%2F11c6t6jv2r?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Standard Double Room(₹ 5,143-₹ 5,500),Two-Bedroom Apartment(₹ 7,807-₹ 8,350)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960483/ljudjsb15efhgwhbzugy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960484/es9s9xulnqjjeqozetk3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960485/djvtrcpknq7v8uh6f6ug.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58549",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Hotel VIP International",
+      "lat": 22.5546,
+      "lon": 88.354,
+      "address": "51, FREE School St, Esplanade, Taltala, Kolkata, West Bengal 700016",
+      "locationLink": "https://www.google.com/maps/place/Hotel+VIP+International/@22.5546336, 88.3540331, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027705dbbad571:0x4f737480d86bc0b5!5m2!4m1!1i2!8m2!3d22.5546336!4d88.3540331!16s%2Fg%2F1tplnqxh?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Executive Room(₹ 2,388),Luxury Room(₹ 2,558-₹ 3,070)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960487/tttfrorv8ya6wgteqser.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960491/rzusya8vyohu3qx1b86s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960492/nt6opo9sgmtn2jjeemcm.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58537",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "JW Marriott Hotel Kolkata",
+      "lat": 22.5481,
+      "lon": 88.3992,
+      "address": "4A, JBS Haldane Ave, Tangra, Kolkata, West Bengal 700105",
+      "locationLink": "https://www.google.com/maps/place/JW+Marriott+Hotel+Kolkata/@22.5481474, 88.3991694, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a02769db9e49f61:0xa2117593c10c8066!5m2!4m1!1i2!8m2!3d22.5481474!4d88.3991694!16s%2Fg%2F11b_2p605k?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "Executive Twin Guest Room with Executive Lounge Access and One Way Airport Transfer ( ₹ 15,367 - ₹ 17,867),Executive King Guest Room with Executive Lounge Access and One Way Airport Transfer(₹ 15,367-₹ 17,867),Deluxe Suite with Executive Lounge Access and Two Way Airport Transfer(₹ 21,700-₹ 24,200),Executive Suite with Executive Lounge Access and Two Way Airport Transfer(₹ 26,367-₹ 28,867)",
+      "facilities": "FREE Wi-Fi,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960396/dgn7dayksbvm4ulruscw.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960397/yuk1hhovm5rabzt3yvqr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960398/nlvkaza2nocojvkobxjn.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5853d",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Vedic Village Spa Resort",
+      "lat": 22.6065,
+      "lon": 88.528,
+      "address": "Shikharpur P.O, Bagu, Newtown, Sikharpur, Kolkata, West Bengal 700135",
+      "locationLink": "https://www.google.com/maps/place/Vedic+Village+Spa+Resort/@22.6064581, 88.5280349, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a020a70aecec2ed:0xb7a71abf760eb102!5m2!4m1!1i2!8m2!3d22.6064581!4d88.5280349!16s%2Fg%2F11xynjspp?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "resort",
+      "roomTypes": "Superior Room(₹ 3,574-₹ 5,328),Standard Suite (With Bathtub)(₹ 4,169-₹ 6,403),One Bedroom Suite (With Bathtub)(₹ 4,765-₹ 6,483),Earth Villa (With Bathtub)(₹ 5,360-₹ 8,003),Lake View Villa (With Bathtub and Private Open Shower)(₹ 6,602-₹ 9,604),Two Bedroom Villa (With Bathtub)(₹ 7,202-₹ 7,803)",
+      "facilities": "FREE Wi-Fi,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar,Smoke FREE",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960427/nyj1qodj9mk60mqqyqx7.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960428/qfiatwswk9rsnl0nnhqh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960430/uvdxgoa5aua0q0s2m1l2.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58540",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Bombay Backpackers Kolkata",
+      "lat": 22.55,
+      "lon": 88.3504,
+      "address": "14th Floor, 7/1, Kanchana Building, Russel St, opposite Russel Pujabi Dhaba, Park Street area, Kolkata, West Bengal 700071",
+      "locationLink": "https://www.google.com/maps/place/Bombay+Backpackers+Kolkata/@22.5499601, 88.3503674, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027711b52a5789:0x2efff44a2a7a0039!5m2!4m1!1i2!8m2!3d22.5499601!4d88.3503674!16s%2Fg%2F11fmlj8kqt?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hostel",
+      "roomTypes": "5 Bed Female AC Dorm(₹ 436),6 Bed Mixed Ac Dorm(₹ 436),7 Bed AC Mixed Dorm(₹ 494)",
+      "facilities": "FREE Wi-Fi,Breakfast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960442/macgv8ozz7slx268rrkd.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960444/ydd9319supilxzlvgp0a.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960445/qbcz3tomz1d8hp8oqybj.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58543",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Basera Guest House",
+      "lat": 22.5152,
+      "lon": 88.3655,
+      "address": "128C, Southern Ave, Golpark, Hindustan Park, Kalighat, Kolkata, West Bengal 700029",
+      "locationLink": "https://www.google.com/maps/place/Basera+Guest+House/@22.5152054, 88.3655289, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a02712b213c5ca9:0xf7279c9a87e9c6c8!5m2!4m1!1i2!8m2!3d22.5152054!4d88.3655289!16s%2Fg%2F124sw4z9v?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2-star hotel,Guest House",
+      "roomTypes": "Non Ac Room(₹ 1,412-₹ 1,526),Ac Room(₹ 1,755-₹ 1,908),Premium Deluxe Room(₹ 2,137-₹ 3,434),Super Deluxe(₹ 3,296-₹ 3,434),Premium Super Deluxe Room(₹ 3,663-₹ 5,341)",
+      "facilities": "FREE Wi-Fi,Air-conditioned,Laundry service,Business centre,Room service,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960456/qviok4rxwbf2e8mzrvln.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960459/h2dwje2bsmj3tx6dotyv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960460/bjwkg1pqasz0jf9h0wwd.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58546",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "FabHotel New Dream Palace - Hotel in Kasba",
+      "lat": 22.521,
+      "lon": 88.3901,
+      "address": "406, Prantik Pally Rd, near Acropolis Mall, Om Namah Shivay Housing Society, Prantik Palli, Kasba, Kolkata, West Bengal 700107",
+      "locationLink": "https://www.google.com/maps/place/FabHotel+New+Dream+Palace+-+Hotel+in+Kasba, +Kolkata/@22.5209593, 88.3900878, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a02776cd710da3f:0xaca6fba47ce1c565!5m2!4m1!1i2!8m2!3d22.5209593!4d88.3900878!16s%2Fg%2F11tnjv1czd?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Double Room with Private Bathroom(₹ 1,800-₹ 2,000)",
+      "facilities": "FREE Wi-Fi,FREE parking,Air-conditioned,Room service,Restaurant,",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960472/ssazagoc5a1nmpzr0cua.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960473/ubnqmgn8irxjclrljesn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960474/gssb0j6nqjsebqehs5sb.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58538",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "The Park Kolkata",
+      "lat": 22.5541,
+      "lon": 88.3519,
+      "address": "17, Park St, Taltala, Kolkata, West Bengal 700016",
+      "locationLink": "https://www.google.com/maps/place/The+Park+Hotel/@22.5540974, 88.351871, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027705fba4f341:0xf382683d7139cd1a!5m2!4m1!1i2!8m2!3d22.5540974!4d88.351871!16s%2Fg%2F11c0xs23lm?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "Deluxe Room(₹ 5,305-₹ 6,751),Luxury Room(₹ 6,109-₹ 7,555),Luxury Premium Room(₹ 6,913-₹ 9,966),The Residence(₹ 10,931-₹ 13,984)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960401/bd8tkophtjmictdunfbu.jpg",
+        "0&output-format=jpg&downsize=480:336&crop=480:336",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960402/u1pj22lfgxk1o9kgp9yb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960403/ctjcfpk7u3o3iuijzplw.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5853b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "The Westin Kolkata Rajarhat",
+      "lat": 22.5921,
+      "lon": 88.4744,
+      "address": "Plot No, 2, AA II, Newtown, New Town, West Bengal 700135",
+      "locationLink": "https://www.google.com/maps/place/The+Westin+Kolkata+Rajarhat/@22.5920756, 88.4744092, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027549287696d5:0xbdd849b4c2cf930b!5m2!4m1!1i2!8m2!3d22.5920756!4d88.4744092!16s%2Fg%2F11b_2trxrj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "Deluxe King Bed with Bathtub(₹ 6,299-₹ 7,299),Deluxe Twin Bed with Bathtub(₹ 6,299-₹ 7,299),Club King with Bathtub & 1 way airport transfer(₹ 8,249-₹ 10,249),Club Twin with Bathtub & 1 way airport transfer city view(₹ 8,249),Deluxe Suite with Bathtub, Living Room & Airport Transfer(₹ 13,249),Executive Suite, Club lounge access, 1 Bedroom Executive Suite, 1 King, Lake view, High floor(₹ 15,749),Presidential Suite, Bedroom 1: 1 King, Bedroom 2: 1 King(₹ 1,06,749)",
+      "facilities": "FREE Wi-Fi,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar,Smoke FREE",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960414/d8uljosv5win8abxdgiu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960415/ettag2ebcm9ewnr231ol.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960419/k4fuvvngqutncober33w.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5853c",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "The LaLiT Great Eastern Kolkata",
+      "lat": 22.5682,
+      "lon": 88.3499,
+      "address": "Dalhousie Square 1, 2,3, Old Court House St, Ward Number 1, Kolkata, West Bengal 700001",
+      "locationLink": "https://www.google.com/maps/place/The+LaLiT+Great+Eastern+Kolkata/@22.5681542, 88.349876, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a0277a695a0da53:0x122a931b2e38319f!5m2!4m1!1i2!8m2!3d22.5681542!4d88.349876!16s%2Fm%2F0swmlx2?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "Premier King Room(₹ 8,640-₹ 9,576),Deluxe King room(₹ 9,180-₹ 10,174),Deluxe Twin Room(₹ 12,600-₹ 13,500),Edwardian Room with Club Lounge Access(₹ 16,686-₹ 18,494),Edwardian Suite room with Club Lounge Access(₹ 23,940)",
+      "facilities": "FREE Wi-Fi,FREE BreakFast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960422/jlbzhjgh2fojlz7yjx8k.jpg",
+        "84&output-format=jpg&downsize=1080:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960424/dhocrwtfu0jfbajrnmrp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960425/pp6ypiniykcx6bnskiu3.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5853f",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "City Central Hostel, Kolkata",
+      "lat": 22.5749,
+      "lon": 88.3665,
+      "address": "4TH FLOOR, 57, Mahatma Gandhi Rd, near Chittaranjan College, College Row, College Street, Kolkata, West Bengal 700009",
+      "locationLink": "https://www.google.com/maps/place/City+Central+Hostel/@22.574867, 88.3665087, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027735f47bc9d3:0xf5fed376cd1ca537!5m2!4m1!1i2!8m2!3d22.574867!4d88.3665087!16s%2Fg%2F11t8gqkjyy?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hostel",
+      "roomTypes": "10 bed mixed Dormitory Beds(₹ 476),8 bed Mixed Dormitory Beds(₹ 483),6 bed Mix dormitory Beds(₹ 487),4 bed Mix Dormitory Beds(₹ 545),Superior 4 Bed male Dormitory(₹ 552)",
+      "facilities": "FREE Wi-Fi,Breakfast,FREE parking,Air-conditioned,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960437/q5akp7o8zhgoias2nbea.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960438/nx6a3rlhvddnoxbemdr4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960439/hap7nfn2y0tinmlxeudh.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58542",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Hotel Radiant",
+      "lat": 22.5416,
+      "lon": 88.3632,
+      "address": "Nasiruddin Road, Acharya Jagadish Chandra Bose Rd Flyover, Park Circus, Kolkata, West Bengal 700017",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Radiant+(Kolkata)/@22.5415748, 88.3631601, 17z/data=!4m21!1m11!3m10!1s0x3a0276e02285468f:0x918523bb7429fa2b!2sHotel+Radiant+(Kolkata)!5m2!4m1!1i2!8m2!3d22.5415748!4d88.3631601!10e7!16s%2Fg%2F11gf8fzl48!3m8!1s0x3a0276e02285468f:0x918523bb7429fa2b!5m2!4m1!1i2!8m2!3d22.5415748!4d88.3631601!16s%2Fg%2F11gf8fzl48?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Double Room(₹ 5,000),Superior Double Room(₹ 6,250)",
+      "facilities": "FREE Wi-Fi,Breakfast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960452/mwmwie42y9axtzvriqxf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960453/svpcppryx7ozeydkgo61.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960454/hnpas2kv2leqqzezvgv4.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58544",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Shaw Guest House",
+      "lat": 22.5561,
+      "lon": 88.3645,
+      "address": "1C, Abdul Halim Ln, Maula Ali, Taltala, Kolkata, West Bengal 700016",
+      "locationLink": "https://www.google.com/maps/place/Shaw+Guest+House/@22.5560659, 88.364544, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a0277022d237fad:0x9e760a15ea964157!5m2!4m1!1i2!8m2!3d22.5560659!4d88.364544!16s%2Fg%2F1pzs3c6n5?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2-star hotel",
+      "roomTypes": "Double Room Non Ac(₹ 953),Family Room Non-Attached Toilet Ac(₹ 1,104-₹ 1,299),Double Room Ac(₹ 1,126),Family Room Non-Ac(₹ 1,178-₹ 1,386),Family Room Ac(₹ 1,325-₹ 1,559)",
+      "facilities": "FREE Wi-Fi,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960462/yekozjf9kwcinmi2j468.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960463/hfpray0voiqpszwo6t0s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960465/o0sp1diuqtmdia5iwqet.jpg",
+        "20&output-format=jpg&downsize=720:*"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5854b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Soukyam Hotel",
+      "lat": 22.5062,
+      "lon": 88.3677,
+      "address": "32/11, Gariahat Rd S, near PNB (ATM, Dhakuria, Selimpur, Jodhpur Park, Kolkata, West Bengal 700031",
+      "locationLink": "https://www.google.com/maps/place/Soukyam+Hotel/@22.5062367, 88.3676859, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027128a88b52f5:0xc05e66344354a232!5m2!4m1!1i2!8m2!3d22.5062367!4d88.3676859!16s%2Fg%2F11pyh1n0ht?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Economy Room(₹ 1,824),Economy Room (Single Occupancy)(₹ 1,907),Standard Room(₹ 1,943),Standard Room (Single Occupancy)(₹ 2,043)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960499/ey2sfjqhy1ooejntdpsh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960502/qewgl9tvit9b6k9dwjh6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960505/m3k5cofpmonjswdnh9hq.jpg",
+        "85&output-format=jpg&downsize=720:*"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58539",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Howard Johnson By Wyndham Kolkata",
+      "lat": 22.624,
+      "lon": 88.4424,
+      "address": "New Town Square, Chinar Park, Dash Drone, Rajarhat, Kolkata, West Bengal 700136",
+      "locationLink": "https://www.google.com/maps/place/Howard+Johnson+by+Wyndham+Kolkata/@22.6240358, 88.4423946, 17z/data=!4m9!3m8!1s0x39f89fd2836f1333:0x4bee517f896e6711!5m2!4m1!1i2!8m2!3d22.6240358!4d88.4423946!16s%2Fg%2F11g81ctb46?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "1 Queen Bed Deluxe Room Non-Smoking(₹ 2,997),1 Queen Bed, Deluxe Room, Smoking(₹ 2,997),2 Twin Beds Premier Room Non-Smoking(₹ 3,846),2 Twin Beds Premier Room Smoking(₹ 3,846),1 Queen Bed Premier Room Smoking(₹ 3,846),1 Queen Bed Premier Room Non-Smoking(₹ 3,846),1 Queen Bed Junior Suite Smoking(₹ 5,603),1 Queen Bed Junior Suite Non-Smoking(₹ 5,603)\n\n",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960405/xt62xhsq0lhspcxkfy7s.jpg",
+        "7&output-format=jpg&downsize=810:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960407/jha8nu5ixz0dha9qaift.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960408/mfok04lhtfbkfotsaoov.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5853a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "The Astor Hotel Kolkata",
+      "lat": 22.5455,
+      "lon": 88.3518,
+      "address": "15,Shakespeare Sarani, near NIGHTINGALE HOSPITAL, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+      "locationLink": "https://www.google.com/maps/place/The+Astor/@22.5454924, 88.3517984, 17z/data=!4m9!3m8!1s0x3a02771736f074ff:0x6db1a015b63aa9ae!5m2!4m1!1i2!8m2!3d22.5454924!4d88.3517984!16s%2Fg%2F1tyzxdh0?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkwMy4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Deluxe Room(₹ 9,450-₹ 10,395),Deluxe Twin Bed(₹ 10,150),Executive Twin Bed(₹ 10,850),Suite(₹ 11,550-₹ 12,600),Heritage Suite(₹ 12,250-₹ 13,650)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960410/jcdmuf2dnnxnez9thqt5.jpg",
+        "17&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960411/uslmzhh4vzrrnix0xou5.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960412/kyumhlmw12y0qkkikoan.jpg"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff58545",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Vivanta Kolkata EM Bypass",
+      "lat": 22.513,
+      "lon": 88.4008,
+      "address": "1930, Rash Behari Ave, Sector G, East Kolkata Twp, Kolkata, West Bengal 700107",
+      "locationLink": "https://www.google.com/maps/place/Vivanta+Kolkata+EM+Bypass/@22.5130375, 88.4008422, 17z/data=!3m2!4b1!5s0x3a027155bcc5c029:0xddf631e91f1ee25d!4m9!3m8!1s0x3a0271559bbf97cf:0x69b068753855d80f!5m2!4m1!1i2!8m2!3d22.5130375!4d88.4008422!16s%2Fg%2F11b7qdwdlh?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Superior room city view king bed(₹ 6,500-₹ 7,900),Superior room city view twin bed(₹ 6,500-₹ 7,900),Deluxe Room city view twin bed(₹ 7,500-₹ 8,900),Deluxe Room city view king bed(₹ 7,500-₹ 8,900),Premium Room City View Twin Bed(₹ 8,000-₹ 9,250),Premium Room City View King Bed(₹ 8,000-₹ 9,250),Deluxe Suite city view king bed with one way airport transfer(₹ 15,500-₹ 16,900),Premium Suite City View King Bed with Both Ways Airport Transfer(₹ 21,500-₹ 22,750)",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Pool,Air-conditioned,Laundry service,Business centre,Room service,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960466/cqrze7zwxl3ov6uutcwr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960469/cv5vo03vbo3ots02u3hl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960470/uvsdg8vrzexxr99hcbux.jpg",
+        "0&output-format=webp&downsize=720:*"
+      ]
+    },
+    {
+      "_id": "68c875309dad7b39dff5854a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "hotels": "Kenilworth Hotel, Kolkata",
+      "lat": 22.5461,
+      "lon": 88.3501,
+      "address": "1 And 2, Little Russel St, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+      "locationLink": "https://www.google.com/maps/place/Kenilworth+Hotel, +Kolkata/@22.5460918, 88.35006, 17z/data=!3m1!4b1!4m9!3m8!1s0x3a027716cd1205a3:0x17d0c5140c526b1a!5m2!4m1!1i2!8m2!3d22.5460918!4d88.35006!16s%2Fg%2F1tdrcssz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Business Club Room (With Bathtub(₹ 12,221-₹ 15,665),Russel Suite(₹ 20,555-₹ 23,999)\n",
+      "facilities": "FREE Wi-Fi,FREE breakfast,FREE parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960493/tyumkh3caw5msjyqnmch.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960495/nncqvfip5juqdraxdfg3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960496/ju0ntxgqnqsadwzkmz6a.jpg",
+        "23&output-format=jpg&downsize=720:*"
+      ]
+    }
+  ]
+}

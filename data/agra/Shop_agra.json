@@ -1,0 +1,246 @@
+{
+  "shop": [
+    {
+      "_id": "68c7f22920f4dc4834768a9a",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Panchhi Petha",
+      "lat": 27.1767,
+      "lon": 78.0081,
+      "address": "6/127,Ground, Chandra Palace, 3, Mahatma Gandhi Rd, Opp Imperial Hotel, Mohanpura, Dholpur House, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.co.in/maps/place/PANCHHI+PETHA/@27.1963583, 77.9989519, 882m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397477761302434d:0x19e859f5f62a65dd!8m2!3d27.1963536!4d78.0015268!16s%2Fg%2F1tlmlr3x?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Traditional Agra Petha sweets, offering authentic flavors like Kesar, Angoori, and plain dry since 1926",
+      "priceRange": "₹166–₹196 for 400gm packs.",
+      "openDay": "Monday to Sunday",
+      "openTime": " 9 am to 9 pm",
+      "phone": "7055500773",
+      "website": "https://panchipetha.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263217/ju0ylhifqi1pnc5g1f0a.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263218/pqndx9oztws7b2cpadqv.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263219/j0w4ugk8bekvygxsyzwv.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a9f",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Kalakriti",
+      "lat": 27.162,
+      "lon": 78.0419,
+      "address": "41/142, A/1 VIP Road-Taj Mahal Road, Fatehabad Rd, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.co.in/maps/place/Kalakriti+culture+and+convention+centre/@27.1619361, 78.0570563, 793m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397471094e931211:0xa2aef0c4a8f5fe6c!8m2!3d27.1619314!4d78.0596312!16s%2Fg%2F11bwpzn84x?entry=ttu&g_ep=EgoyMDI1MDcxMy4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Cultural shows like “Mohabbat the Taj” and a large emporium of exclusive handicrafts, jewelry, and textiles.",
+      "priceRange": "₹1,000–₹8,000 for show tickets; ₹500–₹50,000 for handicrafts.",
+      "openDay": "Monday to Sunday",
+      "openTime": "10 am to 8 pm",
+      "phone": "9690017209",
+      "website": "http://www.kalakrititheater.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263249/bim4ief23zxbv6hxqwzd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263252/jqqt3faivxynzw8mi604.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263254/rqklccujidi2h2pauipd.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa4",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "shops": "UP cottage industries agra(Taj Mahal Gift Item)",
+      "lat": 27.1751,
+      "lon": 78.0421,
+      "address": "Western Parking, Taj Mahal, Tajmahal, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/4rdHivbrzLAtLsN4A",
+      "famousFor": "Taj Mahal-related souvenirs and marble goods, specializing in authentic gift items like showpieces.",
+      "priceRange": "₹500–₹10,000, e.g., ₹2,500 for a Taj Mahal showpiece.",
+      "openDay": "Monday to Sunday,Friday Closed",
+      "openTime": "7 am–8 pm",
+      "phone": "8126292123",
+      "website": null,
+      "images": [
+        "https://content.jdmagicbox.com/v2/comp/agra/y5/0562px562.x562.240209222830.s2y5/catalogue/up-cottage-industries-agra-rakabganj-agra-cottages-on-rent-hNxzCZOMo5.jpg",
+        "https://scontent.fdel32-1.fna.fbcdn.net/v/t39.30808-6/476934443_1155924842895815_7624264012031844676_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=OdWLI2Lm-zMQ7kNvwF54ng8&_nc_oc=AdlAEhHxQB2Gjsf6HgqjYY1votI68gnZofO6t7U6bZR_2L3K9Y0I608g7-KrP8j554w&_nc_zt=23&_nc_ht=scontent.fdel32-1.fna&_nc_gid=dpNzeAbbdAgeBc4mgIqDYA&oh=00_AfbP2Vlmc0b88VlqA_5r8CVPtXuPp48cde-AaBa7g-iXxw&oe=68C26046",
+        "https://www.alphonsostories.com/AlphonSoStoriesImages/downloads/Handicrafts-Marble-and-Textiles-in-Agra-9.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a9b",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Marble Handicraft Agra",
+      "lat": 27.1745,
+      "lon": 78.0416,
+      "address": "18/142 A 1, Miyan Nazir Rd, near nagar nigam inter College, Purani Mandi, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://g.co/kgs/DjC5cLN",
+      "famousFor": "Marble inlay handicrafts, featuring Mughal-inspired designs on items like table tops, coasters, and chess boards",
+      "priceRange": "₹500–₹50,000, depending on item size and intricacy.",
+      "openDay": "Monday to Sunday",
+      "openTime": "8 am–10 pm",
+      "phone": "9319839464",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263221/xnkzxdz5atgpdhqhesns.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263223/d2dlaxjjr3h4sznz3sd7.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263224/iosv9sikqb7gkcfqrtwq.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a9c",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "shops": "Taj Leather World",
+      "lat": 27.1588,
+      "lon": 77.99,
+      "address": "Ground Floor, Shopping Arcade, B-28, Gopi Chand Shivhare Rd, Sadar Bazar, Agra Cantt, Idgah Colony, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.co.in/maps/place/Taj+Leather+World/@27.1601491, 78.0113287, 826m/data=!3m3!1e3!4b1!5s0x397476ce4d5a348b:0x592408c6f423a882!4m6!3m5!1s0x397476ce56cdfebd:0x82996e7029a9cd96!8m2!3d27.1601491!4d78.0113287!16s%2Fg%2F1261z4x6l?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "High-quality leather goods, including jackets, shoes, boots, purses, and belts at competitive prices.",
+      "priceRange": "₹2,000–₹10,000, depending on the item.",
+      "openDay": "Monday to Sunday",
+      "openTime": "11 am to 10 pm",
+      "phone": "5622225076",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263226/oanmy20awrdoepsbiwjc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263228/hiesrxspdhjzxcnyzop9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263229/qgvhkiplxzohz12xld08.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a9e",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "shops": "Shilpgram",
+      "lat": 27.1698,
+      "lon": 78.0466,
+      "address": "5383+G6H, Dhandhupura Rd, Telipara, Agra, Dhandhupura, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.co.in/maps/place/Shilpgram+Rd, +Dhandhupura, +Agra, +Uttar+Pradesh+282001/@27.1616376, 78.0545734, 826m/data=!3m1!1e3!4m6!3m5!1s0x3974710ff0ca2e51:0x5b9fc0c0adbfbe38!8m2!3d27.1616376!4d78.0545734!16s%2Fg%2F11bw7v98sl?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Traditional Indian handicrafts, especially vibrant during Taj Mahotsav, featuring a variety of unique souvenirs.",
+      "priceRange": "₹200–₹10,000, depending on the craft.",
+      "openDay": "Monday to Sunday",
+      "openTime": "11 am to 8 pm",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263240/k1n4vpu6kagt76y443pm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263243/dxtha2bxpimd1r5haebj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263244/g3yes81c5po2wpyvlakr.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa1",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "shops": "Marble Cottage",
+      "lat": 27.1614,
+      "lon": 78.0345,
+      "address": "Shop, 7, Jasoria Enclave, Fatehabad Rd, behind Dominoz Pizza, near GMB Sweet, Bagichi, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/rMWVqpkKVHC6kz4Z8",
+      "famousFor": "Marble inlay products with live demonstrations, offering items from small souvenirs to large table tops.",
+      "priceRange": "₹500–₹30,600, depending on the item",
+      "openDay": "Monday to Sunday",
+      "openTime": " 8:30 am–8:30 pm",
+      "phone": "9927507868",
+      "website": "https://www.parchinkari.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263268/dxhndar3tys3ds2oc3cz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263271/v9unm4j8jgs0aczfhgoq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263274/c4ktgjstkxeurukvlfug.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768a9d",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Subhash Emporium",
+      "lat": 27.1722,
+      "lon": 78.0422,
+      "address": "18/1, Gwalior Road, Opp BSNL office, Shahzadi Mandi,, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.co.in/maps/place/Subhash+Emporium/@27.1625768, 78.0144792, 826m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397476d206592765:0x601c0279d49b694f!8m2!3d27.1625768!4d78.0144792!16s%2Fg%2F1tp_4t3j?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Exquisite marble inlay work, offering a range from affordable souvenirs to high-end art pieces.",
+      "priceRange": "₹1,000–₹1,00,000, depending on craftsmanship.",
+      "openDay": "Monday to Sunday",
+      "openTime": "9 am to 7 pm",
+      "phone": "9410613616",
+      "website": "https://subhashemporium.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263234/rxmplzvnrbtno4dhof5d.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263235/woxvfbckl997m0lxvfeg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263236/obycqblxmptp6yydfy8a.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa3",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Meena Bazaar",
+      "lat": 27.175,
+      "lon": 78.041,
+      "address": "Ground Floor SARV, Omaxe SRK Mall, 24, NH2, Jawaharnagar Colony, Khandari, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/nkEw4MevjDu6oNqo6",
+      "famousFor": "Bridal and ethnic wear, offering a wide range of sarees, lehengas, and exclusive designs for weddings.",
+      "priceRange": "₹2,000–₹1,00,000, depending on design.",
+      "openDay": "Monday to Sunday",
+      "openTime": " 10:30 am–8 pm",
+      "phone": "9810006997",
+      "website": "https://www.meenabazaar.com/",
+      "images": [
+        "https://content3.jdmagicbox.com/comp/agra/r9/0562px562.x562.140502121339.d1r9/catalogue/meena-bazaar-bye-pass-road-agra-bandhani-saree-retailers-bonwqsals4.jpg",
+        "https://content.jdmagicbox.com/comp/agra/l8/0562px562.x562.170715124429.q8l8/catalogue/gathbandhan-sarees-hospital-road-agra-saree-retailers-16glr5nqzj.jpg",
+        "https://content3.jdmagicbox.com/comp/agra/r9/0562px562.x562.140502121339.d1r9/catalogue/meena-bazaar-bye-pass-road-agra-bandhani-saree-retailers-0e7r5zrxy9.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa0",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "Taj Gallery",
+      "lat": 27.1723,
+      "lon": 78.0421,
+      "address": "Hotel Taj Resorts, 538, Eastern Gate Of Taj Mahal, VIP Road, Near Shilpgram, Tajganj, Taj East Gate Rd, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Taj+Gallery/@27.1683196, 78.0511046, 17z/data=!3m1!4b1!4m6!3m5!1s0x3974711aff01e705:0x181a6e4d2a6ac549!8m2!3d27.1683196!4d78.0511046!16s%2Fg%2F11fxb8j1_y?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Authentic Mughal inlay artefacts, reflecting Taj Mahal-inspired craftsmanship for high-end collectors.",
+      "priceRange": "₹2,000–₹1,00,000, depending on item quality.",
+      "openDay": "Monday to Sunday",
+      "openTime": "8 am–10 pm",
+      "phone": "7830050001",
+      "website": "https://www.hoteltajresorts.com/taj-gallery.html",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263260/dzfec7fmakcrmakdxire.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263261/esoe3heasasctlbl0jgk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757263263/nlyg9drlqbvhrwnlmfuz.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22920f4dc4834768aa2",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "shops": "The Embroidery Palace",
+      "lat": 27.198,
+      "lon": 78.006,
+      "address": "Plot No. 5 & 6 basai Mustakil Noor Enclave Opp. JP Palace Hotel, Near Dharm Kanta Tajnagri Phase 3, Uttar Pradesh 282001",
+      "locationLink": "https://maps.app.goo.gl/JENN77CqLEbpHrz9A",
+      "famousFor": "Exclusive hand-embroidered items, showcasing intricate designs on ethnic wear and textiles.",
+      "priceRange": "₹1,000–₹50,000, depending on complexity.",
+      "openDay": "Monday to Sunday",
+      "openTime": "10 am–7 pm",
+      "phone": "9837465101",
+      "website": null,
+      "images": [
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/1a/08/78/embroidery-palace.jpg?w=900&h=500&s=1",
+        "https://content3.jdmagicbox.com/v2/comp/agra/v3/0562px562.x562.180321025004.e3v3/catalogue/the-embroidery-palace-fatehabad-road-agra-handicraft-item-dealers-vhx0s2qu0i.jpg",
+        "https://content3.jdmagicbox.com/comp/agra/w7/0562px562.x562.170315154213.d3w7/catalogue/embroidery-palace-fatehabad-road-agra-ldsbe0dcvf.jpg"
+      ]
+    }
+  ]
+}

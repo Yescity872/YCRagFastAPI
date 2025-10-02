@@ -1,0 +1,389 @@
+{
+  "accommodation": [
+    {
+      "_id": "68c7f22820f4dc4834768a5c",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "hotels": "The Oberoi Amarvilas, Agra",
+      "lat": 27.1679,
+      "lon": 78.0489,
+      "address": "Taj East Gate Rd, Paktola, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/The+Oberoi+Amarvilas, +Agra/@27.1680032, 78.0490121, 17z/data=!4m10!3m9!1s0x3974711bd2e1a9c1:0xd69a6ec8d865a0a5!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1680032!4d78.0490121!16s%2Fg%2F1tgpr050?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Premier Room with Balcony King,Premier Room with Balcony Twin,Deluxe Suite,Deluxe Suite with Private Balcony,Luxury Suite; Prices approx ( ₹ 31,000 - ₹ 45,000 ) per night",
+      "facilities": "Parking ,Wi-Fi,Air Conditioning , Spa,Swimming Pool , Gym ,Restaurant , Butler Services , Kids Play Area , Lounge , Yoga  ",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262576/jwifitc95lqa4hdxcj5s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262577/fuirmxu7taagawz5luuh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262582/coxpteapck8us43wfp6c.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a5d",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "hotels": "Taj Agra",
+      "lat": 27.1629,
+      "lon": 78.0565,
+      "address": "Phase 1, Taj East Gate Rd, near Tea Lounge, Taj Nagari Phase 1, Telipara, Agra, Dhandhupura, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/%E0%A4%A4%E0%A4%BE%E0%A4%9C+%E0%A4%86%E0%A4%97%E0%A4%B0%E0%A4%BE/@27.1629064, 78.056505, 17z/data=!4m10!3m9!1s0x3974710e54fee4d9:0x9fc50cabb21b724d!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1629064!4d78.056505!16s%2Fg%2F11fnm1ff22?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Superior Room with Twin Bed,Superior Room with King Bed,Deluxe Room with Bathtub and Twin Bed,Deluxe Room with Bathtub and King Bed,Luxury Room King Bed,Luxury Room Twin Beds,Taj Club Room King Bed With Bathtub and Lounge Access,Taj Club Room Twin Bed With Bathtub and Lounge Access,Deluxe Suite with Living Room, Bathtub and Lounge Access,Luxury Suite with Living Room, Bathtub and Lounge Access; Approx ( 7,500 - 9,000 ) per night",
+      "facilities": "Parking ,Wi-Fi,Air Conditioning , Spa,Swimming Pool , Gym ,Restaurant , Butler Services , Kids Play Area , Lounge , Yoga  ",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262584/o2yxvrylzikxy2lustb0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262585/wrjnnqch5e2zuirzd1t7.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262590/imo2gwjhysvtgvluxyoz.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a63",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "hotels": "Tajview, Agra - IHCL SeleQtions",
+      "lat": 27.161,
+      "lon": 78.0402,
+      "address": "Fatehabad Rd, Bagichi, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Tajview, +Agra+-+IHCL+SeleQtions/@27.1610001, 78.0401956, 17z/data=!4m10!3m9!1s0x3974713c51f8f753:0x34606457fc6f6720!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1610001!4d78.0401956!16s%2Fg%2F1ptz6t_hh?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Deluxe Room King Bed with Shower Cubical (₹ 6,500 - ₹ 9,500);Deluxe Room Twin Bed with Shower Cubical (₹ 6,500 - ₹ 9,500);Deluxe Room Pool View King Bed with Shower Cubical (₹ 9,000 - ₹ 12,000) ;Deluxe Room Pool View Twin Bed with Shower Cubical (₹ 9,000 - ₹ 12,000);Executive Room Pool View King Bed(₹ 9,500 - ₹ 12,500 );Junior Suite Pool View King Bed(₹ 12,810 - ₹ 16,700);Executive Room Taj Mahal View King Bed(₹ 14,500 - ₹ 17,500 );Junior Suite Taj Mahal View (₹ 17,485 -  ₹ 21,700);SeleQtions Suite King Bed with Living Room and Bathtub( ₹ 19,355 - ₹ 23,700);SeleQtions Suite Taj Mahal View King Bed with Living Room and Bathtub (₹ 23,095 - ₹ 27,700)",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool, Restaurant,Laundry service,Fitness centre,Fitness centre,room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262649/ovuwu5k2zikzzzkcs8cs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262650/mfwls4kj2mpr9xbfulfk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262652/y9zppnxwrivcvfdibwkd.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a66",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Joey's Hostel Agra",
+      "lat": 27.169,
+      "lon": 78.0429,
+      "address": "3/142 Chowk Kagziyan, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Joey's+Hostel+Agra/@27.1690075, 78.0429868, 17z/data=!4m10!3m9!1s0x39747180c824327f:0x54fd5b4efad641af!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1690075!4d78.0429868!16s%2Fg%2F11fhybwpp7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2-star hotel",
+      "roomTypes": "1 Bed in 8 Bed AC Mixed Dorm with shared bathroom;1 Bed in 6 Bed AC Mixed Dorm with shared Bathroom;AC Mini Loft Room (Block-C);AC Deluxe Private Rooms with Attached Washroom;AC Standard Double Room (Block-B);AC Taj View Superior Double Room with Attached Washroom;approx (₹ 401  - ₹ 2,189) per night",
+      "facilities": "Wi-Fi,Air Conditioning ,FREE breakfast, Restaurant,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262675/gao7p9k06uesur73xgax.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262676/p3b5s7xgj37wwkbnwswf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262677/uyn9wcjijjzlqm3pzide.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a67",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "The Hosteller Agra",
+      "lat": 27.1671,
+      "lon": 78.0481,
+      "address": "Taj Mahal Eastern Gate Parking, Opp Jalma Hospital, Amarlok Colony, Taj Nagari Phase 1, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/The+Hosteller+Agra/@27.1670745, 78.0480928, 17z/data=!4m17!1m5!2m4!1sbackpacker+hostel+agra!5m2!5m1!1s2025-07-19!3m10!1s0x3974717fdcbc8e7f:0xd8cd8830f4b63fe!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1670745!4d78.0502815!15sChZiYWNrcGFja2VyIGhvc3RlbCBhZ3JhWhgiFmJhY2twYWNrZXIgaG9zdGVsIGFncmGSAQZob3N0ZWyqAVYQASoVIhFiYWNrcGFja2VyIGhvc3RlbCgAMh8QASIb-65KT6pAhvOOeezsUMMNoXvdp1GKVtjFyU3kMhoQAiIWYmFja3BhY2tlciBob3N0ZWwgYWdyYeABAA!16s%2Fg%2F11t29ht1y5?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hostel",
+      "roomTypes": "Bed in 8 Bed Mixed Dormitory;Bed in 6 Bed Mixed Dormitory;Bed in 4 Bed Mixed Dormitory;Bed in 4 Bed Female Dormitory;Deluxe Double Room;Deluxe Twin Room;DeluxeTriple Room; approx (₹ 173 - ₹ 1,088) per night",
+      "facilities": "Wi-Fi,Air Conditioning , Restaurant,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262680/bppzzph9cftvh43hlk1q.jpg",
+        "7&output-format=webp&downsize=1080:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262683/drtubyikhf6nu6k14m3k.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262686/uvlmeehoafgddvoiz0a9.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6a",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Elinor Hotel",
+      "lat": 27.1686,
+      "lon": 78.0554,
+      "address": "opposite shilpgram parking, Tajganj, Agra, Karmana Mustkil, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Elinor+Hotel/@27.1685518, 78.0539705, 17z/data=!4m16!1m5!2m4!1shotels+in+agra+!5m2!5m1!1s2025-07-19!3m9!1s0x397471ad252ba139:0x96790aed687f7264!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.168552!4d78.0554325!16s%2Fg%2F11w84pd4z3?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Mid range hotel",
+      "roomTypes": "Standard Double Room ; Deluxe King Room ; Junior Suite ; Presidential Suite ; approx ( ₹ 2,520 - ₹ 15,000 ) per night ",
+      "facilities": "Wi-Fi,Parking,Pool,Air Conditioning , Lift,Restaurant,Laundry service, Room service, Fitness centre,Golf course , Smoke-FREE",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262707/n9r3zjkyhz4db2klpl1g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262708/ewmob3g5lvtpdax4ojxy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262711/nfk8avoxphiihnf7p01d.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a64",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Grand Mercure Agra",
+      "lat": 27.1576,
+      "lon": 78.0509,
+      "address": "Fatehabad Rd, Tajganj, Agra, Basai, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Grand+Mercure+Agra/@27.1575639, 78.0509568, 17z/data=!4m10!3m9!1s0x3974716c7c8aae5f:0xada75d6045b3ce18!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1575639!4d78.0509568!16s%2Fg%2F11l2xynrvl?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Superior Double Room;Deluxe Double Room;Superior Twin Room;Deluxe Twin Room;Junior Suite;approx ( ₹ 4,000 - ₹ 11,200  ) per night",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool,FREE breakfast, Restaurant,Laundry service,Fitness centre",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262657/tnjnb2ic4dxhbuq3bfte.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262660/fzo21rldtgvy0fadnmeu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262665/ulio36x0repgzthneb7x.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a69",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Friends Guest House & Hostel - Agra",
+      "lat": 27.1636,
+      "lon": 78.0536,
+      "address": "P-6, near Shilpgram Road, Taj Nagari Phase 1, Telipara, coloney, Agra, Dhandhupura, Uttar Pradesh 282004",
+      "locationLink": "https://www.google.com/maps/place/Friends+Guest+House+%26+Hostel+-+Agra/@27.1635847, 78.0535685, 17z/data=!4m10!3m9!1s0x3974711028f6dc0f:0x2ed2f6927e60a862!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1635847!4d78.0535685!16s%2Fg%2F1tcxy6sp?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "1-star hotel",
+      "roomTypes": "Standard Double Room with Fan;Deluxe Room;Standard Triple Room;Mixed Dormitory Room;Family Room with Shared Bathroom;6-Bed Mixed Dormitory Room; approx ( ₹ 849 - ₹ 1,998 ) ",
+      "facilities": "Wi-Fi,Parking,Air Conditioning , Lift,Restaurant,Laundry service, Room service, Fitness centre,",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262698/oysbvwvrosk1zpviaw7t.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262704/rxadvqp7ia8pqyqvkxzp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262706/hky9drbab3n3wegbscpr.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6c",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Hotel Rajshree, Agra",
+      "lat": 27.1636,
+      "lon": 78.0536,
+      "address": "70 HIG, behind T D I MALL, Taj Nagari Phase 1, Basai Khurd, Agra, Dhandhupura, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Rajshree, +Agra/@27.1635847, 78.0535685, 17z/data=!4m19!1m7!2m6!1shotels+in+agra+!5m3!4e9!5m1!1s2025-07-19!6e3!3m10!1s0x397471c7bc22bc21:0x97ade92d61f56a70!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1609825!4d78.0571126!15sCg5ob3RlbHMgaW4gYWdyYZIBBWhvdGVsqgFCEAEqCiIGaG90ZWxzKAAyHhABIhrcYsfhXAhDwNafpBFvir9UhO03H5ckNP00EjISEAIiDmhvdGVscyBpbiBhZ3Jh4AEA!16s%2Fg%2F11j2dftyy1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Standard Double Room;Executive Triple Room; approx ( ₹ 1,078 - ₹ 1,212 ) per night",
+      "facilities": "Wi-Fi,Air Conditioning , Lift,Parking,Restaurant,breakfast,Laundry service, Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262732/sglsn9bqxaw57ugaso9t.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262737/t8af8gavcbzfwptzjfwk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262741/byuveb1ketbbx3zmmhun.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a5e",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Courtyard By Marriott",
+      "lat": 27.1349,
+      "lon": 78.0356,
+      "address": "Fatehabad Rd, Taj Nagri Phase 2, Ii, Agra, Basai, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Courtyard+Agra/@27.1348522, 78.0356185, 13.15z/data=!4m10!3m9!1s0x3974710b604d68b7:0x8479273de0b65ca3!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1563811!4d78.0595243!16s%2Fg%2F11b6t7jkxp?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Deluxe Twin with Porch/City/Garden View;Deluxe King with Porch/City/Garden View;Premium Twin Pool View;Premium King Pool View;Terrace Twin;Terrace King with Small Terrace Area;Junior Suite with Seating Area & Bathtub;Executive Suite with Seating Area & Bathtub;approx ( 3,600 - 4,500 ) per night",
+      "facilities": "Paid Parking ,Wi-Fi,Air Conditioning , Spa,Lift,Gym,Restaurant , Kids Play Area , Lounge , Yoga  ",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262592/cmdwak1wmxj86mp6jvvc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262596/ctr1aegl8a9gq8eegpdp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262600/gpep0w5tuc8zpa39akqe.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a68",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Bedweiser Backpackers Hostel Agra",
+      "lat": 27.1693,
+      "lon": 78.0408,
+      "address": "M-i-g-57, near shilpgram, Taj Nagari Phase 1, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Bedweiser+Backpackers+Hostel+Agra/@27.1693071, 78.0407662, 14.26z/data=!4m17!1m5!2m4!1sbackpacker+hostel+agra!5m2!5m1!1s2025-07-19!3m10!1s0x3974710ffae18d49:0xe212d3b32c638981!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1653425!4d78.0543446!15sChZiYWNrcGFja2VyIGhvc3RlbCBhZ3JhkgEGaG9zdGVsqgFWEAEqFSIRYmFja3BhY2tlciBob3N0ZWwoADIfEAEiG_uuSk-qQIbzjnns7FDDDaF73adRilbYxclN5DIaEAIiFmJhY2twYWNrZXIgaG9zdGVsIGFncmHgAQA!16s%2Fg%2F11cmzl9rht?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hostel",
+      "roomTypes": "Bed in 8-Bed Mixed Dormitory Room;Budget Double Room;Deluxe Triple Room;Bed in 6-Bed Mixed Dormitory Room;approx ( ₹ 350 - ₹ 1,699 )  ",
+      "facilities": "Wi-Fi,Parking,Air Conditioning , Restaurant,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262689/xopasgnbh5xqge16okri.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262691/e7yvsukq2mqdc8bhdagj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262692/pofcccdjut3gkm4fymuy.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6f",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Village Homestay",
+      "lat": 27.0288,
+      "lon": 77.8843,
+      "address": "Post Office, Karmana Mustkil, Dhandhupura, Uttar Pradesh 282006",
+      "locationLink": "https://www.google.com/maps/place/Village+Homestay/@27.028791, 77.8842929, 10.55z/data=!4m22!1m10!2m9!1shotels+in+agra+!5m6!4e9!5m3!1s2025-07-19!4m1!1i2!9i1000!6e3!3m10!1s0x397471b29fa0e23b:0x10cbd5c4a8460c79!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1778903!4d78.0767891!15sCg5ob3RlbHMgaW4gYWdyYZIBBWhvdGVsqgFCEAEqCiIGaG90ZWxzKAAyHhABIhrcYsfhXAhDwNafpBFvir9UhO03H5ckNP00EjISEAIiDmhvdGVscyBpbiBhZ3Jh4AEA!16s%2Fg%2F11f3jv4hsd?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Room in a Homestay 2-star hotel",
+      "roomTypes": "Budget Room ; approx ₹ 850 per night",
+      "facilities": "Wi-Fi,Air Conditioning , Fireplace , Parking, Gym",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262773/h2setgvb9etjbkjffaug.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262777/otdq4stshqsmjtyf8aon.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262781/cgkbn3n2vyf4blxtfkzm.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a5f",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": true,
+      "hotels": "Itc Mughal, A Luxury Collection Resort & Spa, Agra",
+      "lat": 27.1608,
+      "lon": 78.0439,
+      "address": "Tajganj Ground Floor Fatehabad Road 4 kms and 15 minutes drive from Taj Mahal, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/ITC+Mughal, +a+Luxury+Collection+Resort+%26+Spa, +Agra/@27.1607661, 78.0439462, 17z/data=!3m1!5s0x3974713d91593395:0x9ad077d3756e9cfc!4m10!3m9!1s0x390cfcdfdaaf2f89:0x44a5530eee2ed87c!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1607661!4d78.0439462!16s%2Fg%2F1tgh5yqw?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Mughal Room Double;Mughal Room Twin- Garden or Courtyard View;Mughal Chambers Twin;Mughal Chambers Double;approx ( 8,531 - 14,500 ) per night",
+      "facilities": "Paid Parking ,Wi-Fi,Air Conditioning , Gym, Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262605/gmudlbrbjojn4q3eldq0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262610/rq5gvc4dgprgafueqxdn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262612/iyggqglxxwtqwn6lhvem.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a60",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Radisson Hotel Agra",
+      "lat": 27.1587,
+      "lon": 78.0536,
+      "address": "C-1, 1, Fatehabad Rd, Taj Nagari, Agra, Uttar Pradesh 282004",
+      "locationLink": "https://www.google.com/maps/place/Radisson+Hotel+Agra/@27.158705, 78.0536495, 17z/data=!4m10!3m9!1s0x3974710f98661153:0x2e02e569575a3adc!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.158705!4d78.0536495!16s%2Fg%2F1tdjpkb3?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Standard King or twin Bed room(₹ 4,793 - ₹ 9,826), Deluxe Room ( ₹ 5,693 - ₹ 10,826 ),Superior Room-Taj View ( ₹ 6,593 - ₹ 11,826 ),Executive Room - City View ( ₹ 7,043 - ₹ 11,074),Executive Room - Taj View ( ₹ 7,493 - ₹ 12,826 ) , Presidential Suite - Taj View ( ₹ 12,869 - ₹ 16,833 )",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool, Restaurant,Laundry service,Fitness centre,room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262618/cywfzb1tngb17wnm8tjb.jpg",
+        "16&output-format=jpg&downsize=810:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262625/xizzf80iwro2n3dhmscn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262626/dp49jkmr6l1faas2chdj.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a61",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Jaypee Palace Hotel & Convention Centre",
+      "lat": 27.1539,
+      "lon": 78.0714,
+      "address": "5339+G6Q, Fatehabad Rd, Tajganj, Tora, Uttar Pradesh 282004",
+      "locationLink": "https://www.google.com/maps/place/Jaypee+Palace+Hotel+%26+Convention+Centre+-+5+Star+Deluxe+Hotel+in+Agra/@27.1538551, 78.071379, 17z/data=!4m10!3m9!1s0x3974713cc4a9238b:0x94adedd7bc3afe5b!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1538551!4d78.071379!16s%2Fg%2F1wn_4hx_?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Deluxe Hotel 5-star hotel",
+      "roomTypes": "Deluxe Room With Balcony (₹ 8,010 - ₹ 12,800),Executive Room(₹ 8,730 - ₹ 13,600),Junior Suite Room With Bathtub ( ₹ 18,090 - ₹ 20,100)",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool, Restaurant,Laundry service,Fitness centre,Fitness centre,room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262631/cchgh90mpgmfrxo7s9tg.jpg",
+        "0&output-format=webp&downsize=810:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262633/x4w5oqj9wx7frmyhfldx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262639/fpfz9qtu86jytujzvfcl.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a62",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "DoubleTree by Hilton Hotel Agra",
+      "lat": 27.1518,
+      "lon": 78.0506,
+      "address": "B/H-1&2, Taj Nagri Phase 2, Tajganj, Agra, Basai, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/DoubleTree+by+Hilton+Hotel+Agra/@27.1517806, 78.0506483, 17z/data=!4m10!3m9!1s0x39747165e084361d:0x172506e5e0e2c4f1!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1517806!4d78.0506483!16s%2Fg%2F11fmbf7zkh?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Twin GuestRoom (₹ 4,948 - ₹ 5,948),Twin Guest Room City View ( ₹ 6,200 - ₹ 7,200),Twin Guest Room With Pool View ( ₹ 6,500 - ₹ 6,500 ),King Guest Room With Pool View (₹ 7,000 -  ₹ 8,000 ),King Deluxe Room ( ₹ 8,000 - ₹ 9,000 ),King One Bedroom Suite With Pool View ( ₹ 18,548 - ₹ 19,548 ),The Astor Suite ( ₹ 26,548 - ₹ 27,548)",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool, Restaurant,Laundry service,Fitness centre,Fitness centre,room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262642/eyf50nq10ehzcvu9o0t7.jpg",
+        "0&output-format=webp&downsize=810:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262643/ccr9ovvfx1vpgb5cy5sf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262647/vsviqpdo5sfvqaaqxe3o.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a65",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Hotel Royal Phoenix",
+      "lat": 27.1693,
+      "lon": 78.0161,
+      "address": "khoa Mandi, 4/410, Bijli Ghar Rd, near Pilikhoti, Baluganj, Rakabganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Royal+Phoenix/@27.1692621, 78.016073, 17z/data=!4m10!3m9!1s0x3974774001559273:0xb494918efa41d9f1!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1692621!4d78.016073!16s%2Fg%2F11nzsltbxf?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Standard Double Room;Deluxe Double Room;Deluxe Family Room;approx ( ₹ 1,284 - ₹ 2,019 ) per night",
+      "facilities": "Wi-Fi,Air Conditioning, Parking,Pool,FREE breakfast, Restaurant,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262667/spcvhipbpkhggfgzvzoc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262668/sicrud2dkg4fhsqv8asr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262669/hag4ttscz0g8nbn1r7gh.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6b",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "The Taj Crown Hotel Agra",
+      "lat": 27.1577,
+      "lon": 78.0547,
+      "address": "Fatehabad Rd, near Vishal megamart, Tajganj, Agra, Basai, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/The+Taj+Crown+Hotel+Agra/@27.1403529, 78.0289712, 13.49z/data=!4m19!1m7!2m6!1shotels+in+agra+!5m3!4e9!5m1!1s2025-07-19!6e3!3m10!1s0x39747153701498a7:0x44540c3255398df6!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1576881!4d78.0549831!15sCg5ob3RlbHMgaW4gYWdyYZIBBWhvdGVsqgFCEAEqCiIGaG90ZWxzKAAyHhABIhrcYsfhXAhDwNafpBFvir9UhO03H5ckNP00EjISEAIiDmhvdGVscyBpbiBhZ3Jh4AEA!16s%2Fg%2F11pkfnjrfz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Room;Family Suite with Bath Tub; approx ( ₹ 1,188 - ₹ 3,089) per night ",
+      "facilities": "Wi-Fi,Parking,Air Conditioning , Lift,Restaurant,Laundry service, Room service, Fireplace (Indoor) ",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262716/svw3wloxbehltz1bdf4y.jpg",
+        "20&output-format=webp&downsize=1080:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262721/raf6hca6uwqcxnb51xol.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262726/yrl0k1diata76heozmaq.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6d",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Aman Homestay, A Boutique Hotel",
+      "lat": 27.1638,
+      "lon": 78.0526,
+      "address": "Shilpgram Parking, P-18, MIG Colony, Shilpgram Rd, Taj Nagari Phase 1, Before, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Aman+Homestay, +A+Boutique+Hotel/@27.1638419, 78.0525691, 17.29z/data=!4m19!1m7!2m6!1shotels+in+agra+!5m3!4e9!5m1!1s2025-07-19!6e3!3m10!1s0x397471102789d9f7:0x72508db47bf18156!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1636407!4d78.0538989!15sCg5ob3RlbHMgaW4gYWdyYZIBBWhvdGVsqgFCEAEqCiIGaG90ZWxzKAAyHhABIhrcYsfhXAhDwNafpBFvir9UhO03H5ckNP00EjISEAIiDmhvdGVscyBpbiBhZ3Jh4AEA!16s%2Fg%2F11b773k2x_?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "A Boutique Hotel , 5-star hotel",
+      "roomTypes": "Deluxe Double Room;Luxury King Room;Deluxe Twin Room;Luxury Queen Room;Luxury King Triple Room;Luxury Quadruple Room;Double Room; approx (₹ 2,250 - ₹ 6,390) per night",
+      "facilities": "Wi-Fi,Air Conditioning , Parking, Gym,Lift  ,Restaurant,breakfast,Laundry service,Fitness centre, Smoke-FREE, Room service,Balcony/Terrace",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262750/hhpu56o4gbk1l7g0rw12.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262756/xkb0uuo5eb560vex4b0s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262762/bqaepcu48s6xjnt16igx.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f22820f4dc4834768a6e",
+      "cityId": "68c7454b4ea2df675385f351",
+      "cityName": "Agra",
+      "flagship": false,
+      "hotels": "Max Guest House Agra",
+      "lat": 27.1554,
+      "lon": 78.0333,
+      "address": "Puliya, Shaheed Nagar, Tajganj, Agra, Uttar Pradesh 282001",
+      "locationLink": "https://www.google.com/maps/place/Max+Guest+House+Agra/@27.1554067, 78.0332798, 17z/data=!4m22!1m10!2m9!1shotels+in+agra+!5m6!4e9!5m3!1s2025-07-19!4m1!1i2!9i1000!6e3!3m10!1s0x397471c43bf41d35:0xe8a9bc7f4bbbb31b!5m3!1s2025-07-19!4m1!1i2!8m2!3d27.1554067!4d78.0354685!15sCg5ob3RlbHMgaW4gYWdyYZIBEWJlZF9hbmRfYnJlYWtmYXN0qgFCEAEqCiIGaG90ZWxzKAAyHhABIhrcYsfhXAhDwNafpBFvir9UhO03H5ckNP00EjISEAIiDmhvdGVscyBpbiBhZ3Jh4AEA!16s%2Fg%2F11y76nrxl8?authuser=0&entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Room in a Homestay 1-star hotel",
+      "roomTypes": "Budget Room ; approx ₹ 1000 per night",
+      "facilities": "Wi-Fi,Air Conditioning , Parking, Gym, Restaurant,breakfast,Laundry service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262765/wminow41h3h4wpd0khky.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262766/wqkbrqbpeunpf8gbe8s4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757262768/v4dupyowtja090o4pkey.jpg"
+      ]
+    }
+  ]
+}

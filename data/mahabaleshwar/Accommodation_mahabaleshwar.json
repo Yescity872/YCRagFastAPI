@@ -1,0 +1,540 @@
+{
+  "accommodation": [
+    {
+      "_id": "68c7f5ba20f4dc4834768bf6",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Shivshrushti Agro Tourism & River Camp Tapola",
+      "lat": 17.7831,
+      "lon": 73.7131,
+      "address": "Tapola Rd, Velapur, Maharashtra 412806",
+      "locationLink": "http://google.com/maps/place/Shivshrushti+Agro+Tourism+%26+River+Camp+Tapola/@17.7830994, 73.713194, 17z/data=!4m9!3m8!1s0x3bc26ffaadebc695:0x409164288d7b5ea2!5m2!4m1!1i2!8m2!3d17.7830994!4d73.713194!16s%2Fg%2F11frrd_fhm?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Camp",
+      "roomTypes": "Quadruple Cottage Room - Non Ac(₹ 2,677),Quadruple Deluxe Room with Balcony -Non AC(₹ 3,200),Super Deluxe Room with Balcony - Non Ac(₹ 3,272),Mixed Dormitory Room - Non Ac(₹ 4,892)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Pet Friendly,Room service,Child friendly,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195789/pqq3cyyzviumqox2yurx.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195790/ijd4cz2qbpfh1qcfg5tw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195795/zadjsii600zfxt4djykk.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bfb",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Om Dattakrupa Niwas",
+      "lat": 17.9187,
+      "lon": 73.6676,
+      "address": "4, Jannimata Housing Society, Datta Krupa Housing Society, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Om+Dattakrupa+Niwas+Mahabaleshwar/@17.9187663, 73.6676044, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2656e7541252f:0x1b590ba9b6feb430!5m2!4m1!1i2!8m2!3d17.9187663!4d73.6676044!16s%2Fg%2F11sj8wvv5n?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Guest House",
+      "roomTypes": "Deluxe Double Room (2 Adults + 1 Child)(₹ 1,575),Superior Double Room(₹ 1,675),Deluxe Family Room(₹ 3,875)",
+      "facilities": "Free Wi-Fi,Free parking,Laundry service,Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195844/orq1iyvdbtctyrnfvhzz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195845/b8jprvhxizeb46igyr8y.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195846/y1zliltb4eplody2pkwn.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c01",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Hotel Sai Yash",
+      "lat": 17.9255,
+      "lon": 73.6574,
+      "address": "Adurjee Road, Near Dominos Pizza Hut, MG Rd, near Govt. Parking, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Sai+Yash/@17.9255432, 73.6574862, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc265527127a39f:0xaea7261a4c537230!5m2!4m1!1i2!8m2!3d17.9255432!4d73.6574862!16s%2Fg%2F1hm3skh6g?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Non AC Room with Bathtub(₹ 734-₹ 917),Family Non AC Room(₹ 734-₹ 917),Delux Non AC Room(₹ 734-₹ 917),Deluxe AC Room(₹ 1,467-₹ 1,625),Family AC Room(₹ 1,687-₹ 1,812)",
+      "facilities": "Free Wi-Fi,Free breakfast,Air-conditioned,Laundry service,Room service,Child friendly,Airport shuttle,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195900/jflqqrm8uvghlspk6uxb.jpg",
+        "0&output-format=webp&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195902/jhcrfzvkmijncb7pt5vr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195905/ywnivsubybt4d1tckyjr.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c02",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Hotel Sunny International",
+      "lat": 17.9248,
+      "lon": 73.6586,
+      "address": "near State Bank of India, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Sunny+International/@17.9248602, 73.6586166, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc265521bd595ad:0x932e78cb19670ff9!5m2!4m1!1i2!8m2!3d17.9248602!4d73.6586166!16s%2Fg%2F11c70bgcng?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2-star hotel",
+      "roomTypes": "Premium Room Non AC(₹ 1,881),Executive Room With Bathtub Non AC(₹ 1,881),Premium Room AC(₹ 2,150)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Pool,Air-conditioned,Laundry service,Room service,Child friendly,Airport shuttle,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195909/hbh3kfjswlwmvtqavldb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195912/fiidqwrzo4jy8u1j4twl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195918/vxwzshoy9ku9d51rrb46.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c04",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "MEERA VATIKA HOTEL, Mahabaleshwar",
+      "lat": 17.9374,
+      "lon": 73.6775,
+      "address": "Mahabaleshwar Punchgani Road, Besides Annapurna Dhaba, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/MEERA+VATIKA+HOTEL, +Mahabaleshwar/@17.9374832, 73.6775572, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26546ec5f4949:0x88be5b4e493e586a!5m2!4m1!1i2!8m2!3d17.9374832!4d73.6775572!16s%2Fg%2F1q6jjl6x0?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Classic Room(1,883-2,211),Deluxe Room with Balcony(2,293-2,538),Super Deluxe with Bathtub(2,866-3,194)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195929/crrqsollhyi3jbz0l3rt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195932/gjowckhy12df7yo93vgl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195936/xcnvjivcrmlczvl9lsb7.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bef",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Brightland Resort & Spa",
+      "lat": 17.9367,
+      "lon": 73.6985,
+      "address": "Kates Point Road, Old Mahabaleshwar Rd, Mahabaleshwar, Avakali, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Brightland+Resort+%26+Spa/@17.9367617, 73.6985901, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26552d1974f95:0xdd5182b53886a925!5m2!4m1!1i2!8m2!3d17.9367617!4d73.6985901!16s%2Fg%2F1v3klj1x?authuser=0&entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Orchid Wing(₹ 15,161-₹ 17,061),IVY Grande(₹ 17,460-₹ 19,360),Zen premium(₹ 15,161),Tulip Duplex Select(₹ 17,132-₹ 19,032),Maple(₹ 17,132-₹ 19,032),Ivy Suite(₹ 20,320-₹ 22,220)",
+      "facilities": "Free Wi-Fi,Free parking,Accessible,Outdoor pool,Air-conditioned,Business centre,Room service,Child friendly",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195707/uwhp3rrjqaq99r7xsuqt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195707/rf3z3v6vwzvgjnqvf6jr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195708/lnn3m5ksjpzjhsxcibyk.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf0",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "hotels": "Le Méridien Mahabaleshwar Resort & Spa",
+      "lat": 17.9172,
+      "lon": 73.6731,
+      "address": "211 / 212, Medha Road, महाबळेश्वर, महाराष्ट्र 412806",
+      "locationLink": "https://www.google.com/maps/place/Le+M%C3%A9ridien+Mahabaleshwar+Resort+%26+Spa/@17.9172605, 73.673145, 16.51z/data=!4m9!3m8!1s0x3bc2655ed6ae448f:0xafe8e3532415fa69!5m2!4m1!1i2!8m2!3d17.9169096!4d73.6736483!16s%2Fg%2F11b6_frlqn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Guest Room with Balcony, 1 King Bed(₹ 16,150),Guest Room with Balcony,Forest View,2 Twin/Single Beds(₹ 16,600-₹ 18,250),Guest Room with Balcony, Forest View,1 King Bed(₹ 17,900-₹ 18,700),Tranquility Suite With Balcony,Forest View,1 King Bed(₹ 24,500-₹ 26,400),Sanctuary Suite with Balcony, Forest View,1 King Bed(₹ 30,400),Serenity Suite with Balcony 1 King Bed(₹ 31,500)",
+      "facilities": "Free Wi-Fi,Free parking,Accessible,Outdoor pool,Air-conditioned,Business centre,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195713/sfciu0onc8k2k2ycopse.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195716/xjpi7eteblqu39s8zdyq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195720/e7hl112i7kwatlrknwcy.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf1",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "hotels": "Fountain, Mahabaleshwar - IHCL SeleQtions",
+      "lat": 17.9174,
+      "lon": 73.6602,
+      "address": "Tapola Rd, opp. Koyna Valley, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Fountain, +Mahabaleshwar+-+IHCL+SeleQtions/@17.9174793, 73.6602086, 17z/data=!4m9!3m8!1s0x3bc265568786672b:0x154f4bde31467a7e!5m2!4m1!1i2!8m2!3d17.9174793!4d73.6602086!16s%2Fg%2F1tg6nkxz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Room King Bed(₹ 13,800-₹ 17,800),Deluxe Room Twin Bed(₹ 13,800-₹ 17,800),Deluxe room King bed Sit-out(₹ 15,800),SeleQtion Pawcations(₹ 15,800-₹ 19,800),Deluxe room Twin bed Sit-out(₹ 15,800),Premium Room Valley View King Bed(₹ 16,800-₹ 20,800),Premium Room Valley View Twin Bed(₹ 16,800-₹ 20,800),Premium Room King Bed With Sit-out(₹ 18,800-₹ 22,800),Premium Room Twin Bed With Sit-out(₹ 18,800-₹ 22,800),Family Room Valley View(₹ 19,800-₹ 23,800),Deluxe Suite Valley View(₹ 29,800-₹ 33,800),Premium Suite with garden sitout(₹ 34,800-₹ 38,800),SeleQtions Suite(₹ 44,800-₹ 48,800)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Pet-friendly,Room service,Child friendly,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195724/qyoebiihytbk8xvkaoqi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195731/ynb4u8la9xn0azmw8x9o.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195736/a7de3yx2n88t9fmf90ld.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf4",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Gurusparsh Resort",
+      "lat": 17.9121,
+      "lon": 73.7674,
+      "address": "Gurusparsh Resort, Bhilar, Panchgani, Mahabaleshwar, Bhilar, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/Gurusparsh+Resort/@17.9121062, 73.7674091, 17z/data=!4m21!1m11!3m10!1s0x3bc26fe1fb03b155:0x370990fbb02635af!2sGurusparsh+Resort!5m2!4m1!1i2!8m2!3d17.9121062!4d73.7674091!10e1!16s%2Fg%2F11r9gc1yfz!3m8!1s0x3bc26fe1fb03b155:0x370990fbb02635af!5m2!4m1!1i2!8m2!3d17.9121062!4d73.7674091!16s%2Fg%2F11r9gc1yfz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Garden View Cottage Room(₹ 2,034-₹ 2,365),The Cliff Valley View Cottage Rooms(₹ 2,615-₹ 3,041)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Pet Friendly,Room service,Child friendly,Restaurant,Airport shuttle,Hot tub",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195763/hntb55wwlhm8e4ofczmf.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195765/bekfl1gllnopq7y9qnsm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195768/azhez0rwneppop5wu9pb.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bfe",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Raval Resort Mahabaleshwar",
+      "lat": 17.9367,
+      "lon": 73.8086,
+      "address": "next to Arham Nagar, near Octroi Naka, धांडेघर, पाचगणी, Mahabaleshwar, महाराष्ट्र 412805",
+      "locationLink": "https://www.google.com/maps/place/Raval+Resort+Mahabaleshwar/@17.9367092, 73.8086951, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc267dae56f797b:0x678881170a0d383!5m2!4m1!1i2!8m2!3d17.9367092!4d73.8086951!16s%2Fg%2F11clvg9nbp?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Compact Single Room(₹ 3,114),Deluxe Room(₹ 3,617)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free Parking,Air-conditioned,Pool,Laundry service,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195876/d1fkkf0rsa9r4w3xv7be.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195878/shgnohjc45lnwcsa6etc.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195880/ko3eoyjkeefebxf8adur.webp"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c00",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Hotel Vyankatesh & Pure Veg Restaurant",
+      "lat": 17.9237,
+      "lon": 73.6593,
+      "address": "141, Main Road, near Police Station, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Vyankatesh+%26+Pure+Veg+Restaurant/@17.9237296, 73.6593686, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2655228416567:0xd7f75a753c2f612!5m2!4m1!1i2!8m2!3d17.9237296!4d73.6593686!16s%2Fg%2F1hhgrz8q1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Family Deluxe Room Non Ac For 3 Pax( 1,006-₹ 1,341),Super Deluxe Room AC - Stilt Floor Base pax for 2(₹ 1,285-₹ 1,599),Super Deluxe Room with AC For 2 Pax(₹ 1,397-₹ 1,999),Executive AC Room ( Ground Floor )(₹ 1,713-₹ 2,284),Super Deluxe Bathtub AC Room(₹ 1,827-₹ 2,398),Jacuzzi Bathtub Suite Ac Room with Balcony(₹ 2,170-₹ 2,855)",
+      "facilities": "Free Wi-Fi,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195892/afq7n5l0jw8fpdde1dkv.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195895/bg0syvcxocwcc6pfux1s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195896/ryk5thuoba0apteqvrf2.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c06",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "hotels": "Bella Vista Resort",
+      "lat": 17.9247,
+      "lon": 73.6942,
+      "address": "Village Metgutad, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Bella+Vista+Resort/@17.9247317, 73.6942629, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2657bc725ce2b:0xd6d14524a3cce848!5m2!4m1!1i2!8m2!3d17.9247317!4d73.6942629!16s%2Fg%2F1ptwhx0vn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Forest Deluxe (Forest Wing)(₹ 4,313),Deluxe Room (Redstone Wing)(₹ 5,529),Orchid Deluxe (Orchid Wing) with Balcony(₹ 6,456),Valley Deluxe 1st Floor (Redstone Wing)(₹ 6,989),Orchid Executive 1st Floor (Orchid Wing)(₹ 7,017),Valley Deluxe 2nd Floor Redstone Wing(₹ 7,550),Orchid Executive 2nd Floor (Orchid Wing) with Balcony(₹ 7,859),Forest Duplex ( Forest Wing)(₹ 8,841),Tierra Suite 1st Floor (Orchid Wing) with Balcony(₹ 10,104),Stella Suite 2nd Floor (Orchid Wing) with Balcony(₹ 10,946),Two Room Apartment with Balcony(₹ 11,227)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195951/zfu8tdqk0l4lz22yglop.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195955/leqdmuunyhmkfv623zhj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195959/unxazmcsogxtzgsxaqs5.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c07",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Panchgani Tent House & Hollywood Palace Resort",
+      "lat": 17.9031,
+      "lon": 73.8193,
+      "address": "Khinger Rd, Panchgani, Beloshi, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/Panchgani+Tent+House+%26+Hollywood+Palace+Resort/@17.9030507, 73.8193332, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2683f90f24483:0x3b5eb976ac243bc2!5m2!4m1!1i2!8m2!3d17.9030507!4d73.8193332!16s%2Fg%2F1ptwd6vwj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Superior King Room(₹ 3,000),Suite(₹ 4,000),Suite with Hot Tub(₹ 5,000),Suite with Private Pool(₹ 7,500),Family Room with Garden View(₹ 6,000-₹ 10,000)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Outdoor pool,Air-conditioned,Laundry service,Pet-friendly,Room service,Child friendly,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195961/i1x2joo6gmvpysjseamu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195963/emxczwquot1dejvab8ur.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195964/qwvudduxs9u5rzttgava.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf2",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Courtyard Mahabaleshwar",
+      "lat": 17.9244,
+      "lon": 73.6929,
+      "address": "19/B Metgutad, Panchgani-Mahabaleshwar Road, Bhose - Mahabaleshwar Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Courtyard+by+Marriott+Mahabaleshwar/@17.9244181, 73.6929618, 17z/data=!4m9!3m8!1s0x3bc265363fcde551:0xdd1668dfcc89110!5m2!4m1!1i2!8m2!3d17.9244181!4d73.6929618!16s%2Fg%2F11p4kg3v2v?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Guest Room, King Bed, Valley View, Balcony(₹ 16,500-₹ 20,900),Guest Room, Twin Beds, Valley View, Balcony(₹ 16,500-₹ 20,900),Deluxe Room with Bathtub, King Bed, Balcony(₹ 18,500-₹ 22,900),Garden View Room, King Bed, Patio(₹ 20,500-₹ 24,900),One Bedroom Signature Suite, King Bed, Valley View, Balcony(₹ 26,500-₹ 30,900),One Bedroom Villa, King Bed, Private Pool, Patio(₹ 29,500-₹ 33,900)",
+      "facilities": "Free Wi-Fi,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Pet-friendly,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Smoke free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195744/eyviaefuo7jngaiqbogr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195749/pxp6k4qyasj8wunyudza.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195750/mu0orfot0c8qisuchtfo.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf3",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Ramsukh Resorts & Spa",
+      "lat": 17.9656,
+      "lon": 73.5927,
+      "address": "Near Panchgana Temple, Melkat No.87, near Panchgana Temple, Old Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Ramsukh+Resorts+%26+Spa/@17.9656797, 73.59277, 12z/data=!4m16!1m5!2m4!1shotels+in+mahabaleshwar!5m1!3e4!6e3!3m9!1s0x3bc26522ebc63b3b:0x683db5ecb24110b6!5m2!4m1!1i2!8m2!3d17.9656797!4d73.6628078!15sChdob3RlbHMgaW4gbWFoYWJhbGVzaHdhcpIBBWhvdGVsqgFLEAEqCiIGaG90ZWxzKAAyHhABIhqCups3q5nAR_Fjo9bYsUJ2Nw423qMXgoJGJzIbEAIiF2hvdGVscyBpbiBtYWhhYmFsZXNod2Fy4AEA!16s%2Fg%2F11t27n5klg?authuser=0&entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "5-star hotel",
+      "roomTypes": "Forest Deluxe AC(₹ 6,334),Forest Premium Room with Balcony(₹ 6,698),Garden view deluxe with Balcony(₹ 6,698),Family Suite(₹ 6,698),Heritage Premium(₹ 7,062),Garden Suite with Balcony(₹ 7,280),Valley Suite with Balcony(₹ 7,717),Heritage Suite with Bathtub(₹ 8,518),The Hut with Bathtub(₹ 8,518),The Premium Hut with Bathtub Jacuzzi(₹ 8,882),Maharaja Suite with Bathtub and Jacuzzi(₹ 11,867),Two Bed Suite with Balcony(₹ 13,468),The Tiffany AC(₹ 14,779),The Cullinan AC with Bathtub(₹ 14,779),Blue Heart with Bathtub Jacuzzi and Private Pool(₹ 17,618),The Florentine with Jacuzzi and Private Pool(₹ 17,618),Earth Star with Bathtub Jacuzzi and Private Pool(₹ 21,185),Heritage 1 with Bathtub Jacuzzi and Private Courtyard(₹ 21,840)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant,Airport shuttle,Fitness centre",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195755/cwc0mamqcrjt83izjttf.jpg",
+        "0&output-format=webp&downsize=720:*",
+        "https://imgcy.trivago.com/c_fill",
+        "d_dummy.jpeg",
+        "e_sharpen:60",
+        "f_auto",
+        "h_267",
+        "q_40",
+        "w_400/hotelier-images/aa/cd/7a1a407d56c61edf4cc58ee8c9738135631ef266da507bf301aa1f8f3cfb.jpeg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195759/jcjhq9ezvnl9wnqhtuka.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf5",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Anmols Inn",
+      "lat": 17.9182,
+      "lon": 73.7619,
+      "address": "At Post, Bhilar Rd, Bhilar, Panchgani, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/Anmols+Inn/@17.9182172, 73.7619575, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc268a67b2879f1:0x9f02b7af57fcd5d0!5m2!4m1!1i2!8m2!3d17.9182172!4d73.7619575!16s%2Fg%2F1q662wwnx?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Standard Couple Room()₹ 1,615-₹ 1,726)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free Parking,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195775/atjh2773nyxg0wqxhyku.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195781/bgs0ybp9bfbeex6lk1n6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195783/l1ovj2o2fzwjbkp90v8o.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf8",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "The Byke Shanti Villa Resort",
+      "lat": 17.9267,
+      "lon": 73.6556,
+      "address": "opp. Telephone Exchange, महाबळेश्वर, महाराष्ट्र 412806",
+      "locationLink": "https://www.google.com/maps/place/The+Byke+Shanti+Villa+Resort/@17.9267152, 73.6556109, 17z/data=!4m9!3m8!1s0x3bc27b5c3eabe63f:0xe50c553a377e3bcd!5m2!4m1!1i2!8m2!3d17.9267152!4d73.6556109!16s%2Fg%2F11gj1bbyl6?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Deluxe Room(₹ 4,988-₹ 6,684),Super Deluxe(₹ 5,737-₹ 7,482),Luxury Deluxe Room(₹ 6,235-₹ 8,231),Junior Suite(₹ 6,984-₹ 8,979),Daisy and Lilly Room -- Balcony with Pool view(₹ 7,233-₹ 9,228),Villa Suite With Balcony(₹ 9,478-₹ 11,473)",
+      "facilities": "Free Wi-Fi,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Buisness centre,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195809/tjd0lr9pswi3uen2d4of.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195813/wvzyisoc9j3rpmewwj49.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195816/i83q766t2zjkudmthtsg.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bfa",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "ARC VALLEY RESORT MAHABALESHWAR",
+      "lat": 17.9218,
+      "lon": 73.7514,
+      "address": "Arc Valley Resort Mahabaleshwar - Best Resort in Mahabaleshwar, WQF3+5PG, Panchgani - Mahabaleshwar Rd, opposite Indian oil petrol pump, Panchgani, Bhose, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/ARC+VALLEY+RESORT+MAHABALESHWAR/@17.9218424, 73.7514716, 17z/data=!4m9!3m8!1s0x3bc26913829f77d1:0xf2f98d0e7b18a73d!5m2!4m1!1i2!8m2!3d17.9218424!4d73.7540465!16s%2Fg%2F11y2k7lhjv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Resort Hotel",
+      "roomTypes": "Superior Room(₹ 2,436-₹ 2,706),super deluxe room(₹ 2,436-₹ 2,706),Deluxe Room(₹ 2,436-₹ 2,706),Imperial suit(₹ 6,494-₹ 6,764),3 bhk villa(₹ 14,610-₹ 16,233)",
+      "facilities": "Free Wi-Fi,Free Breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Buisness centre,Room service,Child friendly,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195833/uodrgqgsiymtgaj7bvhx.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195837/zqnvevkiu6mchxkq4qq3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195841/cjuqmbmcsgmv7hyjs39o.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c03",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Nisarga Lake Resort Tapola ",
+      "lat": 17.7689,
+      "lon": 73.7422,
+      "address": "Tapola Rd, near MSED, Mahabaleshwar, Vanavli t. ategaon, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Nisarga+Lake+Resort+Tapola+%E2%80%93+Best+Lake+Resort+in+Mahabaleshwar/@17.7689073, 73.7422983, 17z/data=!4m21!1m11!3m10!1s0x3bc26c9c7b0da101:0xffffd7d9eefe2d15!2sNisarga+Lake+Resort+Tapola+%E2%80%93+Best+Lake+Resort+in+Mahabaleshwar!5m2!4m1!1i2!8m2!3d17.7689073!4d73.7422983!10e1!16s%2Fg%2F1v9tybsf!3m8!1s0x3bc26c9c7b0da101:0xffffd7d9eefe2d15!5m2!4m1!1i2!8m2!3d17.7689073!4d73.7422983!16s%2Fg%2F1v9tybsf?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Resort Hotel",
+      "roomTypes": "Tent NON AC(₹ 1,783-₹ 2,547),Non AC Cottage Room(₹ 2,038-₹ 2,865),AC COTTAGE(₹ 2,674-₹ 3,502)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Pool,Air-conditioned,Laundry service,Room service,Child friendly,Airport shuttle,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195922/sjqgrgklnkghpxiazuuh.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195923/fanfevc313zse2yfbmii.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195925/mvvc7rovdkxi1mwqxo17.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bee",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": true,
+      "hotels": "Evershine Resort & Spa",
+      "lat": 17.7511,
+      "lon": 71.8827,
+      "address": "C.T.S, 182, Gautam Rd, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Evershine+Resort+and+Spa/@17.7511021, 71.8827199, 7.05z/data=!4m9!3m8!1s0x3bc2655ba644276f:0xa3b8a36bb25d1671!5m2!4m1!1i2!8m2!3d17.9230187!4d73.6674509!16s%2Fg%2F1tfh32rs?authuser=0&entry=ttu&g_ep=EgoyMDI1MDczMC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4-star hotel",
+      "roomTypes": "Rainforest Room(₹ 6,050),Rainforest luxe(₹ 6,338),Aqua Vista Rooms(₹ 6,915),Aqua Vista luxe(₹ 7,318-₹ 7,491),Valley View Club(₹ 8,067)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Pet-friendly,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195698/hd3shqtvgog1lcrghsfc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195701/uvmxvcwi3dkhyub0jcwc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195705/akf6pa3m1yal2hopuzjx.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf7",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "The Cliff by Zuper",
+      "lat": 17.9242,
+      "lon": 73.7863,
+      "address": "Taluka Mahabaleshwar, Panchgani - Mahabaleshwar Rd, near Parsi Point, Ganeshpeth, Panchgani, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/The+Cliff+by+Zuper/@17.9242301, 73.7863656, 17z/data=!4m21!1m11!3m10!1s0x3bc26954ced3a9f1:0x5a01d6879f8772ee!2sThe+Cliff+by+Zuper!5m2!4m1!1i2!8m2!3d17.9242301!4d73.7863656!10e1!16s%2Fg%2F11shq9xjdv!3m8!1s0x3bc26954ced3a9f1:0x5a01d6879f8772ee!5m2!4m1!1i2!8m2!3d17.9242301!4d73.7863656!16s%2Fg%2F11shq9xjdv?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "Hotel",
+      "roomTypes": "Anthurium with Sitout(₹ 6,097),Magnolia(₹ 6,738),Lillian Suite with Sitout(₹ 12,834)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Laundry service,Room service,Restaurant,Hot tub",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195799/goivn89gxvuxarkwxehg.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195800/t6myesysm0kwnhcp1zoc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195805/kguapxx8uzoimo7dcqyj.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bf9",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Khushi River Side Resort & Spa",
+      "lat": 17.9362,
+      "lon": 73.6841,
+      "address": "Panchgani - Mahabaleshwar Rd, lingmala, Avakali, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Khushi+River+Side+Resort+%26+Spa/@17.9362968, 73.6841021, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26505d3258603:0x90c74b912cb79c11!5m2!4m1!1i2!8m2!3d17.9362968!4d73.6841021!16s%2Fg%2F11rcqvfds7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Room with Balcony(₹ 2,725-₹ 3,019),Deluxe Family Room (2 Double Beds) - With Balcony(₹ 3,772-₹ 4,150)",
+      "facilities": "Free Wi-Fi,Free Breakfast,Free parking,Accessible,Indoor and Outdoor pool,Air-conditioned,Laundry service,Buisness centre,Room service,Child friendly,Restaurant,Airport shuttle",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195820/cnpf0avvelpeji3gu59i.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195824/xwaufclwd2xvaltk0m76.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195828/h3ksontyu6zdjuynf0fc.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bfc",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Pan Hill Hotel",
+      "lat": 17.9236,
+      "lon": 73.7983,
+      "address": "Bus Stand, Main Road, opposite Panchgani, Gowthan, Panchgani, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/Pan+Hill+Hotel/@17.92368, 73.7983423, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2687f03fab729:0xa75eb6930b4e23bd!5m2!4m1!1i2!8m2!3d17.92368!4d73.7983423!16s%2Fg%2F1hf3m2fq8?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Room (NON AC)(₹ 1,100-₹ 1,320),Cottage Room (NON AC)(₹ 1,375-₹ 1,632),Super Deluxe Room (NON AC)(₹ 1,375-₹ 1,632),Deluxe Room AC(₹ 1,547-₹ 1,772),Cottage Room AC(₹ 1,828-₹ 2,053),Super Deluxe Room AC(₹ 1,828-₹ 2,053)",
+      "facilities": "Free Wi-Fi,Free parking,Air Conditioned,Restaurant,Smoke Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195853/xnfmerawvlvyfc4iijah.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195856/iede4w0bckzfmy3rtcto.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195860/tyak4gtvgwjqxs0epdgb.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bfd",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Hotel Mahabaleshwar Fragrance",
+      "lat": 17.9157,
+      "lon": 73.7183,
+      "address": "Shri.Janni Kumbaljai Temple, Bondarwadi Village, near Mapro Garden, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Mahabaleshwar+Fragrance/@17.9157788, 73.7183821, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26fcbc45dc079:0x1d663b71e94adbcb!5m2!4m1!1i2!8m2!3d17.9157788!4d73.7183821!16s%2Fg%2F11fk430_39?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Super Deluxe Room wid Balcony(₹ 2,033-₹ 2,330),Premium Room with Private Balcony and Mountain View(₹ 2,330-₹ 2,628),Family Room with Private Balcony and Mountain View(₹ 2,628-₹ 2,925)",
+      "facilities": "Free Wi-Fi,Free Parking,Air-conditioned,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195865/sh9gvaupn33tfa4fbm6q.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195869/zefrtvikjtwtiowavpff.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195873/y4rewdhhzbqbhoaeobci.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768bff",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Hotel J's Excellenccy Mahabaleshwar",
+      "lat": 17.9233,
+      "lon": 73.6584,
+      "address": "280/81, Murray Peth, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/Hotel+J's+Excellenccy+Mahabaleshwar/@17.9233732, 73.6584892, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc2655246686569:0x5077bb5fcd6603f4!5m2!4m1!1i2!8m2!3d17.9233732!4d73.6584892!16s%2Fg%2F12j1k6j61?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNC4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Deluxe Non AC Roo(₹ 1,688-₹ 2,195),Deluxe AC Room(₹ 1,970-₹ 2,195),Executive Non AC Room(₹ 1,970-₹ 2,195),Executive AC Room(₹ 2,251-₹ 2,476),LOTUS BATHTUB NON AC(₹ 2,814-₹ 3,039),LOTUS BATHTUB AC(₹ 3,095-₹ 3,393)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free Parking,Air-conditioned,Pool,Laundry service,Room service,Child friendly,Airport shuttle,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195884/icgywjgtw90usczsix8n.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195887/pptyh0u85gbvlvgkgwvx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195888/st1i8td8lm1mzntbkqyb.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c05",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "Miraya Hotel",
+      "lat": 17.9251,
+      "lon": 73.7766,
+      "address": "Survey no. 15/4, Panchgani - Mahabaleshwar Road Taighat, Ganeshpeth, Panchgani, Maharashtra 412805",
+      "locationLink": "https://www.google.com/maps/place/Miraya+Hotel/@17.9250877, 73.7766373, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26620ae4e63f9:0xc3596dc3d57da3ae!5m2!4m1!1i2!8m2!3d17.9250877!4d73.7766373!16s%2Fg%2F11f03xtlsc?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3-star hotel",
+      "roomTypes": "Miraya Prive (Balcony, Privacy for Couples)(₹ 3,501),Miraya High (Privacy for couples)(₹ 4,336),Miraya High Plus(₹ 5,453)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Air-conditioned,Laundry service,Room service,Child friendly,Restaurant",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195940/zjmccscgctmmbtptzafe.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195944/sunvp41qxd0m1hlqpsgc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195947/hahllzcel4iqdv0fdhax.jpg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c08",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "flagship": false,
+      "hotels": "HOTEL DREAMLAND",
+      "lat": 17.9245,
+      "lon": 73.6555,
+      "address": "Main Market, Bus Stand, behind S.T, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://www.google.com/maps/place/HOTEL+DREAMLAND/@17.9245403, 73.6555067, 17z/data=!3m1!4b1!4m9!3m8!1s0x3bc26552eb574e9f:0x5805237376a1b0b3!5m2!4m1!1i2!8m2!3d17.9245403!4d73.6555067!16s%2Fg%2F1thfcwtn?authuser=0&entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "hotel",
+      "roomTypes": "Deluxe Cottage(₹ 2,784),Premiere Room(1st floor)(₹ 3,414),Executive Room(₹ 3,528),Executive Cottage(₹ 3,756),Classic Rooms(₹ 4,097),Premiere Cottage(₹ 4,268)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Accessible,Outdoor pool,Air-conditioned,Laundry service,Business centre,Pet-friendly,Room service,Child friendly,Restaurant,Airport shuttle,Spa,Fitness centre,Bar",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195967/p3thjmotcotbib1rjjrk.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195970/vnyuwukp66csmphvw5gs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195974/n49pws8nmzy0kyk4ljli.jpg"
+      ]
+    }
+  ]
+}

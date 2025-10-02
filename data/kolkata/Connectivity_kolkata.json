@@ -1,0 +1,312 @@
+{
+  "connectivity": [
+    {
+      "_id": "68c875309dad7b39dff5851b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "Sealdah Main Station",
+      "distance": "3.2km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5676,
+      "lon": 88.3711,
+      "locationLink": "https://maps.app.goo.gl/MdAKdjReg7kd6TWg7",
+      "majorFlightsTrainsBuses": "Guwahati to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff58520",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "chiku tour and travel newtown",
+      "distance": "13km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5829,
+      "lon": 88.4538,
+      "locationLink": "https://maps.app.goo.gl/w31RACqVKPBFpqL37",
+      "majorFlightsTrainsBuses": "Bagdogra to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff58531",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Siliguri to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff58532",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Asanol to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff58533",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Burdwanto Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff58519",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "Netaji Subhash Chandra Bose International Airport",
+      "distance": "19km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.6536,
+      "lon": 88.4451,
+      "locationLink": "https://maps.app.goo.gl/22xmqpiZkEd1K1U6A",
+      "majorFlightsTrainsBuses": "Delhi to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff5851a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "KOLKATA STATION",
+      "distance": "8.3km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.6016,
+      "lon": 88.3839,
+      "locationLink": "https://maps.app.goo.gl/rUiEMMWYkXNt6tz4A",
+      "majorFlightsTrainsBuses": "Mumbai to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff5851f",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "SBSTC Bus Terminal Kolkata",
+      "distance": "4.2km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5636,
+      "lon": 88.3497,
+      "locationLink": "https://maps.app.goo.gl/Dguc7D8FKSvkP58w6",
+      "majorFlightsTrainsBuses": "Pune to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff58523",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "UPASANA EXPRESS (12328)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58526",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Howrah Duronto Express (12261)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58528",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Chennai Coromandel Express (12841/12842)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58529",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Howrah Superfast Express (12839/12840)"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852e",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Puri to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff58530",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Digha to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff5851d",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "Dumdum Railway Station",
+      "distance": "11km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.6215,
+      "lon": 88.3936,
+      "locationLink": "https://maps.app.goo.gl/UWieAXoBvsadRrLy9",
+      "majorFlightsTrainsBuses": "Ahmedabad to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff58522",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "SBSTC - Belgharia Deport",
+      "distance": "14km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.6587,
+      "lon": 88.3767,
+      "locationLink": "https://maps.app.goo.gl/UoiG6zPe5cnJvR2e8",
+      "majorFlightsTrainsBuses": "KOLKATA EXPRESS (13152)"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Himgiri Express (12332)"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Varanasi to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852c",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Ranchi to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff5851c",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "Khidirpur Railway station",
+      "distance": "6.4km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5371,
+      "lon": 88.3159,
+      "locationLink": "https://maps.app.goo.gl/1XHmeCvEbd4UHJBh7",
+      "majorFlightsTrainsBuses": "Bengaluru to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff5851e",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "Babughat Bus Stand",
+      "distance": "5.4km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5653,
+      "lon": 88.3396,
+      "locationLink": "https://maps.app.goo.gl/GGutE7Tr9aGahULw9",
+      "majorFlightsTrainsBuses": "Jaipur to Kolkata by flight"
+    },
+    {
+      "_id": "68c875309dad7b39dff58521",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": "42A Bus Stand",
+      "distance": "6.6km from Suhrawardy Ave, Beniapukur (City centre) ",
+      "lat": 22.5308,
+      "lon": 88.3894,
+      "locationLink": "https://maps.app.goo.gl/fFLACsztMeBM5xy18",
+      "majorFlightsTrainsBuses": "HWH RAJDHANI (12302)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58524",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "HWH-NDLS RAJDHANI Express (12306)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58525",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Howrah–New Jalpaiguri Vande Bharat (12306)"
+    },
+    {
+      "_id": "68c875309dad7b39dff58527",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Howrah Mail (12809)"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852d",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Bhubaneswar to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff5852f",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Patna to Kolkata"
+    },
+    {
+      "_id": "68c875309dad7b39dff58534",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Durgapur to Kolkata"
+    }
+  ]
+}

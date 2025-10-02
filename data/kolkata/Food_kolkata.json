@@ -1,0 +1,625 @@
+{
+  "food": [
+    {
+      "_id": "68c875319dad7b39dff58567",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Dacres Lane",
+      "lat": 22.567,
+      "lon": 88.3497,
+      "address": "James Hickey Sarani on Google Maps",
+      "locationLink": "https://maps.app.goo.gl/ZGwk4SrpJtxWotKM7",
+      "category": "Street Food",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 3.5,
+      "service": 3.5,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Paneer and roti, rolls",
+      "openDay": "All days",
+      "openTime": "8:00 AM - 11:00 PM",
+      "phone": null,
+      "website": null,
+      "description": "A famous street food hub with multiple vendors.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960650/ixp01oxvwhwxpvabjgvq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960651/zx0ljieqk5rsdeazyew0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960652/pk8zrg3hwvtmepo2eocw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/MUriJomNcLY?si=ltlOCDfyYbX88yKT"
+      ],
+      "updatedAt": "2025-09-24T20:37:24.809Z"
+    },
+    {
+      "_id": "68c875319dad7b39dff58568",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Balwant Singh Dhaba",
+      "lat": 22.5377,
+      "lon": 88.3441,
+      "address": "10/B, Harish Mukherjee Rd, Bhowanipore, Kolkata, West Bengal 700025",
+      "locationLink": "https://maps.app.goo.gl/efYCYHcKV7Q7jP1ZA",
+      "category": "Dhaba, Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.6,
+      "service": 3.2,
+      "taste": 3.8,
+      "hygiene": 3,
+      "menuSpecial": "Samosa, Doodh Cola, Steam Chai",
+      "openDay": "All days",
+      "openTime": "Open 24 hours",
+      "phone": null,
+      "website": null,
+      "description": "A well-known dhaba popular for its snacks and tea.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960655/pplkr0morqlsq3faglup.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960657/qkxfotxcaqsrl7svimbw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960660/ksvcc45ohgy56ahqwqay.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/N9FYeVDQm1A?si=lS6lfWrZdgnVUFto"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856c",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Nizam's",
+      "lat": 22.5554,
+      "lon": 88.3431,
+      "address": "23 & 24, Hogg Street, New Market, Kolkata, West Bengal 700087",
+      "locationLink": "https://maps.app.goo.gl/VxHrxGxe35rwEeXV6",
+      "category": "Restaurant, Mughlai",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 3.8,
+      "service": 3.8,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Kathi Kabab Roll, Biryani, Mutton Bhuna",
+      "openDay": "All days",
+      "openTime": "11:00 AM - 11:30 PM",
+      "phone": "70447 23222",
+      "website": null,
+      "description": "A historic restaurant, credited with inventing the Kathi Roll.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960682/rrzdghyo7er7aaciz04x.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960684/kjtvxsnwqyicaerbibxh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960686/rdnq80idycknlgb6f37h.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/awPouX3xGEM?si=9kInAS3ZecjoK45N"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58572",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Saima",
+      "lat": 22.5468,
+      "lon": 88.3456,
+      "address": "8/1A, Little Russel St, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+      "locationLink": "https://maps.app.goo.gl/irLJAVSL34wkib4N9",
+      "category": "Restaurant, Mughlai",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 3.8,
+      "menuSpecial": "Mutton Chaap, Biryani",
+      "openDay": "All days",
+      "openTime": "11:00 AM - 11:00 PM",
+      "phone": "7278204475",
+      "website": null,
+      "description": "A restaurant known for its Mughlai cuisine, especially Mutton Chaap and Biryani.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960725/wezrywaozbhnywboi7x9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960728/zjn5zgk9lw7dow5xxcg2.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960729/xoj2gmfkigehcs3edhrh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jSE8MaCSPuQ?si=FOwIZ58JEJio6bpM"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58566",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Indian Coffee House",
+      "lat": 22.5714,
+      "lon": 88.3586,
+      "address": "15, Bankim Chatterjee St, College Square West, College Street, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/j4m3NEAZCn9VicLT6",
+      "category": "Cafe, Coffee House",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4,
+      "service": 3.8,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Chicken cutlet, sandwiches, cold coffee",
+      "openDay": "All days",
+      "openTime": "12:00 PM - 8:00 PM",
+      "phone": "9007798519",
+      "website": null,
+      "description": "A historic and popular cafe known for its unique ambiance and food.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960643/ctqrur5sfh9x1o2qqbfu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960646/uavbis8bepn3168qojmb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960647/xtfecx18iwg1u11rownu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/h-JbPFfqxm4?si=DZHYffdMnccBv52Z"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856a",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Kanhaiya Kachori Shop",
+      "lat": 22.5836,
+      "lon": 88.3579,
+      "address": "224, Rabindra Sarani, Raja Katra, Singhi Bagan, Jorasanko, Kolkata, West Bengal 700007",
+      "locationLink": "https://maps.app.goo.gl/K39uNJaD3aYX4w1K6",
+      "category": "Street Food, Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.1,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Club Kachori, Jalebi, Kachori Chat",
+      "openDay": "All days",
+      "openTime": "7:00 AM - 11:30 AM, 4:00 PM - 8:30 PM",
+      "phone": null,
+      "website": null,
+      "description": "A popular street food shop known for its crispy kachoris and jalebis.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960668/q07cbj1aekydvup1road.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960670/x4w4tm8ridnbipg01nyq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960671/fbk5c8zsbw4vepkfmnoo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/VeTRpQVyWS0?si=biHYhXNGPzRYf7a4"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856d",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Aminia",
+      "lat": 22.5624,
+      "lon": 88.3362,
+      "address": "6A, SN Banerjee Road, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700087",
+      "locationLink": "https://maps.app.goo.gl/1KuAcvP5qs2ptEsj8",
+      "category": "Restaurant, Mughlai",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Biryani, Aminia Special, Haleem",
+      "openDay": "All days",
+      "openTime": "11:00 AM - 11:00 PM",
+      "phone": "3322651318",
+      "website": "http://www.aminia.co.in/",
+      "description": "A well-known chain of restaurants specializing in Mughlai cuisine, particularly biryani.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960691/yytmu44ahi26gtwfodxu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960692/hlisjwyxaxeeb3cfqe8t.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960694/edzow0s8vjumhfakv8tp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Ecz2NnOiWLI?si=2rvRPSBIrjiTHhfE"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856f",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Nahoum & Sons",
+      "lat": 22.5602,
+      "lon": 88.3529,
+      "address": "F-20, New Market, Kolkata, West Bengal 700087",
+      "locationLink": "https://maps.app.goo.gl/ho9AjddWJnpSbqdv8",
+      "category": "Bakery, Sweet Shop",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4.2,
+      "service": 3.8,
+      "taste": 4.2,
+      "hygiene": 3.5,
+      "menuSpecial": "Rich Plum Cake, Rum Balls, Brownies, Marzipan-fudge Cake",
+      "openDay": "All days",
+      "openTime": "9:30 AM - 1:00 PM",
+      "phone": "3322520655",
+      "website": null,
+      "description": "A historic Jewish bakery, famous for its cakes and pastries, especially during Christmas.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960705/lcmzhadqejydtfrkmhib.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960707/fbvcvrfxtli6xri8gx3f.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960708/jtafq2ovecasahexyahx.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jufq2WYsqRU?si=WTfBOqqbGIdJDs-J"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58577",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Adam Kabab",
+      "lat": 22.5757,
+      "lon": 88.3397,
+      "address": "Phears Ln, Colootola St, Tiretti, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/D8RsxHiKqHLduP1s7",
+      "category": "Sweet",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.2,
+      "service": 4,
+      "taste": 4.3,
+      "hygiene": 3.8,
+      "menuSpecial": "Mughlai Halwa",
+      "openDay": null,
+      "openTime": "12:00 PM - 10:00 PM",
+      "phone": "7980966304",
+      "website": null,
+      "description": "A type of halwa popular in Mughlai cuisine.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960765/nqr6b262ltkdxwriypkk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960767/fvote1zzztpkj3cko0qh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960769/i4cmiatj27uzq40spkwe.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/HDlmSTFM7hw?si=RQsXTBKhSVs0Sijg"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58565",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Chittranjana Mistanna Bhandar",
+      "lat": 22.5985,
+      "lon": 88.3669,
+      "address": "34B, Shyam Bazar St, near to Hati Bagan, Hati Bagan, Shyam Bazar, Kolkata, West Bengal 700005",
+      "locationLink": "https://maps.app.goo.gl/z5FequjvTo88qFjB9",
+      "category": "Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.5,
+      "taste": 4.2,
+      "hygiene": 3.5,
+      "menuSpecial": "Rasgulla, Malai Chamcham, Mohan Bhog",
+      "openDay": "All days",
+      "openTime": "9:00 AM - 7:00 PM",
+      "phone": "3325556025",
+      "website": null,
+      "description": "A renowned sweet shop famous for its sweets.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960631/dr0pzmodcpjeqfusv0le.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960636/o9jwcqjcuukwjqintubr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960639/f6ziescymh9ftckojbw0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/R97eJfCaqfc?si=ZKsXYv0yoZNpaPo-"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58569",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Bholanath Cabin",
+      "lat": 22.6028,
+      "lon": 88.3673,
+      "address": "P12, Girish Ave, Baghbazar, Kolkata, West Bengal 700003",
+      "locationLink": "https://maps.app.goo.gl/cL7Fvs9RXcLWkmGh9",
+      "category": "Street Food",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4.2,
+      "service": 4,
+      "taste": 4.3,
+      "hygiene": 3.8,
+      "menuSpecial": "Ghugni bread, Dimer egg, Fish fry",
+      "openDay": "All days",
+      "openTime": "8:00 AM - 9:00 PM",
+      "phone": "9836331530",
+      "website": null,
+      "description": "A long-standing eatery famous for its traditional snacks.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960663/tvsfdekydtm5xjxgtdek.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960664/ektwtixrpzmnidgwbebo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960666/u7zjdanss0atlhqmolqp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_Yct1PV0wXQ?si=splnJZdhUEI3JCGc"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58570",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Flurys",
+      "lat": 22.5528,
+      "lon": 88.3436,
+      "address": "18, Park Street, Kolkata, West Bengal 700016",
+      "locationLink": "https://maps.app.goo.gl/Di73TA3u8n3FpfXYA",
+      "category": "Tearoom, Bakery",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4,
+      "service": 3.8,
+      "taste": 4.1,
+      "hygiene": 3.8,
+      "menuSpecial": "Pastries, Cakes, Chocolates, Rum Balls",
+      "openDay": "All days",
+      "openTime": "6:00 AM - 11:00 PM",
+      "phone": "3340007452",
+      "website": null,
+      "description": "An iconic tearoom on Park Street known for its European confections.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960711/umbb6f7fqnbg3c43iqua.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960713/oqm5aawtlfqwmg0jqbyf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960716/qvhfyn9s4rqtvxz6v5pv.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/tLPBL_ja3y0?si=v0OYfv4WefbVN4sV"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58575",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Nakhoda Masjid, Zakaria Street",
+      "lat": 22.5774,
+      "lon": 88.3562,
+      "address": "92, Rabindra Sarani, near Nakhuda masjid, Kolutolla, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/z8MijinoqHhnqNXu5",
+      "category": "Street Food",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 3.5,
+      "service": 3.5,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Kebabs, Halwa, Haleem, Mughlai food",
+      "openDay": "During Ramadan",
+      "openTime": "11:00 AM - 9:00 PM",
+      "phone": null,
+      "website": "https://nakhodamasjid.com/",
+      "description": "Zakaria Street becomes a bustling food hub during the holy month of Ramadan.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960747/ejnrrywvx2bpuanfjcgf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960750/dypwojqof0zjqzyv3zkv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960751/p7sen79vx6xdxvxkjxen.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wyt30Yu-KAc?si=65PbSc-Bu2BW4ejN"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58576",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Haji Alauddin Sweets, Coolootola",
+      "lat": 22.5757,
+      "lon": 88.3397,
+      "address": "Colottola, 56, Phears Ln, near Al baik fast food, Tiretti, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/RcbCjedG2eqEKCfe7",
+      "category": "Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.6,
+      "service": 3.2,
+      "taste": 3.8,
+      "hygiene": 3,
+      "menuSpecial": "Battisa Halwa, Gajar ka Halwa",
+      "openDay": "All days",
+      "openTime": "7:00 AM - 11:00 PM",
+      "phone": "9831966115",
+      "website": null,
+      "description": "A well-known sweet shop established in 1907, famous for its pure ghee-based sweets.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960755/hwv1f2fybtbw11rvpl75.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960757/tufe4wysrosxkbvttrry.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960760/ffpymidnc99nsufquywq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/-irPSkVnkkE?si=BTSrC7jbrkX6Ld-_"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856b",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Girish Ch. Dey & Nakur Ch. Nandy",
+      "lat": 22.5877,
+      "lon": 88.3673,
+      "address": "56, Ramdulal Sarkar St, near Bethune College, Hedua, Kolkata, West Bengal 700006",
+      "locationLink": "https://maps.app.goo.gl/Xgnsox7ngNzx9kTx6",
+      "category": "Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Sandesh (Chocolates, Parijat, Mousumi), Golapi Pera, Talsash",
+      "openDay": "All days",
+      "openTime": "7:00 AM - 10:30 PM",
+      "phone": "9432494423",
+      "website": "http://www.girishnakur.com/",
+      "description": "A legendary sweet shop, one of the oldest in Kolkata, famous for its high-quality sandesh.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960675/eqbrnm7tgig5ermfcm7o.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960677/sf8o6nwmmyejcpegduup.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960679/qperywad1f88ogqmohu4.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ONvodd2IMJw?si=eBdyGPLri58BBUPQ"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff5856e",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Telebhaja",
+      "lat": 22.5922,
+      "lon": 88.3699,
+      "address": "Various locations, popular at Lakshmi Narayan Shaw & Sons and Kalika",
+      "locationLink": "https://maps.app.goo.gl/6H7QidU3EuH4tvCM9",
+      "category": "Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3.2,
+      "taste": 4.5,
+      "hygiene": 3.2,
+      "menuSpecial": "Beguni, Piyaji, Mochar Chop",
+      "openDay": "All days",
+      "openTime": "9:00 AM - 10:00 PM",
+      "phone": "9830560484",
+      "website": null,
+      "description": "A popular deep-fried snack with various fritters like potato, brinjal, and onion.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960697/dgdklbpiipicarznvfnd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960699/u26fnilckv6hpho8pudm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960700/y41swq3rzxbl0l1kc778.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/fH5vLVMajCM?si=5ihIkRiDFoeqbFZQ"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58571",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Park Street  Momo",
+      "lat": 22.5531,
+      "lon": 88.3518,
+      "address": "57, Park Street, Kolkata, West Bengal 700016",
+      "locationLink": "https://maps.app.goo.gl/goiWB47msjtebX6z8",
+      "category": "Street Food, Fast Food",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 3.8,
+      "menuSpecial": "Various types of Momos",
+      "openDay": "All days",
+      "openTime": "9:00 AM - 12:00 AM",
+      "phone": "9836198361",
+      "website": null,
+      "description": "Various vendors on Park Street offer momos, a popular snack. Wow! Momo is a prominent chain.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960719/fyu1ch37eq12i8mbjqnz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960720/obfh7bpcxtmckhltwdmz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960721/fghipjmpek247nctm9vg.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ynE48veGtQ0?si=E9ZFwoL6U-EM7P7u"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58573",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "Royal India Hotel",
+      "lat": 22.579,
+      "lon": 88.339,
+      "address": "4, Tarachand Dutta St, Kolutolla, Barabazar Market, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/TvJuEgeLeBaYfvB78",
+      "category": "Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.5,
+      "taste": 4.2,
+      "hygiene": 3.5,
+      "menuSpecial": "Karachi Halwa, Muscati Halwa",
+      "openDay": "All days",
+      "openTime": "Open 24 hours",
+      "phone": null,
+      "website": null,
+      "description": "A sweet shop on Zakaria Street, popular for its specific types of halwa.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960732/kyvm63ack9kryq9efrww.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960734/zgfzkavs8s3dxogcg1ev.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960736/my1ouqhwjrxgmsg0fy3j.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/h77bT9VmKvI?si=HJcJQv7QV67758pI"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58574",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": false,
+      "foodPlace": "M.E Karodia, Zakaria Street",
+      "lat": 22.5769,
+      "lon": 88.3556,
+      "address": "78, Rabindra Sarani, Kolutolla, Kolkata, West Bengal 700073",
+      "locationLink": "https://maps.app.goo.gl/BDextn8jY11NzSYr6",
+      "category": "Street Food, Sweet Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.8,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Karachi Halwa, Muscati Halwa",
+      "openDay": "All days",
+      "openTime": "5:00 AM - 8:00 PM",
+      "phone": null,
+      "website": null,
+      "description": "Popular types of halwa found at various shops and street vendors on Zakaria Street.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960739/zopreqlujbrfqyzvvgor.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960741/antdzzisaac87rcqrgeb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960742/hztaycdvpqaturc9rhfo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zkp5Exn325M?si=c2R8NSmOZf7WswAL"
+      ]
+    },
+    {
+      "_id": "68c875319dad7b39dff58578",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "flagship": true,
+      "foodPlace": "Arsalan Biryani, Park Circus",
+      "lat": 22.5454,
+      "lon": 88.3636,
+      "address": "191, 7 Point, Marina garden court, Park Circus, Ballygunge, Kolkata, West Bengal 700017",
+      "locationLink": "https://maps.app.goo.gl/vMQBJMbpb5AEJ35H6",
+      "category": "Street Food, Kebab",
+      "vegOrNonVeg": "Both",
+      "valueForMoney": 4.1,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 3.8,
+      "menuSpecial": "Mutton Suta Kabab, Beef Boti Kabab",
+      "openDay": "All days",
+      "openTime": "10:00 AM - 2:00 AM",
+      "phone": "9007007942",
+      "website": "https://arsalanrestaurants.com/park-circus/",
+      "description": "A popular eatery known for its unique suta kababs.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960780/x9ofsnahqqhsg52rjghu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960781/zqdbfi0oe7s52jtc9zxn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960783/w0q4uu3fkl7dhtzjlqsp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wGYJDuWBrnA?si=QD_R3cluOoltaELW"
+      ]
+    }
+  ]
+}

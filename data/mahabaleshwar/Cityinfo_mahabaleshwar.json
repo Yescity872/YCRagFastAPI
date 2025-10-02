@@ -1,0 +1,23 @@
+{
+  "cityinfo": [
+    {
+      "_id": "68c7f5b920f4dc4834768bde",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "stateOrUT": "Maharashtra",
+      "alternateNames": [
+        "Malcolm Peth",
+        "Kshetra Mahabaleshwar"
+      ],
+      "languagesSpoken": [
+        "Marathi",
+        "Hindi",
+        "English"
+      ],
+      "climateInfo": "The climate is borderline tropical monsoon/humid subtropical. It experiences very heavy rainfall during the monsoon season (July-September), with temperatures ranging from 20-25°C. Winters (October-February) are pleasant, with temperatures between 10-24°C. Summers (March-June) are warm, with temperatures ranging from 15-35°C.",
+      "bestTimeToVisit": "November to February is ideal for pleasant, cool weather (10-24°C), perfect for sightseeing, trekking, and enjoying peak strawberry season. July to October (monsoon) offers a magical experience for nature lovers with lush greenery, full waterfalls, and cooler temperatures (20-25°C), though some activities may be limited by heavy rain. March to June (summer) provides a relatively cooler escape from the plains (15-35°C), suitable for family vacations, though afternoons can be warm.",
+      "cityHistory": "Mahabaleshwar has a rich history. It was successively ruled by various dynasties, including the Yadavs and the Marathas. Notably, Chhatrapati Shivaji Maharaj, the founder of the Maratha Empire, constructed the Pratapgad Fort nearby. During the British Raj, Mahabaleshwar served as the summer capital of the Bombay Presidency, a significant administrative division of British India.",
+      "coverImage": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195692/qx8tntjv45ryc8jiesn1.jpg"
+    }
+  ]
+}

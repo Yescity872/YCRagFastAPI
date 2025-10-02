@@ -1,0 +1,394 @@
+{
+  "place": [
+    {
+      "_id": "68c7f5ba20f4dc4834768c0a",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Arthur’s Seat(Arthur’s Seat,Echo Point ,Tiger Spring,Malcolm point etc)",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9839,
+      "lon": 73.6394,
+      "address": "Wai, Maharashtra 412803",
+      "locationLink": "https://maps.google.com/?cid=12934583675969288838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:00 AM to 8:00 PM",
+      "establishYear": "Early 19th Century (British Era)",
+      "fee": "No entry fee.",
+      "description": "Arthur's Seat is a majestic viewpoint in Mahabaleshwar, renowned for its breathtaking panoramic vistas of the surrounding valleys and the deep, winding Savitri River below. The point offers a unique geological feature often referred to as a \"Window Point\" as it gives a clear view of the deep valley without any obstruction. The sheer drops and verdant landscapes make it a favorite spot for nature lovers and photographers alike, offering stunning views of the Deccan trap and the Konkan coast on a clear day.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "The historical significance of Arthur's Seat is rooted in its naming. It is named after Sir Arthur Malet, who was the first to build a house here and is said to have regularly visited the point. Legend has it that he would sit here and gaze upon the Savitri Valley, as it was from here that he threw the bodies of his wife and children into the river during a tragic accident, possibly after a boat capsize. This poignant story adds a melancholic layer to the otherwise beautiful and serene landscape, making the viewpoint not just a place of natural beauty but also a site of a personal tragedy.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195976/xy8g9b8vpskls5zrasgx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195978/eohcggjt1tglvfmy5dpw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195980/dh50s6ibc5223nz5kfl7.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wZnazbsdeD4?si=KcFFMdk9RCU1cjWm"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c0f",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Kate’s Point Area (View of Krishna Valley and Dhom Dam)(Kate's point,Needle Hole Point)",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9425,
+      "lon": 73.7126,
+      "address": "Mahabaleshwar, Golewadi, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=15955084230089086129&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Tuesday to Sunday(Monday Closed)",
+      "openTime": "9:00 AM to 5:00 PM.",
+      "establishYear": "Named after Kate, daughter of Sir John Malcolm.",
+      "fee": "No entry fee.",
+      "description": "Kate's Point Area encompasses several viewpoints, with Kate's Point being the primary one, offering a breathtaking and expansive panorama of the Krishna Valley. From this vantage, visitors can clearly see the glistening waters of the Dhom Dam nestled amidst the verdant hills, providing a contrasting landscape of water, forest, and mountains. It's known for its broad vistas and the clear view of the agricultural landscape in the valley below.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "Kate's Point is named after Kate Malet, the daughter of Sir Arthur Malet, after whom Arthur's Seat is named. Like many other points in Mahabaleshwar, its naming reflects the influence of the British colonial officers and their families who frequented and helped develop Mahabaleshwar as a hill station. While there isn't a specific historical event tied to the point itself, its naming signifies the personal connections of these early British residents to the natural beauty of the region.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196023/s2b4exsa9omqxqjazjhk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196024/ti3fagfm7mo6ufz9xrv7.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196025/qn442h77oae6hkdilbrc.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pT3IQfGpIQY?si=NQLylI3rSlB1Gsg0"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c14",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Venna Lake",
+      "category": "Lake / Boating Spot",
+      "lat": 17.9345,
+      "lon": 73.6686,
+      "address": "Venna Lake, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=2018188006835843896&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "8:00 AM to 8:00 PM. Boating is typically available until sunset.",
+      "establishYear": "1842 (Constructed by Shri Appasaheb Maharaj)",
+      "fee": "No entry fee to the lake; Boating charges: Row Boat (Max 7 persons) INR 800/hour or INR 400/30 mins, Helper for Row Boat INR 200, Pedal Boat (Max 6 persons) INR 600/hour; Horse Riding: INR 150 per round.",
+      "description": "Venna Lake is a sprawling artificial lake at the heart of Mahabaleshwar, serving as a central hub for recreational activities. Surrounded by trees and offering serene waters, it's a popular spot for boating, with options for both rowboats and paddleboats. The lakeside promenade is lined with stalls offering snacks, games, and horse riding, creating a lively and family-friendly atmosphere.",
+      "essential": "Wear comfortable shoes for walking around the lake, be aware of separate charges for boating/horse riding, can get crowded.",
+      "story": "The historical story of Venna Lake dates back to the early 19th century. It was constructed in 1842 by Appasaheb Maharaj, the Raja of Satara. The primary purpose of building this lake was to serve as a perennial source of water for Mahabaleshwar, which was being developed as a British hill station. Over time, it evolved from a utilitarian water body into a major tourist attraction, becoming an integral part of the Mahabaleshwar experience, offering both practical utility and recreational value.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196060/whbmqfmw0bzopazyxaix.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196062/feql5bbyt60zvbzqeqy0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196064/s8k0tmlwbgnt6zm24voy.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Cseivhb3S1k?si=k9iPB7ZMfM0Fhl5x"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c16",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Panchganga Temple ",
+      "category": "Temple / Heritage",
+      "lat": 17.9641,
+      "lon": 73.6618,
+      "address": "XM76+JQ6, Satara Rd, Mahabaleshwar, Old Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=17661245485860768300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "5:00 AM to 12:00 PM and 4:00 PM to 9:00 PM.",
+      "establishYear": "13th Century (by Yadava King Singhandeo), improvements in 16th-17th Century",
+      "fee": "No entry fee to the temple; Footwear stand: INR 5-10; Paid Parking: 2-wheelers INR 10, Small 4-wheelers INR 20, Large 4-wheelers INR 50.",
+      "description": "Panchganga Temple is a sacred site unique for being the confluence point of five rivers, namely Krishna, Venna, Koyna, Savitri, and Gayatri. The temple features a unique stone structure with a 'Gaumukh' (cow's mouth) from which water continuously flows, believed to be the source of these five rivers. Devotees consider bathing in this sacred water highly auspicious. The temple's serene environment and its spiritual significance make it a vital pilgrimage site in Mahabaleshwar.",
+      "essential": "Be prepared for significant walking and climbing steps, carry water, consider hiring a local guide for historical insights.",
+      "story": "The historical story of Panchganga Temple is deeply rooted in Hindu mythology. Legend has it that Lord Brahma, Vishnu, and Shiva, along with other deities, performed penance here, and from their blessings, these five sacred rivers originated. Historically, the temple was built by Raja Singhandeo of the Yadava dynasty in the 13th century, who also built the Mahabaleshwar Temple nearby. It has been a site of immense religious importance for centuries, attracting pilgrims who believe in the purifying power of its waters and the divine origin of the rivers",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196078/u9j4k14e46hubwoh3fc0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196080/o2jq7qm8j32d7goc00le.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196082/x2ytt217cc2dg6x9t0jd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/N_L8vrVtSso?si=TBCDxWlh1KkvzYHM"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c0b",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Echo Point",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9839,
+      "lon": 73.6394,
+      "address": "Poladpur Road, XJHP+CWF, Mahabaleshwar, Maharashtra 402303",
+      "locationLink": "https://maps.google.com/?cid=8845300459812951291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "7:00 AM to 7:00 PM",
+      "establishYear": "Undetermined, popular during British era",
+      "fee": "No entry fee.",
+      "description": "Echo Point is a popular scenic spot known for its unique acoustic phenomenon, where your voice reverberates back to you with remarkable clarity. Situated amidst lush greenery and offering splendid views of the surrounding hills and valleys, it provides a fun and interactive experience for visitors who enjoy shouting and hearing their voices return. Beyond the echoing effect, the point itself is a serene location for enjoying nature and the quietude of the Mahabaleshwar landscape.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "Historically, Echo Point doesn't have a grand narrative of battles or royal decrees. Its \"story\" is more about the natural geological formation that creates the echo. For generations, locals and then tourists have been fascinated by this simple yet captivating natural phenomenon. It became a designated tourist spot purely because of this unique sound effect, attracting curious visitors who wanted to experience the natural acoustics firsthand.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195984/i0vopv7rsnjlvcjtlgpu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195987/lphe1u3s8mwk7sbhgcqm.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195989/lpf6bxejshcseetadjuw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/LCzaX-hS3Ao?si=9uZipRlAV1OZ4mQU"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c11",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Lodwick Point ",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9394,
+      "lon": 73.6347,
+      "address": "WJQM+QWJ, Lodwick Trail, Haroshi, Dare, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=1497783489278375689&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "7:00 AM to 7:00 PM.",
+      "establishYear": "1824 (Colonel Lodwick was the first European to ascend)",
+      "fee": "No entry fee.",
+      "description": "Lodwick Point is a prominent viewpoint named after General Lodwick, who was the first British officer to ascend this peak in 1824. It offers magnificent views of the Elphinstone Point, the Pratapgad Fort, and the majestic Koyna Valley. The point features a large monument or column erected in honor of General Lodwick, making it a place of both natural beauty and historical commemoration.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "The historical story of Lodwick Point is directly linked to General Lodwick (later Sir Lodwick), a British officer. In 1824, he undertook the challenging task of climbing this particular peak, making him the first European to do so. In recognition of his achievement, the point was named after him, and a monument was erected in his honor. This act symbolizes the early British exploration and mapping of the Mahabaleshwar region, transforming it from a relatively unknown forested area into a popular colonial hill station.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196036/hvhfo0qt2zidbhakt5hx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196039/vxzsbsnqtxpez9rv5hzy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196041/ufngy17hdwbdqznokyyl.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Dk4Rr2ZgF-Y?si=wEyXeL5XyGp59XJg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c12",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Elphinstone Point",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9338,
+      "lon": 73.6515,
+      "address": "XJ7H+H35, Satara, Maharashtra 402303",
+      "locationLink": "https://maps.google.com/?cid=7463115081237982378&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:00 AM to 6:00 PM.",
+      "establishYear": "1830 (Discovered by Dr. Murray)",
+      "fee": "No entry fee.",
+      "description": "Elphinstone Point is one of the oldest and most scenic viewpoints in Mahabaleshwar, providing a dramatic vista of the deep gorge of the Koyna Valley and the surrounding dense forests. From here, one can clearly see the formidable Pratapgad Fort on a clear day, as well as the plains below. The viewpoint is characterized by its sheer drops and the raw, untamed beauty of the landscape.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "Elphinstone Point is named after Mountstuart Elphinstone, who was the Governor of Bombay Presidency from 1819 to 1827. He played a significant role in the British administration of the region and was instrumental in the early development and recognition of Mahabaleshwar as a hill station. The naming of this point, like others, serves as a historical marker of the British colonial era and their appreciation for the natural beauty of the Western Ghats.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196045/v23b5tr5vm7l5xguskc0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196046/iuoheijgfooao6heaess.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196048/hcwr3upscsp3wovdf2ie.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/lhQvd7sXVVg?si=4RKF28GEtiJItWlK"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c17",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Pratapgad Fort",
+      "category": "Historical Fort",
+      "lat": 17.9371,
+      "lon": 73.5781,
+      "address": "Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=57842066892678891&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "6:00 AM to 7:00 PM.",
+      "establishYear": "1656 (Built by Chhatrapati Shivaji Maharaj)",
+      "fee": "No entry fee.",
+      "description": "Pratapgad Fort is a formidable hill fort located in the Satara district of Maharashtra, perched atop a towering hill with commanding views of the surrounding Western Ghats. The fort's strategic design includes a lower fort (Machi) and an upper fort (Bale Killa), both fortified with strong walls and bastions. Within its premises, one can find various structures, including a temple dedicated to Bhavani, a statue of Chhatrapati Shivaji Maharaj, and the tomb of Afzal Khan. The fort's rugged beauty and challenging terrain reflect its historical role as a crucial defensive outpost.",
+      "essential": "Be prepared for crowds, especially at the food court, enjoy samples of products.",
+      "story": "The historical story of Pratapgad Fort is deeply intertwined with the legacy of Chhatrapati Shivaji Maharaj and the Maratha Empire. It was built by Shivaji in 1656 to consolidate his control over the Par pass and the surrounding regions. The fort rose to prominence due to the pivotal Battle of Pratapgad in 1659, where Shivaji famously defeated and killed the Bijapuri general Afzal Khan. This decisive victory, achieved through strategic cunning and bravery, significantly boosted Shivaji's prestige and laid a strong foundation for the expansion of the Maratha kingdom, making Pratapgad a symbol of Maratha power and resistance.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196085/mmnpiyyqp271dkrha3dj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196086/wckpb21gtecqdy76nr1s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196088/xkeeu2lqkasclxk8bhym.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ud3qG6aUbXI?si=lOn5xWdXkIgbgA0a"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c0c",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Tiger Spring",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9839,
+      "lon": 73.6394,
+      "address": "XJHP+QX2, Poladpur Road, Mahabaleshwar, Maharashtra 402107",
+      "locationLink": "https://maps.google.com/?cid=4368768863248080933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "6:30 AM to 7:00 PM.",
+      "establishYear": "Undetermined, popular during British era",
+      "fee": "No entry fee.",
+      "description": "Tiger Spring is a natural freshwater spring nestled amidst the dense forests of Mahabaleshwar, often described as a tranquil and somewhat secluded spot. The water is cool and clear, offering a refreshing respite, especially after exploring the nearby viewpoints. It's less about grand vistas and more about a peaceful connection with nature, providing a quiet corner away from the more bustling tourist spots.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "The historical lore surrounding Tiger Spring is largely anecdotal and mythological. It is said that tigers used to frequent this spring to quench their thirst, hence the name. While tigers are rarely sighted here now, the name persists, adding a touch of wilderness and mystery to the place. Some local legends might also associate it with ancient sages or hermits who used the spring for its pure water, though concrete historical records are scarce. Its \"story\" is more a part of local folklore and the natural history of the region.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195994/uh0pkzfdgqkhhhme90lu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195995/ijqornpigxjxohwprkmu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757195997/chy6oxttfhrrzvgfww1b.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/88kBHIn1WlQ?si=Vv_GpDyUXp3HGhjD"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c10",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Wilson Point (Sunrise Point)",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9204,
+      "lon": 73.6843,
+      "address": "WMCG+347, Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=13731884518345059788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "open 24 hours(Recommended visiting hours are 6:00 AM to 8:00 PM)",
+      "establishYear": "Named after Sir Leslie Wilson (Governor of Bombay, 1923-1926)",
+      "fee": "No entry fee.",
+      "description": "Wilson Point, also famously known as Sunrise Point, is the highest point in Mahabaleshwar and the only point that offers a full 360-degree panoramic view of the sunrise. It is characterized by three observation platforms, allowing visitors to witness the sun gradually ascending over the horizon, painting the sky with vibrant colors and illuminating the sprawling landscape below, including parts of the Mahabaleshwar plateau.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "This point is named after Sir Leslie Wilson, the former Governor of Bombay (during the British Raj). Like other points named after British officials, its \"story\" is largely tied to the British development of Mahabaleshwar as a retreat. It became the designated \"Sunrise Point\" due to its elevation and unobstructed views, a tradition that has continued for generations of visitors seeking to witness the spectacular dawn over the Western Ghats.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196028/anvkct8g6w2akiejjjct.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196030/lafsbwynk02gvxhenfse.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196032/ffbtg92symrwf1c9bcdr.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/t-bMiA4S_M0?si=AeMArfop1mXnQUPi"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c13",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Lingmala Waterfall",
+      "category": "Nature/Waterfall",
+      "lat": 17.9223,
+      "lon": 73.6891,
+      "address": "Lingmala Waterfall Rd, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=1057742384090819526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "open 24 hours (Recommended visiting hours 8:00 AM to 5:30 PM )",
+      "establishYear": "Popular for tourism since the colonial era",
+      "fee": "Entry fee: INR 20 per person, Still Camera: INR 10.",
+      "description": "Lingmala Waterfall is a majestic natural cascade that plunges down from a height of approximately 600 feet, creating a mesmerizing spectacle amidst dense forests. The waterfall consists of two main sections: a smaller, safer cascade ideal for bathing and a larger, more powerful cascade that forms a breathtaking torrent, especially during the monsoon season. The surrounding area is lush and verdant, making it a popular spot for nature lovers and photographers.",
+      "essential": "Wear sturdy, non-slip shoes, be cautious of slippery paths, bring rain gear in monsoon, be aware of entry and camera fees.",
+      "story": "The historical story of Lingmala Waterfall is primarily a natural one, rather than a human-made narrative. Its existence is due to the geological formation of the Sahyadri mountains and the monsoon rains. While there isn't a specific historical event or person tied to its origin, its allure has made it a significant natural landmark for centuries. Local folklore might associate it with various deities or nature spirits, but scientifically, its story is one of continuous erosion and the powerful force of water shaping the landscape over geological time.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196052/rjzai8io5tiv80jkpxbe.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196055/dbctqqpyfl2es0ov0rct.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196056/qgejccvrgdgt6iiumnwo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/J_sj_Vv9kEE?si=sEquBYARS8v37kJg"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c18",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Mapro Garden",
+      "category": "Garden / Food / Shopping",
+      "lat": 17.9234,
+      "lon": 73.7352,
+      "address": "15/1B, Gureghar, Panchgani - Mahabaleshwar Rd, Mahabaleshwar, Gureghar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=8848218105185505089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "8:00 AM to 10:00 PM.",
+      "establishYear": "1980s (Extension of Mapro Food Factory)",
+      "fee": "No entry fee.",
+      "description": "Mapro Garden is a popular tourist destination known for its sprawling strawberry farms, a processing unit, a restaurant, and a retail outlet selling Mapro products. It offers a delightful experience where visitors can enjoy fresh strawberries, delicious shakes, wood-fired pizzas, and browse a wide range of fruit-based products like jams, squashes, and chocolates. The well-maintained garden and pleasant ambiance make it a refreshing stop for families and food enthusiasts.",
+      "essential": "Be prepared for crowds, especially at the food court, enjoy samples of products.",
+      "story": "The historical story of Mapro Garden is a modern one, centered around the entrepreneurial journey of the Mapro Foods company. It was established by Kishore Vora in 1959 as a small unit producing fruit-based products. Over the decades, Mapro Foods grew significantly, and the garden in Mahabaleshwar was developed to not only showcase their products but also to provide an engaging experience for tourists visiting the region, effectively combining agri-tourism with a retail and dining concept. It represents the successful integration of local produce with commercial enterprise.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196092/empbvmivwovturoaw0hu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196094/t6kjgignuitz7vd38bcy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196095/je1rd8r53egczyben4c9.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ExAY7mNXq_4?si=7VtwTMzEeUxxlPcl"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c0d",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Malcolm point",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9839,
+      "lon": 73.6394,
+      "address": "XJHP+FVG, Jor, Maharashtra 402303",
+      "locationLink": "https://maps.google.com/?cid=9976040480558526151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "6:00 AM to 7:00 PM.",
+      "establishYear": "1828 (Named after Governor Sir John Malcolm)",
+      "fee": "No entry fee.",
+      "description": "Malcolm Point is another picturesque viewpoint in Mahabaleshwar, offering expansive views of the lush valleys, the Krishna River, and the surrounding Sahyadri mountain ranges. It provides a different perspective of the landscape compared to other points, often appreciated for its serene atmosphere and the sense of vastness it imparts. It's a place for quiet contemplation and enjoying the natural beauty of the region.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "Malcolm Point derives its name from Mr. John Malcolm, who was the Governor of Bombay in the 19th century (specifically, during the time of the British Raj). While there isn't a dramatic historical event tied directly to this specific point, its naming reflects the British influence in developing Mahabaleshwar as a hill station. It was likely a favored spot of the Governor, or named in his honor by the colonial authorities, as they systematically explored and designated viewpoints for the British residents seeking respite from the plains.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196000/hpqlzc58batzdtecqpdy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196003/fsanmdjedmnxky0q3ht3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196006/lpb0fmme6j8xf2gxxrnl.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/CPuiwIHxjXs?si=qTJtZEEwMYwC4R1v"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c0e",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Elephant’s Head Point / Needle Hole Point",
+      "category": "Nature/Viewpoint",
+      "lat": 17.9602,
+      "lon": 73.6305,
+      "address": "Elephants Head Point, Jaoli, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=9342351006421315880&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "7:00 AM to 6:00 PM",
+      "establishYear": "19th Century (British rule)",
+      "fee": "No entry fee.",
+      "description": "Elephant's Head Point and Needle Hole Point are two distinct but closely related viewpoints, often visited together due to their proximity and unique rock formations. Elephant's Head Point is famously named for a natural rock formation that strikingly resembles an elephant's head and trunk, particularly when viewed from the side. Adjacent to it, Needle Hole Point is characterized by a natural rock arch or \"hole\" through which one can see the valley below, resembling the eye of a needle. Both points offer spectacular views of the Sahyadri ranges and the surrounding valleys.",
+      "essential": "Wear comfortable walking shoes, stay behind safety barriers, carry water, best views are early morning/late afternoon, expect fog in monsoon.",
+      "story": "These points are primarily natural geological formations, and their \"historical story\" is more about their natural evolution over millennia due to erosion and weathering. Their naming is a relatively recent phenomenon, stemming from the vivid imaginations of early explorers and tourists who identified these distinctive shapes. There isn't a deep historical narrative of human events tied to these specific formations, but they stand as natural sculptures that have witnessed centuries of Mahabaleshwar's natural history.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196008/iphsnanhthzxlhqqllk6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196011/siokkj3krqzdydqb0xde.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196014/nqumfavh8b0oniqbhchq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/AfDNd2Vy0pI?si=I_41gvnYH3caG4TW"
+      ]
+    },
+    {
+      "_id": "68c7f5ba20f4dc4834768c15",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "places": "Mahabaleshwar Temple",
+      "category": "Temple / Heritage",
+      "lat": 17.9644,
+      "lon": 73.6628,
+      "address": "Old Mahabaleshwar, Maharashtra 412806",
+      "locationLink": "https://maps.google.com/?cid=14652949563211549779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
+      "openDay": "Monday to Sunday",
+      "openTime": "6:00 AM to 8:30 PM.",
+      "establishYear": "Ancient (Exact year uncertain, but a very old temple)",
+      "fee": "No entry fee.",
+      "description": "Mahabaleshwar Temple is an ancient and revered Hindu temple dedicated to Lord Shiva, nestled amidst the serene forests of Mahabaleshwar. Constructed in the South Indian Hemadanta style, the temple features a unique black stone structure and is divided into two parts: the sanctum sanctorum and the central hall. The main deity is a self-originated (Swayambhu) lingam of Lord Shiva, believed to be very powerful. The temple complex exudes a calm and spiritual atmosphere, attracting devotees and tourists seeking peace and divine blessings.",
+      "essential": "Dress modestly, remove footwear before entering, be mindful of photography restrictions, consider small cash for footwear stands/parking.",
+      "story": "The historical story of Mahabaleshwar Temple is steeped in mythology and local legend, tracing its origins back to the 16th century, though some beliefs date its sanctity much earlier. It is believed to be one of the twelve Jyotirlingas, although not officially recognized as such. The temple's significance is also tied to the origin of the five rivers of Mahabaleshwar—Krishna, Venna, Koyna, Savitri, and Gayatri—which are said to originate from a spouted cow's mouth (Gaumukh) within the temple premises. The temple was built by Chandarao More, a local Maratha ruler, and has been a site of continuous worship and pilgrimage, reflecting centuries of religious devotion and architectural heritage",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196068/jfzspfbshltqnhfiypvl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196070/xnskxwl4vfmh0ursn9rv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196073/vc0cmsf1hsqaq2wu4yeb.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/VPnMELUZEng?si=A664C_N__48uKTcP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "nearbyspot": [
+    {
+      "_id": "68c875339dad7b39dff585bb",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Serampore",
+      "distance": "29 km from park street Kolkata",
+      "category": "Historic/Cultural City",
+      "lat": 22.7488,
+      "lon": 88.2965,
+      "address": "Serampore,West Bengal",
+      "locationLink": "https://maps.app.goo.gl/mgKQJHA1c9MHAmCRA",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "Historic ",
+      "fee": "FREE",
+      "description": "Situated on the west bank of the Hooghly River, Serampore was a pre-colonial settlement that became part of Danish India under the name Frederiknagore from 1755 to 1845. In 1755, the Danish Asiatic Company returned to Bengal with the intention of trading in silk, cotton, spices, indigo—the natural blue dye—and saltpetre, an essential ingredient in black powder. The company negotiated a fresh agreement with the Mughal governor of Bengal, who granted them permission to establish a trading post in Serampore, provided they paid taxes on their trade and upheld law and order in the area.Today, Serampore has grown into a modern commercial town with bustling markets, shops, and restaurants. The historic centre built by the Danes still houses public offices and courthouses, while also serving as the town’s main recreational hub. Restored colonial-era buildings draw both Indian and international visitors, adding to its cultural appeal. The town is also renowned for Serampore College, founded by British missionaries during the period of Danish rule.",
+      "essential": "Carry water and sun protection, and wear comfortable walking shoes to ensure a pleasant visit, as exploring the area involves a fair amount of walking. Local guides can greatly enhance the experience by providing valuable insights into the history and significance of the monument",
+      "story": "Serampore, a city with centuries of history, has undergone remarkable transformations over time. It first saw the arrival of the Danes, who established a settlement in 1755 after the Danish East India Company secured a parwana (royal decree) from Nawab Alivardi Khan through its representative from Tranquebar. This marked the beginning of Danish colonial presence in Bengal. The settlement later came under British control in 1845, ushering in a phase of rapid industrialization with the development of railways, factories, and related infrastructure. These changes ultimately transformed Serampore into a thriving industrial hub.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960965/rlospuk8frrzcikizpyg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960966/tqg7iyyapmx1mjlys5qc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960968/xa4vhkydwhxra2litvdr.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/AfR0uRGryvw?si=V6rBo-aK6UCREsPR"
+      ]
+    },
+    {
+      "_id": "68c875339dad7b39dff585bc",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Barrackpore",
+      "distance": "22.2 km from park street Kolkata",
+      "category": "History/Historic City",
+      "lat": 22.7655,
+      "lon": 88.3322,
+      "address": "Barrackpur Cantonment,West Bengal",
+      "locationLink": "https://maps.app.goo.gl/BaySiv8KYBBhwQLw8",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1862",
+      "fee": "FREE",
+      "description": "Barrackpore is famous for its historical significance as the oldest British cantonment in India and for being the site of early revolts against British rule, particularly the 1857 Sepoy Mutiny triggered by Mangal Pandey. Today, it is known for landmarks such as Mangal Pandey Park and the Gandhi Museum, which commemorates Mahatma Gandhi's ashes being immersed there",
+      "essential": "Carry water and sun protection, and wear comfortable walking shoes to ensure a pleasant visit, as exploring the area involves a fair amount of walking. Local guides can greatly enhance the experience by providing valuable insights into the history and significance of the monument",
+      "story": "The first British barracks or cantonment in India was established in Barrackpore in 1772. Following the transfer of power to the British Crown, the expansive Government House and Government Estate were constructed there, serving as a suburban residence for the Viceroy, located about 20 kilometres (12 miles) from Calcutta.Barrackpore was also the site of two significant uprisings against British authority in the 19th century. The first was the Barrackpore Mutiny of 1824, led by sepoy Bindee Tiwary. Later, in 1857, the town witnessed an incident often regarded as a spark for the Indian Rebellion of 1857. Here, sepoy Mangal Pandey attacked his British officer and was court-martialed. In response, his regiment was disbanded—an act that deeply angered many sepoys and is believed to have intensified the resentment that ultimately fuelled the rebellion.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960972/udpisjpkf0l2mbxgjckz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960973/yq69ulauwyncpor4ei3l.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960975/ipone8pqadmemtzwf6jw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/CyvI3uC7xB4?si=BViUoJ0jpmA_ZU4y"
+      ]
+    },
+    {
+      "_id": "68c875339dad7b39dff585ba",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Belur Math",
+      "distance": "10 km from park street Kolkata",
+      "category": "Religious/Pilgrimage",
+      "lat": 22.6326,
+      "lon": 88.3538,
+      "address": "Belur Math Rd, Belur Math, Howrah, West Bengal (711202)",
+      "locationLink": "https://maps.app.goo.gl/SxsG56cCzoUPXx9H8",
+      "openDay": "Monday–Sunday",
+      "openTime": "6:30–11:30 am ,4:00–9:00 pm",
+      "establishYear": "1897",
+      "fee": "FREE ,Rs5(Museum)",
+      "description": "It is located in Belur, West Bengal, India on the west bank of Hooghly River.Belur Math was established in January 1897, by Swami Vivekananda who was the disciple of Sri Ramakrishna.The temple is the heart of the Ramakrishna movement. It is notable for its architecture that fuses Hindu, Islamic, Buddhist, and Christian art and motifs as a symbol of unity of all religions.The temple is considered a prime example of the importance of \"material dimension\" of religion.",
+      "essential": "Modest dress required; remove shoes at temples; avoid alcohol and non-vegetarian food; use designated ghats for bathing; keep the confluence clean; follow priestly or local guidance during rituals.",
+      "story": "Belur Math is the headquarters of the Ramakrishna Math and Ramakrishna Mission, founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa.Ramakrishna Math and Ramakrishna Mission are worldwide, non-political, non-sectarian spiritual organizations which have been engaged in various forms of humanitarian, social service activities for more than a century. Inspired by the ideals of renunciation and service, the monks and lay devotees of the Math and Mission serve millions of men, women and children, without any distinction of caste, religion or race, because they see the living God in them.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960960/vl4mhzydtbnkr3odljl5.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960961/ykvgc7njgwsrcwdcca2l.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960962/rzttirp0ygrhqm6hbhss.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/8t2AWC9Chlw?si=W4z6ZWagpqGFIV76"
+      ]
+    },
+    {
+      "_id": "68c875339dad7b39dff585bf",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Tarkeshwar",
+      "distance": "60.4 km from park street Kolkata",
+      "category": "Religious/Pilgrimage",
+      "lat": 22.8853,
+      "lon": 87.4408,
+      "address": "Mandir Rd, Tarkeshwar, Bhanjipur, West Bengal (712410)",
+      "locationLink": "https://maps.app.goo.gl/5tjHE4h96CjTBtZg7",
+      "openDay": "Monday–Sunday",
+      "openTime": "5:30-12:00 noon,4:30-7:30 pm",
+      "establishYear": "ancient",
+      "fee": "FREE",
+      "description": "The temple derives its name from the Tarakeswara form of Lord Mahadev. It is traditionally believed to have been constructed by the Malla Raja of Bishnupur. Built in the Atchala style of Bengal temple architecture, the Taraknath Mandir features a sanctum crowned with four sloping roofs, a natmandir (prayer hall) at the front, and extended galleries to accommodate large gatherings of devotees.To the north of the temple lies Dudhpukur, a sacred pond believed to grant the wishes of those who take a ritual dip in its waters. The temple is also regarded by some as one of the Jyotirlinga shrines of Lord Mahadev. Pilgrims throng to Taraknath Temple throughout the year, with Mondays being especially significant for worship.",
+      "essential": "Modest dress required; remove shoes at temples; avoid alcohol and non-vegetarian food; keep the confluence clean; follow priestly or local guidance during rituals.",
+      "story": "Tarakeswar is a renowned pilgrimage town and municipality in the Hooghly district of West Bengal, India. Popularly known as “Baba Dham” or “The City of Shiva”, it is considered one of the most important holy destinations in West Bengal and across India.At the heart of the town stands the Taraknath Temple, a famous Hindu shrine dedicated to Lord Shiva. The temple houses a Shayambhu linga (self-manifested symbol) of Shiva and is believed to have been built in 1729 CE by Raja Bharamalla Rao.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960988/mykog6ry90mcj1mckxnf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960989/p2fpqw1hvfmipjad61to.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960991/wic794eibaqziheq7zax.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ziduCLovltM?si=0Y5LLd9RKkO1AMc4"
+      ]
+    },
+    {
+      "_id": "68c875339dad7b39dff585bd",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Bandel Church",
+      "distance": "54 km from park street Kolkata",
+      "category": "Religious/Pilgrimage",
+      "lat": 22.9194,
+      "lon": 88.3929,
+      "address": "Sahaganj, Chinsurah, West Bengal (712103)",
+      "locationLink": "https://maps.app.goo.gl/2EVscbpAgpK3ECX46",
+      "openDay": "Monday–Sunday",
+      "openTime": "8:00 AM to 5:00 PM",
+      "establishYear": "1606",
+      "fee": "FREE",
+      "description": "Located about 3 km from Hooghly Railway Station, the Basilica of the Holy Rosary—popularly known as Bandel Church—is one of the oldest churches in West Bengal and a major attraction in Hooghly.Originally founded in 1599, the church is dedicated to Nossa Senhora do Rosário (Our Lady of the Rosary) and commemorates the Portuguese settlement in Bengal. It belongs to the Roman Catholic Archdiocese of Calcutta and is one of the 23 Basilica Churches in India. The present structure, along with the adjoining monastery, was built in 1660 by Gomez de Soto after the original church was destroyed by the Mughal army under Emperor Shah Jahan. A relic of the earlier building—the keystone inscribed with the date 1599—still survives and can be seen on the eastern gate of the monastery.",
+      "essential": "Modest dress required; avoid eating inside the premises ;  keep the church clean; follow priestly or local guidance during rituals.",
+      "story": "The Bandel Church, formally known as the Basilica of the Holy Rosary, is among the oldest Christian churches in West Bengal, India. Established in 1599, it was built as a memorial to the Portuguese settlement in Bengal and is dedicated to Nossa Senhora do Rosário (Our Lady of the Rosary). Today, it functions both as a parish church under the Roman Catholic Archdiocese of Calcutta and as one of the most significant historical churches in West Bengal and India.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960978/tp1xng54cn02lhumm70r.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960979/xomeztah2ahp8gtvqszx.jpg",
+        "https://i0.wp.com/bandelchurch.com/wp-content/uploads/2020/07/Bandel-Church-1-e1596897205811.jpg?fit=389%2C400&ssl=1"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/hEgSGNqEE2A?si=QPYubOV7NQ-hciF0"
+      ]
+    },
+    {
+      "_id": "68c875339dad7b39dff585be",
+      "cityId": "68c7454b4ea2df675385f355",
+      "cityName": "Kolkata",
+      "places": "Hooghly Imambara",
+      "distance": "55 km from park street Kolkata",
+      "category": "Religious/Pilgrimage",
+      "lat": 22.9084,
+      "lon": 88.3973,
+      "address": "Imambara Rd, near D.M Banglw, Chowk Bazar, Olaichanditala, Chinsurah, West Bengal (712103)",
+      "locationLink": "https://maps.app.goo.gl/DxBpdsS7AA8Je6sk8",
+      "openDay": "Monday–Sunday",
+      "openTime": "8:00 am – 5:00 pm",
+      "establishYear": "Early 19th century",
+      "fee": "Rs20",
+      "description": "The Hooghly Imambara is a Twelver Shia congregation hall and mosque located in Hooghly, West Bengal, India. Its construction was initiated by Muhammad Mohsin in 1841 and completed in 1861. The two-storied structure features a prominent clock tower above the entrance gate and is renowned for its intricate architectural details. Verses from the Quran are engraved on its walls, while the interiors are adorned with marble, candles, and hanging lanterns, adding to its grandeur.",
+      "essential": "Modest dress required; avoid alcohol ;  keep the confluence clean; follow priestly or local guidance during rituals.",
+      "story": "The Hooghly Imambara is particularly renowned for its grand clock, positioned between the twin towers that rise above the main entrance. Each tower stands at a height of about 46 metres (150 ft) and contains 152 steps leading to the top.Visitors from Kolkata usually travel by train to Naihati Junction, then take a Bandel local train to Hooghly Ghat station. From there, the Imambara is within walking distance, though rickshaws and auto-rickshaws are also available to ferry visitors directly to the site.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960982/d7eh5or9jtfznryrplzg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960983/hglusy6sa2lx7rdiregj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960985/nlsbvy9ehfdksgsqmylz.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/UszGt7q6ey8?si=Puy0-ZfhgU7iDc8W"
+      ]
+    }
+  ]
+}

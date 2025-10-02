@@ -1,0 +1,147 @@
+{
+  "connectivity": [
+    {
+      "_id": "68c7f5b920f4dc4834768be1",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": "Neeta Bus Stand",
+      "distance": "1km from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 17.9268,
+      "lon": 73.6546,
+      "locationLink": "https://maps.app.goo.gl/Nrju2biQF26hv16i7",
+      "majorFlightsTrainsBuses": "Bengaluru to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be4",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Kolkata to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768bea",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Hyderabad to Mahabaleshwar"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be0",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": "Pune International Airport",
+      "distance": "137km from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 18.5793,
+      "lon": 73.9089,
+      "locationLink": "https://maps.app.goo.gl/PtAUF6h68AQr7LCM8",
+      "majorFlightsTrainsBuses": "Delhi to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768beb",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Panvel to Mahabaleshwar"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be2",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": "Mahabaleshwar ST Bus Depot",
+      "distance": "1km from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 17.9258,
+      "lon": 73.6564,
+      "locationLink": "https://maps.app.goo.gl/qA91tSgDSDxKFa3i9",
+      "majorFlightsTrainsBuses": "Chennai to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be6",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Kochi to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be3",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": "MAHABALESHWAR BUS STAND",
+      "distance": "1km from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 17.9258,
+      "lon": 73.6566,
+      "locationLink": "https://maps.app.goo.gl/EhZWtDc7A7oSG29k7",
+      "majorFlightsTrainsBuses": "Hyderabad to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be5",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Jaipur to Mahabaleshwar by flight"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be7",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Pune to Mahabaleshwar"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be8",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Mumbai to Mahabaleshwar"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768be9",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Satara to Mahabaleshwar"
+    },
+    {
+      "_id": "68c7f5b920f4dc4834768bec",
+      "cityId": "68c7454b4ea2df675385f354",
+      "cityName": "Mahabaleshwar",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Wathar to Mahabaleshwar"
+    }
+  ]
+}
