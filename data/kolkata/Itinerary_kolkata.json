@@ -3,7 +3,8 @@
     {
       "_id": "68c875349dad7b39dff585cb",
       "cityId": "68c7454b4ea2df675385f355",
-      "cityName": "Kolkata"
+      "cityName": "Kolkata",
+      "premium": "FREE"
     }
   ]
 }

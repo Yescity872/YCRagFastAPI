@@ -14,7 +14,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960797/vtvhwvneigwlaabvdijq.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857a",
@@ -30,7 +31,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960785/ujckebjlwstfyftrqbzl.webp"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857e",
@@ -46,7 +48,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960790/b94k59kcjzczup2dduly.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857f",
@@ -62,7 +65,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960793/qtv3bzlxmij2tqkabhg0.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857b",
@@ -78,7 +82,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960786/s6bcm94gz4ugaw6r1hlj.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857c",
@@ -94,7 +99,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960787/pknorgoiwhjojjhoqlby.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff5857d",
@@ -110,7 +116,8 @@
       "images": [
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960788/zqdxvko82oypevpkxoum.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c875329dad7b39dff58580",
@@ -127,7 +134,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757960796/ogysyd85m6c2jcakm6zy.jpg",
         "*"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     }
   ]
 }

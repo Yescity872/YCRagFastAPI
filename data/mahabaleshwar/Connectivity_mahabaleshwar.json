@@ -9,7 +9,8 @@
       "lat": 17.9268,
       "lon": 73.6546,
       "locationLink": "https://maps.app.goo.gl/Nrju2biQF26hv16i7",
-      "majorFlightsTrainsBuses": "Bengaluru to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Bengaluru to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be4",
@@ -20,7 +21,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Kolkata to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Kolkata to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768bea",
@@ -31,7 +33,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Hyderabad to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Hyderabad to Mahabaleshwar",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be0",
@@ -42,7 +45,8 @@
       "lat": 18.5793,
       "lon": 73.9089,
       "locationLink": "https://maps.app.goo.gl/PtAUF6h68AQr7LCM8",
-      "majorFlightsTrainsBuses": "Delhi to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Delhi to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768beb",
@@ -53,7 +57,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Panvel to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Panvel to Mahabaleshwar",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be2",
@@ -64,7 +69,8 @@
       "lat": 17.9258,
       "lon": 73.6564,
       "locationLink": "https://maps.app.goo.gl/qA91tSgDSDxKFa3i9",
-      "majorFlightsTrainsBuses": "Chennai to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Chennai to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be6",
@@ -75,7 +81,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Kochi to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Kochi to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be3",
@@ -86,7 +93,8 @@
       "lat": 17.9258,
       "lon": 73.6566,
       "locationLink": "https://maps.app.goo.gl/EhZWtDc7A7oSG29k7",
-      "majorFlightsTrainsBuses": "Hyderabad to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Hyderabad to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be5",
@@ -97,7 +105,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Jaipur to Mahabaleshwar by flight"
+      "majorFlightsTrainsBuses": "Jaipur to Mahabaleshwar by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be7",
@@ -108,7 +117,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Pune to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Pune to Mahabaleshwar",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be8",
@@ -119,7 +129,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Mumbai to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Mumbai to Mahabaleshwar",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768be9",
@@ -130,7 +141,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Satara to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Satara to Mahabaleshwar",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5b920f4dc4834768bec",
@@ -141,7 +153,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Wathar to Mahabaleshwar"
+      "majorFlightsTrainsBuses": "Buses from Wathar to Mahabaleshwar",
+      "premium": "FREE"
     }
   ]
 }

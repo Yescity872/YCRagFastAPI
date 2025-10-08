@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Split Mahabaleshwar.json into individual category files with _id metadata.
-Similar to other city scripts but for Mahabaleshwar city.
+Split updated Agra (1).json into individual category files with _id metadata.
+Updates the existing Agra category files with new data.
 
-Input: data/mahabaleshwar/Mahabaleshwar.json
-Output: data/mahabaleshwar/Category_mahabaleshwar.json files (12 categories)
+Input: data/agra/Agra (1).json
+Output: data/agra/Category_agra.json files (12 categories) - OVERWRITES existing files
 
 Removes __v fields and preserves all other data including _id.
 """
@@ -13,23 +13,24 @@ import json
 import os
 from pathlib import Path
 
-def split_mahabaleshwar_data():
+def split_updated_agra_data():
     # Paths
-    base_dir = Path("data/mahabaleshwar")
-    input_file = base_dir / "Mahabaleshwar.json"
+    base_dir = Path("data/agra")
+    input_file = base_dir / "Agra (1).json"
     
     if not input_file.exists():
         print(f"❌ Error: {input_file} not found!")
         return
     
-    # Load main file
-    print(f"📖 Loading {input_file}...")
+    # Load updated file
+    print(f"📖 Loading updated {input_file}...")
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    print(f"✅ Found {len(data)} categories in Mahabaleshwar.json")
+    print(f"✅ Found {len(data)} categories in updated Agra (1).json")
     
     # Category mapping (lowercase from file → PascalCase for filenames)
+    # Keep exactly the same as before
     category_mapping = {
         'accommodation': 'Accommodation',
         'activity': 'Activity', 
@@ -47,9 +48,11 @@ def split_mahabaleshwar_data():
     
     total_processed = 0
     
+    print(f"\\n🔄 Updating existing Agra category files...")
+    
     for source_key, target_category in category_mapping.items():
         if source_key not in data:
-            print(f"⚠️  Category '{source_key}' not found in Mahabaleshwar.json")
+            print(f"⚠️  Category '{source_key}' not found in updated Agra (1).json")
             continue
             
         items = data[source_key]
@@ -73,25 +76,31 @@ def split_mahabaleshwar_data():
             else:
                 cleaned_items.append(item)
         
-        # Create output file with lowercase key (consistent with other cities)
-        output_file = base_dir / f"{target_category}_mahabaleshwar.json"
+        # Create output file with lowercase key (same naming as before)
+        output_file = base_dir / f"{target_category}_agra.json"
         output_data = {source_key: cleaned_items}  # Use original lowercase key
         
-        # Write to file
+        # Write to file (overwrites existing)
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
-        print(f"✅ {target_category:12} → {output_file.name:35} ({len(cleaned_items)} items, {items_with_id} with _id)")
+        print(f"✅ {target_category:12} → {output_file.name:25} ({len(cleaned_items)} items, {items_with_id} with _id)")
         total_processed += len(cleaned_items)
     
-    print(f"\n🎉 Successfully processed {total_processed} items from Mahabaleshwar!")
-    print(f"📁 Files created in: {base_dir}")
+    print(f"\\n🎉 Successfully updated Agra files with {total_processed} items!")
+    print(f"📁 Files updated in: {base_dir}")
     
-    # Verify all files were created
-    created_files = list(base_dir.glob("*_mahabaleshwar.json"))
-    print(f"\n📋 Created files ({len(created_files)}):")
-    for file in sorted(created_files):
+    # Show comparison
+    print(f"\\n📊 Data comparison:")
+    print(f"   Previous total: 205 items")
+    print(f"   Updated total:  {total_processed} items")
+    print(f"   Difference:     {total_processed - 205:+d} items")
+    
+    # Verify all files were updated
+    updated_files = list(base_dir.glob("*_agra.json"))
+    print(f"\\n📋 Updated files ({len(updated_files)}):")
+    for file in sorted(updated_files):
         print(f"   • {file.name}")
 
 if __name__ == "__main__":
-    split_mahabaleshwar_data()
+    split_updated_agra_data()

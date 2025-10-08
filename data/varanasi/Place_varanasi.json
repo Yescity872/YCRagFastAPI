@@ -1,603 +1,626 @@
 {
-    "Place": [
-        {
-            "_id": "68c7f27d20f4dc4834768b3d",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Manikarnika Ghat",
-            "category": "Spiritual / Ghat Experience",
-            "lat": 25.3108,
-            "lon": 83.0141,
-            "address": "Near Lalita Ghat, Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/tSp5oLsyrWQ94P6q6",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free | Donation optional | Guide: ₹200–₹500",
-            "description": "Manikarnika Ghat is one of the most sacred and oldest ghats in Varanasi, known as the principal cremation site. Hindus believe that those cremated here attain Moksha (liberation from the cycle of rebirth). The continuous cremation pyres and the spiritual chants create a powerful and reflective atmosphere. It symbolizes the cycle of life and death, making it a significant site of religious importance.",
-            "essential": "Photography of cremation ceremonies is strictly prohibited. Visitors should maintain a respectful distance and behave solemnly.",
-            "story": "Manikarnika Ghat is one of the oldest and most sacred cremation ghats in Varanasi, known as the gateway to moksha (liberation). According to ancient Hindu legend, Lord Vishnu performed intense penance here to please Lord Shiva. Pleased with his devotion, Shiva granted the land of Kashi as an eternal sacred city. During this divine episode, Vishnu dug a well with his discus, and while bathing, Shiva’s earring (Manikarnika) fell into it—hence the name Manikarnika, meaning \"jeweled earring.\" This well, known as the Manikarnika Kund, still exists near the ghat and is considered highly auspicious. It is believed that cremation at Manikarnika Ghat ensures liberation from the cycle of rebirth. According to mythology, Maa Parvati asked Lord Shiva to ensure that devotees dying in Kashi achieve moksha, so Shiva whispers the Taraka mantra into the ears of the dying at this ghat. Historically, the ghat has been continuously active for thousands of years, and it remains the eternal flame cremation site, where funeral pyres burn 24/7 without pause.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437798/wvpq6bhr09yqvpuji0zb.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437805/bmnpqo32coai8ybigwcq.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437806/dv9vu9njnvmr55yuvqyq.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/ZF_kX6Ux-pA?si=7A9bp6zGcOx9eMyy"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b3e",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Namo Ghat",
-            "category": "Spiritual / Ghat Experience",
-            "lat": 25.3251,
-            "lon": 83.0353,
-            "address": "Rajghat, Varanasi, Suzabad, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/7zx2o6fiZaTu49bB6",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:00AM - 10:00PM",
-            "establishYear": "2021",
-            "fee": "Entry: Free | Boat/Ferry ₹50–₹100 | Guide: ₹150–₹300",
-            "description": "Namo Ghat is a modern and well-maintained ghat with unique architectural designs and comfortable seating areas. It offers stunning views of the Ganges, especially during sunrise and sunset. The ghat features modern amenities like pathways, gardens, and illuminated sculptures, making it a popular spot for locals and tourists. It symbolizes the blend of tradition and modernity in Varanasi.",
-            "essential": "Open to the public. Cleanliness is expected, and littering is prohibited. Respect the sanctity of the river while performing rituals.",
-            "story": "Namo Ghat, formerly known as Khidkiya Ghat, is a newly redeveloped and iconic riverfront on the banks of the Ganga in Varanasi, named in honor of Prime Minister Narendra Modi (\"NaMo\") for his contributions to transforming the city under the Kashi Vishwanath Corridor project. Designed with modern infrastructure and aesthetics—such as the massive folded-hand sculptures symbolizing Indian hospitality—it blends spirituality, culture, and inclusivity, offering facilities like wheelchair access, cultural spaces, and peaceful riverfront views. While relatively new, it holds cultural importance by continuing the centuries-old tradition of Varanasi’s ghats being centers for spiritual and communal life.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437809/nuzb9oh4lylvjhsv8gii.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437811/nrxjjhigzi3d0sq8bepl.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437813/xdiwjayvj0qxczyzfhx1.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/sBhAV3OXNW4?si=FXR5jTQBH1FxmYAu"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b41",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Ramnagar Fort",
-            "category": "Heritage Landmark",
-            "lat": 25.2695,
-            "lon": 83.0249,
-            "address": "Varanasi Rd, Ram nagar, Ramnagar, Uttar Pradesh 221008",
-            "locationLink": "https://maps.app.goo.gl/DYBqg4GtmBzdUR9x9",
-            "openDay": "Monday to Sunday",
-            "openTime": "08:00AM - 08:00PM",
-            "establishYear": "1750",
-            "fee": "Entry: ₹50 (Indian), ₹150 (Foreigner), Camera ₹50 | Guide: ₹200–₹400",
-            "description": "Located on the eastern bank of the Ganges, Ramnagar Fort was built in 1750 by Maharaja Balwant Singh. The sandstone structure exhibits Mughal architecture and serves as the residence of the Kashi Naresh (King of Varanasi). The fort houses a museum showcasing vintage cars, royal costumes, manuscripts, and weapons. It offers panoramic views of the Ganges and is famous for hosting the annual Ramlila festival.",
-            "essential": "Open to visitors with an entry fee. Photography is allowed in most areas but restricted in the museum. Maintaining cleanliness and respecting the property is expected.",
-            "story": "Ramnagar Fort, located on the eastern banks of the Ganga River, is an imposing historical landmark in Varanasi, built in the 16th century by Kesar Singh, the Rajput king of Banaras. The fort’s construction was initiated by Maharaja Chet Singh in the 1700s to serve as the royal residence and defensive stronghold. The fort is made of red sandstone and has a mix of architectural styles, with features reminiscent of both Mughal and Rajput design. Over the centuries, the fort has been the seat of the Banaras Rajput family, who played a crucial role in the region’s governance and culture. A key historical event took place here during the Indian Rebellion of 1857, when Maharaja Chet Singh led a resistance against British rule, although the fort eventually fell to British forces. Today, the fort houses the Ramnagar Fort Museum, showcasing an impressive collection of royal artifacts, vintage cars, and weapons. The fort is also known for its proximity to the famous Ramlila processions, which are held every year in honor of Lord Rama, where the fort serves as the backdrop for these grand celebrations.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437826/entx6tanbocaumxwyitt.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437827/oqqkxk28u4jwkc2kd9wq.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437828/bmjxp4kib6fmcjskrbe4.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/tATy-6gHwPA?si=jHdhGKzn11U6tL2P"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b42",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Chunar Fort",
-            "category": "Heritage Landmark",
-            "lat": 25.1234,
-            "lon": 82.8758,
-            "address": "4VFG+87X, Tammanpatti, Uttar Pradesh 231304",
-            "locationLink": "https://maps.app.goo.gl/Xt5yx6588YtCt7k2A",
-            "openDay": "Monday to Sunday",
-            "openTime": "09:00AM - 5:00PM",
-            "establishYear": "11th century",
-            "fee": "Entry: ₹25–₹50 | Parking ₹50 | Guide: ₹300–₹600",
-            "description": "Located on the banks of the Ganges, Chunar Fort is a historic fortress with a strategic military past. It has witnessed the reign of several dynasties, including the Mughals and the British. The fort offers panoramic views of the river and the surrounding landscape. Its ancient architecture, secret passages, and historical significance attract history enthusiasts and tourists alike. The fort's mystical charm and historical tales make it a fascinating destination.",
-            "essential": "An entry fee is applicable. Photography is allowed. Caution is advised while exploring the ancient structure.",
-            "story": "Chunar Fort is a historic and strategically significant fort located about 40 kilometers southeast of Varanasi, overlooking the Ganga River. The fort's origins date back to ancient times, with the earliest known references to the structure appearing in Mauryan period inscriptions. However, its most significant history unfolded during the medieval period when it was a key stronghold in the region's defense. The fort was initially built by Emperor Ashoka of the Maurya dynasty, although it was later expanded and fortified by various rulers. In the 16th century, Sher Shah Suri, the founder of the Suri Empire, made substantial improvements to the fort, fortifying it and using it as a stronghold in his struggle against the Mughal Empire. The fort’s strategic position on the Ganga allowed it to control the trade route, and over time, it became an important military base for various rulers, including the Mughals and the British. During the British colonial period, Chunar Fort was used as a prison for Indian freedom fighters, adding another layer to its historical significance. The fort, though in ruins today, is still an impressive structure with large walls, a moat, and numerous gates, offering insight into the fortification techniques of its time. It continues to be a site of historical interest for tourists and researchers.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437830/dvkqgrmjfqmyedsro0sk.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437832/hxtsdsqxvtz31ekbwjub.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437833/fyonqfg7hrrshdftjjrp.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/6TeKZeVm3mU?si=vvCBHubLTk3wStsj"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b43",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "The Ancient Well of Chandrakoop",
-            "category": "Heritage / Spiritual Spot",
-            "lat": 25.3127,
-            "lon": 83.0148,
-            "address": "CK 7, 12, Siddheswari Gali, behind Sankatha Mata Mandir, Garwasitola, Ghasi Tola, Varanasi, Domari, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/9siPvYZbCURopXbZ9",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free (part of KVT) | Guide: Included in KVT tour",
-            "description": "The Ancient Well of Chandrakoop is considered sacred and is believed to possess purifying properties. Pilgrims traditionally offer water and flowers, seeking spiritual cleansing. The well is associated with various legends and is an integral part of the religious landscape of Varanasi. Its historical and spiritual significance makes it a unique attraction for those exploring Varanasi’s cultural heritage.",
-            "essential": "Visitors should exercise caution near the well. Offerings are customary. Silence and respect for local beliefs are expected.",
-            "story": "The Ancient Well of Chandrakoop in Varanasi is steeped in both historical and mythological significance. According to local legends, this well was created by the ancient king Chandraketu, who sought to ensure a continuous water supply for his kingdom. It is believed that the well was constructed during the Mauryan era, with historical accounts suggesting it was designed to withstand dry periods and provide fresh, pure water to the people of the region. The well is particularly revered for its association with Lord Shiva, as it is said that Lord Shiva blessed the well with divine power to purify the waters, ensuring its life-sustaining properties. Over time, the well came to be considered a sacred source of spiritual and physical purification, with people coming to offer prayers and seek blessings for health, prosperity, and cleansing of sins. The legend also speaks of Chandraketu's connection to the moon (Chandra), symbolizing the well’s purity and the lunar cycle, believed to grant peace and tranquility. Despite its modest appearance today, the well holds a special place in Varanasi’s vast spiritual landscape, serving as a symbol of both the city’s historical ingenuity and divine grace.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437837/dnvfyc7f0s29qg0xe19h.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437842/ozhuhxsrinivhbhvpfp1.jpg",
-                "900)",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437843/igxr9mdl6l7mhug2jwbg.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/uIH1dTAMrS8?si=v-TIh1TRdyZj36sS"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b44",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Markandeshwar Mahadev Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 22.3113,
-            "lon": 83.01,
-            "address": "8265+GXX, Kashi Vishwnath Rd, Lahori Tola, Varanasi, Uttar Pradesh 221010",
-            "locationLink": "https://maps.app.goo.gl/fX7GQKnng7JMtC4K6",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:00AM - 10:00PM",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free | Puja ₹50–₹100 | Guide: ₹200–₹300",
-            "description": "Dedicated to Lord Shiva, Markandeshwar Mahadev Temple is linked to the legend of sage Markandeya, who conquered death by Lord Shiva's blessings. It is a revered shrine for devotees seeking longevity and protection. The ancient architecture and spiritual significance attract pilgrims and tourists alike. The peaceful surroundings and historical importance make it a serene place for reflection and worship.",
-            "essential": "Footwear removal is mandatory. Photography policies vary, so it’s best to inquire locally. Offerings are allowed but should be bought from authorized vendors.",
-            "story": "The Markandeshwar Mahadev Temple is one of the ancient Shiva temples of Varanasi, deeply connected to the legend of Rishi Markandeya, a symbol of unwavering devotion. According to Hindu mythology, Sage Markandeya was born to a childless couple after intense penance, but with a destined lifespan of only 16 years. As his end neared, young Markandeya took refuge in the worship of Lord Shiva, meditating and chanting the Mahamrityunjaya Mantra beside a Shiva Lingam. When Yamraj, the god of death, came to claim his soul, Markandeya clung to the Shiva Lingam. Yamraj threw his noose, which mistakenly landed around the Lingam too—an act that angered Shiva. Emerging in fury, Lord Shiva struck down Yamraj and granted Markandeya eternal life, declaring that true devotion could even conquer death. It is believed that this powerful event took place at the site where the Markandeshwar Mahadev Temple now stands. The temple, though modest in appearance, is revered for its spiritual energy and is especially visited by devotees seeking long life, protection from premature death, and spiritual strength. The surrounding area is peaceful, making it ideal for meditation and quiet worship.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437846/uuhrusk53xuzei6ux4xy.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437847/h8aiuphsgzc21qq8eg8w.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437848/joybsxlox2hxr6ohwzd0.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Vph6_wQYN08?si=noN_mwfB1XIX58Qf"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b4a",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Godowlia Market",
-            "category": "Local Shopping / Market",
-            "lat": 25.3167,
-            "lon": 83.0057,
-            "address": "Godowlia Market,Varanasi,Uttar Pradesh,221001",
-            "locationLink": "https://www.google.co.in/maps/place/Godowlia, +Varanasi, +Uttar+Pradesh+221001/@25.3096159, 83.0090789, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2e1dd92f9889:0xa61275607925c1fc!8m2!3d25.3100747!4d83.0096485!16s%2Fg%2F11c1m_vl0s?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
-            "openDay": "Monday to Sunday",
-            "openTime": "9:30 AM -10:30 PM",
-            "establishYear": null,
-            "fee": "Entry: Free | Guide/Shopping help: ₹200–₹400",
-            "description": "Godowlia Market is one of the busiest and most famous shopping areas in Varanasi, known for its vibrant atmosphere, traditional Banarasi silk, handicrafts, street food, and cultural essence. Located near Dashashwamedh Ghat, it is a must-visit for tourists looking for an authentic shopping and street food experience.",
-            "essential": "Visit early or late to avoid crowds and heat; use cycle rickshaws or walk as the market is congested; bargain hard for Banarasi silk and handicrafts; try local street food like kachori sabzi, lassi, and Banarasi paan; stay alert, keep cash handy, secure belongings, and beware of touts or overpriced shops.",
-            "story": null,
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437875/mlrpjlnug5lxoucik3p0.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437876/nzi4z2x3osyvzjuijvks.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437877/od7orhrrj4ikmiz94hrf.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/7Sqi_aBoqF8?si=o-2oGWB4cHi7r8J-"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b3c",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Dashashwamedh Ghat",
-            "category": "Spiritual / Ghat Experience",
-            "lat": 25.3062,
-            "lon": 83.0103,
-            "address": "Dashashwamegh Ghat,Varanasi,Uttar Pradesh,221001",
-            "locationLink": "https://maps.app.goo.gl/LiTgZjpHQ5zzq31i6",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "1748",
-            "fee": "Entry: Free | Aarti Seat ₹100–₹200 | Boat ₹1000 | Guide: ₹200–₹400",
-            "description": "Dashashwamedh Ghat is one of the oldest and most vibrant ghats in Varanasi. It is known for the spectacular Ganga Aarti, where priests perform synchronized rituals with lamps and chants. The ghat is surrounded by bustling markets and eateries, offering a lively experience. The spiritual ambiance, colorful lights, and hymns create a mesmerizing atmosphere, attracting tourists and devotees worldwide.",
-            "essential": "Modest attire is recommended. The evening Ganga Aarti attracts large crowds, so arriving early is advisable. Photography is allowed but should be done respectfully.",
-            "story": "Dashashwamedh Ghat is the oldest and most historically significant ghat in Varanasi, situated close to the Kashi Vishwanath Temple on the banks of the Ganga River. According to Hindu mythology, it was at this sacred site that Lord Brahma performed a grand Ashwamedh Yajna (horse sacrifice) involving ten horses to welcome Lord Shiva to the earthly realm—hence the name \"Dashashwamedh\", meaning “Ten Horse Sacrifice.” Another version of the legend states that Lord Brahma created the ghat himself to perform rituals and establish Kashi as a divine city. Historically, the ghat has been a center of Vedic rituals and pilgrimage for centuries. The current structure was rebuilt in the 18th century by the Maratha rulers, notably Peshwa Balaji Baji Rao in 1748, and later improved by Ahilyabai Holkar. Dashashwamedh Ghat has since remained the heart of religious activity in Varanasi, especially known for its vibrant Ganga Aarti, which continues the ancient tradition of daily worship to the sacred river.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437786/w7jygrzkwdbh5ysroibj.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437787/aeaemrwex9xngctr59aj.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437788/hptarrderofgzn8hn87v.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/uzFAm2P0G3s?si=4zxXaOssK2WiX5bM"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b3f",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Tulsi Ghat",
-            "category": "Spiritual / Ghat Experience",
-            "lat": 25.2904,
-            "lon": 83.0064,
-            "address": "B 2/40 , Tulsi ghat, Assi Rd, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/BkAxaUwzW2b3Dcy97",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "16th century",
-            "fee": "Entry: Free | Events (if any): ₹50–₹100 | Guide: ₹100–₹250",
-            "description": "Named after the poet-saint Tulsidas, Tulsi Ghat is known for its cultural and literary significance. It is believed to be the place where Tulsidas wrote the Ramcharitmanas. The ghat is also a hub for cultural events, including musical performances and yoga sessions. Its peaceful ambiance and spiritual importance make it a serene spot for reflection and cultural exploration.",
-            "essential": "Open to all visitors. Modest attire is recommended. Photography is allowed but should be done respectfully.",
-            "story": "Tulsi Ghat is one of the most culturally and spiritually significant ghats of Varanasi, named after the great 16th-century saint and poet Goswami Tulsidas, the author of the Ramcharitmanas, a devotional retelling of the Ramayana in Awadhi. It is believed that Tulsidas lived and wrote much of his literary work at this very site. Originally known as Lolark Ghat, it was renamed in his honor due to his deep connection to the place. According to local legend, it was here that Tulsidas had a divine vision of Lord Hanuman, which further inspired his devotion and writing. The ghat is home to the Tulsi Manas Temple and the Lolark Kund, a sacred pond where devotees bathe to seek blessings for children and health. Historically, the ghat was rebuilt in the 19th century by a devotee named Baldeo Das Birla. Tulsi Ghat continues to be a center of cultural performances, especially during the Ram Lila and Krishna Leela, keeping Varanasi’s living traditions vibrant and alive.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437815/aoflbzhfmxtpc9tng2rg.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437817/cljwavzlvoxthglf4lqi.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437818/qyrxusfnz4so94fbzvrz.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/DO3yrp9LAWk?si=z3IcO8UMMaP3FWad"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b40",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Banaras Hindu University (BHU)",
-            "category": "City Place / Iconic Landmark",
-            "lat": 25.2683,
-            "lon": 82.9903,
-            "address": "Ajagara, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/cVKJnPf5BQagZSsz5",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "1916",
-            "fee": "Entry: Free | Guide: ₹200–₹300",
-            "description": "Established in 1916 by Pandit Madan Mohan Malaviya, BHU is one of Asia’s largest residential universities. It is renowned for its academic excellence and sprawling green campus. The university complex includes the Vishwanath Temple, Bharat Kala Bhavan Museum, and vibrant student life. Its architectural beauty and educational heritage attract scholars and tourists from around the world.",
-            "essential": "Open to visitors, but certain departments and facilities may have restricted access. Photography is generally allowed in public areas but prohibited in some academic buildings.",
-            "story": "The historic story of Banaras Hindu University (BHU) begins in the early 20th century, when Pandit Madan Mohan Malaviya, a nationalist leader, social reformer, and educationist, envisioned a university that would revive India’s ancient tradition of learning while incorporating modern education. At a time when India was under British colonial rule, Malaviya sought to empower the nation through education rooted in Indian values, culture, and self-reliance. With the support of Indian rulers like the Maharaja of Darbhanga and the Maharaja of Banaras, and significant public funding, BHU was founded in 1916 through the passage of the BHU Act in the Indian Legislative Council. The university became a hub for the Indian independence movement, with many of its students and professors participating in nationalist activities. It was also among the first institutions to promote education in Sanskrit, Ayurveda, Indian philosophy, and sciences side by side. The campus, spread across vast land donated by the Kashi royal family, became a model of integrated learning, symbolizing India’s intellectual and spiritual resurgence.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437821/kpi4bcemsz9caf5thnzw.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437822/btj9gvupsya1rhwgdo2r.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437823/ljb1ldcyjjsvfrtflpeu.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/UCXcvk_x1-0?si=9RKy0YsQPRKg1VCR"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b45",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Nepali Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3099,
-            "lon": 83.013,
-            "address": "Near Lalita Ghat, Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/nGEsUWvKA8zqa9zr9",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "19th century",
-            "fee": "Entry: Free | Donation ₹20–₹50 | Guide: ₹150–₹300",
-            "description": "Built by the King of Nepal, the Nepali Temple reflects exquisite Nepali-style wooden architecture. It is dedicated to Lord Shiva and resembles the famous Pashupatinath Temple of Kathmandu. The intricate wood carvings and peaceful surroundings make it a serene spiritual spot. Its unique architectural style distinguishes it from other temples in Varanasi.",
-            "essential": "Footwear removal is mandatory. Photography is allowed but should be done respectfully. Silence is appreciated inside the temple premises.",
-            "story": "The Nepali Temple in Varanasi, locally called the Shivala Ghat Temple or Mini Khajuraho, is a stunning 19th-century shrine dedicated to Lord Shiva, located at Lalita Ghat near the Ganga River. Its history is tied to the King of Nepal, Rana Bahadur Shah, who was exiled to Varanasi in the early 1800s after political conflict in his kingdom. Deeply devoted to Lord Shiva, he decided to build a replica of Kathmandu’s famous Pashupatinath Temple in Kashi. Though Rana Bahadur Shah died before the temple was completed, his son Girvan Yuddha Bikram Shah ensured the temple’s completion around 1843. The temple was constructed using traditional Nepali architecture, with wooden carvings, terracotta tiles, and a pagoda-style design, distinct from North Indian temple styles. What makes the temple especially unique is its intricate woodwork and erotic sculptures, earning it the nickname Mini Khajuraho. Set in a peaceful corner of Varanasi, the Nepali Temple stands as a symbol of spiritual unity between India and Nepal, and is a beautiful reminder of Varanasi’s long-standing cultural connections with the Himalayan region.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437851/lwij1ne0rl5kz55kos5f.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437852/yodhlik3vp3hmysb9dqr.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437853/auphc5lzzea12bddorve.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/jMwXpPS7TgQ?si=6D-yHDHuTAPmkEAO"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b48",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Bharat Mata Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3213,
-            "lon": 82.987,
-            "address": "Guru Nanak Nagar Colony, Chetganj, Varanasi, Uttar Pradesh 221002",
-            "locationLink": "https://www.google.co.in/maps/place/Bharath+Mata+Mandir, +Guru+Nanak+Nagar+Colony, +Chetganj, +Varanasi, +Uttar+Pradesh+221002/@25.3172249, 82.9893083, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2dfcc052fd13:0xc1a04258aeeda868!8m2!3d25.3172249!4d82.9893083!16s%2Fm%2F012z8mq1?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
-            "openDay": "Monday to Sunday",
-            "openTime": "7:30 AM - 5:30 PM",
-            "establishYear": "1936",
-            "fee": " Entry: Free | Guide: ₹100–₹200",
-            "description": "Bharat Mata Temple in Varanasi, built by Babu Shiv Prasad Gupta and inaugurated by Mahatma Gandhi in 1936, is a unique temple dedicated to Mother India, featuring a detailed 3D relief map of undivided India carved in marble. Unlike traditional temples, it has no idols and symbolizes national unity and patriotism",
-            "essential": "Entry is free; footwear must be removed before entering; photography is allowed but recommended to seek permission first; best time to visit is during daytime, preferably in the morning; maintain silence and respect the patriotic significance of the temple.",
-            "story": "Bharat Mata Temple in Varanasi is a unique and deeply patriotic shrine, unlike any other in India, as it is dedicated not to a deity from mythology but to Bharat Mata, or Mother India, symbolizing the soul, culture, and unity of the nation itself. Established in 1936 by Babu Shiv Prasad Gupta, a nationalist and philanthropist, and inaugurated by Mahatma Gandhi himself, this temple emerged during the freedom struggle as a sacred space representing India not just as a landmass but as a living embodiment of its people, heritage, and spiritual legacy. The temple houses no idol of a god or goddess but instead features a large, intricately carved relief map of undivided India, made in marble, depicting the mountains, rivers, and land of the country in stunning topographical detail. This symbolic representation was meant to inspire national pride, unity, and a spiritual connection to the motherland among Indians during the turbulent pre-independence era. It was designed to foster a sense of unity beyond religion, caste, or region—placing the nation itself as the object of reverence. Situated within the Mahatma Gandhi Kashi Vidyapith campus, the temple is a rare architectural and ideological marvel that merges spiritual devotion with national identity. The elevation lines and geological accuracy of the map are not just artistic but symbolic—reminding every visitor of the sacred geography of the land and the importance of its protection and unity. Unlike traditional temples that host rituals and daily aarti, Bharat Mata Temple is a silent place of reflection, where visitors are encouraged to contemplate their role in serving the nation. It also reflects the larger philosophy of India’s freedom movement, which viewed the country not as a political entity alone but as a divine mother whose cultural and spiritual greatness must be preserved. In a city known for its countless temples to gods and goddesses, Bharat Mata Temple stands apart as a temple to the spirit of India itself, where devotion is measured not in offerings but in love, service, and loyalty to the motherland.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437866/wbunnpmyewzxysh68fdh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437867/hz5unqem9rsm5n38kpov.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437868/bobu81mhzpenm8x1n4ov.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/c5b3HWlWciM?si=KzlGadDxS8JR6bR7"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b35",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Baba Kal Bhairav Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3176,
-            "lon": 83.0159,
-            "address": "Pandeypur Rd, Golghar, Naibasti, Varanasi, Uttar Pradesh 221002",
-            "locationLink": "https://maps.app.goo.gl/utA8bp8pf5ywZTzp9",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:30AM - 10:30PM",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free | Offerings: ₹100–₹200 | Guide: ₹150–₹300",
-            "description": "Dedicated to Kal Bhairav, the guardian deity of Varanasi, this ancient temple holds immense religious significance. It is believed that no one can stay in Varanasi without Kal Bhairav's permission. Devotees offer alcohol as a ritual, reflecting the unique tradition. The temple's historical architecture and spiritual importance make it a must-visit for pilgrims and tourists alike.",
-            "essential": "Footwear removal is required. Photography inside the sanctum is prohibited. Offerings should be bought from authorized vendors.",
-            "story": "The Baba Kal Bhairav Temple in Varanasi is one of the city's oldest and most fearsome shrines, deeply rooted in Hindu mythology and Shaivite traditions. The legend behind the temple begins when Lord Shiva, angered by Brahma's arrogance, created Kal Bhairav, a fierce form of himself, to punish Brahma. Kal Bhairav severed one of Brahma’s five heads, committing the grave sin of Brahmahatya (killing a Brahmin). Cursed, he was forced to wander with Brahma’s skull (kapala) stuck to his hand as a begging bowl. It was only when he entered Kashi (Varanasi) that the curse broke—the skull fell from his hand, and his sin was absolved. This sacred event established Varanasi as a land beyond sin, and Shiva appointed Kal Bhairav as the eternal guardian (Kotwal) of the city. Since then, it is believed that even death cannot enter Kashi without Kal Bhairav's permission, and every resident or visitor must seek his blessing to safely stay in the holy city. The temple has stood as a powerful symbol of protection, justice, and divine authority for centuries, visited by saints, kings, and devotees alike.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437752/ebwwkx4na2oaw1r4xxit.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437753/hktyj7zxxtzhuqdgcvnt.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437754/mdmavcgbdzn60ze241vg.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/--dvqcAEszY?si=Gv6JyCWs4UQMsQNk"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b36",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Sarnath",
-            "category": "Iconic Landmark / Heritage Spot",
-            "lat": 25.3716,
-            "lon": 83.0252,
-            "address": "Sarnath, Varanasi, Uttar Pradesh 221007, India",
-            "locationLink": "https://maps.app.goo.gl/tydKeXUELLifVMug6",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "3rd century",
-            "fee": "Entry: ₹25 (Indian), ₹300 (Foreigner), Museum ₹20 | Guide: ₹300–₹600",
-            "description": "Sarnath is a revered Buddhist pilgrimage site where Lord Buddha delivered his first sermon. It houses ancient stupas, the iconic Ashoka Pillar, and the Dhamek Stupa. The Sarnath Archaeological Museum displays artifacts from the Mauryan era. The peaceful surroundings, lush gardens, and spiritual significance make Sarnath a serene retreat for visitors interested in history and spirituality.",
-            "essential": "Maintain respectful behavior as it is a significant Buddhist site. Photography is allowed in most areas but restricted inside the museum. An entry fee is applicable for the museum.",
-            "story": "Sarnath, located about 10 km from Varanasi, is one of the holiest Buddhist sites in the world. It is the place where Gautama Buddha gave his first sermon after attaining enlightenment in Bodh Gaya around 528 BCE. This event, known as Dharmachakra Pravartan (Turning of the Wheel of Dharma), marked the beginning of the Buddhist Sangha (monastic community). At Sarnath, Buddha preached to his first five disciples, laying the foundation of his teachings—the Four Noble Truths and the Eightfold Path. Over time, Sarnath grew into a major center of Buddhist learning, supported by Mauryan Emperor Ashoka, who erected a massive stone pillar with his edict and built several stupas and monasteries. The Dhamek Stupa, still standing today, marks the exact spot of the first sermon. Sarnath flourished for centuries until it was destroyed by invaders in the 12th century. Rediscovered in the 19th century through archaeological excavations, Sarnath is now a serene pilgrimage site and a symbol of peace, enlightenment, and the global spread of Buddhism.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437757/fjkn800yi6p6pxabho2e.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437758/qrflq9sst0jwnkpunvqi.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437759/aqmza29cod84ujze8v9t.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/lMwlpPJPfUI?si=Kaf0Wy60kHEGYv1a"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b37",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Tulsi Manas Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3186,
-            "lon": 82.9879,
-            "address": "Sankat Mochan Rd, Durgakund Rd, near Jalan, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/pktu56DZ2GdRsZ2TA",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:30AM - 09:00PM",
-            "establishYear": "1964",
-            "fee": "Entry: Free | Guide: ₹100–₹200",
-            "description": "Tulsi Manas Temple is dedicated to Lord Rama and commemorates the place where Tulsidas composed the Ramcharitmanas. Built in white marble, the temple walls are inscribed with verses from the epic. It is known for its serene ambiance and cultural significance. The temple also features dioramas depicting scenes from Ramayana, making it an educational and spiritual destination for visitors.",
-            "essential": "Footwear is to be removed before entry. Photography is generally allowed, but it's best to confirm on-site. Silence and modesty are expected inside the temple.",
-            "story": "The Tulsi Manas Temple in Varanasi is a revered shrine dedicated to Lord Rama and holds immense literary and cultural significance in Hinduism. Built in 1964 by the Birla family, the temple stands at the very place where the great saint-poet Goswami Tulsidas is believed to have composed the Ramcharitmanas, a retelling of the Sanskrit Ramayana in Awadhi, the language of the common people. This epic made the story of Lord Rama accessible to millions and became a spiritual and cultural cornerstone of North India. The temple, made of white marble, has the verses and scenes from the Ramcharitmanas inscribed on its walls, creating a sacred atmosphere that honors both devotion and literary heritage. It serves not just as a place of worship, but also as a tribute to the power of vernacular literature in spreading spiritual wisdom, making it a must-visit for devotees, scholars, and tourists alike.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437762/zm2sfa395sraumks9ryc.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437763/zamb1wxsljneyovjzzrp.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437765/xuuow9o0dvxr36x9s7ix.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/v4YbgqETgOk?si=JsrGQPNvO-QPpc0F"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b38",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Durga Kund Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.2887,
-            "lon": 82.9991,
-            "address": "7XRR+WVR, Khojwan Rd, Near Gandhi Chowk, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221010",
-            "locationLink": "https://maps.app.goo.gl/wLpcdvDXxjQQtstd9",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:30AM - 09:00PM",
-            "establishYear": "18th century",
-            "fee": "Entry: Free | Puja ₹50–₹100 | Guide: ₹100–₹200",
-            "description": "Dedicated to Goddess Durga, Durga Kund Temple is known for its bright red color and Nagara-style architecture. It is situated beside a rectangular pond (kund) and is believed to be self-manifested. The temple attracts devotees, especially during Navratri, for its spiritual aura and cultural importance. The serene pond and intricate carvings make it a picturesque and peaceful site for visitors.",
-            "essential": "Footwear removal is mandatory. Photography may be restricted during certain rituals. Maintaining silence and respecting the local customs is expected.",
-            "story": "The Durga Kund Temple is an ancient and revered Hindu temple located in Varanasi, dedicated to Goddess Durga, the powerful deity of strength, protection, and motherhood. The temple is situated near the Durga Kund (Durga Pond), which is believed to be one of the sacred water bodies of the city. It is said to have been established by the Kashmiri King, Raja Kesar Singh, during the reign of the Mughal Empire. According to local legend, the temple was originally constructed by Lord Vishnu to honor Goddess Durga, and over time, it has become a major place of worship, especially during the Navratri festival, when thousands of devotees visit to offer their prayers and seek blessings for strength and protection. The idol of Durga in the temple is beautifully crafted, and the temple’s serene surroundings make it a peaceful retreat for both spiritual seekers and pilgrims. It remains a major pilgrimage spot, symbolizing the victory of good over evil.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437767/a2blltz0ebbd2o7zkkyt.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437768/ly7gnfuu8qu8gxddmwlj.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437769/bdsyccsbi68den7xuuzn.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/7-3YxZcfG3M?si=PJDbvY57KukK2kKK"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b3a",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Annapurna Devi Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3104,
-            "lon": 83.0101,
-            "address": "D 9, Annapurna Math Mandir, 1, Vishwanath Galli, Godowlia, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/Rp2JkkPgdYYwj8Tv6",
-            "openDay": "Monday to Sunday",
-            "openTime": "04:00AM - 11:00PM",
-            "establishYear": "18th century",
-            "fee": "Entry: Free | Bhog ₹50 | Guide: ₹100–₹200",
-            "description": "Annapurna Devi Temple is dedicated to Goddess Annapurna, the deity of nourishment. It is believed that worshiping here ensures food security and prosperity. The temple's golden idol of the goddess is adorned with rich ornaments. It is located near the Kashi Vishwanath Temple, making it an important pilgrimage site. The temple's spiritual ambiance and cultural heritage attract numerous devotees.",
-            "essential": "Standard temple rules apply, including footwear removal. Photography policies should be confirmed on-site. Silence and modest behavior are expected.",
-            "story": "The Annapurna Devi Temple, located near the Kashi Vishwanath Temple in Varanasi, is dedicated to Goddess Annapurna, the Hindu goddess of food and nourishment, and an incarnation of Parvati, the consort of Lord Shiva. The temple’s origins are deeply rooted in a powerful legend: according to Hindu mythology, Lord Shiva once declared that the world is an illusion and that food is unimportant. To teach him the value of nourishment, Goddess Parvati appeared as Annapurna and disappeared, causing the entire world to suffer from hunger. Realizing his mistake, Shiva begged for food, and Parvati fed him with her own hands. This act not only humbled Shiva but also established food as a sacred gift. The temple was later reconstructed in its current form by Maratha queen Ahilyabai Holkar in the 18th century, who also rebuilt several temples in Varanasi including the Kashi Vishwanath Temple. The main idol of Goddess Annapurna is made of gold, and once a year, during Annkoot (a day after Diwali), the idol is opened for darshan and a grand feast is offered to devotees. The temple is a vital part of Varanasi’s spiritual landscape, reminding all that feeding the hungry is one of the highest forms of worship. It continues to draw pilgrims, especially those who seek prosperity, nourishment, and spiritual satisfaction.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437777/jihfwbniqduwkx9dybus.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437778/m2jzb1lsr9kyjjwgcuvx.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437779/bkv38gmcrcme7oozuaef.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/VZ-3mBxsuNc?si=rD2CMryuiDK-ZPId"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b46",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Bharat Kala Bhavan Museum",
-            "category": "Heritage / Museum / Cultural Spot",
-            "lat": 25.2717,
-            "lon": 83.0101,
-            "address": "Banaras Hindu University, Semi Circle Road No. 3 Opp Institute of Mgmt Studies, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/C8oFM65RS27iEvnF9",
-            "openDay": "Monday to Sunday",
-            "openTime": "10:30AM - 04:30PM",
-            "establishYear": "1920",
-            "fee": "Entry: ₹20 (Indian), ₹100 (Foreigner), Camera ₹50 | Guide: ₹100–₹300",
-            "description": "Located within the BHU campus, Bharat Kala Bhavan Museum is a treasure trove of Indian art and culture. It houses an extensive collection of paintings, sculptures, textiles, and archaeological artifacts. The museum is known for its collection of miniature paintings and manuscripts. It provides insights into the rich cultural and historical heritage of India, making it an educational and cultural hub.",
-            "essential": "Photography is restricted in certain sections. An entry fee is applicable. Silence and respectful behavior are expected inside the museum.",
-            "story": "The Bharat Kala Bhavan Museum, located inside the Banaras Hindu University campus, is a historic institution founded in 1920 and integrated into BHU in 1950. It houses over one lakh priceless artifacts, including ancient sculptures, paintings, coins, textiles, and manuscripts, along with a special gallery dedicated to Mahatma Gandhi. The museum serves as a vital archive of Indian art and heritage, particularly from the ancient, medieval, and Mughal periods, making it an essential destination for scholars, historians, and cultural enthusiasts seeking to explore the deep artistic legacy of India and the cultural richness of Varanasi.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437857/riw0wap3hensg35uihgh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437858/zqixkuixbgolkvmsjfbn.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437859/smkclv1tqba36ynpcife.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/VZbEsNM7dvA?si=zS3GBu-zqEvSY4i8"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b47",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Kabir Math",
-            "category": "Spiritual / Meditation Retreat",
-            "lat": 25.3225,
-            "lon": 83.0078,
-            "address": "SHRI KABIR PRAKATY STHALI PURANA KABIR MATH, Lahartara Boulia, Varanasi, Uttar Pradesh 221002",
-            "locationLink": "https://maps.app.goo.gl/rTYK35E9axc1Qu7t7",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:00AM - 07:30PM",
-            "establishYear": "15th century",
-            "fee": "Entry: Free | Donations optional | Guide: ₹300–₹500",
-            "description": "Kabir Math is a spiritual site dedicated to the 15th-century poet-saint Kabir. It preserves his teachings and way of life. The Math houses Kabir's samadhi and a collection of his literary works. The peaceful environment and simplicity reflect Kabir's philosophy of love, equality, and devotion. It serves as a spiritual retreat for followers and admirers of Kabir's teachings.",
-            "essential": "Footwear should be removed before entering. Photography may be restricted in certain areas. Silence and respectful behavior are expected.",
-            "story": "Kabir Math, also known as Kabir Chaura Math, is a revered spiritual center in Varanasi, dedicated to preserving and disseminating the teachings of the 15th-century mystic poet and saint, Kabir. Established by Surat Gopal, one of Kabir's immediate disciples, this Math serves as a memorial to the saint's profound influence on the Bhakti movement and his emphasis on a formless, universal God. The term \"Chaura\" is derived from \"Chauraha,\" meaning a four-way crossing, signifying the Math's role as a crossroads of spiritual thought and practice. Kabir's teachings, which transcended religious boundaries, are encapsulated in texts like the Bijak, and the Math has been instrumental in promoting these philosophies across regions like Gujarat, Uttar Pradesh, and Bihar. The Math not only houses relics and manuscripts associated with Kabir but also serves as a hub for followers of the Kabir Panth, a sect that emerged from his teachings. Over the centuries, Kabir Math has remained a beacon of spiritual learning, attracting devotees and scholars alike who seek to understand and live by Kabir's message of love, equality, and devotion.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437861/aptrp7hyxs75zz3m8z0k.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437862/eiennmfc4aggsnn77dbz.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437863/aktwfuiqrtdruhhvtcxc.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/z6zDikeWqC0?si=ShsrFe45yeAf0IGg"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b34",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Kashi Vishwanath Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.3109,
-            "lon": 83.0107,
-            "address": "Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/pRotzxDAAvcsSUTP8",
-            "openDay": "Monday to Sunday",
-            "openTime": "03:00AM - 11:00PM",
-            "establishYear": "1780",
-            "fee": "Entry: Free | VIP Darshan: ₹300–₹500 | Guide: ₹200–₹500",
-            "description": "One of the twelve Jyotirlingas of Lord Shiva, Kashi Vishwanath Temple is a significant pilgrimage site for Hindus. Located on the western bank of the Ganges, it has a rich historical and spiritual legacy. The temple's gold-plated spires and the holy well of Gyan Vapi attract millions of devotees seeking blessings and liberation (Moksha). The spiritual aura and chants create an enchanting atmosphere.",
-            "essential": "Footwear, mobile phones, cameras, and other electronic items are strictly prohibited. Security checks are mandatory. Offerings are allowed but should be purchased from authorized vendors.",
-            "story": "The Kashi Vishwanath Temple, located in the ancient city of Varanasi on the banks of the sacred Ganga River, is one of the most revered shrines dedicated to Lord Shiva, known here as Vishwanath, the “Lord of the Universe.” It is one of the twelve Jyotirlingas, the holiest Shiva shrines in India. The temple has a long and turbulent history—originally built in ancient times, it was destroyed and rebuilt multiple times by various rulers. The current structure was reconstructed in 1780 by Ahilyabai Holkar, the Maratha queen of Indore. The temple’s gold-plated spires and sanctum sanctorum radiate spiritual energy, drawing millions of pilgrims each year who believe that worshipping here grants moksha (liberation from the cycle of rebirth). Surrounded by narrow alleys of Varanasi and immersed in the sound of bells and chants, Kashi Vishwanath stands as a timeless symbol of faith, resilience, and divine presence.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437747/tecmr8mjiqg8zxc2qg3d.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437748/selkdjnsg4vahrfu7vbh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437749/fhsrj32v4etft9y0pcsq.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/NkwxaZpuNQM?si=jqAZeydxwmVL76md"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b39",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Sankat Mochan Temple",
-            "category": "Religious / Spiritual Temple",
-            "lat": 25.2829,
-            "lon": 83.0002,
-            "address": "Saket Nagar Colony, Sankata Mochan Leprosy, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/7to4RtKu3esyMs3WA",
-            "openDay": "Monday to Sunday",
-            "openTime": "05:00AM - 10:00PM",
-            "establishYear": "16th century",
-            "fee": "Entry: Free | Puja ₹50–₹150 | Guide: ₹100–₹200",
-            "description": "Sankat Mochan Temple is dedicated to Lord Hanuman, known as the remover of obstacles. Established by poet-saint Tulsidas, the temple is a significant site for devotees seeking blessings for courage and protection. The continuous chanting of Hanuman Chalisa creates a spiritual ambiance. Tuesdays and Saturdays witness heavy footfall, reflecting the strong cultural and religious faith associated with Hanuman worship.",
-            "essential": "Footwear must be removed before entry. Large bags and electronic devices might be restricted due to security reasons. Silence and respect for ongoing prayers are expected.",
-            "story": "The Sankat Mochan Temple in Varanasi is one of the most revered temples dedicated to Lord Hanuman, the Hindu deity known for his strength, devotion, and courage. The temple, founded by the famous Indian freedom fighter and saint Pandit Madan Mohan Malviya in 1900, stands near the banks of the Assi River. The name \"Sankat Mochan\" translates to \"Reliever of Troubles,\" and devotees believe that by praying here, their difficulties, misfortunes, and ailments are alleviated by the divine grace of Hanuman. According to legend, the temple is situated at the spot where Hanuman is said to have appeared and removed the suffering of the local population. The idol of Hanuman in the temple is a large, striking image, and the temple's serene environment makes it a significant place for both worship and meditation. During Hanuman Jayanti and other festivals, the temple sees huge crowds, and it remains one of the spiritual pillars of the city.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437772/qda17stkdacfuzt9tysp.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437773/ykln131bilal3eaeimxh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437774/aiizrfmm1lrfwrerhuuh.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/-2hWUaTnoaM?si=DRCtR0wUywuG3USd"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b3b",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Assi Ghat",
-            "category": "Spiritual / Ghat Experience",
-            "lat": 25.2885,
-            "lon": 83.0064,
-            "address": "Assi Ghat Rd, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/TGybr2wVCyEvemS78",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free | Subah-e-Banaras ₹100 | Guide: ₹100–₹300",
-            "description": "Assi Ghat is the southernmost ghat of Varanasi, famous for its tranquil ambiance and cultural significance. It is a popular spot for spiritual seekers, with morning yoga sessions and evening Aarti ceremonies. The ghat offers a picturesque view of the Ganges, making it a favored location for locals and tourists. It also serves as a hub for cafes, music, and art, reflecting the vibrant cultural fabric of Varanasi.",
-            "essential": "Open to all visitors. Modest attire is recommended. Photography is generally allowed, but seeking permission before taking pictures of locals is courteous.",
-            "story": "Assi Ghat, located at the southernmost end of the string of ghats in Varanasi, is one of the city’s most iconic and spiritually vibrant spots. According to ancient Hindu texts and legends, this is where Goddess Durga threw her sword into the Assi River after slaying demons Shumbha and Nishumbha, giving the ghat its name. Historically, Assi Ghat has been a favorite spot for saints, scholars, and poets, including the famous Hindi poet Tulsidas, who is believed to have lived and written here. It holds deep significance in pilgrimage routes, as it is considered the starting point for many spiritual journeys through Kashi. Today, Assi Ghat is a dynamic blend of tradition and modern life—morning yoga sessions, Subah-e-Banaras (a daily spiritual program with music and Ganga aarti), and bustling evenings make it a cultural and spiritual hub. Unlike the more crowded Dashashwamedh Ghat, Assi Ghat offers a peaceful yet deeply sacred experience along the banks of the holy Ganga River.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437782/nalp5tb6alberhpmfrli.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437783/sg4gnvsrqnytavjy2pds.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437784/espzwpmhlmziwygad7vn.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/4OJgZCtJIAk?si=oMgx6TqGW8IZPFM6"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b49",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Thatheri Bazaar",
-            "category": "Local Shopping / Market",
-            "lat": 25.3183,
-            "lon": 83.0071,
-            "address": "Thatheri Bazaar,Varanasi,Uttar Pradesh,221001",
-            "locationLink": "https://www.google.co.in/maps/place/Thatheri+Bazar, +Ghasi+Tola, +Varanasi, +Uttar+Pradesh+221001/@25.3139771, 83.0123772, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2e1ed4734c43:0xcceeff792a29faf0!8m2!3d25.3138435!4d83.0123706!16s%2Fg%2F1pzyl201k?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
-            "openDay": "Monday to Sunday",
-            "openTime": "10:00AM - 8:00PM",
-            "establishYear": null,
-            "fee": " Entry: Free | Guide (optional): ₹150–₹300",
-            "description": "Thatheri Bazaar is one of the oldest and most traditional markets in Varanasi, known for its skilled metalwork, handcrafted brass and copper items, wooden toys, and Banarasi silk products. This bustling marketplace is a paradise for those interested in authentic Indian craftsmanship and cultural souvenirs.",
-            "essential": "Visit in the morning or late evening to avoid crowds; bargain smartly; use cycle rickshaws or walk; carry cash as many shops don’t accept cards; check product authenticity before buying; stay alert for touts and keep belongings secure",
-            "story": null,
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437870/uafwvt3g3ouidegfxmhs.webp",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437871/mmzddo3gdnwyghdq1yrk.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437872/fn1h0ygsiai6cnmna3fq.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/IHRC1i8b9x8?si=70LVtTx0WEd_q7n8"
-            ]
-        }
-    ]
+  "place": [
+    {
+      "_id": "68c7f27d20f4dc4834768b3d",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Manikarnika Ghat",
+      "category": "Spiritual / Ghat Experience",
+      "lat": 25.3108,
+      "lon": 83.0141,
+      "address": "Near Lalita Ghat, Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/tSp5oLsyrWQ94P6q6",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free | Donation optional | Guide: ₹200–₹500",
+      "description": "Manikarnika Ghat is one of the most sacred and oldest ghats in Varanasi, known as the principal cremation site. Hindus believe that those cremated here attain Moksha (liberation from the cycle of rebirth). The continuous cremation pyres and the spiritual chants create a powerful and reflective atmosphere. It symbolizes the cycle of life and death, making it a significant site of religious importance.",
+      "essential": "Photography of cremation ceremonies is strictly prohibited. Visitors should maintain a respectful distance and behave solemnly.",
+      "story": "Manikarnika Ghat is one of the oldest and most sacred cremation ghats in Varanasi, known as the gateway to moksha (liberation). According to ancient Hindu legend, Lord Vishnu performed intense penance here to please Lord Shiva. Pleased with his devotion, Shiva granted the land of Kashi as an eternal sacred city. During this divine episode, Vishnu dug a well with his discus, and while bathing, Shiva’s earring (Manikarnika) fell into it—hence the name Manikarnika, meaning \"jeweled earring.\" This well, known as the Manikarnika Kund, still exists near the ghat and is considered highly auspicious. It is believed that cremation at Manikarnika Ghat ensures liberation from the cycle of rebirth. According to mythology, Maa Parvati asked Lord Shiva to ensure that devotees dying in Kashi achieve moksha, so Shiva whispers the Taraka mantra into the ears of the dying at this ghat. Historically, the ghat has been continuously active for thousands of years, and it remains the eternal flame cremation site, where funeral pyres burn 24/7 without pause.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437798/wvpq6bhr09yqvpuji0zb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437805/bmnpqo32coai8ybigwcq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437806/dv9vu9njnvmr55yuvqyq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ZF_kX6Ux-pA?si=7A9bp6zGcOx9eMyy"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b3e",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Namo Ghat",
+      "category": "Spiritual / Ghat Experience",
+      "lat": 25.3251,
+      "lon": 83.0353,
+      "address": "Rajghat, Varanasi, Suzabad, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/7zx2o6fiZaTu49bB6",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "establishYear": "2021",
+      "fee": "Entry: Free | Boat/Ferry ₹50–₹100 | Guide: ₹150–₹300",
+      "description": "Namo Ghat is a modern and well-maintained ghat with unique architectural designs and comfortable seating areas. It offers stunning views of the Ganges, especially during sunrise and sunset. The ghat features modern amenities like pathways, gardens, and illuminated sculptures, making it a popular spot for locals and tourists. It symbolizes the blend of tradition and modernity in Varanasi.",
+      "essential": "Open to the public. Cleanliness is expected, and littering is prohibited. Respect the sanctity of the river while performing rituals.",
+      "story": "Namo Ghat, formerly known as Khidkiya Ghat, is a newly redeveloped and iconic riverfront on the banks of the Ganga in Varanasi, named in honor of Prime Minister Narendra Modi (\"NaMo\") for his contributions to transforming the city under the Kashi Vishwanath Corridor project. Designed with modern infrastructure and aesthetics—such as the massive folded-hand sculptures symbolizing Indian hospitality—it blends spirituality, culture, and inclusivity, offering facilities like wheelchair access, cultural spaces, and peaceful riverfront views. While relatively new, it holds cultural importance by continuing the centuries-old tradition of Varanasi’s ghats being centers for spiritual and communal life.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437809/nuzb9oh4lylvjhsv8gii.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437811/nrxjjhigzi3d0sq8bepl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437813/xdiwjayvj0qxczyzfhx1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/sBhAV3OXNW4?si=FXR5jTQBH1FxmYAu"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b41",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Ramnagar Fort",
+      "category": "Heritage Landmark",
+      "lat": 25.2695,
+      "lon": 83.0249,
+      "address": "Varanasi Rd, Ram nagar, Ramnagar, Uttar Pradesh 221008",
+      "locationLink": "https://maps.app.goo.gl/DYBqg4GtmBzdUR9x9",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 08:00PM",
+      "establishYear": "1750",
+      "fee": "Entry: ₹50 (Indian), ₹150 (Foreigner), Camera ₹50 | Guide: ₹200–₹400",
+      "description": "Located on the eastern bank of the Ganges, Ramnagar Fort was built in 1750 by Maharaja Balwant Singh. The sandstone structure exhibits Mughal architecture and serves as the residence of the Kashi Naresh (King of Varanasi). The fort houses a museum showcasing vintage cars, royal costumes, manuscripts, and weapons. It offers panoramic views of the Ganges and is famous for hosting the annual Ramlila festival.",
+      "essential": "Open to visitors with an entry fee. Photography is allowed in most areas but restricted in the museum. Maintaining cleanliness and respecting the property is expected.",
+      "story": "Ramnagar Fort, located on the eastern banks of the Ganga River, is an imposing historical landmark in Varanasi, built in the 16th century by Kesar Singh, the Rajput king of Banaras. The fort’s construction was initiated by Maharaja Chet Singh in the 1700s to serve as the royal residence and defensive stronghold. The fort is made of red sandstone and has a mix of architectural styles, with features reminiscent of both Mughal and Rajput design. Over the centuries, the fort has been the seat of the Banaras Rajput family, who played a crucial role in the region’s governance and culture. A key historical event took place here during the Indian Rebellion of 1857, when Maharaja Chet Singh led a resistance against British rule, although the fort eventually fell to British forces. Today, the fort houses the Ramnagar Fort Museum, showcasing an impressive collection of royal artifacts, vintage cars, and weapons. The fort is also known for its proximity to the famous Ramlila processions, which are held every year in honor of Lord Rama, where the fort serves as the backdrop for these grand celebrations.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437826/entx6tanbocaumxwyitt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437827/oqqkxk28u4jwkc2kd9wq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437828/bmjxp4kib6fmcjskrbe4.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/tATy-6gHwPA?si=jHdhGKzn11U6tL2P"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b42",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Chunar Fort",
+      "category": "Heritage Landmark",
+      "lat": 25.1234,
+      "lon": 82.8758,
+      "address": "4VFG+87X, Tammanpatti, Uttar Pradesh 231304",
+      "locationLink": "https://maps.app.goo.gl/Xt5yx6588YtCt7k2A",
+      "openDay": "Monday to Sunday",
+      "openTime": "09:00AM - 5:00PM",
+      "establishYear": "11th century",
+      "fee": "Entry: ₹25–₹50 | Parking ₹50 | Guide: ₹300–₹600",
+      "description": "Located on the banks of the Ganges, Chunar Fort is a historic fortress with a strategic military past. It has witnessed the reign of several dynasties, including the Mughals and the British. The fort offers panoramic views of the river and the surrounding landscape. Its ancient architecture, secret passages, and historical significance attract history enthusiasts and tourists alike. The fort's mystical charm and historical tales make it a fascinating destination.",
+      "essential": "An entry fee is applicable. Photography is allowed. Caution is advised while exploring the ancient structure.",
+      "story": "Chunar Fort is a historic and strategically significant fort located about 40 kilometers southeast of Varanasi, overlooking the Ganga River. The fort's origins date back to ancient times, with the earliest known references to the structure appearing in Mauryan period inscriptions. However, its most significant history unfolded during the medieval period when it was a key stronghold in the region's defense. The fort was initially built by Emperor Ashoka of the Maurya dynasty, although it was later expanded and fortified by various rulers. In the 16th century, Sher Shah Suri, the founder of the Suri Empire, made substantial improvements to the fort, fortifying it and using it as a stronghold in his struggle against the Mughal Empire. The fort’s strategic position on the Ganga allowed it to control the trade route, and over time, it became an important military base for various rulers, including the Mughals and the British. During the British colonial period, Chunar Fort was used as a prison for Indian freedom fighters, adding another layer to its historical significance. The fort, though in ruins today, is still an impressive structure with large walls, a moat, and numerous gates, offering insight into the fortification techniques of its time. It continues to be a site of historical interest for tourists and researchers.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437830/dvkqgrmjfqmyedsro0sk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437832/hxtsdsqxvtz31ekbwjub.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437833/fyonqfg7hrrshdftjjrp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/6TeKZeVm3mU?si=vvCBHubLTk3wStsj"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b43",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "The Ancient Well of Chandrakoop",
+      "category": "Heritage / Spiritual Spot",
+      "lat": 25.3127,
+      "lon": 83.0148,
+      "address": "CK 7, 12, Siddheswari Gali, behind Sankatha Mata Mandir, Garwasitola, Ghasi Tola, Varanasi, Domari, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/9siPvYZbCURopXbZ9",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free (part of KVT) | Guide: Included in KVT tour",
+      "description": "The Ancient Well of Chandrakoop is considered sacred and is believed to possess purifying properties. Pilgrims traditionally offer water and flowers, seeking spiritual cleansing. The well is associated with various legends and is an integral part of the religious landscape of Varanasi. Its historical and spiritual significance makes it a unique attraction for those exploring Varanasi’s cultural heritage.",
+      "essential": "Visitors should exercise caution near the well. Offerings are customary. Silence and respect for local beliefs are expected.",
+      "story": "The Ancient Well of Chandrakoop in Varanasi is steeped in both historical and mythological significance. According to local legends, this well was created by the ancient king Chandraketu, who sought to ensure a continuous water supply for his kingdom. It is believed that the well was constructed during the Mauryan era, with historical accounts suggesting it was designed to withstand dry periods and provide fresh, pure water to the people of the region. The well is particularly revered for its association with Lord Shiva, as it is said that Lord Shiva blessed the well with divine power to purify the waters, ensuring its life-sustaining properties. Over time, the well came to be considered a sacred source of spiritual and physical purification, with people coming to offer prayers and seek blessings for health, prosperity, and cleansing of sins. The legend also speaks of Chandraketu's connection to the moon (Chandra), symbolizing the well’s purity and the lunar cycle, believed to grant peace and tranquility. Despite its modest appearance today, the well holds a special place in Varanasi’s vast spiritual landscape, serving as a symbol of both the city’s historical ingenuity and divine grace.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437837/dnvfyc7f0s29qg0xe19h.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437842/ozhuhxsrinivhbhvpfp1.jpg",
+        "900)",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437843/igxr9mdl6l7mhug2jwbg.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uIH1dTAMrS8?si=v-TIh1TRdyZj36sS"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b44",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Markandeshwar Mahadev Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 22.3113,
+      "lon": 83.01,
+      "address": "8265+GXX, Kashi Vishwnath Rd, Lahori Tola, Varanasi, Uttar Pradesh 221010",
+      "locationLink": "https://maps.app.goo.gl/fX7GQKnng7JMtC4K6",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free | Puja ₹50–₹100 | Guide: ₹200–₹300",
+      "description": "Dedicated to Lord Shiva, Markandeshwar Mahadev Temple is linked to the legend of sage Markandeya, who conquered death by Lord Shiva's blessings. It is a revered shrine for devotees seeking longevity and protection. The ancient architecture and spiritual significance attract pilgrims and tourists alike. The peaceful surroundings and historical importance make it a serene place for reflection and worship.",
+      "essential": "Footwear removal is mandatory. Photography policies vary, so it’s best to inquire locally. Offerings are allowed but should be bought from authorized vendors.",
+      "story": "The Markandeshwar Mahadev Temple is one of the ancient Shiva temples of Varanasi, deeply connected to the legend of Rishi Markandeya, a symbol of unwavering devotion. According to Hindu mythology, Sage Markandeya was born to a childless couple after intense penance, but with a destined lifespan of only 16 years. As his end neared, young Markandeya took refuge in the worship of Lord Shiva, meditating and chanting the Mahamrityunjaya Mantra beside a Shiva Lingam. When Yamraj, the god of death, came to claim his soul, Markandeya clung to the Shiva Lingam. Yamraj threw his noose, which mistakenly landed around the Lingam too—an act that angered Shiva. Emerging in fury, Lord Shiva struck down Yamraj and granted Markandeya eternal life, declaring that true devotion could even conquer death. It is believed that this powerful event took place at the site where the Markandeshwar Mahadev Temple now stands. The temple, though modest in appearance, is revered for its spiritual energy and is especially visited by devotees seeking long life, protection from premature death, and spiritual strength. The surrounding area is peaceful, making it ideal for meditation and quiet worship.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437846/uuhrusk53xuzei6ux4xy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437847/h8aiuphsgzc21qq8eg8w.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437848/joybsxlox2hxr6ohwzd0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Vph6_wQYN08?si=noN_mwfB1XIX58Qf"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b4a",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Godowlia Market",
+      "category": "Local Shopping / Market",
+      "lat": 25.3167,
+      "lon": 83.0057,
+      "address": "Godowlia Market,Varanasi,Uttar Pradesh,221001",
+      "locationLink": "https://www.google.co.in/maps/place/Godowlia, +Varanasi, +Uttar+Pradesh+221001/@25.3096159, 83.0090789, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2e1dd92f9889:0xa61275607925c1fc!8m2!3d25.3100747!4d83.0096485!16s%2Fg%2F11c1m_vl0s?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:30 AM -10:30 PM",
+      "establishYear": null,
+      "fee": "Entry: Free | Guide/Shopping help: ₹200–₹400",
+      "description": "Godowlia Market is one of the busiest and most famous shopping areas in Varanasi, known for its vibrant atmosphere, traditional Banarasi silk, handicrafts, street food, and cultural essence. Located near Dashashwamedh Ghat, it is a must-visit for tourists looking for an authentic shopping and street food experience.",
+      "essential": "Visit early or late to avoid crowds and heat; use cycle rickshaws or walk as the market is congested; bargain hard for Banarasi silk and handicrafts; try local street food like kachori sabzi, lassi, and Banarasi paan; stay alert, keep cash handy, secure belongings, and beware of touts or overpriced shops.",
+      "story": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437875/mlrpjlnug5lxoucik3p0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437876/nzi4z2x3osyvzjuijvks.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437877/od7orhrrj4ikmiz94hrf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/7Sqi_aBoqF8?si=o-2oGWB4cHi7r8J-"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b3c",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Dashashwamedh Ghat",
+      "category": "Spiritual / Ghat Experience",
+      "lat": 25.3062,
+      "lon": 83.0103,
+      "address": "Dashashwamegh Ghat,Varanasi,Uttar Pradesh,221001",
+      "locationLink": "https://maps.app.goo.gl/LiTgZjpHQ5zzq31i6",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "1748",
+      "fee": "Entry: Free | Aarti Seat ₹100–₹200 | Boat ₹1000 | Guide: ₹200–₹400",
+      "description": "Dashashwamedh Ghat is one of the oldest and most vibrant ghats in Varanasi. It is known for the spectacular Ganga Aarti, where priests perform synchronized rituals with lamps and chants. The ghat is surrounded by bustling markets and eateries, offering a lively experience. The spiritual ambiance, colorful lights, and hymns create a mesmerizing atmosphere, attracting tourists and devotees worldwide.",
+      "essential": "Modest attire is recommended. The evening Ganga Aarti attracts large crowds, so arriving early is advisable. Photography is allowed but should be done respectfully.",
+      "story": "Dashashwamedh Ghat is the oldest and most historically significant ghat in Varanasi, situated close to the Kashi Vishwanath Temple on the banks of the Ganga River. According to Hindu mythology, it was at this sacred site that Lord Brahma performed a grand Ashwamedh Yajna (horse sacrifice) involving ten horses to welcome Lord Shiva to the earthly realm—hence the name \"Dashashwamedh\", meaning “Ten Horse Sacrifice.” Another version of the legend states that Lord Brahma created the ghat himself to perform rituals and establish Kashi as a divine city. Historically, the ghat has been a center of Vedic rituals and pilgrimage for centuries. The current structure was rebuilt in the 18th century by the Maratha rulers, notably Peshwa Balaji Baji Rao in 1748, and later improved by Ahilyabai Holkar. Dashashwamedh Ghat has since remained the heart of religious activity in Varanasi, especially known for its vibrant Ganga Aarti, which continues the ancient tradition of daily worship to the sacred river.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437786/w7jygrzkwdbh5ysroibj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437787/aeaemrwex9xngctr59aj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437788/hptarrderofgzn8hn87v.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uzFAm2P0G3s?si=4zxXaOssK2WiX5bM"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b3f",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Tulsi Ghat",
+      "category": "Spiritual / Ghat Experience",
+      "lat": 25.2904,
+      "lon": 83.0064,
+      "address": "B 2/40 , Tulsi ghat, Assi Rd, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/BkAxaUwzW2b3Dcy97",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "16th century",
+      "fee": "Entry: Free | Events (if any): ₹50–₹100 | Guide: ₹100–₹250",
+      "description": "Named after the poet-saint Tulsidas, Tulsi Ghat is known for its cultural and literary significance. It is believed to be the place where Tulsidas wrote the Ramcharitmanas. The ghat is also a hub for cultural events, including musical performances and yoga sessions. Its peaceful ambiance and spiritual importance make it a serene spot for reflection and cultural exploration.",
+      "essential": "Open to all visitors. Modest attire is recommended. Photography is allowed but should be done respectfully.",
+      "story": "Tulsi Ghat is one of the most culturally and spiritually significant ghats of Varanasi, named after the great 16th-century saint and poet Goswami Tulsidas, the author of the Ramcharitmanas, a devotional retelling of the Ramayana in Awadhi. It is believed that Tulsidas lived and wrote much of his literary work at this very site. Originally known as Lolark Ghat, it was renamed in his honor due to his deep connection to the place. According to local legend, it was here that Tulsidas had a divine vision of Lord Hanuman, which further inspired his devotion and writing. The ghat is home to the Tulsi Manas Temple and the Lolark Kund, a sacred pond where devotees bathe to seek blessings for children and health. Historically, the ghat was rebuilt in the 19th century by a devotee named Baldeo Das Birla. Tulsi Ghat continues to be a center of cultural performances, especially during the Ram Lila and Krishna Leela, keeping Varanasi’s living traditions vibrant and alive.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437815/aoflbzhfmxtpc9tng2rg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437817/cljwavzlvoxthglf4lqi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437818/qyrxusfnz4so94fbzvrz.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/DO3yrp9LAWk?si=z3IcO8UMMaP3FWad"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b40",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Banaras Hindu University (BHU)",
+      "category": "City Place / Iconic Landmark",
+      "lat": 25.2683,
+      "lon": 82.9903,
+      "address": "Ajagara, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/cVKJnPf5BQagZSsz5",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "1916",
+      "fee": "Entry: Free | Guide: ₹200–₹300",
+      "description": "Established in 1916 by Pandit Madan Mohan Malaviya, BHU is one of Asia’s largest residential universities. It is renowned for its academic excellence and sprawling green campus. The university complex includes the Vishwanath Temple, Bharat Kala Bhavan Museum, and vibrant student life. Its architectural beauty and educational heritage attract scholars and tourists from around the world.",
+      "essential": "Open to visitors, but certain departments and facilities may have restricted access. Photography is generally allowed in public areas but prohibited in some academic buildings.",
+      "story": "The historic story of Banaras Hindu University (BHU) begins in the early 20th century, when Pandit Madan Mohan Malaviya, a nationalist leader, social reformer, and educationist, envisioned a university that would revive India’s ancient tradition of learning while incorporating modern education. At a time when India was under British colonial rule, Malaviya sought to empower the nation through education rooted in Indian values, culture, and self-reliance. With the support of Indian rulers like the Maharaja of Darbhanga and the Maharaja of Banaras, and significant public funding, BHU was founded in 1916 through the passage of the BHU Act in the Indian Legislative Council. The university became a hub for the Indian independence movement, with many of its students and professors participating in nationalist activities. It was also among the first institutions to promote education in Sanskrit, Ayurveda, Indian philosophy, and sciences side by side. The campus, spread across vast land donated by the Kashi royal family, became a model of integrated learning, symbolizing India’s intellectual and spiritual resurgence.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437821/kpi4bcemsz9caf5thnzw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437822/btj9gvupsya1rhwgdo2r.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437823/ljb1ldcyjjsvfrtflpeu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/UCXcvk_x1-0?si=9RKy0YsQPRKg1VCR"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b45",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Nepali Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3099,
+      "lon": 83.013,
+      "address": "Near Lalita Ghat, Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/nGEsUWvKA8zqa9zr9",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "19th century",
+      "fee": "Entry: Free | Donation ₹20–₹50 | Guide: ₹150–₹300",
+      "description": "Built by the King of Nepal, the Nepali Temple reflects exquisite Nepali-style wooden architecture. It is dedicated to Lord Shiva and resembles the famous Pashupatinath Temple of Kathmandu. The intricate wood carvings and peaceful surroundings make it a serene spiritual spot. Its unique architectural style distinguishes it from other temples in Varanasi.",
+      "essential": "Footwear removal is mandatory. Photography is allowed but should be done respectfully. Silence is appreciated inside the temple premises.",
+      "story": "The Nepali Temple in Varanasi, locally called the Shivala Ghat Temple or Mini Khajuraho, is a stunning 19th-century shrine dedicated to Lord Shiva, located at Lalita Ghat near the Ganga River. Its history is tied to the King of Nepal, Rana Bahadur Shah, who was exiled to Varanasi in the early 1800s after political conflict in his kingdom. Deeply devoted to Lord Shiva, he decided to build a replica of Kathmandu’s famous Pashupatinath Temple in Kashi. Though Rana Bahadur Shah died before the temple was completed, his son Girvan Yuddha Bikram Shah ensured the temple’s completion around 1843. The temple was constructed using traditional Nepali architecture, with wooden carvings, terracotta tiles, and a pagoda-style design, distinct from North Indian temple styles. What makes the temple especially unique is its intricate woodwork and erotic sculptures, earning it the nickname Mini Khajuraho. Set in a peaceful corner of Varanasi, the Nepali Temple stands as a symbol of spiritual unity between India and Nepal, and is a beautiful reminder of Varanasi’s long-standing cultural connections with the Himalayan region.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437851/lwij1ne0rl5kz55kos5f.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437852/yodhlik3vp3hmysb9dqr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437853/auphc5lzzea12bddorve.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jMwXpPS7TgQ?si=6D-yHDHuTAPmkEAO"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b48",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Bharat Mata Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3213,
+      "lon": 82.987,
+      "address": "Guru Nanak Nagar Colony, Chetganj, Varanasi, Uttar Pradesh 221002",
+      "locationLink": "https://www.google.co.in/maps/place/Bharath+Mata+Mandir, +Guru+Nanak+Nagar+Colony, +Chetganj, +Varanasi, +Uttar+Pradesh+221002/@25.3172249, 82.9893083, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2dfcc052fd13:0xc1a04258aeeda868!8m2!3d25.3172249!4d82.9893083!16s%2Fm%2F012z8mq1?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "7:30 AM - 5:30 PM",
+      "establishYear": "1936",
+      "fee": " Entry: Free | Guide: ₹100–₹200",
+      "description": "Bharat Mata Temple in Varanasi, built by Babu Shiv Prasad Gupta and inaugurated by Mahatma Gandhi in 1936, is a unique temple dedicated to Mother India, featuring a detailed 3D relief map of undivided India carved in marble. Unlike traditional temples, it has no idols and symbolizes national unity and patriotism",
+      "essential": "Entry is free; footwear must be removed before entering; photography is allowed but recommended to seek permission first; best time to visit is during daytime, preferably in the morning; maintain silence and respect the patriotic significance of the temple.",
+      "story": "Bharat Mata Temple in Varanasi is a unique and deeply patriotic shrine, unlike any other in India, as it is dedicated not to a deity from mythology but to Bharat Mata, or Mother India, symbolizing the soul, culture, and unity of the nation itself. Established in 1936 by Babu Shiv Prasad Gupta, a nationalist and philanthropist, and inaugurated by Mahatma Gandhi himself, this temple emerged during the freedom struggle as a sacred space representing India not just as a landmass but as a living embodiment of its people, heritage, and spiritual legacy. The temple houses no idol of a god or goddess but instead features a large, intricately carved relief map of undivided India, made in marble, depicting the mountains, rivers, and land of the country in stunning topographical detail. This symbolic representation was meant to inspire national pride, unity, and a spiritual connection to the motherland among Indians during the turbulent pre-independence era. It was designed to foster a sense of unity beyond religion, caste, or region—placing the nation itself as the object of reverence. Situated within the Mahatma Gandhi Kashi Vidyapith campus, the temple is a rare architectural and ideological marvel that merges spiritual devotion with national identity. The elevation lines and geological accuracy of the map are not just artistic but symbolic—reminding every visitor of the sacred geography of the land and the importance of its protection and unity. Unlike traditional temples that host rituals and daily aarti, Bharat Mata Temple is a silent place of reflection, where visitors are encouraged to contemplate their role in serving the nation. It also reflects the larger philosophy of India’s freedom movement, which viewed the country not as a political entity alone but as a divine mother whose cultural and spiritual greatness must be preserved. In a city known for its countless temples to gods and goddesses, Bharat Mata Temple stands apart as a temple to the spirit of India itself, where devotion is measured not in offerings but in love, service, and loyalty to the motherland.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437866/wbunnpmyewzxysh68fdh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437867/hz5unqem9rsm5n38kpov.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437868/bobu81mhzpenm8x1n4ov.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/c5b3HWlWciM?si=KzlGadDxS8JR6bR7"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b35",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Baba Kal Bhairav Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3176,
+      "lon": 83.0159,
+      "address": "Pandeypur Rd, Golghar, Naibasti, Varanasi, Uttar Pradesh 221002",
+      "locationLink": "https://maps.app.goo.gl/utA8bp8pf5ywZTzp9",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:30AM - 10:30PM",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free | Offerings: ₹100–₹200 | Guide: ₹150–₹300",
+      "description": "Dedicated to Kal Bhairav, the guardian deity of Varanasi, this ancient temple holds immense religious significance. It is believed that no one can stay in Varanasi without Kal Bhairav's permission. Devotees offer alcohol as a ritual, reflecting the unique tradition. The temple's historical architecture and spiritual importance make it a must-visit for pilgrims and tourists alike.",
+      "essential": "Footwear removal is required. Photography inside the sanctum is prohibited. Offerings should be bought from authorized vendors.",
+      "story": "The Baba Kal Bhairav Temple in Varanasi is one of the city's oldest and most fearsome shrines, deeply rooted in Hindu mythology and Shaivite traditions. The legend behind the temple begins when Lord Shiva, angered by Brahma's arrogance, created Kal Bhairav, a fierce form of himself, to punish Brahma. Kal Bhairav severed one of Brahma’s five heads, committing the grave sin of Brahmahatya (killing a Brahmin). Cursed, he was forced to wander with Brahma’s skull (kapala) stuck to his hand as a begging bowl. It was only when he entered Kashi (Varanasi) that the curse broke—the skull fell from his hand, and his sin was absolved. This sacred event established Varanasi as a land beyond sin, and Shiva appointed Kal Bhairav as the eternal guardian (Kotwal) of the city. Since then, it is believed that even death cannot enter Kashi without Kal Bhairav's permission, and every resident or visitor must seek his blessing to safely stay in the holy city. The temple has stood as a powerful symbol of protection, justice, and divine authority for centuries, visited by saints, kings, and devotees alike.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437752/ebwwkx4na2oaw1r4xxit.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437753/hktyj7zxxtzhuqdgcvnt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437754/mdmavcgbdzn60ze241vg.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/--dvqcAEszY?si=Gv6JyCWs4UQMsQNk"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b36",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Sarnath",
+      "category": "Iconic Landmark / Heritage Spot",
+      "lat": 25.3716,
+      "lon": 83.0252,
+      "address": "Sarnath, Varanasi, Uttar Pradesh 221007, India",
+      "locationLink": "https://maps.app.goo.gl/tydKeXUELLifVMug6",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "3rd century",
+      "fee": "Entry: ₹25 (Indian), ₹300 (Foreigner), Museum ₹20 | Guide: ₹300–₹600",
+      "description": "Sarnath is a revered Buddhist pilgrimage site where Lord Buddha delivered his first sermon. It houses ancient stupas, the iconic Ashoka Pillar, and the Dhamek Stupa. The Sarnath Archaeological Museum displays artifacts from the Mauryan era. The peaceful surroundings, lush gardens, and spiritual significance make Sarnath a serene retreat for visitors interested in history and spirituality.",
+      "essential": "Maintain respectful behavior as it is a significant Buddhist site. Photography is allowed in most areas but restricted inside the museum. An entry fee is applicable for the museum.",
+      "story": "Sarnath, located about 10 km from Varanasi, is one of the holiest Buddhist sites in the world. It is the place where Gautama Buddha gave his first sermon after attaining enlightenment in Bodh Gaya around 528 BCE. This event, known as Dharmachakra Pravartan (Turning of the Wheel of Dharma), marked the beginning of the Buddhist Sangha (monastic community). At Sarnath, Buddha preached to his first five disciples, laying the foundation of his teachings—the Four Noble Truths and the Eightfold Path. Over time, Sarnath grew into a major center of Buddhist learning, supported by Mauryan Emperor Ashoka, who erected a massive stone pillar with his edict and built several stupas and monasteries. The Dhamek Stupa, still standing today, marks the exact spot of the first sermon. Sarnath flourished for centuries until it was destroyed by invaders in the 12th century. Rediscovered in the 19th century through archaeological excavations, Sarnath is now a serene pilgrimage site and a symbol of peace, enlightenment, and the global spread of Buddhism.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437757/fjkn800yi6p6pxabho2e.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437758/qrflq9sst0jwnkpunvqi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437759/aqmza29cod84ujze8v9t.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/lMwlpPJPfUI?si=Kaf0Wy60kHEGYv1a"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b37",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Tulsi Manas Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3186,
+      "lon": 82.9879,
+      "address": "Sankat Mochan Rd, Durgakund Rd, near Jalan, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/pktu56DZ2GdRsZ2TA",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:30AM - 09:00PM",
+      "establishYear": "1964",
+      "fee": "Entry: Free | Guide: ₹100–₹200",
+      "description": "Tulsi Manas Temple is dedicated to Lord Rama and commemorates the place where Tulsidas composed the Ramcharitmanas. Built in white marble, the temple walls are inscribed with verses from the epic. It is known for its serene ambiance and cultural significance. The temple also features dioramas depicting scenes from Ramayana, making it an educational and spiritual destination for visitors.",
+      "essential": "Footwear is to be removed before entry. Photography is generally allowed, but it's best to confirm on-site. Silence and modesty are expected inside the temple.",
+      "story": "The Tulsi Manas Temple in Varanasi is a revered shrine dedicated to Lord Rama and holds immense literary and cultural significance in Hinduism. Built in 1964 by the Birla family, the temple stands at the very place where the great saint-poet Goswami Tulsidas is believed to have composed the Ramcharitmanas, a retelling of the Sanskrit Ramayana in Awadhi, the language of the common people. This epic made the story of Lord Rama accessible to millions and became a spiritual and cultural cornerstone of North India. The temple, made of white marble, has the verses and scenes from the Ramcharitmanas inscribed on its walls, creating a sacred atmosphere that honors both devotion and literary heritage. It serves not just as a place of worship, but also as a tribute to the power of vernacular literature in spreading spiritual wisdom, making it a must-visit for devotees, scholars, and tourists alike.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437762/zm2sfa395sraumks9ryc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437763/zamb1wxsljneyovjzzrp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437765/xuuow9o0dvxr36x9s7ix.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/v4YbgqETgOk?si=JsrGQPNvO-QPpc0F"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b38",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Durga Kund Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.2887,
+      "lon": 82.9991,
+      "address": "7XRR+WVR, Khojwan Rd, Near Gandhi Chowk, Khojwan, Bhelupur, Varanasi, Uttar Pradesh 221010",
+      "locationLink": "https://maps.app.goo.gl/wLpcdvDXxjQQtstd9",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:30AM - 09:00PM",
+      "establishYear": "18th century",
+      "fee": "Entry: Free | Puja ₹50–₹100 | Guide: ₹100–₹200",
+      "description": "Dedicated to Goddess Durga, Durga Kund Temple is known for its bright red color and Nagara-style architecture. It is situated beside a rectangular pond (kund) and is believed to be self-manifested. The temple attracts devotees, especially during Navratri, for its spiritual aura and cultural importance. The serene pond and intricate carvings make it a picturesque and peaceful site for visitors.",
+      "essential": "Footwear removal is mandatory. Photography may be restricted during certain rituals. Maintaining silence and respecting the local customs is expected.",
+      "story": "The Durga Kund Temple is an ancient and revered Hindu temple located in Varanasi, dedicated to Goddess Durga, the powerful deity of strength, protection, and motherhood. The temple is situated near the Durga Kund (Durga Pond), which is believed to be one of the sacred water bodies of the city. It is said to have been established by the Kashmiri King, Raja Kesar Singh, during the reign of the Mughal Empire. According to local legend, the temple was originally constructed by Lord Vishnu to honor Goddess Durga, and over time, it has become a major place of worship, especially during the Navratri festival, when thousands of devotees visit to offer their prayers and seek blessings for strength and protection. The idol of Durga in the temple is beautifully crafted, and the temple’s serene surroundings make it a peaceful retreat for both spiritual seekers and pilgrims. It remains a major pilgrimage spot, symbolizing the victory of good over evil.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437767/a2blltz0ebbd2o7zkkyt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437768/ly7gnfuu8qu8gxddmwlj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437769/bdsyccsbi68den7xuuzn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/7-3YxZcfG3M?si=PJDbvY57KukK2kKK"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b3a",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Annapurna Devi Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3104,
+      "lon": 83.0101,
+      "address": "D 9, Annapurna Math Mandir, 1, Vishwanath Galli, Godowlia, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/Rp2JkkPgdYYwj8Tv6",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 11:00PM",
+      "establishYear": "18th century",
+      "fee": "Entry: Free | Bhog ₹50 | Guide: ₹100–₹200",
+      "description": "Annapurna Devi Temple is dedicated to Goddess Annapurna, the deity of nourishment. It is believed that worshiping here ensures food security and prosperity. The temple's golden idol of the goddess is adorned with rich ornaments. It is located near the Kashi Vishwanath Temple, making it an important pilgrimage site. The temple's spiritual ambiance and cultural heritage attract numerous devotees.",
+      "essential": "Standard temple rules apply, including footwear removal. Photography policies should be confirmed on-site. Silence and modest behavior are expected.",
+      "story": "The Annapurna Devi Temple, located near the Kashi Vishwanath Temple in Varanasi, is dedicated to Goddess Annapurna, the Hindu goddess of food and nourishment, and an incarnation of Parvati, the consort of Lord Shiva. The temple’s origins are deeply rooted in a powerful legend: according to Hindu mythology, Lord Shiva once declared that the world is an illusion and that food is unimportant. To teach him the value of nourishment, Goddess Parvati appeared as Annapurna and disappeared, causing the entire world to suffer from hunger. Realizing his mistake, Shiva begged for food, and Parvati fed him with her own hands. This act not only humbled Shiva but also established food as a sacred gift. The temple was later reconstructed in its current form by Maratha queen Ahilyabai Holkar in the 18th century, who also rebuilt several temples in Varanasi including the Kashi Vishwanath Temple. The main idol of Goddess Annapurna is made of gold, and once a year, during Annkoot (a day after Diwali), the idol is opened for darshan and a grand feast is offered to devotees. The temple is a vital part of Varanasi’s spiritual landscape, reminding all that feeding the hungry is one of the highest forms of worship. It continues to draw pilgrims, especially those who seek prosperity, nourishment, and spiritual satisfaction.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437777/jihfwbniqduwkx9dybus.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437778/m2jzb1lsr9kyjjwgcuvx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437779/bkv38gmcrcme7oozuaef.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/VZ-3mBxsuNc?si=rD2CMryuiDK-ZPId"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b46",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Bharat Kala Bhavan Museum",
+      "category": "Heritage / Museum / Cultural Spot",
+      "lat": 25.2717,
+      "lon": 83.0101,
+      "address": "Banaras Hindu University, Semi Circle Road No. 3 Opp Institute of Mgmt Studies, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/C8oFM65RS27iEvnF9",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:30AM - 04:30PM",
+      "establishYear": "1920",
+      "fee": "Entry: ₹20 (Indian), ₹100 (Foreigner), Camera ₹50 | Guide: ₹100–₹300",
+      "description": "Located within the BHU campus, Bharat Kala Bhavan Museum is a treasure trove of Indian art and culture. It houses an extensive collection of paintings, sculptures, textiles, and archaeological artifacts. The museum is known for its collection of miniature paintings and manuscripts. It provides insights into the rich cultural and historical heritage of India, making it an educational and cultural hub.",
+      "essential": "Photography is restricted in certain sections. An entry fee is applicable. Silence and respectful behavior are expected inside the museum.",
+      "story": "The Bharat Kala Bhavan Museum, located inside the Banaras Hindu University campus, is a historic institution founded in 1920 and integrated into BHU in 1950. It houses over one lakh priceless artifacts, including ancient sculptures, paintings, coins, textiles, and manuscripts, along with a special gallery dedicated to Mahatma Gandhi. The museum serves as a vital archive of Indian art and heritage, particularly from the ancient, medieval, and Mughal periods, making it an essential destination for scholars, historians, and cultural enthusiasts seeking to explore the deep artistic legacy of India and the cultural richness of Varanasi.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437857/riw0wap3hensg35uihgh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437858/zqixkuixbgolkvmsjfbn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437859/smkclv1tqba36ynpcife.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/VZbEsNM7dvA?si=zS3GBu-zqEvSY4i8"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b47",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Kabir Math",
+      "category": "Spiritual / Meditation Retreat",
+      "lat": 25.3225,
+      "lon": 83.0078,
+      "address": "SHRI KABIR PRAKATY STHALI PURANA KABIR MATH, Lahartara Boulia, Varanasi, Uttar Pradesh 221002",
+      "locationLink": "https://maps.app.goo.gl/rTYK35E9axc1Qu7t7",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 07:30PM",
+      "establishYear": "15th century",
+      "fee": "Entry: Free | Donations optional | Guide: ₹300–₹500",
+      "description": "Kabir Math is a spiritual site dedicated to the 15th-century poet-saint Kabir. It preserves his teachings and way of life. The Math houses Kabir's samadhi and a collection of his literary works. The peaceful environment and simplicity reflect Kabir's philosophy of love, equality, and devotion. It serves as a spiritual retreat for followers and admirers of Kabir's teachings.",
+      "essential": "Footwear should be removed before entering. Photography may be restricted in certain areas. Silence and respectful behavior are expected.",
+      "story": "Kabir Math, also known as Kabir Chaura Math, is a revered spiritual center in Varanasi, dedicated to preserving and disseminating the teachings of the 15th-century mystic poet and saint, Kabir. Established by Surat Gopal, one of Kabir's immediate disciples, this Math serves as a memorial to the saint's profound influence on the Bhakti movement and his emphasis on a formless, universal God. The term \"Chaura\" is derived from \"Chauraha,\" meaning a four-way crossing, signifying the Math's role as a crossroads of spiritual thought and practice. Kabir's teachings, which transcended religious boundaries, are encapsulated in texts like the Bijak, and the Math has been instrumental in promoting these philosophies across regions like Gujarat, Uttar Pradesh, and Bihar. The Math not only houses relics and manuscripts associated with Kabir but also serves as a hub for followers of the Kabir Panth, a sect that emerged from his teachings. Over the centuries, Kabir Math has remained a beacon of spiritual learning, attracting devotees and scholars alike who seek to understand and live by Kabir's message of love, equality, and devotion.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437861/aptrp7hyxs75zz3m8z0k.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437862/eiennmfc4aggsnn77dbz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437863/aktwfuiqrtdruhhvtcxc.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/z6zDikeWqC0?si=ShsrFe45yeAf0IGg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b34",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Kashi Vishwanath Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.3109,
+      "lon": 83.0107,
+      "address": "Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/pRotzxDAAvcsSUTP8",
+      "openDay": "Monday to Sunday",
+      "openTime": "03:00AM - 11:00PM",
+      "establishYear": "1780",
+      "fee": "Entry: Free | VIP Darshan: ₹300–₹500 | Guide: ₹200–₹500",
+      "description": "One of the twelve Jyotirlingas of Lord Shiva, Kashi Vishwanath Temple is a significant pilgrimage site for Hindus. Located on the western bank of the Ganges, it has a rich historical and spiritual legacy. The temple's gold-plated spires and the holy well of Gyan Vapi attract millions of devotees seeking blessings and liberation (Moksha). The spiritual aura and chants create an enchanting atmosphere.",
+      "essential": "Footwear, mobile phones, cameras, and other electronic items are strictly prohibited. Security checks are mandatory. Offerings are allowed but should be purchased from authorized vendors.",
+      "story": "The Kashi Vishwanath Temple, located in the ancient city of Varanasi on the banks of the sacred Ganga River, is one of the most revered shrines dedicated to Lord Shiva, known here as Vishwanath, the “Lord of the Universe.” It is one of the twelve Jyotirlingas, the holiest Shiva shrines in India. The temple has a long and turbulent history—originally built in ancient times, it was destroyed and rebuilt multiple times by various rulers. The current structure was reconstructed in 1780 by Ahilyabai Holkar, the Maratha queen of Indore. The temple’s gold-plated spires and sanctum sanctorum radiate spiritual energy, drawing millions of pilgrims each year who believe that worshipping here grants moksha (liberation from the cycle of rebirth). Surrounded by narrow alleys of Varanasi and immersed in the sound of bells and chants, Kashi Vishwanath stands as a timeless symbol of faith, resilience, and divine presence.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437747/tecmr8mjiqg8zxc2qg3d.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437748/selkdjnsg4vahrfu7vbh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437749/fhsrj32v4etft9y0pcsq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/NkwxaZpuNQM?si=jqAZeydxwmVL76md"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b39",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Sankat Mochan Temple",
+      "category": "Religious / Spiritual Temple",
+      "lat": 25.2829,
+      "lon": 83.0002,
+      "address": "Saket Nagar Colony, Sankata Mochan Leprosy, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/7to4RtKu3esyMs3WA",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "establishYear": "16th century",
+      "fee": "Entry: Free | Puja ₹50–₹150 | Guide: ₹100–₹200",
+      "description": "Sankat Mochan Temple is dedicated to Lord Hanuman, known as the remover of obstacles. Established by poet-saint Tulsidas, the temple is a significant site for devotees seeking blessings for courage and protection. The continuous chanting of Hanuman Chalisa creates a spiritual ambiance. Tuesdays and Saturdays witness heavy footfall, reflecting the strong cultural and religious faith associated with Hanuman worship.",
+      "essential": "Footwear must be removed before entry. Large bags and electronic devices might be restricted due to security reasons. Silence and respect for ongoing prayers are expected.",
+      "story": "The Sankat Mochan Temple in Varanasi is one of the most revered temples dedicated to Lord Hanuman, the Hindu deity known for his strength, devotion, and courage. The temple, founded by the famous Indian freedom fighter and saint Pandit Madan Mohan Malviya in 1900, stands near the banks of the Assi River. The name \"Sankat Mochan\" translates to \"Reliever of Troubles,\" and devotees believe that by praying here, their difficulties, misfortunes, and ailments are alleviated by the divine grace of Hanuman. According to legend, the temple is situated at the spot where Hanuman is said to have appeared and removed the suffering of the local population. The idol of Hanuman in the temple is a large, striking image, and the temple's serene environment makes it a significant place for both worship and meditation. During Hanuman Jayanti and other festivals, the temple sees huge crowds, and it remains one of the spiritual pillars of the city.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437772/qda17stkdacfuzt9tysp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437773/ykln131bilal3eaeimxh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437774/aiizrfmm1lrfwrerhuuh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/-2hWUaTnoaM?si=DRCtR0wUywuG3USd"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b3b",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Assi Ghat",
+      "category": "Spiritual / Ghat Experience",
+      "lat": 25.2885,
+      "lon": 83.0064,
+      "address": "Assi Ghat Rd, Dumraon Colony, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/TGybr2wVCyEvemS78",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free | Subah-e-Banaras ₹100 | Guide: ₹100–₹300",
+      "description": "Assi Ghat is the southernmost ghat of Varanasi, famous for its tranquil ambiance and cultural significance. It is a popular spot for spiritual seekers, with morning yoga sessions and evening Aarti ceremonies. The ghat offers a picturesque view of the Ganges, making it a favored location for locals and tourists. It also serves as a hub for cafes, music, and art, reflecting the vibrant cultural fabric of Varanasi.",
+      "essential": "Open to all visitors. Modest attire is recommended. Photography is generally allowed, but seeking permission before taking pictures of locals is courteous.",
+      "story": "Assi Ghat, located at the southernmost end of the string of ghats in Varanasi, is one of the city’s most iconic and spiritually vibrant spots. According to ancient Hindu texts and legends, this is where Goddess Durga threw her sword into the Assi River after slaying demons Shumbha and Nishumbha, giving the ghat its name. Historically, Assi Ghat has been a favorite spot for saints, scholars, and poets, including the famous Hindi poet Tulsidas, who is believed to have lived and written here. It holds deep significance in pilgrimage routes, as it is considered the starting point for many spiritual journeys through Kashi. Today, Assi Ghat is a dynamic blend of tradition and modern life—morning yoga sessions, Subah-e-Banaras (a daily spiritual program with music and Ganga aarti), and bustling evenings make it a cultural and spiritual hub. Unlike the more crowded Dashashwamedh Ghat, Assi Ghat offers a peaceful yet deeply sacred experience along the banks of the holy Ganga River.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437782/nalp5tb6alberhpmfrli.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437783/sg4gnvsrqnytavjy2pds.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437784/espzwpmhlmziwygad7vn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/4OJgZCtJIAk?si=oMgx6TqGW8IZPFM6"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b49",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Thatheri Bazaar",
+      "category": "Local Shopping / Market",
+      "lat": 25.3183,
+      "lon": 83.0071,
+      "address": "Thatheri Bazaar,Varanasi,Uttar Pradesh,221001",
+      "locationLink": "https://www.google.co.in/maps/place/Thatheri+Bazar, +Ghasi+Tola, +Varanasi, +Uttar+Pradesh+221001/@25.3139771, 83.0123772, 839m/data=!3m2!1e3!4b1!4m6!3m5!1s0x398e2e1ed4734c43:0xcceeff792a29faf0!8m2!3d25.3138435!4d83.0123706!16s%2Fg%2F1pzyl201k?entry=ttu&g_ep=EgoyMDI1MDMxMi4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 8:00PM",
+      "establishYear": null,
+      "fee": " Entry: Free | Guide (optional): ₹150–₹300",
+      "description": "Thatheri Bazaar is one of the oldest and most traditional markets in Varanasi, known for its skilled metalwork, handcrafted brass and copper items, wooden toys, and Banarasi silk products. This bustling marketplace is a paradise for those interested in authentic Indian craftsmanship and cultural souvenirs.",
+      "essential": "Visit in the morning or late evening to avoid crowds; bargain smartly; use cycle rickshaws or walk; carry cash as many shops don’t accept cards; check product authenticity before buying; stay alert for touts and keep belongings secure",
+      "story": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437870/uafwvt3g3ouidegfxmhs.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437871/mmzddo3gdnwyghdq1yrk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757437872/fn1h0ygsiai6cnmna3fq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/IHRC1i8b9x8?si=70LVtTx0WEd_q7n8"
+      ],
+      "premium": "FREE"
+    }
+  ]
 }

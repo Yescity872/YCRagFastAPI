@@ -1,264 +1,264 @@
 {
-    "Accommodation": [
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Hotel Mahadev Rishikesh",
-            "lat": 30.073,
-            "lon": 78.253,
-            "address": "Karnprayag - Haridwar Rd, Malviya Nagar, IDPL Colony, Rishikesh, Uttarakhand 249203",
-            "locationLink": "https://maps.app.goo.gl/TPgdZ3YxTjqr65zQ9",
-            "category": "Mid-range, 3-star hotel",
-            "roomTypes": "Standard Room, Deluxe Room; Prices start from approx. ₹1615 - ₹1713 per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Jungle Safari, Bonfire, Indoor Games, Coffee Shop, Smoking Rooms, Photocopying, Seating Area, Outdoor Furniture, Verandah, Lounge, Reception, Balcony/Terrace, Bonfire Pit, Professional Photography, Security Guard, Music System, Sitout Area, Kid's Menu, Terrace The Rooftop Cafe (Veg & Non-Veg), Hairdryer, Dental Kit, Work Desk",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153425/lod3yy6o6hqjhf7myil1.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153426/fp4rkf1qvlimzwdlwmts.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153427/kiubyjfq7hg8xs55dwcl.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6a" 
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "ArtBuzz Rishikesh",
-            "lat": 30.128,
-            "lon": 78.325,
-            "address": "Gopal Nagar, near Anand Dham, Tapovan, Rishikesh, Uttarakhand 249137",
-            "locationLink": "https://maps.app.goo.gl/kK93XgJFoM8dj1y39",
-            "category": "Mid-range, Hostel",
-            "roomTypes": "2 Beds in a Dorm, Private Rooms; Prices start from approx. ₹1068 per night (bunk bed)",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Housekeeping, Dining Area, Cafe, Fire Extinguishers, Luggage Storage, Air Conditioning, Elevator/Lift, Laundry Service, Drinking Water, Play Zone, Book Reading Area",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153428/gsooqsngjkao4mpnkkww.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153429/algxxdm0z199cpusviw6.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153430/rn2lhhnjwwt6juziibdq.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6b"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Terrakotta Rishikesh",
-            "lat": 30.13,
-            "lon": 78.328,
-            "address": "Laxman Jhula Rd, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/mEwujCvkjmawEeTB8",
-            "category": "Boutique",
-            "roomTypes": "Average price approx. ₹3,666 per night",
-            "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Yoga Hall, Internet services, Buffet Breakfast, Room Service, Air-conditioned rooms, Daily housekeeping, 247 Security, CCTV, Photocopy/fax, 247 Front Desk, Free car parking",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153432/pimdasklemrf0j1coaby.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153433/qovponelfoh4kpauhwtb.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153435/ntu3crhb8lkrtkeks3jd.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6c"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Seventh Heaven Inn",
-            "lat": 30.13,
-            "lon": 78.326,
-            "address": "Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/VLTLRLUA5LwEiW1R7",
-            "category": "Plush, Guesthouse",
-            "roomTypes": "Standard Room (₹2500-₹3000), Deluxe Room (₹3000-₹3500), Superior Deluxe Room (₹3500-₹4000)",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Cafe, Yoga Studio, Rooftop Terrace, Mountain Views",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153437/uweoa2qadmuart1csqq1.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153438/kvccjdf2aqa1w90m5yar.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153439/fy0ry0ugugybtsklsorb.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6d"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Vyom Boutique Hotel",
-            "lat": 30.131,
-            "lon": 78.326,
-            "address": "NH 58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/revfLay9VhhEUh1r5",
-            "category": "Boutique",
-            "roomTypes": "Price approx. $35 + taxes & fees per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Swimming Pool, Jungle Safari, Bonfire, Rooftop Pool",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153441/iz8q5xglti19newm0d18.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153443/eefvwhfbtucjkgqoafqo.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153444/shmtzkoosipo0fnhe12l.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6e"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Hotel Ishan – A Riverside Retreat",
-            "lat": 30.126,
-            "lon": 78.329,
-            "address": "Lakshman Jhula, chowk, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/xgSK5qwYPoyYNxqh9",
-            "category": "Riverside, Art Deco Hotel",
-            "roomTypes": "Standard Room, Executive Room, Double Room; Average price approx. ₹6,386 - ₹7,906 per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Yoga, Rooftop Terrace, 24-hour front desk, Snack bar/deli, Free self parking, Conference center, Business center, Meeting room, Air-conditioned accommodations, Fireplaces, Complimentary newspapers, Satellite channels, Showers, Housekeeping, Laundry facilities, Safe, Currency exchange, Disabled access, Refrigerator, Room service",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153445/jxmtzzyqumgftlsalb7g.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153447/zvhimlauxhfjak9iw9jy.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153448/joyyd5epnc3dzhmf4wld.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c6f"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Punyah Residency Rishikesh",
-            "lat": 30.129,
-            "lon": 78.328,
-            "address": "Divine Ganga Cottage, near, Laxman Jhula, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/EhLdLoGnxSaH7vtR8",
-            "category": "Boutique",
-            "roomTypes": "Premium Room, Superior Double Room With Mountain View; Price approx. ₹2,891 + taxes per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Yoga Shala, 24-hour security, Air conditioning, CCTV, Commercial shops, Doctor on call, Elevator, Fire safety, Housekeeping, Intercom, Laundry service, Locker room, Newspaper, Smoke detector, Bike rental",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153452/rberjbstwwnfihh2ppsv.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153453/bjxqfs3gb2fyk8ivieom.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153454/sopgfm7hlfka09dimvzv.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c70"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Rêveries Luxury Hotel",
-            "lat": 30.127,
-            "lon": 78.32,
-            "address": "Badrinath Rd, opposite Kriya Yoga Ashram, Tapovan, Rishikesh, Uttarakhand 249137",
-            "locationLink": "https://maps.app.goo.gl/a4K1Lhfb9D3zDoBW7",
-            "category": "Boutique, Luxury Hotel",
-            "roomTypes": "Double Bed, Room With Free Cancellation; Price starts at approx. INR 6,110 per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Tours",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153458/zpcou22xlgbobuxogphu.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153459/fie7dj6usnoiract5w02.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153460/wb3hbquwrjbz0ja8toxm.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c71"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Hill Top Swiss Cottage",
-            "lat": 30.128,
-            "lon": 78.318,
-            "address": "High Bank Bhirkhet, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/FfjN9iLRJa8EdSdN8",
-            "category": "Cozy Chalet, Boutique Guesthouse",
-            "roomTypes": "Deluxe Single Room, Deluxe Double Room, Spectacular Double Sky Room, Spectacular Sky Single Room; Prices range approx. ₹1,463 - ₹2,786 per night",
-            "facilities": "Parking, Wi‑Fi, Spa, Restaurant, Gym, Bonfire, Indoor Games, Yoga, Iron/Ironing Board, Smoking Room, Bathroom, In-room Dining, Housekeeping, Laundry Service, Air Conditioning, Mineral Water, Room Service, Heater, Closet, Mini Fridge, Chair, Work Desk, Blackout Curtains, Dining Table, Charging Points, Woollen Blanket, TV, Refrigerator, Hairdryer, Dental Kit, Geyser/Water Heater, Toiletries, Hot & Cold Water, Ceiling Fan, Balcony, Kettle, Safety & Security, Car rental, Dry cleaning, Waiting area, Concierge, Ayurveda Clinic",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153464/qy0afx1a9flivgivrpbw.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/j8jziaiqaqrm2hej7pd1.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/mjgw1e03hnhcdfhcbsef.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c72"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Mahadev Resort & Cafe",
-            "lat": 30.132,
-            "lon": 78.323,
-            "address": "Deccan Valley Apts, Near, NH58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/Zd12FeMABh1H5s2Z9",
-            "category": "Boutique, 3-star Hotel",
-            "roomTypes": "Mountain View, 2 Double Beds; Prices start from approx. ₹2,343 per night",
-            "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Pool (unconfirmed by direct search), Free Wi-Fi, Smoking Rooms, Reception, Work Desk, Air Conditioning, 24-hour Room Service, Laundry Service, Smoke Detector, Toiletries, Mineral Water, Fire Extinguishers, 24-hour front desk, Self-serve laundry, Luggage storage, Tour/ticket assistance, Private bathroom, Daily housekeeping, Cooked-to-order breakfast, Pet friendly, Valet parking",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/t8ev1xks1spncjdfu2cr.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/tuolfca7wbtqkjkbylhq.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153471/zamff50l8o02qte7uw87.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c73"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Anand Kashi by the Ganges",
-            "lat": 30.107,
-            "lon": 78.438,
-            "address": "Near 23rd Milestone, Badrinath Rd, Gular Dogi, Rishikesh, Uttarakhand 249303",
-            "locationLink": "https://maps.app.goo.gl/HrZXhYWGE4b8hpGW7",
-            "category": "Heritage",
-            "roomTypes": "Superior Room, Luxury Suite (River View, Tent), Deluxe Room (River View), Suite (Seleqtions Ganges); Prices start from approx. ₹38,000 - ₹44,794 per night",
-            "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Woodsy Beach, Riverside Restaurant, Cultural and spiritual experiences (Aarti, stargazing), Rejuvenating spa treatments, Outdoor Pool, 24-hour Fitness Center, Private Beach Access, 24-Hour Room Service, Lounge, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153472/lvn3s3ret20xcz10s0ei.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153473/qchhrgjmkohuwy7beztp.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153474/jclml3ltux8okijagmjo.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c74"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Taj Rishikesh Resort & Spa",
-            "lat": 30.058,
-            "lon": 78.482,
-            "address": "Singthali, near Pebble Beach, Byasi, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/6GQrDzbRTYWVRA7r5",
-            "category": "Luxury Resort",
-            "roomTypes": "Villas with King-sized bed, lounge chairs, sofa, outdoor seating; Prices start at approx. INR 36,000 per night",
-            "facilities": "Parking, Pool, Spa, Gym, Restaurant, Yoga, Bar, Wellness facility (J Wellness Circle), Riverside dining, Nature walks, Wake-up Call, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153477/lslsxa4xkvfoakvq0jau.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153479/j1e2zjr6xhbawv7vhsgs.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153480/da93mp0zj0ljso6fyvet.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c75"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "flagShip": false,
-            "hotels": "Ananda In The Himalayas",
-            "lat": 30.158,
-            "lon": 78.291,
-            "address": "The Palace Estate, Narendra Nagar, Uttarakhand 249175",
-            "locationLink": "https://maps.app.goo.gl/7E8choLDK3FwbB3y6",
-            "category": "Ultra-luxury spa resort, Mountain spa retreat",
-            "roomTypes": "Rooms and Suites with Ganges valley views; specific room types not explicitly detailed with prices in snippets",
-            "facilities": "Parking, Pool, Spa, Restaurant, Yoga, Ayurveda, Hammam, Dining, Bar, Golf course, Billiards, Library, Shuttle Service, Doctor on call, Wi-Fi, Conference room, Power backup, Laundry Service, Meditation, Business Centre, Luggage assistance, CCTV, Fire extinguishers",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153482/vzaa84dcr2qhcr9ksmh5.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153483/bzqhm56roknr0geadcvt.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153485/b9i6s6sr6ykipkjkarmu.jpg"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f720f4dc4834768c76"
-        }
-    ]
+  "accommodation": [
+    {
+      "_id": "68c7f5f720f4dc4834768c6a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hotel Mahadev Rishikesh",
+      "lat": 30.073,
+      "lon": 78.253,
+      "address": "Karnprayag - Haridwar Rd, Malviya Nagar, IDPL Colony, Rishikesh, Uttarakhand 249203",
+      "locationLink": "https://maps.app.goo.gl/TPgdZ3YxTjqr65zQ9",
+      "category": "Mid-range, 3-star hotel",
+      "roomTypes": "Standard Room, Deluxe Room; Prices start from approx. ₹1615 - ₹1713 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Jungle Safari, Bonfire, Indoor Games, Coffee Shop, Smoking Rooms, Photocopying, Seating Area, Outdoor Furniture, Verandah, Lounge, Reception, Balcony/Terrace, Bonfire Pit, Professional Photography, Security Guard, Music System, Sitout Area, Kid's Menu, Terrace The Rooftop Cafe (Veg & Non-Veg), Hairdryer, Dental Kit, Work Desk",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153425/lod3yy6o6hqjhf7myil1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153426/fp4rkf1qvlimzwdlwmts.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153427/kiubyjfq7hg8xs55dwcl.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": true,
+      "hotels": "Terrakotta Rishikesh",
+      "lat": 30.13,
+      "lon": 78.328,
+      "address": "Laxman Jhula Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/mEwujCvkjmawEeTB8",
+      "category": "Boutique",
+      "roomTypes": "Average price approx. ₹3,666 per night",
+      "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Yoga Hall, Internet services, Buffet Breakfast, Room Service, Air-conditioned rooms, Daily housekeeping, 247 Security, CCTV, Photocopy/fax, 247 Front Desk, Free car parking",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153432/pimdasklemrf0j1coaby.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153433/qovponelfoh4kpauhwtb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153435/ntu3crhb8lkrtkeks3jd.jpg"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c70",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Punyah Residency Rishikesh",
+      "lat": 30.129,
+      "lon": 78.328,
+      "address": "Divine Ganga Cottage, near, Laxman Jhula, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/EhLdLoGnxSaH7vtR8",
+      "category": "Boutique",
+      "roomTypes": "Premium Room, Superior Double Room With Mountain View; Price approx. ₹2,891 + taxes per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Yoga Shala, 24-hour security, Air conditioning, CCTV, Commercial shops, Doctor on call, Elevator, Fire safety, Housekeeping, Intercom, Laundry service, Locker room, Newspaper, Smoke detector, Bike rental",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153452/rberjbstwwnfihh2ppsv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153453/bjxqfs3gb2fyk8ivieom.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153454/sopgfm7hlfka09dimvzv.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c74",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": true,
+      "hotels": "Anand Kashi by the Ganges",
+      "lat": 30.107,
+      "lon": 78.438,
+      "address": "Near 23rd Milestone, Badrinath Rd, Gular Dogi, Rishikesh, Uttarakhand 249303",
+      "locationLink": "https://maps.app.goo.gl/HrZXhYWGE4b8hpGW7",
+      "category": "Heritage",
+      "roomTypes": "Superior Room, Luxury Suite (River View, Tent), Deluxe Room (River View), Suite (Seleqtions Ganges); Prices start from approx. ₹38,000 - ₹44,794 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Woodsy Beach, Riverside Restaurant, Cultural and spiritual experiences (Aarti, stargazing), Rejuvenating spa treatments, Outdoor Pool, 24-hour Fitness Center, Private Beach Access, 24-Hour Room Service, Lounge, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153472/lvn3s3ret20xcz10s0ei.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153473/qchhrgjmkohuwy7beztp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153474/jclml3ltux8okijagmjo.jpg"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "ArtBuzz Rishikesh",
+      "lat": 30.128,
+      "lon": 78.325,
+      "address": "Gopal Nagar, near Anand Dham, Tapovan, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/kK93XgJFoM8dj1y39",
+      "category": "Mid-range, Hostel",
+      "roomTypes": "2 Beds in a Dorm, Private Rooms; Prices start from approx. ₹1068 per night (bunk bed)",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Housekeeping, Dining Area, Cafe, Fire Extinguishers, Luggage Storage, Air Conditioning, Elevator/Lift, Laundry Service, Drinking Water, Play Zone, Book Reading Area",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153428/gsooqsngjkao4mpnkkww.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153429/algxxdm0z199cpusviw6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153430/rn2lhhnjwwt6juziibdq.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hotel Ishan – A Riverside Retreat",
+      "lat": 30.126,
+      "lon": 78.329,
+      "address": "Lakshman Jhula, chowk, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/xgSK5qwYPoyYNxqh9",
+      "category": "Riverside, Art Deco Hotel",
+      "roomTypes": "Standard Room, Executive Room, Double Room; Average price approx. ₹6,386 - ₹7,906 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Yoga, Rooftop Terrace, 24-hour front desk, Snack bar/deli, Free self parking, Conference center, Business center, Meeting room, Air-conditioned accommodations, Fireplaces, Complimentary newspapers, Satellite channels, Showers, Housekeeping, Laundry facilities, Safe, Currency exchange, Disabled access, Refrigerator, Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153445/jxmtzzyqumgftlsalb7g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153447/zvhimlauxhfjak9iw9jy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153448/joyyd5epnc3dzhmf4wld.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c73",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Mahadev Resort & Cafe",
+      "lat": 30.132,
+      "lon": 78.323,
+      "address": "Deccan Valley Apts, Near, NH58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/Zd12FeMABh1H5s2Z9",
+      "category": "Boutique, 3-star Hotel",
+      "roomTypes": "Mountain View, 2 Double Beds; Prices start from approx. ₹2,343 per night",
+      "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Pool (unconfirmed by direct search), Free Wi-Fi, Smoking Rooms, Reception, Work Desk, Air Conditioning, 24-hour Room Service, Laundry Service, Smoke Detector, Toiletries, Mineral Water, Fire Extinguishers, 24-hour front desk, Self-serve laundry, Luggage storage, Tour/ticket assistance, Private bathroom, Daily housekeeping, Cooked-to-order breakfast, Pet friendly, Valet parking",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/t8ev1xks1spncjdfu2cr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/tuolfca7wbtqkjkbylhq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153471/zamff50l8o02qte7uw87.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c76",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Ananda In The Himalayas",
+      "lat": 30.158,
+      "lon": 78.291,
+      "address": "The Palace Estate, Narendra Nagar, Uttarakhand 249175",
+      "locationLink": "https://maps.app.goo.gl/7E8choLDK3FwbB3y6",
+      "category": "Ultra-luxury spa resort, Mountain spa retreat",
+      "roomTypes": "Rooms and Suites with Ganges valley views; specific room types not explicitly detailed with prices in snippets",
+      "facilities": "Parking, Pool, Spa, Restaurant, Yoga, Ayurveda, Hammam, Dining, Bar, Golf course, Billiards, Library, Shuttle Service, Doctor on call, Wi-Fi, Conference room, Power backup, Laundry Service, Meditation, Business Centre, Luggage assistance, CCTV, Fire extinguishers",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153482/vzaa84dcr2qhcr9ksmh5.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153483/bzqhm56roknr0geadcvt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153485/b9i6s6sr6ykipkjkarmu.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Seventh Heaven Inn",
+      "lat": 30.13,
+      "lon": 78.326,
+      "address": "Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/VLTLRLUA5LwEiW1R7",
+      "category": "Plush, Guesthouse",
+      "roomTypes": "Standard Room (₹2500-₹3000), Deluxe Room (₹3000-₹3500), Superior Deluxe Room (₹3500-₹4000)",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Cafe, Yoga Studio, Rooftop Terrace, Mountain Views",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153437/uweoa2qadmuart1csqq1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153438/kvccjdf2aqa1w90m5yar.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153439/fy0ry0ugugybtsklsorb.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c75",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Taj Rishikesh Resort & Spa",
+      "lat": 30.058,
+      "lon": 78.482,
+      "address": "Singthali, near Pebble Beach, Byasi, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/6GQrDzbRTYWVRA7r5",
+      "category": "Luxury Resort",
+      "roomTypes": "Villas with King-sized bed, lounge chairs, sofa, outdoor seating; Prices start at approx. INR 36,000 per night",
+      "facilities": "Parking, Pool, Spa, Gym, Restaurant, Yoga, Bar, Wellness facility (J Wellness Circle), Riverside dining, Nature walks, Wake-up Call, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153477/lslsxa4xkvfoakvq0jau.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153479/j1e2zjr6xhbawv7vhsgs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153480/da93mp0zj0ljso6fyvet.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Vyom Boutique Hotel",
+      "lat": 30.131,
+      "lon": 78.326,
+      "address": "NH 58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/revfLay9VhhEUh1r5",
+      "category": "Boutique",
+      "roomTypes": "Price approx. $35 + taxes & fees per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Swimming Pool, Jungle Safari, Bonfire, Rooftop Pool",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153441/iz8q5xglti19newm0d18.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153443/eefvwhfbtucjkgqoafqo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153444/shmtzkoosipo0fnhe12l.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c71",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Rêveries Luxury Hotel",
+      "lat": 30.127,
+      "lon": 78.32,
+      "address": "Badrinath Rd, opposite Kriya Yoga Ashram, Tapovan, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/a4K1Lhfb9D3zDoBW7",
+      "category": "Boutique, Luxury Hotel",
+      "roomTypes": "Double Bed, Room With Free Cancellation; Price starts at approx. INR 6,110 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Tours",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153458/zpcou22xlgbobuxogphu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153459/fie7dj6usnoiract5w02.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153460/wb3hbquwrjbz0ja8toxm.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c72",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hill Top Swiss Cottage",
+      "lat": 30.128,
+      "lon": 78.318,
+      "address": "High Bank Bhirkhet, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/FfjN9iLRJa8EdSdN8",
+      "category": "Cozy Chalet, Boutique Guesthouse",
+      "roomTypes": "Deluxe Single Room, Deluxe Double Room, Spectacular Double Sky Room, Spectacular Sky Single Room; Prices range approx. ₹1,463 - ₹2,786 per night",
+      "facilities": "Parking, Wi‑Fi, Spa, Restaurant, Gym, Bonfire, Indoor Games, Yoga, Iron/Ironing Board, Smoking Room, Bathroom, In-room Dining, Housekeeping, Laundry Service, Air Conditioning, Mineral Water, Room Service, Heater, Closet, Mini Fridge, Chair, Work Desk, Blackout Curtains, Dining Table, Charging Points, Woollen Blanket, TV, Refrigerator, Hairdryer, Dental Kit, Geyser/Water Heater, Toiletries, Hot & Cold Water, Ceiling Fan, Balcony, Kettle, Safety & Security, Car rental, Dry cleaning, Waiting area, Concierge, Ayurveda Clinic",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153464/qy0afx1a9flivgivrpbw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/j8jziaiqaqrm2hej7pd1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/mjgw1e03hnhcdfhcbsef.jpg"
+      ],
+      "premium": "FREE"
+    }
+  ]
 }

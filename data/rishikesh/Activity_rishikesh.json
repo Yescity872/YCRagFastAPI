@@ -1,174 +1,194 @@
 {
-    "Activity": [
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "White Water Rafting on the Ganges",
-            "bestPlaces": "Shivpuri → Rishikesh (16 km), Brahmpuri (9 km), Marine Drive (26 km), Kaudiyala (35 km)",
-            "description": "Rishikesh is world-famous for Ganges river rafting. Sections range from gentle (Grade I–II) to extreme (Grade III–IV) rapids. Popular stretches include Brahmpuri–Rishikesh (9 km, Grade I) for beginners and Shivpuri–Rishikesh (16 km, Grade I–II) for families. Thrill-seekers often opt for Kaudiyala (35 km, Grade III–IV), which packs intense rapids (like “The Wall”) into a half-day trip. All rafting tours include life jackets and helmets; guides instruct novices before launching.",
-            "essentials": "The rafting season runs roughly September–June (peak October–April). Wear a swimsuit/quick-dry clothes and old sports shoes. Pack sunscreen, a hat, sunglasses with a strap, and a waterproof pouch for valuables. Bring a change of dry clothes and towel for afterwards. Only swim if instructed by guides—the Ganges current is deceptively strong.",
-            "fee": "₹600–₹2500 per person depending on the distance and operator. Includes guide, safety gear, and sometimes transport.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153703/kowx9offu0w2mgf2z5jw.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/fNpEGJV5v-Q?si=AaaU0w8-N-eybWHv"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768c9d"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Yoga & Meditation at Ashrams",
-            "bestPlaces": "Parmarth Niketan, Sivananda Ashram, Anand Prakash Ashram (Tapovan)",
-            "description": "Known as the “Yoga Capital of the World,” Rishikesh has dozens of ashrams and schools where visitors can practice yoga, pranayama and meditation daily. Leading centers offer drop-in classes, multi-day retreats and even 200‑hour YTT (teacher training) courses. Classes may be gentle Hatha or Vinyasa flow, mantra chanting, kirtan or guided meditation – all set against the tranquil Ganges.",
-            "essentials": "Wear comfortable, modest activewear. Morning (sunrise) and evening sessions are most popular. Bring a yoga mat or towel (many ashrams provide mats, but having your own is handy). Ashrams are generally alcohol‑free and promote vegetarian diet; observing silence in certain areas is appreciated.",
-            "fee": "Drop-in classes: free to ₹500. Retreats: ₹5000–₹15000+ depending on the duration and ashram.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153705/vn78hxdqfbeuscmw25v0.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Rv1O8NyGG3I?si=VUCI53s66raxs9wV"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768c9e"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Evening Ganga Aarti Ceremony",
-            "bestPlaces": "Parmarth Niketan Ghat (serene and spiritual), Triveni Ghat (largest and most attended)",
-            "description": "Every evening at sunset, Rishikesh’s riverbanks come alive with the Ganga Aarti ritual. The most famous venue is Parmarth Niketan Ashram’s Ghats, where priests (and often schoolchildren) perform a fire-and-lamp ceremony accompanied by hymns. Devotees and visitors offer lamps to the river, and the glowing diya (oil lamp) waving to the current is a mesmerizing sight.",
-            "essentials": "Arrive ~30 min before sunset to get a good spot. Sit quietly, join in clapping or singing if you like. Respect local customs—women often wear a shawl, and photographers should not flash lights at the ceremony. You can float a small lamp into the Ganges (many ashrams sell them).",
-            "fee": "Free (optional diya purchase ₹20–₹50)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153706/bsfzghn1jc3wjmray4tb.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/_Sj-tf26TcY?si=jH-C7WOGN69mAqoP"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768c9f"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Explore Beatles Ashram (Chaurasi Kutia)",
-            "bestPlaces": "Inside Rajaji Reserve, near Ram Jhula",
-            "description": "The abandoned Maharishi Mahesh Yogi ashram – now popularly called the Beatles Ashram – is a cultural-historic site. Famous for hosting the Beatles in 1968, its overgrown ruins are decorated with colorful murals and graffiti inspired by their visit. Highlights include the old meditation caves and satsang hall. The atmosphere is both haunting and inspiring.",
-            "essentials": "The ashram is ~6 km from Laxman Jhula. Walk or rent a scooter to reach it through a forested path. Entry fee is modest. Carry water, insect repellent and a sunhat. The terrain is uneven – wear sturdy shoes. There are no facilities on site (no shops/water), so plan accordingly.",
-            "fee": "₹150 for Indians, ₹600 for foreigners",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153708/k8zbxzh5ctxmac0gilfd.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/zvxtCpb73Bg?si=y5q0g4H4MSB1wTM1"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca0"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Bungee Jumping & Giant Swing",
-            "bestPlaces": "Jumpin Heights, Mohanchatti (15 km from Rishikesh)",
-            "description": "For the ultimate adrenaline rush, head to Jumpin Heights. This is India’s highest fixed‑platform bungee site (83 meters). Leaping into the void from a rocky cliff is an unforgettable thrill. There are also a 270‑ft Giant Swing and Flying Fox zipline.",
-            "essentials": "Minimum age is 12 (with consent) and weight limits apply (40–110 kg). A safety briefing is mandatory. Do not attempt if you have heart problems, high blood pressure, recent injuries or other major medical issues. Wear comfortable clothes that won’t entangle; remove loose items beforehand. Early morning jumps mean shorter waits.",
-            "fee": "₹3700 per activity (Bungee or Swing), Zipline: ₹2000–₹3500, Transport from city: ₹500 (optional)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153709/l340qsclprmtthzonibf.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Y756Qzxpq1U?si=E5tvbxTesa2TwmAv"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca1"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Trekking to Neer Garh Waterfall & Neelkanth Temple",
-            "bestPlaces": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
-            "description": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
-            "essentials": "Wear trekking shoes. Carry water, snacks, mosquito repellent. Early start recommended. Dress modestly when visiting temples.",
-            "fee": "Neer Garh: ₹30 entry,Neelkanth: Free entry (donations welcome)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153711/wp1fzlvk9grsbnh9chy0.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/m41FahMG7jE?si=PzUs0QUJuEX7tXkl"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Visit Laxman Jhula, Ram Jhula & Temples",
-            "bestPlaces": "Laxman Jhula, Ram Jhula, Trimbakeshwar Temple, Bharat Mandir, Kunjapuri Temple",
-            "description": "Cross the iconic suspension bridges that connect ashrams and markets across the Ganges. Laxman Jhula is steeped in legend, believed to be crossed by Laxman. The temples nearby offer a rich blend of spiritual and historical significance.",
-            "essentials": "Best to visit early morning. Remove shoes before entering temples. Be cautious of monkeys near the bridges. Carry water and avoid littering.",
-            "fee": "Free (temples may accept ₹10–₹50 as donation)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153713/apttx2ja71hzvdvxxilb.jpg"
-            ],
-            "videos": [
-                "www.youtube.com/embed/Q_Yv0y009NU?si=qnL3IdR3zx98QqWS"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Riverside Camping & Bonfire",
-            "bestPlaces": "Shivpuri, Marine Drive, Byasi",
-            "description": "Stay in tented camps by the Ganges and enjoy bonfires, music, and outdoor activities. Most packages include meals, rafting, and hiking. It’s an offbeat way to enjoy Rishikesh’s natural beauty.",
-            "essentials": "Book through reputed operators. Carry warm clothes for night, flashlight, insect repellent, and basic toiletries. Don’t swim without a guide.",
-            "fee": "₹1000–₹2500 per person (includes camping, meals, and activities)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153714/lmgjk9dcd4iqxwymhjpc.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/O2unLAunpSM?si=FBpCtfCNnZYX2w1T"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Ayurvedic Massage and wellness",
-            "bestPlaces": "Swastha Yoga, Ayuskama Ayurveda, Ananda in the Himalayas (premium), Tapovan area",
-            "description": "Unwind with traditional Ayurvedic massages like Abhyanga, Shirodhara, or herbal steam baths. Ideal for relieving stress or post-adventure recovery. Some centers offer detox packages too.",
-            "essentials": "Book appointments in advance. Arrive early and mention any health issues. Don’t eat heavy meals just before therapy. Carry a fresh towel or use the clinic’s.",
-            "fee": "₹600–₹1500 per session (depending on type and location)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153715/y6wieq7kosegjwvids5y.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/dkqUPPreQVo?si=cFTjoaNcvONhJrJw"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "topActivities": "Kayaking & Canyoning",
-            "bestPlaces": "Shivpuri, Kaudiyala (kayaking), Mohanchatti (canyoning)",
-            "description": "Try solo or guided kayaking on the Ganges, or canyoning which includes waterfall rappelling, sliding down rocks, and swimming. It’s a raw adventure perfect for outdoor lovers.",
-            "essentials": "Must know basic swimming. Wear grip shoes and follow your guide strictly. Avoid monsoon season for canyoning.",
-            "fee": "Kayaking: ₹1500–₹2500,Canyoning: ₹3500–₹4500",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153718/auqgzzyxramsm7gzje6u.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/s-0VT_2sTXM?si=uSbsj-yj5YamLgf1"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ca6"
-        }
-    ]
+  "activity": [
+    {
+      "_id": "68c7f5f820f4dc4834768ca3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Visit Laxman Jhula, Ram Jhula & Temples",
+      "bestPlaces": "Laxman Jhula, Ram Jhula, Trimbakeshwar Temple, Bharat Mandir, Kunjapuri Temple",
+      "description": "Cross the iconic suspension bridges that connect ashrams and markets across the Ganges. Laxman Jhula is steeped in legend, believed to be crossed by Laxman. The temples nearby offer a rich blend of spiritual and historical significance.",
+      "essentials": [
+        "Best to visit early morning. Remove shoes before entering temples. Be cautious of monkeys near the bridges. Carry water and avoid littering."
+      ],
+      "fee": "Free (temples may accept ₹10–₹50 as donation)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153713/apttx2ja71hzvdvxxilb.jpg"
+      ],
+      "videos": [
+        "www.youtube.com/embed/Q_Yv0y009NU?si=qnL3IdR3zx98QqWS"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Riverside Camping & Bonfire",
+      "bestPlaces": "Shivpuri, Marine Drive, Byasi",
+      "description": "Stay in tented camps by the Ganges and enjoy bonfires, music, and outdoor activities. Most packages include meals, rafting, and hiking. It’s an offbeat way to enjoy Rishikesh’s natural beauty.",
+      "essentials": [
+        "Book through reputed operators. Carry warm clothes for night, flashlight, insect repellent, and basic toiletries. Don’t swim without a guide."
+      ],
+      "fee": "₹1000–₹2500 per person (includes camping, meals, and activities)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153714/lmgjk9dcd4iqxwymhjpc.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/O2unLAunpSM?si=FBpCtfCNnZYX2w1T"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Ayurvedic Massage and wellness",
+      "bestPlaces": "Swastha Yoga, Ayuskama Ayurveda, Ananda in the Himalayas (premium), Tapovan area",
+      "description": "Unwind with traditional Ayurvedic massages like Abhyanga, Shirodhara, or herbal steam baths. Ideal for relieving stress or post-adventure recovery. Some centers offer detox packages too.",
+      "essentials": [
+        "Book appointments in advance. Arrive early and mention any health issues. Don’t eat heavy meals just before therapy. Carry a fresh towel or use the clinic’s."
+      ],
+      "fee": "₹600–₹1500 per session (depending on type and location)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153715/y6wieq7kosegjwvids5y.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/dkqUPPreQVo?si=cFTjoaNcvONhJrJw"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Evening Ganga Aarti Ceremony",
+      "bestPlaces": "Parmarth Niketan Ghat (serene and spiritual), Triveni Ghat (largest and most attended)",
+      "description": "Every evening at sunset, Rishikesh’s riverbanks come alive with the Ganga Aarti ritual. The most famous venue is Parmarth Niketan Ashram’s Ghats, where priests (and often schoolchildren) perform a fire-and-lamp ceremony accompanied by hymns. Devotees and visitors offer lamps to the river, and the glowing diya (oil lamp) waving to the current is a mesmerizing sight.",
+      "essentials": [
+        "Arrive ~30 min before sunset to get a good spot. Sit quietly, join in clapping or singing if you like. Respect local customs—women often wear a shawl, and photographers should not flash lights at the ceremony. You can float a small lamp into the Ganges (many ashrams sell them)."
+      ],
+      "fee": "Free (optional diya purchase ₹20–₹50)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153706/bsfzghn1jc3wjmray4tb.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_Sj-tf26TcY?si=jH-C7WOGN69mAqoP"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Yoga & Meditation at Ashrams",
+      "bestPlaces": "Parmarth Niketan, Sivananda Ashram, Anand Prakash Ashram (Tapovan)",
+      "description": "Known as the “Yoga Capital of the World,” Rishikesh has dozens of ashrams and schools where visitors can practice yoga, pranayama and meditation daily. Leading centers offer drop-in classes, multi-day retreats and even 200‑hour YTT (teacher training) courses. Classes may be gentle Hatha or Vinyasa flow, mantra chanting, kirtan or guided meditation – all set against the tranquil Ganges.",
+      "essentials": [
+        "Wear comfortable, modest activewear. Morning (sunrise) and evening sessions are most popular. Bring a yoga mat or towel (many ashrams provide mats, but having your own is handy). Ashrams are generally alcohol‑free and promote vegetarian diet; observing silence in certain areas is appreciated."
+      ],
+      "fee": "Drop-in classes: free to ₹500. Retreats: ₹5000–₹15000+ depending on the duration and ashram.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153705/vn78hxdqfbeuscmw25v0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Rv1O8NyGG3I?si=VUCI53s66raxs9wV"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "White Water Rafting on the Ganges",
+      "bestPlaces": "Shivpuri → Rishikesh (16 km), Brahmpuri (9 km), Marine Drive (26 km), Kaudiyala (35 km)",
+      "description": "Rishikesh is world-famous for Ganges river rafting. Sections range from gentle (Grade I–II) to extreme (Grade III–IV) rapids. Popular stretches include Brahmpuri–Rishikesh (9 km, Grade I) for beginners and Shivpuri–Rishikesh (16 km, Grade I–II) for families. Thrill-seekers often opt for Kaudiyala (35 km, Grade III–IV), which packs intense rapids (like “The Wall”) into a half-day trip. All rafting tours include life jackets and helmets; guides instruct novices before launching.",
+      "essentials": [
+        "The rafting season runs roughly September–June (peak October–April). Wear a swimsuit/quick-dry clothes and old sports shoes. Pack sunscreen, a hat, sunglasses with a strap, and a waterproof pouch for valuables. Bring a change of dry clothes and towel for afterwards. Only swim if instructed by guides—the Ganges current is deceptively strong."
+      ],
+      "fee": "₹600–₹2500 per person depending on the distance and operator. Includes guide, safety gear, and sometimes transport.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153703/kowx9offu0w2mgf2z5jw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/fNpEGJV5v-Q?si=AaaU0w8-N-eybWHv"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Explore Beatles Ashram (Chaurasi Kutia)",
+      "bestPlaces": "Inside Rajaji Reserve, near Ram Jhula",
+      "description": "The abandoned Maharishi Mahesh Yogi ashram – now popularly called the Beatles Ashram – is a cultural-historic site. Famous for hosting the Beatles in 1968, its overgrown ruins are decorated with colorful murals and graffiti inspired by their visit. Highlights include the old meditation caves and satsang hall. The atmosphere is both haunting and inspiring.",
+      "essentials": [
+        "The ashram is ~6 km from Laxman Jhula. Walk or rent a scooter to reach it through a forested path. Entry fee is modest. Carry water, insect repellent and a sunhat. The terrain is uneven – wear sturdy shoes. There are no facilities on site (no shops/water), so plan accordingly."
+      ],
+      "fee": "₹150 for Indians, ₹600 for foreigners",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153708/k8zbxzh5ctxmac0gilfd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zvxtCpb73Bg?si=y5q0g4H4MSB1wTM1"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Bungee Jumping & Giant Swing",
+      "bestPlaces": "Jumpin Heights, Mohanchatti (15 km from Rishikesh)",
+      "description": "For the ultimate adrenaline rush, head to Jumpin Heights. This is India’s highest fixed‑platform bungee site (83 meters). Leaping into the void from a rocky cliff is an unforgettable thrill. There are also a 270‑ft Giant Swing and Flying Fox zipline.",
+      "essentials": [
+        "Minimum age is 12 (with consent) and weight limits apply (40–110 kg). A safety briefing is mandatory. Do not attempt if you have heart problems, high blood pressure, recent injuries or other major medical issues. Wear comfortable clothes that won’t entangle; remove loose items beforehand. Early morning jumps mean shorter waits."
+      ],
+      "fee": "₹3700 per activity (Bungee or Swing), Zipline: ₹2000–₹3500, Transport from city: ₹500 (optional)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153709/l340qsclprmtthzonibf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Y756Qzxpq1U?si=E5tvbxTesa2TwmAv"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Trekking to Neer Garh Waterfall & Neelkanth Temple",
+      "bestPlaces": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
+      "description": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
+      "essentials": [
+        "Wear trekking shoes. Carry water, snacks, mosquito repellent. Early start recommended. Dress modestly when visiting temples."
+      ],
+      "fee": "Neer Garh: ₹30 entry,Neelkanth: Free entry (donations welcome)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153711/wp1fzlvk9grsbnh9chy0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/m41FahMG7jE?si=PzUs0QUJuEX7tXkl"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Kayaking & Canyoning",
+      "bestPlaces": "Shivpuri, Kaudiyala (kayaking), Mohanchatti (canyoning)",
+      "description": "Try solo or guided kayaking on the Ganges, or canyoning which includes waterfall rappelling, sliding down rocks, and swimming. It’s a raw adventure perfect for outdoor lovers.",
+      "essentials": [
+        "Must know basic swimming. Wear grip shoes and follow your guide strictly. Avoid monsoon season for canyoning."
+      ],
+      "fee": "Kayaking: ₹1500–₹2500,Canyoning: ₹3500–₹4500",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153718/auqgzzyxramsm7gzje6u.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/s-0VT_2sTXM?si=uSbsj-yj5YamLgf1"
+      ],
+      "premium": "FREE"
+    }
+  ]
 }

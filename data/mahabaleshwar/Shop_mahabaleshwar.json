@@ -19,7 +19,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196226/rn9w0bjlyxdrxi3yrup5.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196228/oq1pgwumop6ppcojzx7g.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196229/klxgq8os3mgdwolbbedg.webp"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c35",
@@ -40,7 +41,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196236/mtqwjlycuprqd3oadjhs.png",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196238/hvcgrxgiww8rkeo2gcbp.png",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196239/q06kkemcrydh8s5stz6n.png"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c32",
@@ -61,7 +63,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196221/ubpheejuzebgtkpvckzt.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196223/qzyx3lpypljb5rffhu54.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196224/jpsomh9oikw1udeqazyp.webp"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c36",
@@ -82,7 +85,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196241/ytcq8kc5xsbkvfgz4ss4.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196243/l8n1ovuoihjdhy0xtpax.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196246/ghd4eekykcdleoakx4oc.webp"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c30",
@@ -103,7 +107,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196210/fkmkzg83yk77ktliwxyl.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196212/uxcgbawhethl0njiqriz.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196213/shljckrat2gkv30hgb0e.webp"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c31",
@@ -124,7 +129,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196216/hue9jnv64xqtkr640vog.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196217/ypfkpdbiuutw2v8iotqp.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196219/cdllpzbahvydguhq7cba.webp"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c34",
@@ -145,7 +151,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196230/kz9axbilntel9lwidhih.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196233/u855dspweuvl9ohatark.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196234/kvbrguhtz8497dhgwht9.webp"
-      ]
+      ],
+      "premium": "FREE"
     }
   ]
 }

@@ -1,0 +1,204 @@
+{
+  "transport": [
+    {
+      "_id": "68e02d6cbd1f9c367048dda4",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Saryu Ghat/Ram ki Paidi",
+      "autoPrice": "Rs 100-120",
+      "bikePrice": "Rs 190-240",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda8",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Kanak Bhawan",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb0",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Bharat Kund, Nandigram",
+      "autoPrice": null,
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb4",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Saryu Ghat/Ram ki Paidi",
+      "to": "Guptar Ghat",
+      "autoPrice": "Rs 140-160",
+      "bikePrice": "Rs 200-250",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda5",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddab",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs120-170",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddad",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "New International Bus Station",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs 140-190",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddae",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "New International Bus Station",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 70-90",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb2",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Gulab Bari",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 70-120",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb5",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Saryu Ghat/Ram ki Paidi",
+      "to": "Tulasi Smarak Bhavan:",
+      "autoPrice": "Rs 30-50",
+      "bikePrice": "Rs 40-90",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda3",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 130-180",
+      "bikePrice": "Rs 80-100",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda7",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Saryu Ghat/Ram ki Paidi",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 40-60",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddaa",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddac",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Guptar Ghat",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 60-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb1",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Surya Kund",
+      "autoPrice": "Rs 70-90",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb3",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Ammaji Mandir",
+      "autoPrice": "Rs 20-40",
+      "bikePrice": "Rs 40-90",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda2",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 130-180",
+      "bikePrice": "Rs 80-100",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda6",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 30-80",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda9",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Lata Mangeshkar Chowk",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddaf",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Shri Nageshwar Nath Mandir",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 60-110",
+      "premium": "FREE"
+    }
+  ]
+}

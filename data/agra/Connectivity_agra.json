@@ -9,7 +9,8 @@
       "lat": 27.1774,
       "lon": 77.9725,
       "locationLink": "https://maps.app.goo.gl/S9uNdWQgW52uNySG6",
-      "majorFlightsTrainsBuses": "Gatimaan Express (12050/12049)[Hazrat Nizamuddin Delhi to Jhansi]"
+      "majorFlightsTrainsBuses": "Gatimaan Express (12050/12049)[Hazrat Nizamuddin Delhi to Jhansi]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a4e",
@@ -20,7 +21,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Shatabdi Express (12002/12001)[NDLS to Rani Kamlapati]"
+      "majorFlightsTrainsBuses": "Shatabdi Express (12002/12001)[NDLS to Rani Kamlapati]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a56",
@@ -31,7 +33,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Lucknow to Agra"
+      "majorFlightsTrainsBuses": "Buses from Lucknow to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a44",
@@ -42,7 +45,8 @@
       "lat": 27.159,
       "lon": 77.9725,
       "locationLink": "https://www.google.co.in/maps/place/Agra+Cantt+Railway+Station/@27.1590313, 77.988031, 824m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397477344275ecd1:0x5b6099da36ceecbc!8m2!3d27.1590313!4d77.9906059!16s%2Fg%2F11j8jzg809?entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D",
-      "majorFlightsTrainsBuses": "Flight from Ahmedabad to Agra"
+      "majorFlightsTrainsBuses": "Flight from Ahmedabad to Agra",
+      "premium": "A"
     },
     {
       "_id": "68c7f22820f4dc4834768a46",
@@ -53,7 +57,8 @@
       "lat": 27.182,
       "lon": 78.0091,
       "locationLink": "https://maps.app.goo.gl/haMztxXH9NYTM6vH8",
-      "majorFlightsTrainsBuses": "Flight from Hyderabad to Agra"
+      "majorFlightsTrainsBuses": "Flight from Hyderabad to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a50",
@@ -64,7 +69,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": " Hirakud Express (20807)[Visakhapatnam Railway Station to Amritsar Junction]"
+      "majorFlightsTrainsBuses": " Hirakud Express (20807)[Visakhapatnam Railway Station to Amritsar Junction]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a53",
@@ -75,7 +81,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "KOAA AGC Express (13167)[Kolkata to Agra Cantt]"
+      "majorFlightsTrainsBuses": "KOAA AGC Express (13167)[Kolkata to Agra Cantt]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a54",
@@ -86,7 +93,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Delhi to Agra"
+      "majorFlightsTrainsBuses": "Buses from Delhi to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a5a",
@@ -97,7 +105,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Dehradun to Agra"
+      "majorFlightsTrainsBuses": "Buses from Dehradun to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a45",
@@ -108,7 +117,8 @@
       "lat": 27.1944,
       "lon": 78.0158,
       "locationLink": "https://www.google.co.in/maps/place/Agra+City/@27.1944726, 78.0133181, 823m/data=!3m2!1e3!4b1!4m6!3m5!1s0x397477344b07bd8f:0x9a77463af7cc5b11!8m2!3d27.1944726!4d78.015893!16s%2Fm%2F04m_mr6?entry=ttu&g_ep=EgoyMDI1MDUxNS4xIKXMDSoASAFQAw%3D%3D",
-      "majorFlightsTrainsBuses": "Flight from Bengaluru to Agra"
+      "majorFlightsTrainsBuses": "Flight from Bengaluru to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a48",
@@ -119,7 +129,8 @@
       "lat": 27.192,
       "lon": 78.0363,
       "locationLink": "https://maps.app.goo.gl/4gkDPkacnGzTwkaa6",
-      "majorFlightsTrainsBuses": "Flight from Bhopal to Agra"
+      "majorFlightsTrainsBuses": "Flight from Bhopal to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a49",
@@ -130,7 +141,8 @@
       "lat": 27.1568,
       "lon": 78.9227,
       "locationLink": "https://maps.app.goo.gl/TeSx9o482k2LGatK6",
-      "majorFlightsTrainsBuses": "Flight from Kolkata to Agra"
+      "majorFlightsTrainsBuses": "Flight from Kolkata to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a4a",
@@ -141,7 +153,8 @@
       "lat": 27.1764,
       "lon": 77.912,
       "locationLink": "https://maps.app.goo.gl/fDffMpXMigN5BRvn8",
-      "majorFlightsTrainsBuses": "Flight from Lucknow to Agra"
+      "majorFlightsTrainsBuses": "Flight from Lucknow to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a51",
@@ -152,7 +165,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Utkal Express (18477)[Puri to Yog Nagari Rishikesh]"
+      "majorFlightsTrainsBuses": "Utkal Express (18477)[Puri to Yog Nagari Rishikesh]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a58",
@@ -163,7 +177,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Gurgaon to Agra"
+      "majorFlightsTrainsBuses": "Buses from Gurgaon to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a59",
@@ -174,7 +189,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Kanpur to Agra"
+      "majorFlightsTrainsBuses": "Buses from Kanpur to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a43",
@@ -185,7 +201,8 @@
       "lat": 27.1578,
       "lon": 77.9592,
       "locationLink": "https://maps.app.goo.gl/QE8Nd2XAhRCjbZG27",
-      "majorFlightsTrainsBuses": "Flight from Jaipur to Agra"
+      "majorFlightsTrainsBuses": "Flight from Jaipur to Agra",
+      "premium": "A"
     },
     {
       "_id": "68c7f22820f4dc4834768a47",
@@ -196,7 +213,8 @@
       "lat": 27.1738,
       "lon": 77.9999,
       "locationLink": "https://maps.app.goo.gl/gF1wtVsBGiD5ukWD8",
-      "majorFlightsTrainsBuses": "Flight from Mumbai to Agra"
+      "majorFlightsTrainsBuses": "Flight from Mumbai to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a4b",
@@ -207,7 +225,8 @@
       "lat": 27.2231,
       "lon": 77.896,
       "locationLink": "https://maps.app.goo.gl/4mysuLe2biLwhBbx6",
-      "majorFlightsTrainsBuses": "Vande Bharat Express (20175/20176)[Banaras to Agra Cantt]"
+      "majorFlightsTrainsBuses": "Vande Bharat Express (20175/20176)[Banaras to Agra Cantt]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a4c",
@@ -218,7 +237,8 @@
       "lat": 27.1579,
       "lon": 77.9206,
       "locationLink": "https://maps.app.goo.gl/BD1hWfUP4faEvNiw8",
-      "majorFlightsTrainsBuses": "HW LTT AC Express (12172) [Haridwar to Lokmanya Tilak]"
+      "majorFlightsTrainsBuses": "HW LTT AC Express (12172) [Haridwar to Lokmanya Tilak]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a4f",
@@ -229,7 +249,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Virangana Lakshmibai Exp (11901)[Jhansi to Agra Cantt]"
+      "majorFlightsTrainsBuses": "Virangana Lakshmibai Exp (11901)[Jhansi to Agra Cantt]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a52",
@@ -240,7 +261,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Marudhar Express (14853/14863)[Varanasi City to Jodhpur]"
+      "majorFlightsTrainsBuses": "Marudhar Express (14853/14863)[Varanasi City to Jodhpur]",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a55",
@@ -251,7 +273,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Jaipur to Agra"
+      "majorFlightsTrainsBuses": "Buses from Jaipur to Agra",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22820f4dc4834768a57",
@@ -262,7 +285,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Varanasi to Agra"
+      "majorFlightsTrainsBuses": "Buses from Varanasi to Agra",
+      "premium": "FREE"
     }
   ]
 }

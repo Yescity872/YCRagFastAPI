@@ -24,33 +24,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/68QJ5BS0Gdk?si=PHHPB1YVFhWPELz1"
-      ]
-    },
-    {
-      "_id": "68c7f22920f4dc4834768ac4",
-      "cityId": "68c7454b4ea2df675385f351",
-      "cityName": "Agra",
-      "hiddenGem": "Soor Sarovar Bird Sanctuary",
-      "category": "Nature / Bird Watching / Eco Sp",
-      "lat": 27.236,
-      "lon": 77.85,
-      "address": "6VP3+C32, Mathura Delhi Highway, Near Runakata, near Walter World, Dolfine, Arsena, Uttar Pradesh 282007",
-      "locationLink": "https://maps.app.goo.gl/KVNY71SAcGSoasyu5",
-      "openDay": "Monday to Sunday",
-      "openTime": "08:00AM - 06:00PM",
-      "establishYear": "1991",
-      "fee": "₹ 20 - ₹ 30",
-      "description": "Soor Sarovar Bird Sanctuary, also known as Keetham Lake, is a scenic ecological reserve located near Agra. Home to over 160 species of birds, it serves as a peaceful haven for migratory and resident species alike, including the sarus crane, spoonbills, and kingfishers. The sanctuary is also home to the Wildlife SOS Bear Rescue Center, which shelters rescued dancing bears. Ideal for birdwatchers and nature lovers, this Ramsar-designated wetland offers both ecological richness and spiritual calm, as it’s named after the blind poet-saint Soordas, believed to have composed devotional hymns here.",
-      "essential": "Entry is permitted during daylight hours only, usually between 6:00 AM and 6:00 PM, and a nominal entry fee is charged. Silence must be maintained to avoid disturbing wildlife. Plastic items are banned, and littering is strictly prohibited. Visitors are not allowed to feed or approach animals or birds. Use of drones, loudspeakers, or music devices is prohibited. Photography is allowed for personal use; professional photography may require prior permission. It is advised to wear muted colors and comfortable walking shoes. Boating may be available at Keetham Lake during certain seasons. Follow all forest department rules and staff instructions.",
-      "story": "Soor Sarovar Bird Sanctuary, located near Agra along the Yamuna River, is a rich ecological haven named after the 17th-century blind poet Soordas, who composed devotional verses in praise of Lord Krishna. Spanning over 7.9 square kilometers, the sanctuary surrounds the tranquil Keetham Lake and is home to more than 165 species of migratory and resident birds, making it a key spot for birdwatchers and nature enthusiasts. Declared a Ramsar site for its ecological importance, the sanctuary provides a crucial refuge for birds like spoonbills, egrets, kingfishers, and the sarus crane. Its landscape of marshes, woodlands, and open water supports a rich biodiversity, including reptiles and mammals like jackals and blue bulls. Beyond its natural beauty, the sanctuary also houses the Wildlife SOS Bear Rescue Center, which rehabilitates rescued dancing bears and educates the public on animal welfare. The sanctuary’s significance lies not only in its biodiversity but also in its integration of conservation and community education. Named in honor of Soordas, who is believed to have composed much of his poetry near this serene lake, the sanctuary serves as a spiritual and environmental retreat, embodying the poetic harmony between nature and devotion. It stands today as both a sanctuary for wildlife and a monument to India’s literary and ecological heritage.",
-      "images": [
-        "https://i.pinimg.com/474x/8d/a7/ae/8da7ae2dce45006ab0aa9eebf0f32285.jpg",
-        "https://i.pinimg.com/474x/82/1d/d5/821dd5c7208beeddfbf3d9f9c4d8caa9.jpg",
-        "https://i.pinimg.com/474x/66/cf/1c/66cf1c5cca21e87ff77fe91ac0d9d249.jpg"
       ],
-      "videos": [
-        "https://www.youtube.com/embed/VGs6pp_tzPo?si=kH1UyoqzxZWgRt2C"
-      ]
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ac7",
@@ -76,7 +51,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/Tlq383v837I?si=30pOzGliQD_v7H7Q"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f22920f4dc4834768ac5",
@@ -102,7 +78,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/h0nfTkyzUH4?si=JNSFPxNemzahlmPJ"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f22920f4dc4834768ac6",
@@ -128,7 +105,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/ElhtG1br8xc?si=yEW--D6Ur3P3bMpn"
-      ]
+      ],
+      "premium": "FREE"
     }
   ]
 }

@@ -1,148 +1,156 @@
 {
-    "Activity": [
-        {
-            "_id": "68c7f27d20f4dc4834768b67",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Yoga Session",
-            "bestPlaces": "Assi Ghat Ashrams",
-            "description": "Begin your day at Subah-e-Banaras, a serene early morning program held at Assi Ghat. The session includes open-air yoga, Vedic chanting, and live classical music as the sun rises over the Ganges",
-            "essentials": [
-                "Practicing yoga at Assi Ghat during Subah-e-Banaras connects body, mind, and spirit in one of India’s most sacred cities. With live classical music and the Ganga flowing beside you, it’s a refreshing, soulful experience — perfect to start your day with peace and energy."
-            ],
-            "fee": "free (public at Assi Ghat), ₹150–₹300 (guided/private), ₹500 (premium)        Join free sessions at Assi Ghat or pay for trained instructors/yoga schools.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438049/w5ltoqjuifpm6aimxuvu.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/GjP8Uc2d-vI?si=CZCbtzhLTgkpjRk0"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b64",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Ganga Aarti",
-            "bestPlaces": "Dashashwamedh Ghat ",
-            "description": "A mesmerizing fire ceremony held at Dashashwamedh Ghat every evening. Priests chant mantras with synchronized hand movements, offering lamps to River Ganga. The sky glows with lights and spiritual music fills the air.\"",
-            "essentials": [
-                "The Ganga Aarti is the spiritual soul of Varanasi — a must-attend for every visitor. The synchronized ritual of flames, chants, and conch shells creates a divine atmosphere that feels both ancient and alive."
-            ],
-            "fee": "Free general access; VIP seating ₹150–₹300 for closer views.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438044/gg420oasihcdshqqwlzh.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/XjiLp_KXWV0?si=nhiMiEPWskU7z8VS"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b6b",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Cremation Ghat tour",
-            "bestPlaces": "Manikarnika Ghat ",
-            "description": "Manikarnika Ghat is the main cremation ghat of Varanasi, where Hindu funeral rites are performed day and night. As sacred fires burn continuously, visitors witness the cycle of life, death, and liberation — an intense yet deeply spiritual experience.",
-            "essentials": [
-                "Visiting Manikarnika Ghat offers a rare, powerful glimpse into Hindu beliefs about life, death, and liberation. It’s an emotional and spiritual experience that helps you understand Varanasi’s deeper meaning — not just as a place, but as a path to moksha"
-            ],
-            "fee": "Self-guided visit: Free (open public area);Guided walking tour: ₹300–₹600 per person (includes cultural and religious context, myths, and history);View from boat (highly recommended): ₹200–₹400 (shared boat), ₹700+ (private boat with multiple ghats)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438057/nkihfhwsn5ybesarizpm.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/z9JGoQJ7uJA?si=ZI0_0kHrVdGNbUpd"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b65",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Sunrise boat ride",
-            "bestPlaces": "Assi Ghat/Main Ghats",
-            "description": "Glide along misty ghats pre-dawn to witness monks, bathers, and temple rituals come alive with the sunrise reflecting on the water. A deeply immersive morning experience.",
-            "essentials": [
-                " A sunrise boat ride is one of the most peaceful and spiritual ways to experience Varanasi. As the city slowly wakes up, the calm waters reflect the golden sky, morning prayers, and ancient ghats — offering a rare glimpse into the soul of Kashi"
-            ],
-            "fee": "₹100–₹200 (shared), ₹800–₹1500 (private), ₹2500+ (luxury motorboat)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438045/pyztte34en8cec5xojyo.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/V6yPB9SGY9Q?si=iKiEHoEyfa6O3GGp"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b66",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Saree weaving workshop",
-            "bestPlaces": "Madanpura/Lallapura",
-            "description": "Visit handloom workshops to see artisans tying zari threads, setting pallu designs, and finishing saree edges. Some weavers let you try the shuttle for a line or two!",
-            "essentials": [
-                "This workshop offers a rare, up-close look at the making of the iconic Banarasi saree. From spinning silk threads to intricate handloom work, it’s a must-visit for anyone interested in textiles, traditional art, or supporting local artisans."
-            ],
-            "fee": "₹100 (entry only), ₹200–₹300 (with demo/guide), ₹500+ (with shopping)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438048/cnz8ebp9zg38zuippbzw.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/wVHC8FIktdc?si=K_F3SZsovtBmlRu8"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b6a",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Walking heritage tour",
-            "bestPlaces": "Old city Alleys",
-            "description": "Discover the real Varanasi on foot as you explore its labyrinthine alleys, ancient temples, forgotten shrines, bustling markets, and sacred ghats. Guided by locals, the tour unveils fascinating myths, architecture, and everyday life in this 3,000-year-old living city.",
-            "essentials": [
-                "This tour lets you explore the hidden layers of Varanasi beyond the ghats — through ancient lanes, sacred temples, and stories that aren’t in guidebooks. It’s the best way to experience the city’s living history, culture, and daily life up close."
-            ],
-            "fee": "₹300–₹500 (group), ₹700–₹1000 (private), ₹1000+ (with historian)",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438056/vjnb9h1puritouxqphlo.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Odh_7dQwzYQ?si=zF1wZu6mCyz4y4wz"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b68",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Food walk",
-            "bestPlaces": "Godowlia chowk",
-            "description": "Take your taste buds on a walk through the chaotic and flavorful streets of Varanasi. From crispy kachori sabzi and spicy chaat to the iconic Banarasi paan and sweet malaiyyo, this guided food walk lets you experience the city's culinary culture one bite at a time.",
-            "essentials": [
-                "A food walk in Varanasi is the tastiest way to explore the city’s culture. It lets you experience authentic Banarasi flavors, hidden street stalls, and age-old recipes while walking through buzzing local lanes"
-            ],
-            "fee": "₹300–₹600 per person (basic), ₹800–₹1500 (premium walk with 5–7 dishes)Cost depends on number of stops and dishes.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438051/zv6xyjv2ldskhoq2jvgj.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/hIgEbrwYPWs?si=1G9eTYMIYbXoPAEF"
-            ]
-        },
-        {
-            "_id": "68c7f27d20f4dc4834768b69",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "topActivities": "Classical Music class",
-            "bestPlaces": "Assi Ghat/Music Gurukuls",
-            "description": "Dive into the soul of Indian classical music with a lesson in vocals, sitar, tabla, or flute from renowned gurus of Varanasi. These classes offer hands-on guidance and an introduction to the ragas that echo through this ancient city.                      ",
-            "essentials": [
-                "Learning music in Varanasi connects you with a timeless tradition shaped by legends like Ravi Shankar and Bismillah Khan. Whether it’s tabla, sitar, or vocals, even one session offers deep cultural insight and a soulful glimpse into the city's artistic heritage."
-            ],
-            "fee": "₹200 (intro class), ₹500–₹1000 (hourly with professional)\t",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438053/icvf3di5cyxlbosvt0gp.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/kvj0TkuPqY0?si=j05yFxBLxamrp-ep"
-            ]
-        }
-    ]
+  "activity": [
+    {
+      "_id": "68c7f27d20f4dc4834768b67",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Yoga Session",
+      "bestPlaces": "Assi Ghat Ashrams",
+      "description": "Begin your day at Subah-e-Banaras, a serene early morning program held at Assi Ghat. The session includes open-air yoga, Vedic chanting, and live classical music as the sun rises over the Ganges",
+      "essentials": [
+        "Practicing yoga at Assi Ghat during Subah-e-Banaras connects body, mind, and spirit in one of India’s most sacred cities. With live classical music and the Ganga flowing beside you, it’s a refreshing, soulful experience — perfect to start your day with peace and energy."
+      ],
+      "fee": "free (public at Assi Ghat), ₹150–₹300 (guided/private), ₹500 (premium)        Join free sessions at Assi Ghat or pay for trained instructors/yoga schools.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438049/w5ltoqjuifpm6aimxuvu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GjP8Uc2d-vI?si=CZCbtzhLTgkpjRk0"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b64",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Ganga Aarti",
+      "bestPlaces": "Dashashwamedh Ghat ",
+      "description": "A mesmerizing fire ceremony held at Dashashwamedh Ghat every evening. Priests chant mantras with synchronized hand movements, offering lamps to River Ganga. The sky glows with lights and spiritual music fills the air.\"",
+      "essentials": [
+        "The Ganga Aarti is the spiritual soul of Varanasi — a must-attend for every visitor. The synchronized ritual of flames, chants, and conch shells creates a divine atmosphere that feels both ancient and alive."
+      ],
+      "fee": "Free general access; VIP seating ₹150–₹300 for closer views.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438044/gg420oasihcdshqqwlzh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/XjiLp_KXWV0?si=nhiMiEPWskU7z8VS"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b6b",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Cremation Ghat tour",
+      "bestPlaces": "Manikarnika Ghat ",
+      "description": "Manikarnika Ghat is the main cremation ghat of Varanasi, where Hindu funeral rites are performed day and night. As sacred fires burn continuously, visitors witness the cycle of life, death, and liberation — an intense yet deeply spiritual experience.",
+      "essentials": [
+        "Visiting Manikarnika Ghat offers a rare, powerful glimpse into Hindu beliefs about life, death, and liberation. It’s an emotional and spiritual experience that helps you understand Varanasi’s deeper meaning — not just as a place, but as a path to moksha"
+      ],
+      "fee": "Self-guided visit: Free (open public area);Guided walking tour: ₹300–₹600 per person (includes cultural and religious context, myths, and history);View from boat (highly recommended): ₹200–₹400 (shared boat), ₹700+ (private boat with multiple ghats)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438057/nkihfhwsn5ybesarizpm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/z9JGoQJ7uJA?si=ZI0_0kHrVdGNbUpd"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b65",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Sunrise boat ride",
+      "bestPlaces": "Assi Ghat/Main Ghats",
+      "description": "Glide along misty ghats pre-dawn to witness monks, bathers, and temple rituals come alive with the sunrise reflecting on the water. A deeply immersive morning experience.",
+      "essentials": [
+        " A sunrise boat ride is one of the most peaceful and spiritual ways to experience Varanasi. As the city slowly wakes up, the calm waters reflect the golden sky, morning prayers, and ancient ghats — offering a rare glimpse into the soul of Kashi"
+      ],
+      "fee": "₹100–₹200 (shared), ₹800–₹1500 (private), ₹2500+ (luxury motorboat)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438045/pyztte34en8cec5xojyo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/V6yPB9SGY9Q?si=iKiEHoEyfa6O3GGp"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b66",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Saree weaving workshop",
+      "bestPlaces": "Madanpura/Lallapura",
+      "description": "Visit handloom workshops to see artisans tying zari threads, setting pallu designs, and finishing saree edges. Some weavers let you try the shuttle for a line or two!",
+      "essentials": [
+        "This workshop offers a rare, up-close look at the making of the iconic Banarasi saree. From spinning silk threads to intricate handloom work, it’s a must-visit for anyone interested in textiles, traditional art, or supporting local artisans."
+      ],
+      "fee": "₹100 (entry only), ₹200–₹300 (with demo/guide), ₹500+ (with shopping)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438048/cnz8ebp9zg38zuippbzw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wVHC8FIktdc?si=K_F3SZsovtBmlRu8"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b6a",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Walking heritage tour",
+      "bestPlaces": "Old city Alleys",
+      "description": "Discover the real Varanasi on foot as you explore its labyrinthine alleys, ancient temples, forgotten shrines, bustling markets, and sacred ghats. Guided by locals, the tour unveils fascinating myths, architecture, and everyday life in this 3,000-year-old living city.",
+      "essentials": [
+        "This tour lets you explore the hidden layers of Varanasi beyond the ghats — through ancient lanes, sacred temples, and stories that aren’t in guidebooks. It’s the best way to experience the city’s living history, culture, and daily life up close."
+      ],
+      "fee": "₹300–₹500 (group), ₹700–₹1000 (private), ₹1000+ (with historian)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438056/vjnb9h1puritouxqphlo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Odh_7dQwzYQ?si=zF1wZu6mCyz4y4wz"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b68",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Food walk",
+      "bestPlaces": "Godowlia chowk",
+      "description": "Take your taste buds on a walk through the chaotic and flavorful streets of Varanasi. From crispy kachori sabzi and spicy chaat to the iconic Banarasi paan and sweet malaiyyo, this guided food walk lets you experience the city's culinary culture one bite at a time.",
+      "essentials": [
+        "A food walk in Varanasi is the tastiest way to explore the city’s culture. It lets you experience authentic Banarasi flavors, hidden street stalls, and age-old recipes while walking through buzzing local lanes"
+      ],
+      "fee": "₹300–₹600 per person (basic), ₹800–₹1500 (premium walk with 5–7 dishes)Cost depends on number of stops and dishes.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438051/zv6xyjv2ldskhoq2jvgj.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/hIgEbrwYPWs?si=1G9eTYMIYbXoPAEF"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27d20f4dc4834768b69",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "topActivities": "Classical Music class",
+      "bestPlaces": "Assi Ghat/Music Gurukuls",
+      "description": "Dive into the soul of Indian classical music with a lesson in vocals, sitar, tabla, or flute from renowned gurus of Varanasi. These classes offer hands-on guidance and an introduction to the ragas that echo through this ancient city.                      ",
+      "essentials": [
+        "Learning music in Varanasi connects you with a timeless tradition shaped by legends like Ravi Shankar and Bismillah Khan. Whether it’s tabla, sitar, or vocals, even one session offers deep cultural insight and a soulful glimpse into the city's artistic heritage."
+      ],
+      "fee": "₹200 (intro class), ₹500–₹1000 (hourly with professional)\t",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438053/icvf3di5cyxlbosvt0gp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/kvj0TkuPqY0?si=j05yFxBLxamrp-ep"
+      ],
+      "premium": "FREE"
+    }
+  ]
 }

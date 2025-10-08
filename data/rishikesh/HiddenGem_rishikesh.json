@@ -1,166 +1,166 @@
 {
-    "HiddenGem": [
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "Rishikund Hot Spring",
-            "category": "Hot spring",
-            "lat": 30.1039,
-            "lon": 78.2991,
-            "address": "Mayakund, Rishikesh, Uttarakhand 249201",
-            "locationLink": "https://maps.app.goo.gl/JhZLw4mz7DiBS8Xt8",
-            "openDay": "Monday to Sunday",
-            "openTime": "24-hours",
-            "establishYear": "Mythological",
-            "fee": "₹0–₹20",
-            "description": "Sacred thermal water pond",
-            "essential": "Towel & clothes",
-            "story": "It is said that Lord Rama took a bath here while in exile. The pond was filled by Goddess Yamuna upon the request of Sage Kubz, who was an ardent devotee of Rama. The water is warm throughout the year and is revered as sacred.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153778/j7wc1pipdb7opcijrhyi.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153781/cu5vfaeiqmoy64fslirz.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153783/bhogzrvoyt7szxpylvk3.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/rgrZSqDa2gg?si=LgpGpJRds2t4VF-R"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cdb"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "Phool Chatti Ashram",
-            "category": "Ashram",
-            "lat": 30.1159,
-            "lon": 78.3763,
-            "address": "Neellkanth temple road 5 km from Laxman Jhula Near Phool Chatti Bathing Ghat, Paliyal Gaon, Uttarakhand 249304",
-            "locationLink": "https://maps.app.goo.gl/n1jx86phJL6MFDEj6",
-            "openDay": "Monday to Sunday",
-            "openTime": "9 AM - 9PM",
-            "establishYear": "Old",
-            "fee": "₹Free–₹300",
-            "description": "Peaceful yoga & meditation stay",
-            "essential": "Yoga mat",
-            "story": "Established more than 140 years ago by Sri Devi Dayal Ji, the ashram was named after the rich profusion of flowers (\"phool\") in the surrounding forest. It became a serene spiritual center for yoga, meditation, and self-reflection on the banks of the Ganges.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153786/zeu7x1zodz786l39yqm8.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153787/rjhy3aj2iuljdpr8aeli.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153788/tjgmiio8zcpooaej5zf8.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/HOUGmUKD3UY?si=DgJXTZuoK0HzgocD"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cdc"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "Jhilmil Gufa",
-            "category": "Cave",
-            "lat": 30.0604,
-            "lon": 78.3375,
-            "address": "Manikoot Parvat ( Mountain )  near Neelkanth Temple in Rishikesh",
-            "locationLink": "https://maps.app.goo.gl/eriEpup81UjyaSKu5",
-            "openDay": "Monday to Sunday",
-            "openTime": "Daylight hours",
-            "establishYear": "Mythological",
-            "fee": null,
-            "description": "Forest cave of Guru Jhilmil",
-            "essential": "Shoes, flashlight",
-            "story": "A holy trio of caves nestled in thick forest, said to be the meditation place of Guru Jhilmil, a sage renowned for profound yogic penance. Locals claim that chants still reverberate within the cave while meditating.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153790/fmac01ydlck2wwmnnfj3.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153791/tkfqjfy1xnltk9rd8tqy.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153794/zkiirx8x8sq0evjkq21r.png"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/iKrFGof1-k0?si=qY8MGajXLncVztkG"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cdd"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "Kyarki Sunset Point",
-            "category": "Viewpoint",
-            "lat": 30.1373,
-            "lon": 78.3474,
-            "address": "Near Neergarh Waterfall Rd, Rishikesh, Kyarki, Uttarakhand 249175",
-            "locationLink": "https://maps.app.goo.gl/1S7ktWDqW6JUF3HC7",
-            "openDay": "Monday to Sunday",
-            "openTime": "5 PM–7 PM",
-            "establishYear": null,
-            "fee": null,
-            "description": "Hidden scenic spot with sunset views",
-            "essential": "Warm clothes",
-            "story": "A locally beloved viewpoint overlooking Neer Waterfall. No local myth, but as a peaceful retreat for locals and spiritual travelers to view the sunset over the Shivaliks undisturbed.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153798/gdkmflgyntjun4rbvr6w.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153801/zkpopbhauvnhfcjuliez.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153804/hkwg7wqusnspwmsjk6wi.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/1USHMdKwN-Q?si=EwF1mMVgdaiiaF7Z"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cde"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "Malakhunti Village",
-            "category": "Village",
-            "lat": 30.0858,
-            "lon": 78.4346,
-            "address": "NH 7, Koudiyla, Atali, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/2GHrRasBwKYh895w6",
-            "openDay": "Monday to Sunday",
-            "openTime": "Anytime",
-            "establishYear": "Traditional",
-            "fee": "₹0–₹200",
-            "description": "Local lifestyle & mustard fields",
-            "essential": "Camera",
-            "story": "A centuries-old village of Garhwali in the hills. Famous for its hospitality and traditional way of life, it is the unspoiled beauty of hill life. According to local legend, the villagers continue to adhere to rituals that have come down from generations unchanged.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153807/rzqfoprdiap6bj6bch0s.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153808/tupvmcqdgxidzvmoh08w.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153810/kj6crcevbdgkd2tcww8w.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/9nDALGudrtc?si=-k1rlrQUa0sdlBLa"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cdf"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "hiddenGem": "The Secret Waterfall Rishikesh - DhaulSrot",
-            "category": "Waterfall",
-            "lat": 30.1488,
-            "lon": 78.3149,
-            "address": "kunja puri trek By Pass road village dhaulSrot, Tapovan, Rishikesh, Uttarakhand 249192",
-            "locationLink": "https://maps.app.goo.gl/UMBGzWdpPYFJ8Q7f7",
-            "openDay": "Monday to Sunday",
-            "openTime": "24-hours",
-            "establishYear": null,
-            "fee": "Free",
-            "description": "Hidden Waterfall with Beautiful Views",
-            "essential": "Towel & clothes",
-            "story": null,
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153814/glzzmhubbjsjsg1ccd7x.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153815/b6wzk0cosppomopvs98n.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153816/r7n7lcqcrgiu5vmtixdm.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/FaufHKpkYnQ?si=r6u44aRCvd8TBNZV"
-            ],
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768ce0"
-        }
-    ]
+  "hiddengem": [
+    {
+      "_id": "68c7f5f820f4dc4834768cdb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Rishikund Hot Spring",
+      "category": "Hot spring",
+      "lat": 30.1039,
+      "lon": 78.2991,
+      "address": "Mayakund, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/JhZLw4mz7DiBS8Xt8",
+      "openDay": "Monday to Sunday",
+      "openTime": "24-hours",
+      "establishYear": "Mythological",
+      "fee": "₹0–₹20",
+      "description": "Sacred thermal water pond",
+      "essential": "Towel & clothes",
+      "story": "It is said that Lord Rama took a bath here while in exile. The pond was filled by Goddess Yamuna upon the request of Sage Kubz, who was an ardent devotee of Rama. The water is warm throughout the year and is revered as sacred.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153778/j7wc1pipdb7opcijrhyi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153781/cu5vfaeiqmoy64fslirz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153783/bhogzrvoyt7szxpylvk3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/rgrZSqDa2gg?si=LgpGpJRds2t4VF-R"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cde",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Kyarki Sunset Point",
+      "category": "Viewpoint",
+      "lat": 30.1373,
+      "lon": 78.3474,
+      "address": "Near Neergarh Waterfall Rd, Rishikesh, Kyarki, Uttarakhand 249175",
+      "locationLink": "https://maps.app.goo.gl/1S7ktWDqW6JUF3HC7",
+      "openDay": "Monday to Sunday",
+      "openTime": "5 PM–7 PM",
+      "establishYear": null,
+      "fee": null,
+      "description": "Hidden scenic spot with sunset views",
+      "essential": "Warm clothes",
+      "story": "A locally beloved viewpoint overlooking Neer Waterfall. No local myth, but as a peaceful retreat for locals and spiritual travelers to view the sunset over the Shivaliks undisturbed.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153798/gdkmflgyntjun4rbvr6w.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153801/zkpopbhauvnhfcjuliez.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153804/hkwg7wqusnspwmsjk6wi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/1USHMdKwN-Q?si=EwF1mMVgdaiiaF7Z"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "The Secret Waterfall Rishikesh - DhaulSrot",
+      "category": "Waterfall",
+      "lat": 30.1488,
+      "lon": 78.3149,
+      "address": "kunja puri trek By Pass road village dhaulSrot, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/UMBGzWdpPYFJ8Q7f7",
+      "openDay": "Monday to Sunday",
+      "openTime": "24-hours",
+      "establishYear": null,
+      "fee": "Free",
+      "description": "Hidden Waterfall with Beautiful Views",
+      "essential": "Towel & clothes",
+      "story": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153814/glzzmhubbjsjsg1ccd7x.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153815/b6wzk0cosppomopvs98n.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153816/r7n7lcqcrgiu5vmtixdm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FaufHKpkYnQ?si=r6u44aRCvd8TBNZV"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Phool Chatti Ashram",
+      "category": "Ashram",
+      "lat": 30.1159,
+      "lon": 78.3763,
+      "address": "Neellkanth temple road 5 km from Laxman Jhula Near Phool Chatti Bathing Ghat, Paliyal Gaon, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/n1jx86phJL6MFDEj6",
+      "openDay": "Monday to Sunday",
+      "openTime": "9 AM - 9PM",
+      "establishYear": "Old",
+      "fee": "₹Free–₹300",
+      "description": "Peaceful yoga & meditation stay",
+      "essential": "Yoga mat",
+      "story": "Established more than 140 years ago by Sri Devi Dayal Ji, the ashram was named after the rich profusion of flowers (\"phool\") in the surrounding forest. It became a serene spiritual center for yoga, meditation, and self-reflection on the banks of the Ganges.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153786/zeu7x1zodz786l39yqm8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153787/rjhy3aj2iuljdpr8aeli.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153788/tjgmiio8zcpooaej5zf8.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/HOUGmUKD3UY?si=DgJXTZuoK0HzgocD"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Jhilmil Gufa",
+      "category": "Cave",
+      "lat": 30.0604,
+      "lon": 78.3375,
+      "address": "Manikoot Parvat ( Mountain )  near Neelkanth Temple in Rishikesh",
+      "locationLink": "https://maps.app.goo.gl/eriEpup81UjyaSKu5",
+      "openDay": "Monday to Sunday",
+      "openTime": "Daylight hours",
+      "establishYear": "Mythological",
+      "fee": null,
+      "description": "Forest cave of Guru Jhilmil",
+      "essential": "Shoes, flashlight",
+      "story": "A holy trio of caves nestled in thick forest, said to be the meditation place of Guru Jhilmil, a sage renowned for profound yogic penance. Locals claim that chants still reverberate within the cave while meditating.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153790/fmac01ydlck2wwmnnfj3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153791/tkfqjfy1xnltk9rd8tqy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153794/zkiirx8x8sq0evjkq21r.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/iKrFGof1-k0?si=qY8MGajXLncVztkG"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Malakhunti Village",
+      "category": "Village",
+      "lat": 30.0858,
+      "lon": 78.4346,
+      "address": "NH 7, Koudiyla, Atali, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/2GHrRasBwKYh895w6",
+      "openDay": "Monday to Sunday",
+      "openTime": "Anytime",
+      "establishYear": "Traditional",
+      "fee": "₹0–₹200",
+      "description": "Local lifestyle & mustard fields",
+      "essential": "Camera",
+      "story": "A centuries-old village of Garhwali in the hills. Famous for its hospitality and traditional way of life, it is the unspoiled beauty of hill life. According to local legend, the villagers continue to adhere to rituals that have come down from generations unchanged.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153807/rzqfoprdiap6bj6bch0s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153808/tupvmcqdgxidzvmoh08w.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153810/kj6crcevbdgkd2tcww8w.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/9nDALGudrtc?si=-k1rlrQUa0sdlBLa"
+      ],
+      "premium": "FREE"
+    }
+  ]
 }

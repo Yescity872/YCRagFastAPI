@@ -1,0 +1,23 @@
+{
+  "cityinfo": [
+    {
+      "_id": "68e02d6abd1f9c367048dd44",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "stateOrUT": "Uttar Pradesh",
+      "alternateNames": [
+        "Avadh",
+        "Saket"
+      ],
+      "languagesSpoken": [
+        "Hindi",
+        "Awadhi"
+      ],
+      "climateInfo": "Ayodhya has a humid subtropical climate with three distinct seasons: a hot and dry summer, a wet monsoon, and a cool, pleasant winter. The best time for most tourists to visit is during the winter months, from October to March, when the weather is mild. ",
+      "bestTimeToVisit": "October to March",
+      "cityHistory": "Ayodhya is a city situated on the banks of holy river Saryu. In the Indian state of Uttar Pradesh, It is the headquarter of Ayodhya District and Ayodhya division. Ayodhya, also known as Saket, is an ancient city of India, is the birthplace of Bhagwan Shri Ram and setting of the great epic Ramayana. Ayodhya used to be the capital of the ancient Kosala Kingdom. It has an average elevation of 93 meters (305 feet). Owing to the belief as the birthplace of Bhagwan Shri Ram, Ayodhya (Awadhpuri) has been regarded as first one of the seven most important pilgrimage sites (Mokshdayini Sapt Puris) for Hindus.",
+      "coverImage": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516816/n5rgfazvoi1gv0qiehgb.jpg",
+      "premium": "FREE"
+    }
+  ]
+}

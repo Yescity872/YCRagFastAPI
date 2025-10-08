@@ -1,0 +1,56 @@
+{
+  "hiddengem": [
+    {
+      "_id": "68e02d6cbd1f9c367048ddb8",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "hiddenGem": "Shravasti",
+      "category": "Religious/Pilgrimage",
+      "lat": 27.5077,
+      "lon": 82.0126,
+      "address": "Shravasti,Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=Shravasti&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8CAEObRY5nUC_4-eAKPRM9dgRGnLaLauJwMC_6lNzUAjqorp1xbvWKcEgzW5NLskInI958ASVYQRdskaUrFv5waE-hblQNY47O8oEcOmwq6go7eWtpMfmK9PlNQ17tLSrSpizNteuqQyWpGK205j8_dMW2MwWR6yvmzNDYAIHc_waEObHQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Shravasti holds significance not only in Buddhism but also in Hinduism and Jainism. Ancient manuscripts of all three traditions mention the town, weaving legends and histories connected to it. Archaeological excavations at the site have revealed a rich collection of monuments and artworks belonging to these faiths, showcasing Shravasti’s diverse spiritual heritage.The site was rediscovered in the late 19th century by a team of British and Indian archaeologists, sparking waves of systematic excavations that continued well into the 1990s. Today, Shravasti has grown into a small town and an important center of heritage tourism and religious pilgrimage, drawing visitors—especially Buddhist pilgrims from across the world—to its historic ruins and sacred spaces.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours",
+      "story": "Shravasti, located in the Shravasti district of Uttar Pradesh, is a historic town near the Rapti River and close to the Nepalese border. In ancient times, it served as the capital of the Kosala kingdom, which was ruled by Lava, son of Lord Rama.The town holds immense significance in Buddhism as one of its most revered sites. After attaining enlightenment, the Buddha spent much of his life in Shravasti, delivering many of his Suttas (sermons), converting several of his foremost disciples, and performing the famous “Shravasti Miracles” — including the Great Miracle and the Twin Miracle. These events are widely depicted in Buddhist literature, sculptures, and reliefs across Asia, making Shravasti a destination of deep spiritual importance for pilgrims and scholars alike.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517254/j8zdo7xsf2lfzftwpwvu.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517256/f18nbw4w0ughmbjbjbld.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517258/o0m9hsyz7cydfkw39qrz.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/NF3n1Bm1cWM?si=3SfFR3tjVjfThTAu"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb7",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "hiddenGem": "Parvati Arga Bird Sanctuary",
+      "category": "Nature/Wildlife Sanctury",
+      "lat": 26.9471,
+      "lon": 82.1644,
+      "address": "Mankapur-Nawabganj Road,Gonda,Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=parvati+arga+bird+sanctuary&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2orc_91wYCtVawaLNWtsSduS5mUJudDN6Xwi5REd7v6dTe2rYQTEJ17YcJwB_BAI750yute0TwlgDoAUC93mpFZeUKpZg8izpqDEXIThPS2KJ7P2YKcU4nCuj0SyWipL9BUi8rQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "establishYear": "1990",
+      "fee": null,
+      "description": "The Parvati Arga Bird Sanctuary spans an area of 10.84 square kilometers and consists of two oxbow lakes — Parvati Tal and Arga Tal. Situated in the Upper Gangetic Plains moist deciduous forests ecoregion, the sanctuary supports a diverse avian population, hosting around 35 species of resident and migratory birds.During the winter months, migratory birds arrive here after crossing the Himalayas, with routes stretching from Tibet, China, Europe, and Siberia. This seasonal spectacle makes the sanctuary an important stopover for bird enthusiasts and nature lovers alike.",
+      "essential": "Carry Water;Best visited during day time and in winter season;Wear sturdy shoes ",
+      "story": "Parvati Arga Bird Sanctuary, located in Gonda district, lies about 45 km from Gonda. The sanctuary comprises lakes that were once part of the Saryu River. As the river gradually changed its course, these water bodies remained as its remnants. Today, they provide a natural habitat that sustains resident birds year-round and attracts a wide variety of migratory birds during the winter season.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517247/bspduezddm0zbvizpcti.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517249/msyls7g2qbphjoipy4as.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517251/k9gr4xo31qwnvvopurvy.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/rc06y3Who08?si=BBcSAwONxTRiZmXs"
+      ],
+      "premium": "FREE"
+    }
+  ]
+}

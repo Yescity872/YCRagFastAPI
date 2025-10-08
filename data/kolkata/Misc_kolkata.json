@@ -20,7 +20,8 @@
       "publicWashrooms": "Public Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/y7kEXVLkKVmg86DeA",
       "publicWashroomsLat": 22.5446,
-      "publicWashroomsLon": 88.3701
+      "publicWashroomsLon": 88.3701,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c7",
@@ -42,7 +43,8 @@
       "publicWashrooms": "Public Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/DnmuRaKWnqyNvnQXA",
       "publicWashroomsLat": 22.5642,
-      "publicWashroomsLon": 88.3479
+      "publicWashroomsLon": 88.3479,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c5",
@@ -64,7 +66,8 @@
       "publicWashrooms": "Pay And Use Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/ayUR8fDfMyikN1Rs9",
       "publicWashroomsLat": 22.5146,
-      "publicWashroomsLon": 88.3652
+      "publicWashroomsLon": 88.3652,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c9",
@@ -86,7 +89,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c1",
@@ -108,7 +112,8 @@
       "publicWashrooms": "Public Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/XG3syLJoDDQUXh487",
       "publicWashroomsLat": 22.5798,
-      "publicWashroomsLon": 88.4289
+      "publicWashroomsLon": 88.4289,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c3",
@@ -130,7 +135,8 @@
       "publicWashrooms": "PAY & USE TOILET",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/xHUVL2626GqBxa1M7",
       "publicWashroomsLat": 22.5963,
-      "publicWashroomsLon": 88.3637
+      "publicWashroomsLon": 88.3637,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c4",
@@ -152,7 +158,8 @@
       "publicWashrooms": "Pay And Use Toilets - Tollygunge",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/gEmQzCFKj5GinAax6",
       "publicWashroomsLat": 22.4933,
-      "publicWashroomsLon": 88.3451
+      "publicWashroomsLon": 88.3451,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c2",
@@ -174,7 +181,8 @@
       "publicWashrooms": "Public Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/zzY8RpVSvURFDUhz9",
       "publicWashroomsLat": 22.5895,
-      "publicWashroomsLon": 88.4011
+      "publicWashroomsLon": 88.4011,
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585c8",
@@ -196,7 +204,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     }
   ]
 }

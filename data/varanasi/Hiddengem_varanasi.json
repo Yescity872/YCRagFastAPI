@@ -1,160 +1,166 @@
 {
-    "Hiddengem": [
-        {
-            "_id": "68c7f27e20f4dc4834768bb4",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Vishalakshi Temple",
-            "category": "Shakti Peetha / Religious",
-            "lat": 25.3109,
-            "lon": 83.0107,
-            "address": "Shri Kashi Vishalakshi Mata Shaktipeeth Temple, Kashi Lahori Tola Near Ganpati Guest House Meer Ghat, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/KfGXGWQKRgfkVYAe8",
-            "openDay": "Monday to Sunday",
-            "openTime": "06:00AM - 10:00PM",
-            "establishYear": "In ancient times",
-            "fee": "Free; Puja ₹50–₹100; Guide: ₹150–₹300",
-            "description": "Vishalakshi Temple is one of the Shakti Peethas, dedicated to Goddess Vishalakshi, an incarnation of Goddess Parvati. It is believed to be the site where the goddess’s earring fell. The temple is a revered pilgrimage site for devotees seeking blessings for prosperity and well-being. Its spiritual significance and vibrant rituals attract pilgrims and tourists, offering a unique cultural experience.",
-            "essential": "Footwear removal is required. Photography inside the sanctum is prohibited. Silence and respect for religious practices are expected.",
-            "story": "The Vishalakshi Temple, located near Manikarnika Ghat, is one of the 51 Shakti Peethas in India. It is believed that the earring or face of Goddess Sati fell here after her body was dismembered by Lord Vishnu’s Sudarshan Chakra. The name \"Vishalakshi\" means \"wide-eyed one,\" symbolizing the Goddess's compassionate and watchful gaze over Kashi. Vishalakshi represents the divine feminine counterpart to Kashi Vishwanath (Shiva) and is worshipped for blessings like marital harmony, fertility, and protection. The idol is richly adorned, and the temple is considered especially sacred during Navratri and to the South Indian community, who revere Vishalakshi alongside Meenakshi (Madurai) and Kamakshi (Kanchipuram). Despite multiple reconstructions, the spiritual power of the place is believed to remain unbroken.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438341/don1g8g66vgx3i8ry6eh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438342/quvisvcbeoho0n6ymolh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438344/vrbusdsg8yac75f36unr.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/rIC-Wb7K9HA?si=kQDKwy5BkJLaWZ3m"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb5",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Gauri Kedareshwar Temple",
-            "category": "Religious / Ancient Shiva Temple",
-            "lat": 25.2997,
-            "lon": 83.007,
-            "address": "Mandir, Bagadha, Near, Gauri Kedareshwar Ln, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/BGpbZFkKWe5A5Raw8",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "In ancient times",
-            "fee": "Entry: Free; Puja ₹50–₹100; Guide: ₹150–₹250",
-            "description": "Gauri Kedareshwar Temple is dedicated to Lord Shiva and Goddess Parvati. It is located on the banks of the Ganges and is known for its peaceful ambiance and spiritual significance. The temple is believed to grant blessings for marital harmony and prosperity. Its scenic location and divine atmosphere attract devotees and tourists seeking spiritual solace. The temple’s serene surroundings make it an ideal spot for meditation and reflection.",
-            "essential": "Footwear removal is mandatory. Photography inside the sanctum is prohibited. Silence and respectful behavior are expected.",
-            "story": "Located near Kedar Ghat, the Gauri Kedareshwar Temple is one of the most spiritually potent Shiva temples in Varanasi. It is dedicated to Lord Kedareshwar (a form of Shiva) and Goddess Gauri (Parvati). According to the Kashi Khand of the Skanda Purana, this temple is a spiritual equivalent of Kedarnath, meant for those unable to travel to the Himalayas. Built by the South Indian community, it reflects Dravidian architecture. Devotees believe that bathing in the Ganga at Kedar Ghat and then visiting the temple absolves sins. Gauri is worshipped for protection and fertility, while Kedareshwar grants liberation and strength. The temple becomes vibrant during Shravan and Mahashivratri, drawing pilgrims seeking spiritual transformation and divine grace.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438347/z3ozzkbck2jbwgkjdzbf.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438348/xlci6j8e1cvrhaq74d5l.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438349/hhzxf29wphnwk2b7oucx.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/e5mUJ_AjeK8?si=-9p9J2NnYCXSSreE"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb6",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Shri Kashi Kaamkoteeshwar Mandir",
-            "category": "Religious / Tantric Temple ",
-            "lat": 25.2981,
-            "lon": 83.0064,
-            "address": "72X4+7H3, Harischandra Road, Near Hanuman Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/6eE39xopYD8vBj2A9",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "1974",
-            "fee": "Free; Guide: ₹200–₹400 (as niche site)",
-            "description": "Shri Kashi Kaamkoteeshwar Mandir is a sacred and relatively lesser-known temple dedicated to Lord Shiva in his wish-fulfilling form. Located in the spiritual heart of Varanasi, this temple is believed to grant the pure desires of devotees who worship with sincerity and devotion. The deity here is referred to as \"Kaamkoteeshwar,\" meaning the one who fulfills all righteous wishes. The temple radiates a serene and powerful energy, attracting seekers, yogis, and pilgrims who seek blessings, peace, and spiritual upliftment. Surrounded by the deep religious aura of Kashi, this temple holds a unique place for those on a spiritual quest or seeking divine intervention in their lives.",
-            "essential": "The temple is open from early morning to late evening, with aarti timings at dawn and dusk being ideal for visits. Entry is free, and modest clothing is advised. Photography inside the sanctum is discouraged. Devotees often bring offerings like flowers, incense, and milk. Leather items, alcohol, and non-veg food are not allowed. Visitors must remove footwear before entering and maintain cleanliness and silence. The temple lies within Varanasi’s narrow lanes, requiring a short walk to reach.",
-            "story": "The Kaamkoteeshwar Mandir is a rare and ancient temple dedicated to Lord Shiva in his Kaamkoteeshwar form, the granter of pure desires. As described in the Kashi Khand, this temple is spiritually significant for its power to fulfill dharmic wishes. It is a quiet, lesser-known site with a self-manifested (Svayambhu) lingam, and its sanctity is maintained by its simplicity and seclusion. Local devotees and saints have long visited this shrine for spiritual clarity, peace, and guidance. The temple is most powerful for those who come with sincere, righteous intent. Unlike commercial or crowded temples, this one emphasizes inner devotion over ritualism, and during Mahashivratri, it sees a modest but heartfelt flow of pilgrims.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438352/rnhpl0bzmzslobu2ewg9.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438354/f4xea4vtaxldnaqch9fh.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438355/f5su6gz1ozgggsczjs6t.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/jJ7ZGP0uSfM?si=_RjHVOGOryPfOtXF"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb8",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Pita Maheshwar",
-            "category": "Mystical Shiva Shrine / Esoteric Site",
-            "lat": 25.2911,
-            "lon": 83.0058,
-            "address": "96, Shitala Gali, Ghasi Tola, Varanasi, Domari, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/EEMSG9ccLZybr51P7",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "Not available",
-            "fee": "Free; Guide: ₹250–₹500",
-            "description": "Pita Maheshwar is one of the most mysterious and spiritually potent shrines in Varanasi, believed to be located in an underground chamber below the sacred city. Mentioned in the Kashi Khand of the Skanda Purana, this form of Lord Shiva is worshipped as the foundation of Kashi itself. It is said that visiting or even remembering Pita Maheshwar grants liberation (moksha), as it represents the cosmic root from which the divine energy of Kashi emerges. While the shrine is not easily accessible to the public, the deep spiritual belief attached to it draws seekers, especially those on a path of inner awakening and liberation.",
-            "essential": "Pita Maheshwar is not a typical public temple; it lies underground and is generally not open for regular darshan. Only a few are granted access with special permission. Visitors are advised to respect its spiritual secrecy and sanctity. No entry fee is charged, and strict decorum is expected. Photography, loud behavior, and unclean conduct are strictly prohibited. As with all sacred spaces in Kashi, leather items, alcohol, and non-vegetarian food are not allowed. The site is revered more through remembrance and faith than through physical visitation.",
-            "story": "Pita Maheshwar is one of the most hidden and metaphysically powerful forms of Lord Shiva in Varanasi. The name means the “base or foundation of Maheshwar (Shiva)”, and it represents the invisible spiritual support of the entire city of Kashi. Mentioned in the Kashi Khand, it is said to lie deep beneath the earth, not easily accessible, and not visible to ordinary devotees. Instead of being worshipped through rituals, Pita Maheshwar is honored through remembrance, meditation, and surrender. Even Lord Vishwanath, the ruling deity of Kashi, is said to draw power from Pita Maheshwar. Saints and yogis have meditated upon this form to attain moksha (liberation). Its mysterious nature enhances its reverence, reminding seekers that the greatest spiritual truths lie beyond what can be seen or touched, in the eternal silence beneath",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438364/wmdzva6nc79tr1lany7b.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438366/jqjxga84nw4n3iumnqp3.webp",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438367/eeqtknntobtixhqy9nbr.webp"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/QtodHqcCAmc?si=jPhVZh4df6socl-f"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb9",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Nag Kund",
-            "category": "Mystical Shiva Shrine / Esoteric Site",
-            "lat": 25.3295,
-            "lon": 83.0078,
-            "address": "kamal Pura, Alaipura, Jaitpura, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/2K2cUGCPAQLEJmEQ8",
-            "openDay": "Monday to Sunday",
-            "openTime": "06:00AM - 09:00PM",
-            "establishYear": "In ancient times",
-            "fee": "Free",
-            "description": "Karkoteshwar Mahadev is a form of Lord Shiva closely associated with the serpent king Karkotak (or Karkotak Nag)The Nag Kund (also called Nag Koop or Nag Kuan) is said to be a mystical well with unknown depth that connects the earthly realm with the serpent world, or Nag Lok (Patal Lok). Local belief holds that deep inside the well is a hidden door to the world of serpents. On the auspicious festival of Nag Panchami, the Kund is cleaned, and the submerged Shiva lingam becomes visible and is worshipped for its liberating powers",
-            "essential": "Footwear removal is required.Silence and respect for religious practices are expected.modest clothing is advised.",
-            "story": "The legend goes that Karkotak, a mighty serpent king and a dedicated devotee, worshipped Lord Shiva here. Pleased with his austerities and devotion, Shiva granted Karkotak a boon, leading to the establishment of the Karkoteshwar Mahadev shrine. It is believed that those who worship Karkoteshwar Mahadev, especially on Nag Panchami, are freed from snake-related fears and doshas—bad omens related to serpents in their horoscope.The temple and Kund are mentioned in the Kashi Khanda of the Skanda Purana.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438371/saukc75pwexobbbtvcmk.png",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438373/kffacq5ycelfrt8rlsnx.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438375/mur5ohilk6scdfnvm1jv.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/OgF4XGnFsHA?si=f7l8V-m--dAZguD2"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb7",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "hiddenGem": "Lolark Kund",
-            "category": "Ritual Site / Ancient Stepwell",
-            "lat": 25.2911,
-            "lon": 83.0058,
-            "address": "Shivala, Varanasi, Uttar Pradesh 221005",
-            "locationLink": "https://maps.app.goo.gl/jn986q4RkXtstmJ17",
-            "openDay": "Monday to Sunday",
-            "openTime": "24 Hours open",
-            "establishYear": "4th century",
-            "fee": "Free; Ritual ₹50–₹200; Guide: ₹150–₹300",
-            "description": "Lolark Kund is one of the oldest and most revered stepwells in Varanasi, dedicated to Surya Dev (the Sun God). Located in the Lolark Aditya area near Tulsi Ghat, this ancient water tank holds deep religious significance, especially among couples seeking blessings for fertility and childbearing. The tank is believed to have miraculous powers, and during the Lolark Shashti festival, thousands of devotees take a holy dip, leaving behind clothes or offerings in hopes of fulfilling their desires. The kund’s stepped architecture, sacred aura, and strong belief system make it a rare spiritual site in the heart of Kashi, blending faith with tradition.",
-            "essential": "Lolark Kund is open throughout the day and is best visited during early morning hours, especially during festivals. Entry is free, and photography is allowed. Modest attire and respectful behavior are expected. Bathing in the kund is believed to grant fertility blessings, particularly during Lolark Shashti. Leather items, alcohol, and non-veg food are strictly prohibited. Visitors must avoid polluting the water and maintain cleanliness around the sacred site. The kund is accessible by foot through the lanes near Tulsi Ghat.",
-            "story": "Lolark Kund, near Tulsi Ghat, is one of the oldest sun shrines in India, dating back to the Vedic period. It is dedicated to Surya Dev (Sun God) and is believed to possess divine fertility and healing powers. The name “Lolark” means “trembling sun,” representing the powerful spiritual energy believed to emanate from this place. During the Lolark Shashti festival, thousands of childless couples dip in its stepped tank to seek blessings for offspring. It is customary to leave behind clothes, jewelry, and symbolic items as offerings of surrender and gratitude. The tank’s architecture is trapezoidal and ancient, and the water is not used for routine bathing but reserved for sacred rituals only. The sunlight’s reflection on the kund during sunrise is considered especially auspicious and spiritually energizing.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438359/g57aoi0jcsvmnn4t6x6y.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438360/khqhicb5kvku6mzu2kma.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438361/nhmpxainbmrhaisurh4j.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/GR8fGU5ar9A?si=oHwpU03GSxSIZkyR"
-            ]
-        }
-    ]
+  "hiddengem": [
+    {
+      "_id": "68c7f27e20f4dc4834768bb4",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Vishalakshi Temple",
+      "category": "Shakti Peetha / Religious",
+      "lat": 25.3109,
+      "lon": 83.0107,
+      "address": "Shri Kashi Vishalakshi Mata Shaktipeeth Temple, Kashi Lahori Tola Near Ganpati Guest House Meer Ghat, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/KfGXGWQKRgfkVYAe8",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00AM - 10:00PM",
+      "establishYear": "In ancient times",
+      "fee": "Free; Puja ₹50–₹100; Guide: ₹150–₹300",
+      "description": "Vishalakshi Temple is one of the Shakti Peethas, dedicated to Goddess Vishalakshi, an incarnation of Goddess Parvati. It is believed to be the site where the goddess’s earring fell. The temple is a revered pilgrimage site for devotees seeking blessings for prosperity and well-being. Its spiritual significance and vibrant rituals attract pilgrims and tourists, offering a unique cultural experience.",
+      "essential": "Footwear removal is required. Photography inside the sanctum is prohibited. Silence and respect for religious practices are expected.",
+      "story": "The Vishalakshi Temple, located near Manikarnika Ghat, is one of the 51 Shakti Peethas in India. It is believed that the earring or face of Goddess Sati fell here after her body was dismembered by Lord Vishnu’s Sudarshan Chakra. The name \"Vishalakshi\" means \"wide-eyed one,\" symbolizing the Goddess's compassionate and watchful gaze over Kashi. Vishalakshi represents the divine feminine counterpart to Kashi Vishwanath (Shiva) and is worshipped for blessings like marital harmony, fertility, and protection. The idol is richly adorned, and the temple is considered especially sacred during Navratri and to the South Indian community, who revere Vishalakshi alongside Meenakshi (Madurai) and Kamakshi (Kanchipuram). Despite multiple reconstructions, the spiritual power of the place is believed to remain unbroken.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438341/don1g8g66vgx3i8ry6eh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438342/quvisvcbeoho0n6ymolh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438344/vrbusdsg8yac75f36unr.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/rIC-Wb7K9HA?si=kQDKwy5BkJLaWZ3m"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb5",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Gauri Kedareshwar Temple",
+      "category": "Religious / Ancient Shiva Temple",
+      "lat": 25.2997,
+      "lon": 83.007,
+      "address": "Mandir, Bagadha, Near, Gauri Kedareshwar Ln, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/BGpbZFkKWe5A5Raw8",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "In ancient times",
+      "fee": "Entry: Free; Puja ₹50–₹100; Guide: ₹150–₹250",
+      "description": "Gauri Kedareshwar Temple is dedicated to Lord Shiva and Goddess Parvati. It is located on the banks of the Ganges and is known for its peaceful ambiance and spiritual significance. The temple is believed to grant blessings for marital harmony and prosperity. Its scenic location and divine atmosphere attract devotees and tourists seeking spiritual solace. The temple’s serene surroundings make it an ideal spot for meditation and reflection.",
+      "essential": "Footwear removal is mandatory. Photography inside the sanctum is prohibited. Silence and respectful behavior are expected.",
+      "story": "Located near Kedar Ghat, the Gauri Kedareshwar Temple is one of the most spiritually potent Shiva temples in Varanasi. It is dedicated to Lord Kedareshwar (a form of Shiva) and Goddess Gauri (Parvati). According to the Kashi Khand of the Skanda Purana, this temple is a spiritual equivalent of Kedarnath, meant for those unable to travel to the Himalayas. Built by the South Indian community, it reflects Dravidian architecture. Devotees believe that bathing in the Ganga at Kedar Ghat and then visiting the temple absolves sins. Gauri is worshipped for protection and fertility, while Kedareshwar grants liberation and strength. The temple becomes vibrant during Shravan and Mahashivratri, drawing pilgrims seeking spiritual transformation and divine grace.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438347/z3ozzkbck2jbwgkjdzbf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438348/xlci6j8e1cvrhaq74d5l.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438349/hhzxf29wphnwk2b7oucx.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/e5mUJ_AjeK8?si=-9p9J2NnYCXSSreE"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb6",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Shri Kashi Kaamkoteeshwar Mandir",
+      "category": "Religious / Tantric Temple ",
+      "lat": 25.2981,
+      "lon": 83.0064,
+      "address": "72X4+7H3, Harischandra Road, Near Hanuman Ghat, Bangali Tola, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/6eE39xopYD8vBj2A9",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "1974",
+      "fee": "Free; Guide: ₹200–₹400 (as niche site)",
+      "description": "Shri Kashi Kaamkoteeshwar Mandir is a sacred and relatively lesser-known temple dedicated to Lord Shiva in his wish-fulfilling form. Located in the spiritual heart of Varanasi, this temple is believed to grant the pure desires of devotees who worship with sincerity and devotion. The deity here is referred to as \"Kaamkoteeshwar,\" meaning the one who fulfills all righteous wishes. The temple radiates a serene and powerful energy, attracting seekers, yogis, and pilgrims who seek blessings, peace, and spiritual upliftment. Surrounded by the deep religious aura of Kashi, this temple holds a unique place for those on a spiritual quest or seeking divine intervention in their lives.",
+      "essential": "The temple is open from early morning to late evening, with aarti timings at dawn and dusk being ideal for visits. Entry is free, and modest clothing is advised. Photography inside the sanctum is discouraged. Devotees often bring offerings like flowers, incense, and milk. Leather items, alcohol, and non-veg food are not allowed. Visitors must remove footwear before entering and maintain cleanliness and silence. The temple lies within Varanasi’s narrow lanes, requiring a short walk to reach.",
+      "story": "The Kaamkoteeshwar Mandir is a rare and ancient temple dedicated to Lord Shiva in his Kaamkoteeshwar form, the granter of pure desires. As described in the Kashi Khand, this temple is spiritually significant for its power to fulfill dharmic wishes. It is a quiet, lesser-known site with a self-manifested (Svayambhu) lingam, and its sanctity is maintained by its simplicity and seclusion. Local devotees and saints have long visited this shrine for spiritual clarity, peace, and guidance. The temple is most powerful for those who come with sincere, righteous intent. Unlike commercial or crowded temples, this one emphasizes inner devotion over ritualism, and during Mahashivratri, it sees a modest but heartfelt flow of pilgrims.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438352/rnhpl0bzmzslobu2ewg9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438354/f4xea4vtaxldnaqch9fh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438355/f5su6gz1ozgggsczjs6t.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jJ7ZGP0uSfM?si=_RjHVOGOryPfOtXF"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb8",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Pita Maheshwar",
+      "category": "Mystical Shiva Shrine / Esoteric Site",
+      "lat": 25.2911,
+      "lon": 83.0058,
+      "address": "96, Shitala Gali, Ghasi Tola, Varanasi, Domari, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/EEMSG9ccLZybr51P7",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "Not available",
+      "fee": "Free; Guide: ₹250–₹500",
+      "description": "Pita Maheshwar is one of the most mysterious and spiritually potent shrines in Varanasi, believed to be located in an underground chamber below the sacred city. Mentioned in the Kashi Khand of the Skanda Purana, this form of Lord Shiva is worshipped as the foundation of Kashi itself. It is said that visiting or even remembering Pita Maheshwar grants liberation (moksha), as it represents the cosmic root from which the divine energy of Kashi emerges. While the shrine is not easily accessible to the public, the deep spiritual belief attached to it draws seekers, especially those on a path of inner awakening and liberation.",
+      "essential": "Pita Maheshwar is not a typical public temple; it lies underground and is generally not open for regular darshan. Only a few are granted access with special permission. Visitors are advised to respect its spiritual secrecy and sanctity. No entry fee is charged, and strict decorum is expected. Photography, loud behavior, and unclean conduct are strictly prohibited. As with all sacred spaces in Kashi, leather items, alcohol, and non-vegetarian food are not allowed. The site is revered more through remembrance and faith than through physical visitation.",
+      "story": "Pita Maheshwar is one of the most hidden and metaphysically powerful forms of Lord Shiva in Varanasi. The name means the “base or foundation of Maheshwar (Shiva)”, and it represents the invisible spiritual support of the entire city of Kashi. Mentioned in the Kashi Khand, it is said to lie deep beneath the earth, not easily accessible, and not visible to ordinary devotees. Instead of being worshipped through rituals, Pita Maheshwar is honored through remembrance, meditation, and surrender. Even Lord Vishwanath, the ruling deity of Kashi, is said to draw power from Pita Maheshwar. Saints and yogis have meditated upon this form to attain moksha (liberation). Its mysterious nature enhances its reverence, reminding seekers that the greatest spiritual truths lie beyond what can be seen or touched, in the eternal silence beneath",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438364/wmdzva6nc79tr1lany7b.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438366/jqjxga84nw4n3iumnqp3.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438367/eeqtknntobtixhqy9nbr.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/QtodHqcCAmc?si=jPhVZh4df6socl-f"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb9",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Nag Kund",
+      "category": "Mystical Shiva Shrine / Esoteric Site",
+      "lat": 25.3295,
+      "lon": 83.0078,
+      "address": "kamal Pura, Alaipura, Jaitpura, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/2K2cUGCPAQLEJmEQ8",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00AM - 09:00PM",
+      "establishYear": "In ancient times",
+      "fee": "Free",
+      "description": "Karkoteshwar Mahadev is a form of Lord Shiva closely associated with the serpent king Karkotak (or Karkotak Nag)The Nag Kund (also called Nag Koop or Nag Kuan) is said to be a mystical well with unknown depth that connects the earthly realm with the serpent world, or Nag Lok (Patal Lok). Local belief holds that deep inside the well is a hidden door to the world of serpents. On the auspicious festival of Nag Panchami, the Kund is cleaned, and the submerged Shiva lingam becomes visible and is worshipped for its liberating powers",
+      "essential": "Footwear removal is required.Silence and respect for religious practices are expected.modest clothing is advised.",
+      "story": "The legend goes that Karkotak, a mighty serpent king and a dedicated devotee, worshipped Lord Shiva here. Pleased with his austerities and devotion, Shiva granted Karkotak a boon, leading to the establishment of the Karkoteshwar Mahadev shrine. It is believed that those who worship Karkoteshwar Mahadev, especially on Nag Panchami, are freed from snake-related fears and doshas—bad omens related to serpents in their horoscope.The temple and Kund are mentioned in the Kashi Khanda of the Skanda Purana.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438371/saukc75pwexobbbtvcmk.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438373/kffacq5ycelfrt8rlsnx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438375/mur5ohilk6scdfnvm1jv.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/OgF4XGnFsHA?si=f7l8V-m--dAZguD2"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb7",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "hiddenGem": "Lolark Kund",
+      "category": "Ritual Site / Ancient Stepwell",
+      "lat": 25.2911,
+      "lon": 83.0058,
+      "address": "Shivala, Varanasi, Uttar Pradesh 221005",
+      "locationLink": "https://maps.app.goo.gl/jn986q4RkXtstmJ17",
+      "openDay": "Monday to Sunday",
+      "openTime": "24 Hours open",
+      "establishYear": "4th century",
+      "fee": "Free; Ritual ₹50–₹200; Guide: ₹150–₹300",
+      "description": "Lolark Kund is one of the oldest and most revered stepwells in Varanasi, dedicated to Surya Dev (the Sun God). Located in the Lolark Aditya area near Tulsi Ghat, this ancient water tank holds deep religious significance, especially among couples seeking blessings for fertility and childbearing. The tank is believed to have miraculous powers, and during the Lolark Shashti festival, thousands of devotees take a holy dip, leaving behind clothes or offerings in hopes of fulfilling their desires. The kund’s stepped architecture, sacred aura, and strong belief system make it a rare spiritual site in the heart of Kashi, blending faith with tradition.",
+      "essential": "Lolark Kund is open throughout the day and is best visited during early morning hours, especially during festivals. Entry is free, and photography is allowed. Modest attire and respectful behavior are expected. Bathing in the kund is believed to grant fertility blessings, particularly during Lolark Shashti. Leather items, alcohol, and non-veg food are strictly prohibited. Visitors must avoid polluting the water and maintain cleanliness around the sacred site. The kund is accessible by foot through the lanes near Tulsi Ghat.",
+      "story": "Lolark Kund, near Tulsi Ghat, is one of the oldest sun shrines in India, dating back to the Vedic period. It is dedicated to Surya Dev (Sun God) and is believed to possess divine fertility and healing powers. The name “Lolark” means “trembling sun,” representing the powerful spiritual energy believed to emanate from this place. During the Lolark Shashti festival, thousands of childless couples dip in its stepped tank to seek blessings for offspring. It is customary to leave behind clothes, jewelry, and symbolic items as offerings of surrender and gratitude. The tank’s architecture is trapezoidal and ancient, and the water is not used for routine bathing but reserved for sacred rituals only. The sunlight’s reflection on the kund during sunrise is considered especially auspicious and spiritually energizing.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438359/g57aoi0jcsvmnn4t6x6y.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438360/khqhicb5kvku6mzu2kma.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438361/nhmpxainbmrhaisurh4j.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GR8fGU5ar9A?si=oHwpU03GSxSIZkyR"
+      ],
+      "premium": "A"
+    }
+  ]
 }

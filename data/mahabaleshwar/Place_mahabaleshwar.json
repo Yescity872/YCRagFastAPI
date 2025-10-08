@@ -24,7 +24,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/wZnazbsdeD4?si=KcFFMdk9RCU1cjWm"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c0f",
@@ -50,7 +51,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/pT3IQfGpIQY?si=NQLylI3rSlB1Gsg0"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c14",
@@ -76,7 +78,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/Cseivhb3S1k?si=k9iPB7ZMfM0Fhl5x"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c16",
@@ -102,7 +105,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/N_L8vrVtSso?si=TBCDxWlh1KkvzYHM"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c0b",
@@ -128,7 +132,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/LCzaX-hS3Ao?si=9uZipRlAV1OZ4mQU"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c11",
@@ -154,7 +159,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/Dk4Rr2ZgF-Y?si=wEyXeL5XyGp59XJg"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c12",
@@ -180,7 +186,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/lhQvd7sXVVg?si=4RKF28GEtiJItWlK"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c17",
@@ -206,7 +213,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/ud3qG6aUbXI?si=lOn5xWdXkIgbgA0a"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c0c",
@@ -232,7 +240,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/88kBHIn1WlQ?si=Vv_GpDyUXp3HGhjD"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c10",
@@ -258,7 +267,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/t-bMiA4S_M0?si=AeMArfop1mXnQUPi"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c13",
@@ -284,7 +294,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/J_sj_Vv9kEE?si=sEquBYARS8v37kJg"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c18",
@@ -310,7 +321,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/ExAY7mNXq_4?si=7VtwTMzEeUxxlPcl"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c0d",
@@ -336,7 +348,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/CPuiwIHxjXs?si=qTJtZEEwMYwC4R1v"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c0e",
@@ -362,7 +375,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/AfDNd2Vy0pI?si=I_41gvnYH3caG4TW"
-      ]
+      ],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c15",
@@ -388,7 +402,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/VPnMELUZEng?si=A664C_N__48uKTcP"
-      ]
+      ],
+      "premium": "FREE"
     }
   ]
 }

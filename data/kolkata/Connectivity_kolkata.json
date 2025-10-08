@@ -9,7 +9,8 @@
       "lat": 22.5676,
       "lon": 88.3711,
       "locationLink": "https://maps.app.goo.gl/MdAKdjReg7kd6TWg7",
-      "majorFlightsTrainsBuses": "Guwahati to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Guwahati to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58520",
@@ -20,7 +21,8 @@
       "lat": 22.5829,
       "lon": 88.4538,
       "locationLink": "https://maps.app.goo.gl/w31RACqVKPBFpqL37",
-      "majorFlightsTrainsBuses": "Bagdogra to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Bagdogra to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58531",
@@ -31,7 +33,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Siliguri to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Siliguri to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58532",
@@ -42,7 +45,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Asanol to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Asanol to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58533",
@@ -53,7 +57,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Burdwanto Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Burdwanto Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58519",
@@ -64,7 +69,8 @@
       "lat": 22.6536,
       "lon": 88.4451,
       "locationLink": "https://maps.app.goo.gl/22xmqpiZkEd1K1U6A",
-      "majorFlightsTrainsBuses": "Delhi to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Delhi to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5851a",
@@ -75,7 +81,8 @@
       "lat": 22.6016,
       "lon": 88.3839,
       "locationLink": "https://maps.app.goo.gl/rUiEMMWYkXNt6tz4A",
-      "majorFlightsTrainsBuses": "Mumbai to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Mumbai to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5851f",
@@ -86,7 +93,8 @@
       "lat": 22.5636,
       "lon": 88.3497,
       "locationLink": "https://maps.app.goo.gl/Dguc7D8FKSvkP58w6",
-      "majorFlightsTrainsBuses": "Pune to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Pune to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58523",
@@ -97,7 +105,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "UPASANA EXPRESS (12328)"
+      "majorFlightsTrainsBuses": "UPASANA EXPRESS (12328)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58526",
@@ -108,7 +117,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Howrah Duronto Express (12261)"
+      "majorFlightsTrainsBuses": "Howrah Duronto Express (12261)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58528",
@@ -119,7 +129,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Chennai Coromandel Express (12841/12842)"
+      "majorFlightsTrainsBuses": "Chennai Coromandel Express (12841/12842)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58529",
@@ -130,7 +141,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Howrah Superfast Express (12839/12840)"
+      "majorFlightsTrainsBuses": "Howrah Superfast Express (12839/12840)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852e",
@@ -141,7 +153,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Puri to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Puri to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58530",
@@ -152,7 +165,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Digha to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Digha to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5851d",
@@ -163,7 +177,8 @@
       "lat": 22.6215,
       "lon": 88.3936,
       "locationLink": "https://maps.app.goo.gl/UWieAXoBvsadRrLy9",
-      "majorFlightsTrainsBuses": "Ahmedabad to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Ahmedabad to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58522",
@@ -174,7 +189,8 @@
       "lat": 22.6587,
       "lon": 88.3767,
       "locationLink": "https://maps.app.goo.gl/UoiG6zPe5cnJvR2e8",
-      "majorFlightsTrainsBuses": "KOLKATA EXPRESS (13152)"
+      "majorFlightsTrainsBuses": "KOLKATA EXPRESS (13152)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852a",
@@ -185,7 +201,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Himgiri Express (12332)"
+      "majorFlightsTrainsBuses": "Himgiri Express (12332)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852b",
@@ -196,7 +213,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Varanasi to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Varanasi to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852c",
@@ -207,7 +225,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Ranchi to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Ranchi to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5851c",
@@ -218,7 +237,8 @@
       "lat": 22.5371,
       "lon": 88.3159,
       "locationLink": "https://maps.app.goo.gl/1XHmeCvEbd4UHJBh7",
-      "majorFlightsTrainsBuses": "Bengaluru to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Bengaluru to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5851e",
@@ -229,7 +249,8 @@
       "lat": 22.5653,
       "lon": 88.3396,
       "locationLink": "https://maps.app.goo.gl/GGutE7Tr9aGahULw9",
-      "majorFlightsTrainsBuses": "Jaipur to Kolkata by flight"
+      "majorFlightsTrainsBuses": "Jaipur to Kolkata by flight",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58521",
@@ -240,7 +261,8 @@
       "lat": 22.5308,
       "lon": 88.3894,
       "locationLink": "https://maps.app.goo.gl/fFLACsztMeBM5xy18",
-      "majorFlightsTrainsBuses": "HWH RAJDHANI (12302)"
+      "majorFlightsTrainsBuses": "HWH RAJDHANI (12302)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58524",
@@ -251,7 +273,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "HWH-NDLS RAJDHANI Express (12306)"
+      "majorFlightsTrainsBuses": "HWH-NDLS RAJDHANI Express (12306)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58525",
@@ -262,7 +285,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Howrah–New Jalpaiguri Vande Bharat (12306)"
+      "majorFlightsTrainsBuses": "Howrah–New Jalpaiguri Vande Bharat (12306)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58527",
@@ -273,7 +297,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Howrah Mail (12809)"
+      "majorFlightsTrainsBuses": "Howrah Mail (12809)",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852d",
@@ -284,7 +309,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Bhubaneswar to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Bhubaneswar to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff5852f",
@@ -295,7 +321,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Patna to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Patna to Kolkata",
+      "premium": "FREE"
     },
     {
       "_id": "68c875309dad7b39dff58534",
@@ -306,7 +333,8 @@
       "lat": null,
       "lon": null,
       "locationLink": null,
-      "majorFlightsTrainsBuses": "Buses from Durgapur to Kolkata"
+      "majorFlightsTrainsBuses": "Buses from Durgapur to Kolkata",
+      "premium": "FREE"
     }
   ]
 }

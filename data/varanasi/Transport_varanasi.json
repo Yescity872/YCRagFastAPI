@@ -1,374 +1,411 @@
 {
-    "Transport": [
-        {
-            "_id": "68c7f27e20f4dc4834768b8f",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Sarnath",
-            "autoPrice": "Rs 130-180",
-            "cabPrice": "Rs 230-300",
-            "bikePrice": "Rs 80-100"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b91",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Namo Ghat",
-            "autoPrice": "Rs 110-150",
-            "cabPrice": "Rs 170-220",
-            "bikePrice": "Rs 60-70"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b94",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Kashi Vishwanath Temple",
-            "autoPrice": "Rs 110-150",
-            "cabPrice": "Rs 150-220",
-            "bikePrice": "Rs 65-75"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9a",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Varanasi Airport",
-            "autoPrice": "Rs 390-420",
-            "cabPrice": "Rs 500-750",
-            "bikePrice": "Rs 280-340"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9f",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Namo Ghat",
-            "autoPrice": "Rs 90-110",
-            "cabPrice": "Rs 120-180",
-            "bikePrice": "Rs 50-60"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba2",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "Manikarnika Ghat",
-            "autoPrice": "Rs 150-200",
-            "cabPrice": "Rs 200-250",
-            "bikePrice": "Rs 90-110"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba3",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "Varanasi Airport",
-            "autoPrice": "Rs 330-380",
-            "cabPrice": "Rs 500-600",
-            "bikePrice": "Rs 230-260"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768baa",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Varanasi Airport",
-            "autoPrice": "Rs 330-380",
-            "cabPrice": "Rs 500-700",
-            "bikePrice": "Rs 240-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bac",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Banaras Hindu University (BHU)",
-            "autoPrice": "Rs 130-180",
-            "cabPrice": "Rs 170-250",
-            "bikePrice": "Rs 70-100"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bae",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Manikarnika Ghat",
-            "autoPrice": "Rs 320-360",
-            "cabPrice": "Rs 470-600",
-            "bikePrice": "Rs 220-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb0",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Namo Ghat",
-            "autoPrice": "Rs 320-370",
-            "cabPrice": "Rs 550-650",
-            "bikePrice": "Rs 240-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b8e",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Kashi Vishwanath Temple",
-            "autoPrice": "Rs 80-120",
-            "cabPrice": "Rs 160-230",
-            "bikePrice": "Rs 40-50"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b90",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Manikarnika Ghat",
-            "autoPrice": "Rs 90-130",
-            "cabPrice": "Rs 170-230",
-            "bikePrice": "Rs 40-50"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b95",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Sarnath",
-            "autoPrice": "Rs 200-240",
-            "cabPrice": "Rs 290-350",
-            "bikePrice": "Rs 140-160"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9c",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Varanasi Junction",
-            "autoPrice": "Rs 90-120",
-            "cabPrice": "Rs 130-190",
-            "bikePrice": "Rs 50-60"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9d",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Sarnath",
-            "autoPrice": "Rs 150-200",
-            "cabPrice": "Rs 200-250",
-            "bikePrice": "Rs 90-110"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba6",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "Namo Ghat",
-            "autoPrice": "Rs 130-180",
-            "cabPrice": "Rs 150-200",
-            "bikePrice": "Rs 70-80"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba7",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Sarnath",
-            "autoPrice": "Rs 110-150",
-            "cabPrice": "Rs 150-200",
-            "bikePrice": "Rs 60-80"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba8",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Kashi Vishwanath Temple",
-            "autoPrice": "Rs 90-110",
-            "cabPrice": "Rs 120-180",
-            "bikePrice": "Rs 40-60"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768baf",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Kashi Vishwanath Temple",
-            "autoPrice": "Rs 320-350",
-            "cabPrice": "Rs 490-590",
-            "bikePrice": "Rs 240-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb2",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Sarnath",
-            "autoPrice": "Rs 320-370",
-            "cabPrice": "Rs 480-580",
-            "bikePrice": "Rs 230-260"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b92",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Banaras Hindu University (BHU)",
-            "autoPrice": "Rs 140-200",
-            "cabPrice": "Rs 250-300",
-            "bikePrice": "Rs 90-110"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b93",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Junction",
-            "to": "Varanasi Airport",
-            "autoPrice": "Rs 300-310",
-            "cabPrice": "Rs 500-600",
-            "bikePrice": "Rs 210-250"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9b",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Varanasi Airport",
-            "autoPrice": "Rs 300-350",
-            "cabPrice": "Rs 490-550",
-            "bikePrice": "Rs 240-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba5",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "Banaras Hindu University (BHU)",
-            "autoPrice": "Rs 200-250",
-            "cabPrice": "Rs 310-400",
-            "bikePrice": "Rs 150-200"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b96",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Manikarnika Ghat",
-            "autoPrice": "Rs 120-150",
-            "cabPrice": "Rs 170-230",
-            "bikePrice": "Rs 70-90"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b97",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Namo Ghat",
-            "autoPrice": "Rs 150-190",
-            "cabPrice": "Rs 230-300",
-            "bikePrice": "Rs 100-140"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b98",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Godowlia Chowk",
-            "autoPrice": "Rs 110-140",
-            "cabPrice": "Rs 140-200",
-            "bikePrice": "Rs 60-70"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b99",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Banaras Hindu University",
-            "to": "Varanasi Junction",
-            "autoPrice": "Rs 150-200",
-            "cabPrice": "Rs 200-250",
-            "bikePrice": "Rs 100-110"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768b9e",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Manikarnika Ghat",
-            "autoPrice": null,
-            "cabPrice": null,
-            "bikePrice": null
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba0",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Kashi Vishwanath Temple",
-            "to": "Banaras Hindu University (BHU)",
-            "autoPrice": "Rs 100-140",
-            "cabPrice": "Rs 130-180",
-            "bikePrice": "Rs 60-70"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba1",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "kashi Vishwanath Temple",
-            "autoPrice": "Rs 210-250",
-            "cabPrice": "Rs 300-400",
-            "bikePrice": "Rs 150-200"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba4",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Sarnath",
-            "to": "Varanasi junction",
-            "autoPrice": "Rs 140-180",
-            "cabPrice": "Rs 250-300",
-            "bikePrice": "Rs 90-110"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768ba9",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Manikarnika Ghat",
-            "autoPrice": "Rs 100-140",
-            "cabPrice": "Rs 120-180",
-            "bikePrice": "Rs 40-60"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bab",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Namo Ghat",
-            "to": "Varanasi Junction",
-            "autoPrice": "Rs 130-180",
-            "cabPrice": "Rs 200-300",
-            "bikePrice": "Rs 70-90"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bad",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Varanasi Junction",
-            "autoPrice": "Rs 320-360",
-            "cabPrice": "Rs 550-650",
-            "bikePrice": "Rs 230-270"
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bb1",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "from": "Varanasi Airport",
-            "to": "Banaras Hindu University (BHU)",
-            "autoPrice": "Rs 370-420",
-            "cabPrice": "Rs 600-700",
-            "bikePrice": "Rs 290-320"
-        }
-    ]
+  "transport": [
+    {
+      "_id": "68c7f27e20f4dc4834768b8f",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Sarnath",
+      "autoPrice": "Rs 130-180",
+      "cabPrice": "Rs 230-300",
+      "bikePrice": "Rs 80-100",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b91",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Namo Ghat",
+      "autoPrice": "Rs 110-150",
+      "cabPrice": "Rs 170-220",
+      "bikePrice": "Rs 60-70",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b94",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Kashi Vishwanath Temple",
+      "autoPrice": "Rs 110-150",
+      "cabPrice": "Rs 150-220",
+      "bikePrice": "Rs 65-75",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9a",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Varanasi Airport",
+      "autoPrice": "Rs 390-420",
+      "cabPrice": "Rs 500-750",
+      "bikePrice": "Rs 280-340",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9f",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Namo Ghat",
+      "autoPrice": "Rs 90-110",
+      "cabPrice": "Rs 120-180",
+      "bikePrice": "Rs 50-60",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba2",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "Manikarnika Ghat",
+      "autoPrice": "Rs 150-200",
+      "cabPrice": "Rs 200-250",
+      "bikePrice": "Rs 90-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba3",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "Varanasi Airport",
+      "autoPrice": "Rs 330-380",
+      "cabPrice": "Rs 500-600",
+      "bikePrice": "Rs 230-260",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768baa",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Varanasi Airport",
+      "autoPrice": "Rs 330-380",
+      "cabPrice": "Rs 500-700",
+      "bikePrice": "Rs 240-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bac",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Banaras Hindu University (BHU)",
+      "autoPrice": "Rs 130-180",
+      "cabPrice": "Rs 170-250",
+      "bikePrice": "Rs 70-100",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bae",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Manikarnika Ghat",
+      "autoPrice": "Rs 320-360",
+      "cabPrice": "Rs 470-600",
+      "bikePrice": "Rs 220-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb0",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Namo Ghat",
+      "autoPrice": "Rs 320-370",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": "Rs 240-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b8e",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Kashi Vishwanath Temple",
+      "autoPrice": "Rs 80-120",
+      "cabPrice": "Rs 160-230",
+      "bikePrice": "Rs 40-50",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b90",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Manikarnika Ghat",
+      "autoPrice": "Rs 90-130",
+      "cabPrice": "Rs 170-230",
+      "bikePrice": "Rs 40-50",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b95",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Sarnath",
+      "autoPrice": "Rs 200-240",
+      "cabPrice": "Rs 290-350",
+      "bikePrice": "Rs 140-160",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9c",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Varanasi Junction",
+      "autoPrice": "Rs 90-120",
+      "cabPrice": "Rs 130-190",
+      "bikePrice": "Rs 50-60",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9d",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Sarnath",
+      "autoPrice": "Rs 150-200",
+      "cabPrice": "Rs 200-250",
+      "bikePrice": "Rs 90-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba6",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "Namo Ghat",
+      "autoPrice": "Rs 130-180",
+      "cabPrice": "Rs 150-200",
+      "bikePrice": "Rs 70-80",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba7",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Sarnath",
+      "autoPrice": "Rs 110-150",
+      "cabPrice": "Rs 150-200",
+      "bikePrice": "Rs 60-80",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba8",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Kashi Vishwanath Temple",
+      "autoPrice": "Rs 90-110",
+      "cabPrice": "Rs 120-180",
+      "bikePrice": "Rs 40-60",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768baf",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Kashi Vishwanath Temple",
+      "autoPrice": "Rs 320-350",
+      "cabPrice": "Rs 490-590",
+      "bikePrice": "Rs 240-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb2",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Sarnath",
+      "autoPrice": "Rs 320-370",
+      "cabPrice": "Rs 480-580",
+      "bikePrice": "Rs 230-260",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b92",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Banaras Hindu University (BHU)",
+      "autoPrice": "Rs 140-200",
+      "cabPrice": "Rs 250-300",
+      "bikePrice": "Rs 90-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b93",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Junction",
+      "to": "Varanasi Airport",
+      "autoPrice": "Rs 300-310",
+      "cabPrice": "Rs 500-600",
+      "bikePrice": "Rs 210-250",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9b",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Varanasi Airport",
+      "autoPrice": "Rs 300-350",
+      "cabPrice": "Rs 490-550",
+      "bikePrice": "Rs 240-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba5",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "Banaras Hindu University (BHU)",
+      "autoPrice": "Rs 200-250",
+      "cabPrice": "Rs 310-400",
+      "bikePrice": "Rs 150-200",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b96",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Manikarnika Ghat",
+      "autoPrice": "Rs 120-150",
+      "cabPrice": "Rs 170-230",
+      "bikePrice": "Rs 70-90",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b97",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Namo Ghat",
+      "autoPrice": "Rs 150-190",
+      "cabPrice": "Rs 230-300",
+      "bikePrice": "Rs 100-140",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b98",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Godowlia Chowk",
+      "autoPrice": "Rs 110-140",
+      "cabPrice": "Rs 140-200",
+      "bikePrice": "Rs 60-70",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b99",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Banaras Hindu University",
+      "to": "Varanasi Junction",
+      "autoPrice": "Rs 150-200",
+      "cabPrice": "Rs 200-250",
+      "bikePrice": "Rs 100-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768b9e",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Manikarnika Ghat",
+      "autoPrice": null,
+      "cabPrice": null,
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba0",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Kashi Vishwanath Temple",
+      "to": "Banaras Hindu University (BHU)",
+      "autoPrice": "Rs 100-140",
+      "cabPrice": "Rs 130-180",
+      "bikePrice": "Rs 60-70",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba1",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "kashi Vishwanath Temple",
+      "autoPrice": "Rs 210-250",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 150-200",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba4",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Sarnath",
+      "to": "Varanasi junction",
+      "autoPrice": "Rs 140-180",
+      "cabPrice": "Rs 250-300",
+      "bikePrice": "Rs 90-110",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768ba9",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Manikarnika Ghat",
+      "autoPrice": "Rs 100-140",
+      "cabPrice": "Rs 120-180",
+      "bikePrice": "Rs 40-60",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bab",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Namo Ghat",
+      "to": "Varanasi Junction",
+      "autoPrice": "Rs 130-180",
+      "cabPrice": "Rs 200-300",
+      "bikePrice": "Rs 70-90",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bad",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Varanasi Junction",
+      "autoPrice": "Rs 320-360",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": "Rs 230-270",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bb1",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "from": "Varanasi Airport",
+      "to": "Banaras Hindu University (BHU)",
+      "autoPrice": "Rs 370-420",
+      "cabPrice": "Rs 600-700",
+      "bikePrice": "Rs 290-320",
+      "premium": "FREE"
+    }
+  ]
 }

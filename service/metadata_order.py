@@ -6,67 +6,67 @@ FOOD_ORDER: List[str] = [
     '_id','cityId','cityName','flagship','foodPlace','lat','lon','address','locationLink',
     'category','vegOrNonVeg','valueForMoney','service','taste','hygiene',
     'menuSpecial','menuLink','openDay','openTime','phone','website','description',
-    'images','videos','premium','section'
+    'images','videos','updatedAt','premium'
 ]
 
 PLACE_ORDER: List[str] = [
     '_id','cityId','cityName','places','category','lat','lon','address','locationLink',
     'openDay','openTime','establishYear','fee','description','essential','story',
-    'images','videos','premium','section'
+    'images','videos','premium'
 ]
 
 SOUVENIR_ORDER: List[str] = [
     '_id','cityId','cityName','flagShip','shops','lat','lon','address','locationLink',
-    'famousFor','priceRange','openDay','openTime','phone','website','images','premium','section'
+    'famousFor','priceRange','openDay','openTime','phone','website','images','premium'
 ]
 
 TRANSPORT_ORDER: List[str] = [
-    '_id','cityId','cityName','from','to','autoPrice','cabPrice','bikePrice','openDay','openTime','description','premium','section'
+    '_id','cityId','cityName','from','to','autoPrice','cabPrice','bikePrice','premium'
 ]
 
 # New category canonical orders
 ACCOMMODATION_ORDER: List[str] = [
-    '_id','cityId','cityName','hotels','category','lat','lon','address','locationLink',
-    'roomTypes','facilities','amenities','priceRange','rating','checkIn','checkOut',
-    'phone','website','description','images','videos','premium','section'
+    '_id','cityId','cityName','flagship','hotels','category','lat','lon','address','locationLink',
+    'roomTypes','facilities','images','premium'
 ]
 
 ACTIVITY_ORDER: List[str] = [
-    '_id','cityId','cityName','topActivities','bestPlaces','category','fee','season','duration','difficulty',
-    'description','equipment','safetyTips','images','videos','premium','section'
+    '_id','cityId','cityName','topActivities','bestPlaces','fee','description','essentials','images','videos','premium'
 ]
 
 CITYINFO_ORDER: List[str] = [
-    '_id','cityId','cityName','stateOrUT','bestTimeToVisit','climateInfo','cityHistory',
-    'famousFor','localLanguages','safety','altitude','population','areaSqKm','timezone','currency','tips','premium','section'
+    '_id','cityId','cityName','stateOrUT','alternateNames','bestTimeToVisit','climateInfo','cityHistory',
+    'languagesSpoken','coverImage','premium'
 ]
 
 CONNECTIVITY_ORDER: List[str] = [
-    '_id','cityId','cityName','nearestAirportStationBusStand','distance','timeToReach','mode','majorFlightsTrainsBuses',
-    'frequency','lastMileOptions','notes','premium','section'
+    '_id','cityId','cityName','nearestAirportStationBusStand','distance','majorFlightsTrainsBuses',
+    'lat','lon','locationLink','premium'
 ]
 
 HIDDENGEM_ORDER: List[str] = [
     '_id','cityId','cityName','hiddenGem','category','lat','lon','address','locationLink',
-    'description','story','bestTime','access','difficulty','tips','images','videos','premium','section'
+    'description','story','essential','establishYear','fee','openDay','openTime','images','videos','premium'
 ]
 
 ITINERARY_ORDER: List[str] = [
-    '_id','cityId','cityName','duration','theme','day1','day2','day3','day4','day5','totalCost','bestFor','notes','premium','section'
+    '_id','cityId','cityName','day1','day2','day3','premium'
 ]
 
 MISC_ORDER: List[str] = [
-    '_id','cityId','cityName','topic','question','answer','category','tags','source','updatedAt','premium','section'
+    '_id','cityId','cityName','emergencyContacts','hospital','hospitalLat','hospitalLon','hospitalLocationLink',
+    'PoliceLat','PoliceLon','PoliceLocationLink','parking','parkingLat','parkingLon','parkingLocationLink',
+    'publicWashrooms','publicWashroomsLat','publicWashroomsLon','publicWashroomsLocationLink','localMap','premium'
 ]
 
 NEARBYSPOT_ORDER: List[str] = [
-    '_id','cityId','cityName','places','category','lat','lon','address','locationLink','distance','travelTime','bestTime',
-    'description','essential','story','images','videos','premium','section'
+    '_id','cityId','cityName','places','category','lat','lon','address','locationLink','distance',
+    'description','essential','story','establishYear','fee','openDay','openTime','images','videos','premium'
 ]
 
 SHOP_ORDER: List[str] = [
-    '_id','cityId','cityName','shops','category','lat','lon','address','locationLink','famousFor','priceRange','openDay',
-    'openTime','phone','website','description','images','videos','premium','section'
+    '_id','cityId','cityName','flagship','shops','lat','lon','address','locationLink','famousFor','priceRange','openDay',
+    'openTime','phone','website','images','premium'
 ]
 
 

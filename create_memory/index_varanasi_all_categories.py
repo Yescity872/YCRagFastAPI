@@ -124,10 +124,14 @@ def load_section(cat: str) -> List[Dict[str, Any]]:
         return []
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
-    section = data.get(cat)
+    
+    # Use lowercase key for data lookup (consistent with file structure)
+    lowercase_cat = cat.lower()
+    section = data.get(lowercase_cat)
     if not isinstance(section, list):
-        print(f"[WARN] {cat}: top-level key not list")
+        print(f"[WARN] {cat}: top-level key '{lowercase_cat}' not found or not list")
         return []
+    return section
     return section
 
 def ensure_index(pc: Pinecone, name: str, dim: int, cloud: str, region: str):

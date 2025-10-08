@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-Split Kolkata.json into individual category files with _id metadata.
-Similar to split_varanasi_data.py and split_agra_data.py but for Kolkata city.
+Split updated Mahabaleshwar (1).json into individual category files with _id metadata.
+Updates the existing Mahabaleshwar category files with new data.
 
-Input: data/kolkata/Kolkata.json
-Output: data/kolkata/Category_kolkata.json files (12 categories)
+Input: data/mahabaleshwar/Mahabaleshwar (1).json
+Output: data/mahabaleshwar/Category_mahabaleshwar.json files (12 categories) - OVERWRITES existing files
 
 Removes __v fields and preserves all other data including _id.
 """
@@ -13,33 +13,34 @@ import json
 import os
 from pathlib import Path
 
-def split_kolkata_data():
+def split_updated_mahabaleshwar_data():
     # Paths
-    base_dir = Path("data/kolkata")
-    input_file = base_dir / "Kolkata.json"
+    base_dir = Path("data/mahabaleshwar")
+    input_file = base_dir / "Mahabaleshwar (1).json"
     
     if not input_file.exists():
         print(f"❌ Error: {input_file} not found!")
         return
     
-    # Load main file
-    print(f"📖 Loading {input_file}...")
+    # Load updated file
+    print(f"📖 Loading updated {input_file}...")
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    print(f"✅ Found {len(data)} categories in Kolkata.json")
+    print(f"✅ Found {len(data)} categories in updated Mahabaleshwar (1).json")
     
     # Category mapping (lowercase from file → PascalCase for filenames)
+    # Keep exactly the same as before
     category_mapping = {
         'accommodation': 'Accommodation',
         'activity': 'Activity', 
-        'cityinfo': 'Cityinfo',  # Keep lowercase in key for consistency with Varanasi/Agra
+        'cityinfo': 'Cityinfo',  # Keep lowercase in key for consistency
         'connectivity': 'Connectivity',
         'food': 'Food',
-        'hiddengem': 'Hiddengem',  # Keep lowercase in key for consistency with Varanasi/Agra
+        'hiddengem': 'Hiddengem',  # Keep lowercase in key for consistency
         'itinerary': 'Itinerary',
         'misc': 'Misc',
-        'nearbyspot': 'Nearbyspot',  # Keep lowercase in key for consistency with Varanasi/Agra
+        'nearbyspot': 'Nearbyspot',  # Keep lowercase in key for consistency
         'place': 'Place',
         'shop': 'Shop',
         'transport': 'Transport',
@@ -47,9 +48,11 @@ def split_kolkata_data():
     
     total_processed = 0
     
+    print(f"\\n🔄 Updating existing Mahabaleshwar category files...")
+    
     for source_key, target_category in category_mapping.items():
         if source_key not in data:
-            print(f"⚠️  Category '{source_key}' not found in Kolkata.json")
+            print(f"⚠️  Category '{source_key}' not found in updated Mahabaleshwar (1).json")
             continue
             
         items = data[source_key]
@@ -73,25 +76,31 @@ def split_kolkata_data():
             else:
                 cleaned_items.append(item)
         
-        # Create output file with lowercase key (consistent with Varanasi/Agra)
-        output_file = base_dir / f"{target_category}_kolkata.json"
+        # Create output file with lowercase key (same naming as before)
+        output_file = base_dir / f"{target_category}_mahabaleshwar.json"
         output_data = {source_key: cleaned_items}  # Use original lowercase key
         
-        # Write to file
+        # Write to file (overwrites existing)
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
         
-        print(f"✅ {target_category:12} → {output_file.name:25} ({len(cleaned_items)} items, {items_with_id} with _id)")
+        print(f"✅ {target_category:12} → {output_file.name:35} ({len(cleaned_items)} items, {items_with_id} with _id)")
         total_processed += len(cleaned_items)
     
-    print(f"\n🎉 Successfully processed {total_processed} items from Kolkata!")
-    print(f"📁 Files created in: {base_dir}")
+    print(f"\\n🎉 Successfully updated Mahabaleshwar files with {total_processed} items!")
+    print(f"📁 Files updated in: {base_dir}")
     
-    # Verify all files were created
-    created_files = list(base_dir.glob("*_kolkata.json"))
-    print(f"\n📋 Created files ({len(created_files)}):")
-    for file in sorted(created_files):
+    # Show comparison
+    print(f"\\n📊 Data comparison:")
+    print(f"   Previous total: 104 items")
+    print(f"   Updated total:  {total_processed} items")
+    print(f"   Difference:     {total_processed - 104:+d} items")
+    
+    # Verify all files were updated
+    updated_files = list(base_dir.glob("*_mahabaleshwar.json"))
+    print(f"\\n📋 Updated files ({len(updated_files)}):")
+    for file in sorted(updated_files):
         print(f"   • {file.name}")
 
 if __name__ == "__main__":
-    split_kolkata_data()
+    split_updated_mahabaleshwar_data()

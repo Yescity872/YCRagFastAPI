@@ -1,0 +1,2549 @@
+{
+  "accommodation": [
+    {
+      "_id": "68e02d6abd1f9c367048dd48",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Hotel Sahu Inn",
+      "lat": 26.7558,
+      "lon": 82.2007,
+      "address": "Rajarshi Dashrath Medical College, Darshan Nagar Kushmaha, Road, near CMO Office, Darshan Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Sahu+Inn+, +Ayodhya/@26.7558005, 82.2006798, 17z/data=!3m1!4b1!4m9!3m8!1s0x399a094cbb48af31:0xea6c1ff4e617f6bc!5m2!4m1!1i2!8m2!3d26.7558005!4d82.2006798!16s%2Fg%2F11q8y5gsrj?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2 star hotel",
+      "roomTypes": "Deluxe Non- Air Conditioning Room(₹ 1024),Deluxe Air Conditioning Room(₹ 1356)",
+      "facilities": "Free Wi-Fi,Paid breakfast,Free parking,Accessible,Air-conditioned,Laundry service,Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516839/rgtlqltq3zha4qr6gl4b.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516841/yzsfcdjpqy6qi0wwjtxe.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516842/pskwc2qwsaodtojna3iz.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Royal Heritage Hotel & Resort",
+      "lat": 26.8309,
+      "lon": 82.2178,
+      "address": "Infront Of Bedi's Dream Land Hotel, NH-27 Bypass Ayodhya Maheshpur, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Royal+Heritage+Hotel+%26+Resort, +Ayodhya/@26.8309271, 82.2177901, 17z/data=!3m1!4b1!4m9!3m8!1s0x3990a9bf8e86b75b:0xd7a7eeacb8c42a81!5m2!4m1!1i2!8m2!3d26.8309271!4d82.2177901!16s%2Fg%2F11h8zxvlyy?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3 star hotel",
+      "roomTypes": "Deluxe Room(₹ 3,994),Executive Room(₹ 4,792-₹ 5,591),Suite Room(₹ 8,810-₹ 10,412)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Pool,Laundry service,Pet-friendly,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516882/rnywct24kws7rcpwaodj.jpg",
+        "20&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516885/gdarn8bmp2tuydtsvhi5.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516890/lrx0mcbc5s9ld9l17pid.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd46",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "The Ramayana Hotel, Ayodhya",
+      "lat": 26.7708,
+      "lon": 82.2107,
+      "address": "Booth No 4, Shahnewazpur Manjha, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/The+Ramayana+Hotel, +Ayodhya/@26.7708021, 82.2106822, 17z/data=!3m1!4b1!4m9!3m8!1s0x399a09e814db2f5b:0x540c7be1e35d67ae!5m2!4m1!1i2!8m2!3d26.7708021!4d82.2106822!16s%2Fg%2F11fmm152tc?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4 star hotel",
+      "roomTypes": "Executive Room(₹ 5,535-₹ 6,267),Deluxe Room with Balcony(₹ 6,565-₹ 6,864),Luxury Suite(₹ 9,609-₹ 10,206)",
+      "facilities": "Free Wi-Fi,Paid breakfast,Free parking,Accessible,Air-conditioned,Laundry service,Room service,Restaurant,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516821/yfillryhznugpdnorx98.jpg",
+        "32&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516825/w01qxg8y3arrkvxwbzjd.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516829/ommi0e9l4cgwa0fhimjx.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd47",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Hotel RamBhoomi Ayodhya",
+      "lat": 26.777,
+      "lon": 82.1818,
+      "address": "Panchkosi Parikrama Marg, Ranopali Village, Ayodhya, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps/place/Hotel+RamBhoomi+Ayodhya/@26.7769913, 82.181829, 17z/data=!3m1!4b1!4m9!3m8!1s0x399a077c34e23fa3:0xa986751a40d60320!5m2!4m1!1i2!8m2!3d26.7769913!4d82.181829!16s%2Fg%2F11j3j700ch?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4 star hotel",
+      "roomTypes": "Budget Room(226-452),Budget Double Room(300-600),Family Room(821),Triple Bed Room(577-1150),Deluxe Room(577-1150),Five Bedroom Royal Residence(824-1645),Four Beds Room Suite(824-1645)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Pool,Laundry service,Pet-friendly,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516833/c5clboezrinhz0wijts1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516835/l49qdpacj5ulhlrjbywo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516837/na1rzxroxue9hq0tujmg.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd49",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Hotel Panchsheel",
+      "lat": 26.7673,
+      "lon": 82.1682,
+      "address": "Near, Bypass Crossing NH-27, Deokali, Ayodhya, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Hotel+Panchsheel, +Ayodhya/@26.7672658, 82.1681601, 17z/data=!4m10!3m9!1s0x399a087f94d5a0e9:0x3064f3575bea47e1!5m2!4m1!1i2!8m2!3d26.7672658!4d82.170735!10e1!16s%2Fg%2F11r8xt9w1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4 star hotel",
+      "roomTypes": "Mini Deluxe Room(₹5,600),Executive Room(₹5,840),Deluxe Room(₹6,560),Super Deluxe Room(₹7,440),Suite Room(₹9,600)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Laundry service,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://rukmini-ct.flixcart.com/w_360",
+        "h_208",
+        "fl_progressive",
+        "e_sharpen:80",
+        "c_fill",
+        "dpr_2",
+        "f_auto",
+        "q_75/ct-hotel-images/places/hotels/cms/4531/4531251/images/image_4531251_ab36b277-549e-4b16-bfad-781fe8fd6cb1.jpeg",
+        "https://rukmini-ct.flixcart.com/w_360",
+        "h_208",
+        "fl_progressive",
+        "e_sharpen:80",
+        "c_fill",
+        "dpr_2",
+        "f_auto",
+        "q_75/ct-hotel-images/places/hotels/cms/4531/4531251/images/image_4531251_20e9a88c-df13-4d70-a573-1604f14ad3d9.jpeg",
+        "https://rukmini-ct.flixcart.com/w_360",
+        "h_208",
+        "fl_progressive",
+        "e_sharpen:80",
+        "c_fill",
+        "dpr_2",
+        "f_auto",
+        "q_75/ct-hotel-images/places/hotels/cms/4531/4531251/images/image_4531251_8d9fc58b-51a8-4c3c-9851-f25bc710757a.jpeg"
+      ],
+      "premium": "FREE",
+      "__v": 3
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "AP Palace Hotel",
+      "lat": 26.7688,
+      "lon": 82.1689,
+      "address": "Fatehganj Devkali Rd, near Indian Bank, Badi, Adarsh Puram, Ayodhya, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/AP+Palace+Hotel, +Ayodhya/@26.7687657, 82.1688999, 17z/data=!4m10!3m9!1s0x399a08802a6de2bb:0x49b8742a67960940!5m2!4m1!1i2!8m2!3d26.7687657!4d82.1688999!10e1!16s%2Fg%2F11b75fsv_5?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3 star hotel",
+      "roomTypes": "STANDARD SAVER ROOM(₹ 1,529 - ₹ 1,703),Deluxe Room(₹ 2,038-₹ 2,344),king Room(₹ 2,378-₹ 2,615)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Pool,Laundry service,Pet-friendly,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516850/hffqkygc9vvm40levshq.jpg",
+        "16&output-format=jpg&downsize=810:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516853/qjtopubwc1mcydembb4p.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516855/eu9boajnnfqpf8t4zwyl.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Taraji Resort Hotel",
+      "lat": 26.7697,
+      "lon": 82.1808,
+      "address": "Fatehganj Devkali Rd, near Indian Bank, Badi, Adarsh Puram, Ayodhya, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Taraji+Resort+Hotel+%26+Restaurant+%7C+Best+Hotel+in+Faizabad, +Ayodhya+%7C+Wedding+Venue/@26.7697081, 82.1808304, 17z/data=!3m1!4b1!4m9!3m8!1s0x399a07d7cd92dfbf:0x2ac34582c2556c4a!5m2!4m1!1i2!8m2!3d26.7697081!4d82.1808304!16s%2Fg%2F11b8zhnnms?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3 star hotel",
+      "roomTypes": "Classic (2X) (3,395-4,149),Deluxe (3X)(4,149 - 4,526)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Laundry service,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516860/v064vblsmgcg9cuso4ks.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516864/bk6zuavzu65fpyuwzomp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516867/ksrhb7johh3qdgv2cn8i.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Park Inn by Radisson",
+      "lat": 26.7764,
+      "lon": 82.1358,
+      "address": "Plot No.4108, Fatehganj Rd - Civil Line Rd, Lajpat Nagar, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Park+Inn+by+Radisson+Ayodhya/@26.7763828, 82.1358073, 17z/data=!4m9!3m8!1s0x399a07b6484d7c95:0x9810b312e1e6da5e!5m2!4m1!1i2!8m2!3d26.7763828!4d82.1358073!16s%2Fg%2F11vjggtwg5?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3 star hotel",
+      "roomTypes": "Superior Room(₹ 7,650-₹ 10,350),Deluxe Room(₹ 9,000-₹ 12,150),Suite - 1 Bedroom(₹ 15,300-₹ 18,000)",
+      "facilities": "Free Wi-Fi,Paid breakfast,Free parking,Accessible,Air-conditioned,Laundry service,Room service,Restaurant,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516895/nfpzzfnnryr1l46nb30b.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516900/ftbd6awt87k53lvssc96.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516903/ctwduvmbm5gsobjf8qhz.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd51",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Ram Bila Paying Guest House in Ayodhya",
+      "lat": 26.7885,
+      "lon": 82.1754,
+      "address": "Mani Parvat Temple, Kami Ganj, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Ram+Bila+Paying+Guest+House+in+Ayodhya/@26.788463, 82.1754227, 12z/data=!4m14!1m3!2m2!1shotels+near+ram+janmabhoomi+ayodhya!6e3!3m9!1s0x399a070076b8d3a9:0x50f2d89038ce174e!5m2!4m1!1i2!8m2!3d26.7822365!4d82.1961383!15sCiNob3RlbHMgbmVhciByYW0gamFubWFiaG9vbWkgYXlvZGh5YZIBEnByaXZhdGVfZ3Vlc3Rfcm9vbaoBWRABKgoiBmhvdGVscygAMiAQASIcxCt_c7KVglx0rtL-9Ff0a7IhHcVl8v7qB_O4cDInEAIiI2hvdGVscyBuZWFyIHJhbSBqYW5tYWJob29taSBheW9kaHlh4AEA!16s%2Fg%2F11wfcjy63b?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "3 star hotel",
+      "roomTypes": "Double Room(₹ 1,530-₹ 1,700)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Laundry service,Room service,Kitchens in some rooms,smoke free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516933/x0dqzjtzwyncnmrspjoq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516934/c09udekbjjyztdx4l8cm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516936/kloul3llaujs4w7laefo.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "Shri Ram Hotel",
+      "lat": 26.7879,
+      "lon": 82.1975,
+      "address": "Dant Dhawan Kund - Ahirana Marg, Near Shri Hanuman Garhi Mandir, New Colony, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shri+Ram+Hotel/@26.7879024, 82.1974644, 15.21z/data=!4m13!1m2!2m1!1shotels+near+ram+janmabhoomi+ayodhya!3m9!1s0x399a0792b666ee3f:0x2dc53020ca6bc61f!5m2!4m1!1i2!8m2!3d26.7944917!4d82.2027701!15sCiNob3RlbHMgbmVhciByYW0gamFubWFiaG9vbWkgYXlvZGh5YVolIiNob3RlbHMgbmVhciByYW0gamFubWFiaG9vbWkgYXlvZGh5YZIBBWhvdGVsqgFZEAEqCiIGaG90ZWxzKAAyIBABIhzEK39zspWCXHSu0v70V_RrsiEdxWXy_uoH87hwMicQAiIjaG90ZWxzIG5lYXIgcmFtIGphbm1hYmhvb21pIGF5b2RoeWHgAQA!16s%2Fg%2F11b6rsypnc?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkxNi4wIKXMDSoASAFQAw%3D%3D",
+      "category": "2 star hotel",
+      "roomTypes": "Standard Double Room (Non AC)(₹ 1,687-₹ 1,998),Deluxe AC Room(₹ 2,575-₹ 2,886),Family 4 Bed Non AC Room(₹ 2,610-₹ 3,233),Super Deluxe AC Room(₹ 3,159-₹ 3,471),Deluxe Triple AC Room(₹ 3,354-₹ 3,821)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Laundry service,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516907/dlddatt5vd5ogpfya3fa.jpg",
+        "15&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516911/e9pzoupmmvhccijnhgbk.jpg",
+        "20&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516916/bwowkgbqbtkpzuscz7ns.jpg",
+        "20&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd50",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "PADMSHREE PALACE",
+      "lat": 26.7864,
+      "lon": 82.2018,
+      "address": "Q6P3+Q45, Raiganj Rd, Kaniganj, Kami Ganj, Nonhatiya, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/PADMSHREE+PALACE/@26.7864375, 82.2018125, 17z/data=!3m1!4b1!4m9!3m8!1s0x399a07001a2e34af:0xe927fe3f1e2ac118!5m2!4m1!1i2!8m2!3d26.7864375!4d82.2018125!16s%2Fg%2F11ww0mzjxc?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4 star hotel",
+      "roomTypes": "Deluxe Double Room(₹ 5,488-₹ 5,923),Deluxe Twin(₹ 5,662),Family Room(₹ 7,082-₹ 8,853),Scott Suite Room(₹ 9,738-₹ 10,623)",
+      "facilities": "Free Wi-Fi,Free breakfast,Free parking,Laundry service,Room service,Child friendly,Kitchens in some rooms",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516921/xcgoja4tnnxbia6pngjy.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516927/yb8707gskng4dls3ayum.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516931/dvrtmrt4fidisc2nlbfm.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6abd1f9c367048dd4c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "hotels": "KOHINOOR PALACE - A HERITAGE HOTEL",
+      "lat": 26.7785,
+      "lon": 82.1579,
+      "address": "Vaidehi Nagar, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/KOHINOOR+PALACE+-+A+HERITAGE+HOTEL/@26.7784951, 82.1579346, 17z/data=!4m9!3m8!1s0x399a0625204ccb1b:0xf87c9fec3eb90206!5m2!4m1!1i2!8m2!3d26.7784951!4d82.1579346!16s%2Fg%2F11b_01c8t3?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "category": "4 star hotel",
+      "roomTypes": "Deluxe Room(₹ 3,190-₹ 3,722),Super Deluxe Room(₹ 4,520-₹ 4,786),Luxury Room(₹ 4,777-₹ 5,318)",
+      "facilities": "Free Wi-Fi,Paid breakfast,Free parking,Accessible,Air-conditioned,Laundry service,Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516872/eoactqa9fwhmbbyyuotw.jpg",
+        "0&output-format=jpg&downsize=720:*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516875/xhsxjuebwa8g8dyys8lb.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516879/j6l0it3te4ptyksos1y3.jpg",
+        "0&output-format=jpg&downsize=252:160&crop=252:160"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "activity": [
+    {
+      "_id": "68e02d6cbd1f9c367048dd92",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Experience Evening Aarti & Light Show",
+      "bestPlaces": "Ram Ki Paidi / Saryu Ghat Riverfront",
+      "description": "Witness the mesmerizing daily grand evening ritual of lamps and chants dedicated to the Saryu River, often followed by a light and sound show.",
+      "essentials": [
+        "Arrive 30 mins early for a good spot; comfortable seating mat; modest clothing."
+      ],
+      "fee": "Free (The Aarti ceremony itself is free. Donations are voluntary.)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517195/fkcwwcul9pgauq38dyeu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/C_uPNChCuUA"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd94",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Walk Old City Lanes & Hidden Temples",
+      "bestPlaces": "Inner streets near Hanuman Garhi, Karsevakpuram area",
+      "description": "Self-explore narrow alleys to find old havelis (mansions), unique murals, small local shrines, and experience the non-touristy life of Ayodhya.",
+      "essentials": [
+        "Comfortable walking shoes; small cash; respect for local privacy; a local map or guide."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517200/l3uwrexenq4yu7uksmu9.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/7Kt56x9EM4w?si=h7vTFhxecl_EVB6O"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd95",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Book a Guided Storytelling Tour",
+      "bestPlaces": "Old City/Riverfront/Major Sites",
+      "description": "Hire a local guide to narrate myths, legends, folklore, and historical anecdotes that are not found on standard plaques or in guidebooks.",
+      "essentials": [
+        "Booking confirmation (half-day or full-day); water bottle; good listener's attention."
+      ],
+      "fee": "₹500 - ₹1500+ (Per day/group, depending on guide experience/duration)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517204/ip5aufmbuuprrpjdz1tg.webp"
+      ],
+      "videos": [],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd97",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Attend Cultural Programs / Relax",
+      "bestPlaces": "Ram Katha Park",
+      "description": "Stroll and relax in the spacious park, and if dates align, attend open-air theatrical performances, katha recitals, or poetry evenings.",
+      "essentials": [
+        "Check local listings for events; blanket/mat for sitting; insect repellent (evening)."
+      ],
+      "fee": "Free (unless a ticketed event is running)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517208/metb6chumraewlithwtu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uLT1HV8FfT4"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd98",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Explore Historical Architecture",
+      "bestPlaces": "Bahu Begum's Tomb / Moti Mahal (Faizabad area)",
+      "description": "Visit structures from the Nawabi/Awadh era, offering a contrast to the temple architecture and a glimpse into the Mughal-era history of the region.",
+      "essentials": [
+        "Small entry fee might apply to the Tomb; respectful attire; good transport to Faizabad (if needed)."
+      ],
+      "fee": "₹20 - ₹50 (Estimated minimal entry fee, if any)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517210/clt4dc5tcqobqpjzqpuo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GCBBZTH_bmg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd99",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Visit Ancient Culinary Exhibit",
+      "bestPlaces": "Sita Ki Rasoi",
+      "description": "See displays and models representing ancient kitchen tools and culinary traditions, connecting the site's spiritual importance with daily life.",
+      "essentials": [
+        "Respectful conduct inside the temple-museum area."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517211/nqbcpvcqaszkgnea1fos.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pJygbfNF05s"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd93",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Sunrise/Sunset Boat Ride",
+      "bestPlaces": "Saryu River (via Guptar Ghat or Ram ki Paidi)",
+      "description": "Take a short boat ride during the \"golden hours\" for unique architectural photography and a tranquil view of the city reflecting on the water.",
+      "essentials": [
+        "Camera/Sketchbook; bargaining skills for the boat price; life jacket (if provided/necessary)."
+      ],
+      "fee": "₹50 - ₹200 per person (Approx. for a short shared ride)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517198/o9jfnalstwbfbzunrwsf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ylL-RAxi2Zk"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd96",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Local Food / Snack / Sweet Hunts",
+      "bestPlaces": "Alleyway shops, Chaat Stalls, Temple proximity",
+      "description": "Go \"food trekking\" to try local specialties like Ayodhya's famous chaat, peda, rabri, or kachori-sabzi for an authentic taste of the region.",
+      "essentials": [
+        "Small change (Chillar); own water bottle; an adventurous palate; check for hygiene."
+      ],
+      "fee": "₹20 - ₹150 per dish (Highly budget-friendly)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517205/ukgw0fzi7cutoynmffj1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/gJk0VRER6ko?si=bOM2TLn1DaUHjo7z"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Local Viewpoint",
+      "bestPlaces": "Mani Parvat",
+      "description": "Climb this small mythological hillock for a panoramic, bird’s-eye view of Ayodhya and the surrounding Saryu river plains.",
+      "essentials": [
+        "Comfortable shoes for the climb; sunscreen/hat."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517214/h9qdvntazfybyhximijq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/U2gQX455uDc"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Volunteer / Join Community Service",
+      "bestPlaces": "Temple Langar Kitchens / Community Centers",
+      "description": "Engage in Seva (selfless service) by helping out in a community kitchen or local temple operations to gain a deeper, participatory insight into local life.",
+      "essentials": [
+        "Modest, clean clothing; willingness to work/help; flexibility in time."
+      ],
+      "fee": "Free (Donations are welcome, but participation is free)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517219/bk2fef8r9tcbrdghmdbd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/22fhVUyDTtw?si=OvRQnuLFzl4csmHe"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "cityinfo": [
+    {
+      "_id": "68e02d6abd1f9c367048dd44",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "stateOrUT": "Uttar Pradesh",
+      "alternateNames": [
+        "Avadh",
+        "Saket"
+      ],
+      "languagesSpoken": [
+        "Hindi",
+        "Awadhi"
+      ],
+      "climateInfo": "Ayodhya has a humid subtropical climate with three distinct seasons: a hot and dry summer, a wet monsoon, and a cool, pleasant winter. The best time for most tourists to visit is during the winter months, from October to March, when the weather is mild. ",
+      "bestTimeToVisit": "October to March",
+      "cityHistory": "Ayodhya is a city situated on the banks of holy river Saryu. In the Indian state of Uttar Pradesh, It is the headquarter of Ayodhya District and Ayodhya division. Ayodhya, also known as Saket, is an ancient city of India, is the birthplace of Bhagwan Shri Ram and setting of the great epic Ramayana. Ayodhya used to be the capital of the ancient Kosala Kingdom. It has an average elevation of 93 meters (305 feet). Owing to the belief as the birthplace of Bhagwan Shri Ram, Ayodhya (Awadhpuri) has been regarded as first one of the seven most important pilgrimage sites (Mokshdayini Sapt Puris) for Hindus.",
+      "coverImage": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516816/n5rgfazvoi1gv0qiehgb.jpg",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "connectivity": [
+    {
+      "_id": "68e02d6bbd1f9c367048dd5a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Ayodhya Bus station",
+      "distance": "8km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7764,
+      "lon": 82.1314,
+      "locationLink": "https://maps.app.goo.gl/aLK8JsXFAn4g5Cg6A",
+      "majorFlightsTrainsBuses": "Chennai to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd5d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "KAIFIYAAT SF EXPRESS (12226)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd63",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "MUMBAI LTT SF EXPRESS (12168)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd65",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Delhi to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd69",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Mathura to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Agrato Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Gurugram to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd53",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Maharshi Valmiki International Airport",
+      "distance": "10km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7491,
+      "lon": 82.1593,
+      "locationLink": "https://maps.app.goo.gl/jpDNMKLz6JwF8Qvp9",
+      "majorFlightsTrainsBuses": "Delhi to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd54",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Ayodhya Junction",
+      "distance": "1km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7878,
+      "lon": 82.2005,
+      "locationLink": "https://maps.app.goo.gl/u3c6cSruagdQ9kHr6",
+      "majorFlightsTrainsBuses": "Mumbai to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd56",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Ayodhya Cantt",
+      "distance": "8km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7681,
+      "lon": 82.1318,
+      "locationLink": "https://maps.app.goo.gl/7RjdUbqVSxJMH37CA",
+      "majorFlightsTrainsBuses": "Hyderabad to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd57",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Ramghat Halt",
+      "distance": "3km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.9051,
+      "lon": 82.2155,
+      "locationLink": "https://maps.app.goo.gl/gW5rSAswbftFWY7m6",
+      "majorFlightsTrainsBuses": "Ahmedabad to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd59",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "New International Bus Station, Ayodhya",
+      "distance": "4km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7897,
+      "lon": 82.2292,
+      "locationLink": "https://maps.app.goo.gl/6EA7jcwRGcKdnznW8",
+      "majorFlightsTrainsBuses": "Patna to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd5e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "VANDE BHARAT EXPRESS (22426)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd5f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "DOON EXPRESS (13009)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd62",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "RAPTISAGAR EXPRESS (12512)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Hyderabad to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd55",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Salarpur",
+      "distance": "19km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7561,
+      "lon": 82.0531,
+      "locationLink": "https://maps.app.goo.gl/gLpwZsiHTBE4YW2H9",
+      "majorFlightsTrainsBuses": "Bengaluru to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd5c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "AYODHYA EXPRESS (14205)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd61",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "FARAKKA EXPRESS (15743)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd64",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "SABARMATI EXPRESS (19168)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd67",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Varanasi to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Gorakhpur to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Bangalore to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd58",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Katra UP",
+      "distance": "7km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.8441,
+      "lon": 82.2043,
+      "locationLink": "https://maps.app.goo.gl/uJLDQbUcoQdkkZm56",
+      "majorFlightsTrainsBuses": "Jaipur to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd5b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": "Bus Stop Devkali bypass",
+      "distance": "8km from Ayodhya Junction Rd Chauraha (City centre) ",
+      "lat": 26.7679,
+      "lon": 82.1744,
+      "locationLink": "https://maps.app.goo.gl/n21ZdXL6B4tAec96A",
+      "majorFlightsTrainsBuses": "Kolkata to Ayodhya by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd60",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "PATNA-GOMTI NAGAR VANDE BHARAT EXPRESS (22345)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd66",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Lucknow to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd68",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Jaipur to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd6c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Kanpur to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd70",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Nagpur to Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "food": [
+    {
+      "_id": "68e02d6bbd1f9c367048dd88",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Khasta Chaat",
+      "lat": null,
+      "lon": null,
+      "address": "In Front of Madhuram",
+      "locationLink": "https://maps.app.goo.gl/XWU58kdGQWbQw7tQ9",
+      "category": "Chat Corner / Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3,
+      "taste": 4.5,
+      "hygiene": 3,
+      "menuSpecial": "Khasta (a deep-fried savory snack, often served with chhole) and Chaat Papdi.",
+      "openDay": null,
+      "openTime": null,
+      "phone": null,
+      "website": null,
+      "description": "Refers to a vendor specializing in Khasta Kachori (a flaky, crispy deep-fried pastry) served with savory fillings and a variety of chutneys and curd.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517112/aidyf78ebokr0cq1uvlb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517114/orqnc3zzarire2fclws1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517116/arcyopmmvlvoguts549g.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Z06qenxOFg4?si=W2MWvuUD5_sIdCBb"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "KandMool Fal",
+      "lat": null,
+      "lon": null,
+      "address": "Near Kanak Bhawan",
+      "locationLink": "https://maps.app.goo.gl/LwhbKjxEJ9svSen38",
+      "category": "Street Food (Traditional Fruit/Tuber)",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3,
+      "taste": 3.5,
+      "hygiene": 3,
+      "menuSpecial": "KandMool Fal (Ram Kand Mool) – a traditional, historical root/fruit famously sold by street vendors in the area.",
+      "openDay": null,
+      "openTime": null,
+      "phone": null,
+      "website": null,
+      "description": "A rare, drum-shaped root/tuber, believed to be the only food consumed by Lord Rama during his exile; served raw in thin slices seasoned with spices.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517127/kqvet68f5rwprw9jlv8f.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517128/m5avhwuptnlzsgccjgvt.jpg",
+        "https://static.toiimg.com/thumb/resizemode-4",
+        "width-1280",
+        "height-720",
+        "msid-101221693/101221693.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pv_OOx6hMB4?si=4wMmw0whpnsFeY-s"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Shri Kanak Sarkar Rasoi",
+      "lat": 26.7973,
+      "lon": 82.1997,
+      "address": "Kanak Bhawan Rd, Tulsi Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/2ty5oTSfRbyq9c8bA",
+      "category": "Pure Veg North Indian Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.5,
+      "service": 3.5,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "High-quality Unlimited North Indian Vegetarian Thali (Bhojan).",
+      "openDay": "Monday to Sunday",
+      "openTime": "07:00AM - 10:00PM",
+      "phone": "+91 98891 68633",
+      "website": null,
+      "description": "A clean, well-regarded dining spot that offers traditional Indian food, known for its pleasant ambiance and focus on traditional, authentic flavors.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517153/fdtdrk4nskzxmalzkpw1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517154/j55vhgnrz0tw33ssp9cz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517156/e7qbuj5boafgcpo9tozd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/JTLPY4PaeZ8?si=VtqGvMWnbDdo-cj1"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd83",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "Maurya Mishthan Bhandar",
+      "lat": 26.8006,
+      "lon": 82.2053,
+      "address": "Chhoti Devkali Mandir Rd, shastri nagar, Tulsi Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/U71oDm3Lb6FskMV29",
+      "category": "Sweet Shop / Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 4,
+      "taste": 4.5,
+      "hygiene": 4,
+      "menuSpecial": "Dahi Jalebi (served in a Kulhad/earthen pot) and Rabri.",
+      "openDay": "Monday to Sunday",
+      "openTime": "07:00AM - 10:00PM",
+      "phone": "+91 98384 29252",
+      "website": null,
+      "description": "A well-known local sweet shop and bakery, particularly noted for its variety of delicious traditional Indian sweets and baked goods.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517078/vyo4ofakkmceookepndz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517081/pce2uodrbk3uokbpzxa9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517083/t8hk9668fdbze9g04gdo.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/7UU62NBaOWk?si=YqNJYuOkjUOA3dm2"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd84",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "GABBAR PAKODI BHANDAR",
+      "lat": 26.8072,
+      "lon": 82.2087,
+      "address": "R645+VFW, रामपथ, Theri Bazar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/NXNrymtDvPH4sfRDA",
+      "category": "Pakoda / Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3.5,
+      "taste": 4.5,
+      "hygiene": 3,
+      "menuSpecial": "Mixed Vegetable Pakode (fritters) served with a special tangy chutney.",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "phone": "+91 86047 40852",
+      "website": null,
+      "description": "Famous street food stall, well-known for its wide variety of crispy and flavorful pakoras (fritters) including popular options like paneer pakora.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517085/prcaf5t4trx4rqpf5ljd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517087/qm8cr0exr9nnij3svuci.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517088/zsgryk95p2ya8mlt19rx.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/KGtOn8xlmCU?si=O4k96gsVXt71SXxc"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd87",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Chai Portal",
+      "lat": 26.8085,
+      "lon": 82.207,
+      "address": "Ram ki pedi, beside Gopal Pustkalaya, near Sri Nageshwarnath Temple, Theri Bazar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/ius8TmeS7d7iVZpc6",
+      "category": "Coffee Shop / Tea Shop",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.5,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Various types of specialty Chai (Tea) and premium coffee.",
+      "openDay": "Monday to Sunday",
+      "openTime": "07:00AM - 11:00PM",
+      "phone": "+91 94516 16791",
+      "website": null,
+      "description": "A popular spot for tea and quick bites, often cited as a great place to enjoy a soul-warming cup of chai near the Saryu Ghat/Naya Ghat area.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517107/wcgj9rprmymmbzffikey.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517109/e2u0co4o9xa8oe7q2kjn.webp",
+        "https://static.wixstatic.com/media/70e1b4_9b20874ee44d4d328db6f69111364d34~mv2.png/v1/fill/w_980",
+        "h_980",
+        "al_c",
+        "q_90",
+        "usm_0.66_1.00_0.01",
+        "enc_avif",
+        "quality_auto/70e1b4_9b20874ee44d4d328db6f69111364d34~mv2.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/bXG21EoTCAs?si=bsIi68jAmcSJKXwi"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Cafe Bollyfood",
+      "lat": 26.7849,
+      "lon": 82.1411,
+      "address": "3/20/170B, Cantt Rd, near V Mart, Rampath, Niyawan, Ayodhya, Faizabad, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/JV2UnJTv1N3kGTK18",
+      "category": "Multi-Cuisine Restaurant (Pure Veg)",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.5,
+      "service": 4,
+      "taste": 3.5,
+      "hygiene": 4,
+      "menuSpecial": "Amritsari Mix Kulcha with Chole and a wide range of fusion Burgers and Pizzas.",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:30AM - 11:00PM",
+      "phone": "+91 88400 92668",
+      "website": null,
+      "description": "A modern cafe offering a multi-cuisine menu, including Italian (Pasta, Pizza), Chinese, and Indian snacks, with a Bollywood-inspired theme.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517133/ty9ziqo1ygzgbwpg5bfm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517136/i5tcejjtthwfarpqkbog.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517140/lp7ioheag71n4ebhw8wg.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/sQniQN0ak00?si=i5i50RASpsKT21ZX"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "Mahveer tikki chat",
+      "lat": 26.7813,
+      "lon": 82.1411,
+      "address": "Q4JR+HC4, Niyawan Chowk Rd, Rikabganj, Faizabad, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/YCUXoZ11C5gPFXBV7",
+      "category": "Chat Corner / Street Food",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3.5,
+      "taste": 4.5,
+      "hygiene": 3,
+      "menuSpecial": "Crunchy Aloo Tikki Chaat served with sookhe matar (dried peas) and special sauces.",
+      "openDay": "Monday to Sunday",
+      "openTime": "09:00AM - 09:00PM",
+      "phone": "+91 97944 92747",
+      "website": null,
+      "description": "A renowned street food joint specializing in Aloo Tikki Chaat—crispy potato patties topped with chutneys, curd, and spices.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517145/er1zheivrbetlkopjsp6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517148/biauqjryuipmyiz0ywxe.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517149/cnylxuirmtdkgbljrbor.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ZlURFRACHxM?si=YM1nxCcFAyWpJr7K"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "𝗧𝗵𝗲 𝗔𝘂𝗿𝗮 𝗥𝗲𝘀𝘁𝗮𝘂𝗿𝗮𝗻𝘁",
+      "lat": 26.7813,
+      "lon": 82.1756,
+      "address": "The Aura Restaurant, 1633, Ram Path Rd, opp. ITI Phase 3, Awadhpuri Colony, Beniganj, Ayodhya, Faizabad, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/zZ77tB5yMMrwDiSL9",
+      "category": "Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 4.5,
+      "menuSpecial": "Paneer Punjabi (Chef Special) and Mixed Pink Pasta (Chef Special).",
+      "openDay": "Monday to Sunday",
+      "openTime": "11:00AM - 11:00PM",
+      "phone": "+91 63869 03300",
+      "website": "https://www.theauras.in/",
+      "description": "A modern, well-designed restaurant offering a multi-cuisine menu in a refined and inviting ambiance, suitable for family dining.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517176/da0wwup9krsitk7cskjm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517180/rnucdxlhqsowf6lmscpz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517182/wffygria1utirqpkw30u.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/IGd50cqFlvM?si=wxjznfkBE_DYUhlj"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd90",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "Udupi Ayodhya food palace",
+      "lat": 26.8012,
+      "lon": 82.2054,
+      "address": "Ram Path Rd, beside Chhoti Devkali Mandir, Tulsi Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/p4Q3PEmXoMoJmZ2N6",
+      "category": "Udupi / South Indian Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4.5,
+      "hygiene": 4,
+      "menuSpecial": "Authentic South Indian delicacies, with a focus on Masala Dosa and the South Indian Thali.",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00AM - 01:AM",
+      "phone": null,
+      "website": null,
+      "description": "Specializes in South Indian cuisine (Udupi style) along with other vegetarian dishes, known for its quality ingredients and traditional flavors.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517185/qcgdvsyvg8bjfnnpwp9m.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517188/wsyimpwk49peyoo8slkb.webp",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517190/zgnicjatbncbvzwj9yfq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Vh4YcZY8Vqs?si=MMmSXWLVSNQQbvPH"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd85",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "NIRMAL CHAT BHANDAR",
+      "lat": 26.8063,
+      "lon": 82.2091,
+      "address": "Karsewakpuram, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/JZz13Mj6VUNzKQv26",
+      "category": "Chat Corner / Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.5,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Traditional Chaat and Aloo Tikki Chaat.",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "phone": null,
+      "website": null,
+      "description": "A cherished food spot known for its commitment to quality and delightful flavors, specializing in various forms of chaat (tangy Indian street snacks).",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517092/rzctinhww7fnx3opzx9l.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517095/frrdqi9glatfeuybng8o.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517097/gxhmfmrtaoz90iqp3jbs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/AO6iOPvsmhE?si=huHzPHbsEiMscQiy"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd86",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Madhuram",
+      "lat": 26.7977,
+      "lon": 82.1998,
+      "address": "Kanak Bhawan, Sri Ayodhya Ji, Tulsi Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/XWU58kdGQWbQw7tQ9",
+      "category": "Hotel",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 4,
+      "menuSpecial": "Chilli Potato, Paneer Chilli Dry, and North Indian specialties like Dum Aloo Banarasi.",
+      "openDay": "Monday to Saturday",
+      "openTime": "09:00AM - 09:00PM",
+      "phone": null,
+      "website": null,
+      "description": "A convenient and well-designed restaurant offering a range of cuisines, known for its pleasant ambiance and commitment to quality food and service.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517101/vbhpti5u7toywdyxe88g.jpg",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517102/oywe7wa4zzns44ibbxww.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517104/ufraw2o1o8z7k2fud6ql.jpg"
+      ],
+      "videos": [],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd89",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "foodPlace": "Amma Ji Ki Rasoi",
+      "lat": 26.7979,
+      "lon": 82.2001,
+      "address": "Kanak bhawan temple tulsi nagar rajkot, Tulsi Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/oT8AzJswCuiQZ8aRA",
+      "category": "Pure Veg Indian Thali Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3.5,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Unlimited Vegetarian Thali (a popular, simple, and wholesome meal).",
+      "openDay": "Monday to Sunday",
+      "openTime": "10;30AM - 01:30PM, 06:30 - 09:30PM",
+      "phone": "+91 96162 05111",
+      "website": null,
+      "description": "Likely refers to a local, simple eatery or a bhojanalaya (dining hall) offering affordable, homemade-style, and often sattvik (without onion/garlic) vegetarian meals.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517120/shexc5hdqz7ej1funkqj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517121/cecnxldi6uxqwjx1thhv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517123/r1gj7bntogh2dqjmywva.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/aeD9y-dou_o?si=acvJKG4Q-VA8st6E"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd8e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": true,
+      "foodPlace": "Shri Sita Rasoi Bhojnalaya & Atithi Niwas",
+      "lat": 26.7972,
+      "lon": 82.1981,
+      "address": "Q5WW+GGR Ram janm Bhoomi, Shree, Mandir, Near kanak bhawan mandir Dakshin Gate, Sai Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/Evnm1irPryAhYpCX9",
+      "category": "Restaurant & Guest House",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 5,
+      "service": 3,
+      "taste": 4,
+      "hygiene": 3.5,
+      "menuSpecial": "Satvik (No Onion/Garlic) North Indian dishes like Paneer Butter Masala and Malai Kofta made in Desi Ghee.",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 11:00PM",
+      "phone": "+91 99846 67666",
+      "website": null,
+      "description": "A sacred site, believed to be the kitchen of Goddess Sita, now a temple/dining hall complex where simple, traditional food (prasad bhojan) is often served.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517160/jsqrcczxvk7kxsingn0y.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517163/mjdpnd41dr2n0mupxgse.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517168/tafgvill4mmztumwhelf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/4_IBlAS3UkI?si=XwJP2EEdHjiEAdNP"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "hiddengem": [
+    {
+      "_id": "68e02d6cbd1f9c367048ddb8",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "hiddenGem": "Shravasti",
+      "category": "Religious/Pilgrimage",
+      "lat": 27.5077,
+      "lon": 82.0126,
+      "address": "Shravasti,Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=Shravasti&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZMLQ4RPdPjLPmOakFCN7X8CAEObRY5nUC_4-eAKPRM9dgRGnLaLauJwMC_6lNzUAjqorp1xbvWKcEgzW5NLskInI958ASVYQRdskaUrFv5waE-hblQNY47O8oEcOmwq6go7eWtpMfmK9PlNQ17tLSrSpizNteuqQyWpGK205j8_dMW2MwWR6yvmzNDYAIHc_waEObHQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Shravasti holds significance not only in Buddhism but also in Hinduism and Jainism. Ancient manuscripts of all three traditions mention the town, weaving legends and histories connected to it. Archaeological excavations at the site have revealed a rich collection of monuments and artworks belonging to these faiths, showcasing Shravasti’s diverse spiritual heritage.The site was rediscovered in the late 19th century by a team of British and Indian archaeologists, sparking waves of systematic excavations that continued well into the 1990s. Today, Shravasti has grown into a small town and an important center of heritage tourism and religious pilgrimage, drawing visitors—especially Buddhist pilgrims from across the world—to its historic ruins and sacred spaces.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours",
+      "story": "Shravasti, located in the Shravasti district of Uttar Pradesh, is a historic town near the Rapti River and close to the Nepalese border. In ancient times, it served as the capital of the Kosala kingdom, which was ruled by Lava, son of Lord Rama.The town holds immense significance in Buddhism as one of its most revered sites. After attaining enlightenment, the Buddha spent much of his life in Shravasti, delivering many of his Suttas (sermons), converting several of his foremost disciples, and performing the famous “Shravasti Miracles” — including the Great Miracle and the Twin Miracle. These events are widely depicted in Buddhist literature, sculptures, and reliefs across Asia, making Shravasti a destination of deep spiritual importance for pilgrims and scholars alike.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517254/j8zdo7xsf2lfzftwpwvu.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517256/f18nbw4w0ughmbjbjbld.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517258/o0m9hsyz7cydfkw39qrz.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/NF3n1Bm1cWM?si=3SfFR3tjVjfThTAu"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb7",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "hiddenGem": "Parvati Arga Bird Sanctuary",
+      "category": "Nature/Wildlife Sanctury",
+      "lat": 26.9471,
+      "lon": 82.1644,
+      "address": "Mankapur-Nawabganj Road,Gonda,Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=parvati+arga+bird+sanctuary&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2orc_91wYCtVawaLNWtsSduS5mUJudDN6Xwi5REd7v6dTe2rYQTEJ17YcJwB_BAI750yute0TwlgDoAUC93mpFZeUKpZg8izpqDEXIThPS2KJ7P2YKcU4nCuj0SyWipL9BUi8rQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "establishYear": "1990",
+      "fee": null,
+      "description": "The Parvati Arga Bird Sanctuary spans an area of 10.84 square kilometers and consists of two oxbow lakes — Parvati Tal and Arga Tal. Situated in the Upper Gangetic Plains moist deciduous forests ecoregion, the sanctuary supports a diverse avian population, hosting around 35 species of resident and migratory birds.During the winter months, migratory birds arrive here after crossing the Himalayas, with routes stretching from Tibet, China, Europe, and Siberia. This seasonal spectacle makes the sanctuary an important stopover for bird enthusiasts and nature lovers alike.",
+      "essential": "Carry Water;Best visited during day time and in winter season;Wear sturdy shoes ",
+      "story": "Parvati Arga Bird Sanctuary, located in Gonda district, lies about 45 km from Gonda. The sanctuary comprises lakes that were once part of the Saryu River. As the river gradually changed its course, these water bodies remained as its remnants. Today, they provide a natural habitat that sustains resident birds year-round and attracts a wide variety of migratory birds during the winter season.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517247/bspduezddm0zbvizpcti.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517249/msyls7g2qbphjoipy4as.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517251/k9gr4xo31qwnvvopurvy.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/rc06y3Who08?si=BBcSAwONxTRiZmXs"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "itinerary": [
+    {
+      "_id": "68e02d6dbd1f9c367048ddc9",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "misc": [
+    {
+      "_id": "68e02d6dbd1f9c367048ddc2",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": "Sri Ram Hospital",
+      "hospitalLocationLink": "https://maps.app.goo.gl/X7x1xg27RfcQYeVL8",
+      "hospitalLat": 26.7927,
+      "hospitalLon": 82.1992,
+      "PoliceLocationLink": "https://maps.app.goo.gl/tbDekJ6wQ1wibkZY6",
+      "PoliceLat": 26.8085,
+      "PoliceLon": 82.2085,
+      "parking": "Parking",
+      "parkingLocationLink": "https://maps.app.goo.gl/srr8djuRhoinXMtR8",
+      "parkingLat": 26.798,
+      "parkingLon": 82.2042,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/4acur2DZb7dL84CM7",
+      "publicWashroomsLat": 26.7943,
+      "publicWashroomsLon": 82.212,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc4",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": "SHIWAY HOSPITAL",
+      "hospitalLocationLink": "https://maps.app.goo.gl/TmhPU2NgRPSa39ep7",
+      "hospitalLat": 26.7768,
+      "hospitalLon": 82.1782,
+      "PoliceLocationLink": "https://maps.app.goo.gl/zqhTi1No4mWTb4rB7",
+      "PoliceLat": 26.7886,
+      "PoliceLon": 82.1919,
+      "parking": "Multilevel Vehicle Parking",
+      "parkingLocationLink": "https://maps.app.goo.gl/34ddNspQkXDSN3TT6",
+      "parkingLat": 26.7986,
+      "parkingLon": 82.222,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/r55Tb2iUERf9rWuQ6",
+      "publicWashroomsLat": 26.7972,
+      "publicWashroomsLon": 82.2021,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc1",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": "Fire No. 101",
+      "hospital": "District Hospital Ayodhya",
+      "hospitalLocationLink": "https://maps.app.goo.gl/nezBRZdW1URHLXhN8",
+      "hospitalLat": 26.7785,
+      "hospitalLon": 82.1407,
+      "PoliceLocationLink": "https://maps.app.goo.gl/TuBPLaBJd9Gft2qY6",
+      "PoliceLat": 26.7709,
+      "PoliceLon": 82.1808,
+      "parking": "hanuman Gadhi parking area",
+      "parkingLocationLink": "https://maps.app.goo.gl/bs4BGFijPQQMiA7C7",
+      "parkingLat": 26.795,
+      "parkingLon": 82.2011,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/DhhALSN453mNnjHq6",
+      "publicWashroomsLat": 26.8074,
+      "publicWashroomsLon": 82.2086,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc3",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": "Meddisity Superspeciality Hospital in Ayodhya",
+      "hospitalLocationLink": "https://maps.app.goo.gl/siPzSSGvQMi9YRii8",
+      "hospitalLat": 26.7641,
+      "hospitalLon": 82.1851,
+      "PoliceLocationLink": "https://maps.app.goo.gl/vFXVCKBEosCm7jiQ9",
+      "PoliceLat": 26.8076,
+      "PoliceLon": 82.2021,
+      "parking": "Ram Mandir Parking Area",
+      "parkingLocationLink": "https://maps.app.goo.gl/grGtsS1oBdVDSCBy6",
+      "parkingLat": 26.8002,
+      "parkingLon": 82.1983,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/sBH4XbC5Ke2VsBCT8",
+      "publicWashroomsLat": 26.7991,
+      "publicWashroomsLon": 82.2046,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc0",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517295/v5vmisgppn2n7d1giy7k.jpg",
+      "emergencyContacts": "Ambulance No. 108",
+      "hospital": "Jhunjhunwala Super-Speciality Hospital Ayodhya",
+      "hospitalLocationLink": "https://maps.app.goo.gl/vYAnbeU4QNRimhzK7",
+      "hospitalLat": 26.7419,
+      "hospitalLon": 82.1306,
+      "PoliceLocationLink": "https://maps.app.goo.gl/ZqnhQckqQcBQSFYY9",
+      "PoliceLat": 26.7866,
+      "PoliceLon": 82.1342,
+      "parking": "Ayodhya Parking",
+      "parkingLocationLink": "https://maps.app.goo.gl/8uqvRb4GrKTo77an7",
+      "parkingLat": 26.7912,
+      "parkingLon": 82.1986,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/3amThKAaaEUrn8247",
+      "publicWashroomsLat": 26.8053,
+      "publicWashroomsLon": 82.2046,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc6",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": null,
+      "hospitalLocationLink": null,
+      "hospitalLat": null,
+      "hospitalLon": null,
+      "PoliceLocationLink": null,
+      "PoliceLat": null,
+      "PoliceLon": null,
+      "parking": null,
+      "parkingLocationLink": null,
+      "parkingLat": null,
+      "parkingLon": null,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/paTkL2JjZ3AnL5sg6",
+      "publicWashroomsLat": 26.7824,
+      "publicWashroomsLon": 82.204,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc7",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": null,
+      "hospitalLocationLink": null,
+      "hospitalLat": null,
+      "hospitalLon": null,
+      "PoliceLocationLink": null,
+      "PoliceLat": null,
+      "PoliceLon": null,
+      "parking": null,
+      "parkingLocationLink": null,
+      "parkingLat": null,
+      "parkingLon": null,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/jVAvhABgvT26WDKE8",
+      "publicWashroomsLat": 26.7881,
+      "publicWashroomsLon": 82.1931,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddbf",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517288/rbebwl1zcnbjzbluoefl.jpg",
+      "emergencyContacts": "Police No. 112",
+      "hospital": "Lucknow hospital Ayodhya",
+      "hospitalLocationLink": "https://maps.app.goo.gl/UoGLCtjjWVPUe7199",
+      "hospitalLat": 26.7472,
+      "hospitalLon": 82.2103,
+      "PoliceLocationLink": "https://maps.app.goo.gl/4HU2KxhejAoafvav6",
+      "PoliceLat": 26.7561,
+      "PoliceLon": 82.1417,
+      "parking": "Gokul Bhavan (crossing 4) Parking Area",
+      "parkingLocationLink": "https://maps.app.goo.gl/TDqRMoPBx8egKxoR6",
+      "parkingLat": 26.7931,
+      "parkingLon": 82.192,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/qizgUmVZvFJYmYpH6",
+      "publicWashroomsLat": 26.8084,
+      "publicWashroomsLon": 82.2001,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6dbd1f9c367048ddc5",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": null,
+      "hospitalLocationLink": null,
+      "hospitalLat": null,
+      "hospitalLon": null,
+      "PoliceLocationLink": "https://maps.app.goo.gl/6QhKi3uzXCfQbhMYA",
+      "PoliceLat": 26.7907,
+      "PoliceLon": 82.1808,
+      "parking": null,
+      "parkingLocationLink": null,
+      "parkingLat": null,
+      "parkingLon": null,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/NWPPvvxzjChbzizW8",
+      "publicWashroomsLat": 26.7956,
+      "publicWashroomsLon": 82.1981,
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "nearbyspot": [
+    {
+      "_id": "68e02d6cbd1f9c367048ddbc",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Makhauda Dham",
+      "distance": "17 km from Lata Mangeshkar Chowk,Ayodhya",
+      "category": "Religious/Temple",
+      "lat": 26.8811,
+      "lon": 82.3008,
+      "address": "Makhauda Dham, Ayodhya - Babhnan Road, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=Makhauda+Dham&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUbalBeyXa8ssyRd_VUj5FQB2orc_91wYCtVawaLNWtsSduS5mUJudDN6Xwi5REd7v6dTe2rYQTEJ17YcJwB_BAI750yute0TwlgDoAUC93mpFZeUKpZg8izpqDEXIThPS2KJ7P2YKcU4nCuj0SyWipL9BUi8rQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "fee": "₹0",
+      "description": "It is said that Dasharatha and Kaushalya has a daughter Shanta, who was Rishyashringa’s wife. As the conclusion of the Yagya drew near Agni sprang out from the yagnakunda (sacrificial fire pit) and handed Dasharatha a pot of kheer advising him to distribute it among his queens. Kaushalya ate half the kheer, Sumitra ate a quarter of it. Kaikeyi ate some and passed the pot back to Sumitra who consumed the kheer a second time. Thus the princes were conceived after the consumption of the kheer. Since Kaushalya had consumed the largest portion she gave birth to Rama. Kaikeyi gave birth to Bharata. Sumitra gave birth to Lakshmana and Shatrughna. there. Ramrekha Mandir is also near a famous historical place Amorha also called place of Raja Zalim Singh’s State Amorha(also known as Amodha) in Basti district of the Indian state of Uttar Pradesh.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours;Follow local traditions and customs",
+      "story": "Makhauda Dham, located in Harraiya tehsil of Basti district, lies on the banks of the Manorama River, about 15 km north of Ayodhya. The site holds immense importance in the Ramayana tradition.It is believed that King Dasharatha, under the guidance of Sage Vashistha, performed the Putrakameshti Yajna here with the assistance of Rishi Rishyasringa. According to legend, Dasharatha and Queen Kaushalya also had a daughter, Shanta, who was married to Rishyasringa.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517275/dpbryoxt4npfmnpmpkk0.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517279/uuturq7038trvgvl03lq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517281/mh8te5x2kwwhzwlarimq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/VKABXmpHa3o?si=lZZ9AS6-M_F8vR4u"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddbd",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Bhadeshwar Nath Temple",
+      "distance": "67.4 km from Lata Mangeshkar Chowk,Ayodhya",
+      "category": "Religious/Temple",
+      "lat": 26.5459,
+      "lon": 82.3377,
+      "address": "Bhadeswar Nath, Kakraee, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Bhadreshwar+Nath+Temple, Basti/@26.8895445, 80.4842922, 8z/data=!4m10!1m2!2m1!1sBhadeshwar+Nath+Temple!3m6!1s0x3990dad96aaaaaab:0xa75cc32ed28e7c8d!8m2!3d26.7565031!4d82.7414027!15sChZCaGFkZXNod2FyIE5hdGggVGVtcGxlWhgiFmJoYWRlc2h3YXIgbmF0aCB0ZW1wbGWSAQxoaW5kdV90ZW1wbGWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTm9PRkJ5TVY5UlJSQUKqAUsQASoKIgZ0ZW1wbGUoADIfEAEiGyHJ0SW0FAjE5j1L6C3UzkvAGDSp3_FSYvHFkzIaEAIiFmJoYWRlc2h3YXIgbmF0aCB0ZW1wbGXgAQD6AQUI9wEQQg!16s%2Fg%2F11f1llq8y7?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "fee": "₹0",
+      "description": "The Name of this Shiva linga & Bhadreshwar nath is also written in SHIVA MAHAPURAN. Village Bhadreshwar nath are mostly populated by Brahmins Goswamis.A fair is held here on the occasion of Shivratri, which is attended by many people from different part of the state. A Great shiva linga is mounted in this great temple.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours;Follow local traditions and customs",
+      "story": "Bhadeshwar Nath is about 5–6 km. on a bank of river kuwana from the district headquarters. There is a famous temple of Lord Shiva. It was believed that this temple was established by Ravana. A fair is held here on the occasion of Shivratri, which is attended by many people from different part of the state. A Great shiva linga is mounted in this great temple.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517284/gsuzb97mutlo6orvwyny.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517285/nlafyh32bywufcntt3z1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517286/mrjir2udpeocymrtih5h.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FRO4yipK49s?si=VKcfwBcAgLWRZLZ5"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddba",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Bijethua Mahavir Dham",
+      "distance": "100 km from Lata Mangeshkar Chowk,Ayodhya",
+      "category": "Religious/Temple",
+      "lat": 26.1132,
+      "lon": 82.4244,
+      "address": "kadipur, mahaviran, Vijethua Rd, Surapur, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps?sca_esv=25c2551b4f45e1f2&rlz=1C5MACD_enIN1102IN1102&output=search&q=Bijethua+Mahavir+Dham&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIetxLMeWi1u_d0OMRvkClUba76WL62NDKV-tuv6_wPYBCwn1PrrOfPs6OFYogAUA80FYHcjgwjxnZp9Em-qnZn8N88c_ebmPbIi63FSDmv95Pcf_otdXo9FeYCGsvCNv2WI4CnnNZPbkgsxmielkQhjj8RWID-Gg_V2mrX9CBwas9No3GlQ&entry=mc&ved=1t:200715&ictx=111",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "fee": "₹0",
+      "description": "This place has its own story in Ramayana. At this place, Lord Hanuman defeated Kaalnemi and taken rest here when he was going to bring Sanjeevani for Lord Lakshman, who was in the unconscious that time. Lord Hanuman took a bath in Makari Kund which is also available at the side of Bijethua Temple.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours;Follow local traditions and customs",
+      "story": "Bijethua Mahavir Dham, located in the Sultanpur district of Uttar Pradesh, is a revered temple dedicated to Lord Hanuman. The site holds deep significance in the Ramayana, as it is believed to be the place where Hanuman defeated the demon Kaalnemi while journeying to fetch the Sanjeevani herb to save Lakshman’s life.A notable feature of the temple complex is the Makari Kund, the sacred pond where Hanuman is said to have bathed. Today, the temple stands as both a prominent pilgrimage destination and a symbol of Hanuman’s strength, devotion, and victory over evil.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517261/tvsyeosn2jwgjaxcsfrd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517264/zc8onrvvaftglbwuxtvw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517266/ufvr3jvjxvgriciljulu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/bpLX7cfTGqE?si=rcbC6CGxcuSGNgxk"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddbb",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Devi Patan Temple",
+      "distance": "100 km from Lata Mangeshkar Chowk,Ayodhya",
+      "category": "Religious/Temple",
+      "lat": 27.5362,
+      "lon": 82.3911,
+      "address": "Tulsipur, Siktihwa, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps/place/Devi+patan+Temple, Tulsipur/@27.5362876, 82.3911537, 17z/data=!4m10!1m2!2m1!1sDevi+Patan+Temple!3m6!1s0x39976f4b1509609f:0x28450cd37e505733!8m2!3d27.5362876!4d82.3956598!15sChFEZXZpIFBhdGFuIFRlbXBsZVoTIhFkZXZpIHBhdGFuIHRlbXBsZZIBDGhpbmR1X3RlbXBsZZoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOc2NIVkRlSFpuUlJBQqoBOhABMh8QASIboi5cpCX3mr7KVHvWB118ZQJE7VrzhC-vtE4oMhUQAiIRZGV2aSBwYXRhbiB0ZW1wbGXgAQD6AQUIpgEQRQ!16s%2Fg%2F11j88j7wfm?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 10:00PM",
+      "fee": "₹0",
+      "description": "The Devi Patan Temple, located in Tulsipur (Balrampur district, Uttar Pradesh), is a highly revered shrine dedicated to Maa Pateshwari (Durga). It is recognized as one of the 51 Shakti Peethas, adding to its immense spiritual significance.According to legend, the right shoulder (Pat in Hindi) of Mata Sati fell at this very spot, giving the temple its name — Devi Patan. Situated in the heart of the Terai region, the temple holds deep religious importance and draws thousands of devotees, especially during the Navratra festival, when the temple sees an overwhelming rush of pilgrims.",
+      "essential": "Wear modest clothing;Wear comfortable shoes;Best visited during. day time hours;Follow local traditions and customs",
+      "story": "The Devi Patan Temple, located in Tulsipur, Balrampur district of Uttar Pradesh, is a revered shrine dedicated to Goddess Pateshwari. It is regarded as one of the 51 Shakti Peethas, making it an important pilgrimage destination for devotees of the Divine Mother.According to legend, this is the sacred spot where the right shoulder of Goddess Sati fell when Lord Shiva wandered the cosmos carrying her body. Beyond its mythological significance, the temple is also a center for rituals and traditions, most notably the “Mundan” ceremony, where devotees offer the first hair of newborn children to the goddess as a mark of faith and devotion.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517268/lq9wx8t11xwguhpju231.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517269/wdb88jftbvm3noqap18x.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517270/jajwrgabkoj1w1oxzwx0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/6eDs8J_heGk?si=3Fzku5wejD1HyrD-"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "place": [
+    {
+      "_id": "68e02d6bbd1f9c367048dd72",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Dashrath bhavan",
+      "category": "Hindu temple",
+      "lat": 26.7964,
+      "lon": 82.1998,
+      "address": "Q5WX+HWC, Ram Path Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Dashrath+Mahal+Ayodhya/@26.7964329, 82.1997537, 17z/data=!4m6!3m5!1s0x399a0794ecbb53d7:0x4ca3f51aa252a248!8m2!3d26.7964329!4d82.1997537!16s%2Fg%2F1tk6yxj0?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 12:00PM",
+      "establishYear": "1995",
+      "fee": "₹0",
+      "description": "Dashrath Bhavan is the historic palace complex believed to be the original residence of King Dashrath, the father of Lord Rama. The Bhavan houses a shrine with beautiful idols of Lord Rama, Lakshman, and Goddess Sita, representing the royal heritage of Ayodhya's epic past. Saffron-clad monks regularly chant mantras and perform devotional activities within this sacred palace, creating a deeply spiritual atmosphere for visitors.\n\n",
+      "essential": "The temple follows standard Hindu temple protocols requiring modest traditional dress covering shoulders and knees. Footwear must be removed before entering the inner sanctum, and visitors should maintain respectful behavior with minimal noise levels. Photography restrictions may apply in certain sacred areas, so visitors should check with temple authorities.",
+      "story": "Dashrath Bhavan stands as a magnificent testament to the ancient royal dynasty of Ayodhya, believed to have been constructed on the exact site where King Dashrath's original palace once stood. According to the Ramayana, King Dashrath of the illustrious Ikshvaku dynasty ruled the prosperous Kosala Kingdom with Ayodhya as his capital, establishing a golden age of righteousness and prosperity. The palace served as the childhood home of Lord Rama and his three brothers - Lakshmana, Bharata, and Shatrughna - where they spent their formative years under the loving guidance of their father. Historical accounts describe the original palace as a sprawling edifice adorned with exquisite architecture, high ceilings, ornate columns, and intricately designed courtyards with multiple wings serving different purposes from royal living quarters to administrative offices and grand assembly halls. The current structure, though much smaller than the original magnificent palace, continues to attract thousands of devotees annually who come to witness the very spot where Lord Rama was born and spent his childhood. The Bhavan houses a sacred shrine containing beautiful idols of King Dashrath, Lord Rama, Lakshmana, and Bharata, with saffron-clad monks regularly chanting mantras and reciting verses from the Ramayana and other scriptures.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516946/hem8u12t7hbsccgloj6p.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516948/gqpmsuskxnkt8d3abszr.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516949/vnol9klnpibiuytlwigk.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/702_vnKt7hM"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd79",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Guptar ghat",
+      "category": "Tourist attraction",
+      "lat": 26.7989,
+      "lon": 82.1165,
+      "address": "Faizabad) Cantt, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Guptar+Ghat, +Faizabad+Cantt, +Faizabad, +Uttar+Pradesh+224001/data=!4m2!3m1!1s0x399a05dab20b5831:0x5954d1ae82085029?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Guptar Ghat is the most spiritually significant ghat in Ayodhya, believed to be the spot where Lord Rama meditated and took Jal Samadhi (ritual water immersion) before departing to his heavenly abode Vaikunta. Located 10 km from Ayodhya, this sacred site houses several temples including Sita-Ram, Chakrahari, and Narsingh temples, creating a deeply meditative atmosphere. The ghat has undergone complete transformation with modern amenities including meditation centers, cafeteria, and interpretation centers while maintaining its ancient spiritual essence.",
+      "essential": "Proper dress code is essential as it's a sacred worship place, with modest clothing covering the body appropriately. Visitors must follow religious decorum and maintain respectful behavior during meditation and prayer activities. Boating activities require adherence to safety guidelines, and photography should be done respectfully without disturbing devotees.",
+      "story": "Guptar Ghat stands as the most emotionally significant and spiritually powerful site in Ayodhya, as it marks the sacred spot where Lord Rama performed Jal Samadhi (ritual water immersion) to depart from his earthly form and return to his eternal abode Vaikuntha. According to the detailed narrative in Uttar Ramayana by sage Valmiki, after ruling Ayodhya with justice, love, and compassion for thousands of years, Lord Rama realized his divine mission on Earth had reached completion. The poignant story describes how Yama Deva (the god of death) visited Lord Rama in the disguise of a saint to inform him that the time had come for his departure, leading to a series of events that culminated at Guptar Ghat. On that fateful day, Lord Rama walked to the banks of the holy Saryu River accompanied by his loyal brothers, devoted followers, and all the people of Ayodhya who couldn't bear the thought of being separated from their beloved king. The atmosphere was filled with both devotion and despair as the citizens cried out for their cherished Rama to stay, but understanding the cosmic order, he proceeded with his divine plan. Historical accounts describe how Lord Rama first removed his sandals and walked toward the Saryu waters, where even Hanuman pleaded to be taken along, but Rama blessed him with immortality to continue serving devotees in Kali Yuga. As Lord Rama entered the sacred river, it's believed that the waters glowed with divine light and embraced him like a mother welcoming her child, as he merged with the infinite and returned to his original form of Vishnu. The transformation of Guptar Ghat in recent years has been remarkable - once a dilapidated area known mainly for ancient temples and meditation sites amid litter and stray animals, it has been completely revitalized under government initiatives. The modernization includes riverbank restoration, solid embankments, road widening, and beautification projects costing Rs. 76.73 crores, while maintaining its ancient spiritual essence with meditation centers, cafeteria, interpretation centers, and modern amenities for pilgrims.����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517004/biyjbposnpayckeszmuy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517006/ehud5ui7qltoxgqrc5u8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517008/qwa8wq4onhru7nqeekmn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/EoessSxUdhM"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd75",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ram ki paidi",
+      "category": "Water",
+      "lat": 26.809,
+      "lon": 82.2057,
+      "address": "Theri Bazar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Ram+Ki+Paidi/@26.808957, 82.2057493, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a0784e30fab23:0x5e14268ebaacbcbf!8m2!3d26.8093486!4d82.2058888!16s%2Fg%2F1tdmhwwx?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1984",
+      "fee": "₹0",
+      "description": "Ram Janam Bhoomi is the sacred birthplace of Lord Rama, the seventh avatar of Lord Vishnu, located in the holy city of Ayodhya. The newly constructed Ram Temple, inaugurated in 2024, stands at this revered site where millions of devotees come to worship Ram Lalla (infant Rama). This holiest site in Ayodhya attracts over 100,000-150,000 daily visitors and holds immense religious significance as one of the most important pilgrimage destinations in Hinduism.",
+      "essential": "Modest dress code applies when visiting the ghats with appropriate body coverage. Devotees should respect religious customs during holy dip rituals and aarti ceremonies. Swimming or inappropriate water activities are discouraged, and visitors should follow safety guidelines especially during festival times when crowds surge",
+      "story": "Ram ki Paidi holds profound spiritual significance as the exact location where Lord Rama took his daily ritual bath in the sacred Saryu River during his time in Ayodhya. According to ancient legends preserved in Hindu scriptures, Lord Rama made a divine promise to his brother Lakshmana that anyone taking a holy dip at these ghats before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites across India. The Saryu River itself carries immense mythological importance, as it witnessed every significant moment of Lord Rama's life from his birth to his departure to Vaikuntha. Historical accounts reveal that these ghats have been sites of continuous worship and pilgrimage for millennia, with devotees gathering for daily prayers, ritual baths, and religious ceremonies. The beautifully renovated Ram ki Paidi gained international recognition during the spectacular Deepotsav celebration, when over 450,000 earthen lamps created a mesmerizing display that earned a Guinness World Record, illuminating the ghats in honor of Lord Rama's victory over darkness. The ghats feature 14-25 modern bathing spots with recently constructed facilities including floating bathing ponds for senior citizens equipped with safety barriers and ramps for accessibility. The evening aarti ceremony at Ram ki Paidi creates an ethereal atmosphere as hundreds of devotees gather with oil lamps, creating reflections on the sacred waters while chanting Lord Rama's name. The spiritual power of these ghats is believed to be especially potent during Purnima (full moon) nights when the combination of moonlight and the sacred river creates a divine ambiance for meditation and prayer.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516967/a34yfyzjbhpweparuxpl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516969/z3luldpbnuu70qeaipcs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516972/ysaospadlttt5iuxhd4i.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/nqFlGmNr9y8"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd77",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ram Janam Bhoomi",
+      "category": "Hindu temple",
+      "lat": 26.7962,
+      "lon": 82.1962,
+      "address": "near Ayodhya Railway Staion, near Hanuman ghadi, Ayodhya, Uttar Pradesh",
+      "locationLink": "google.com/maps/place/Shree+Ram+Janmabhoomi+Mandir,+Sai+Nagar,+Ayodhya,+Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07cd3079f0bf:0x5589e823b23ba9dc?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 06:00PM",
+      "establishYear": "2024",
+      "fee": "₹0",
+      "description": "Tulsi Udyan is a peaceful garden and memorial dedicated to the poet-saint Tulsidas, author of the famous Ramcharitmanas. The garden features a beautiful statue of Tulsidas under a carved canopy and serves as a tranquil retreat for visitors seeking quiet reflection. Located near the Ayodhya bus stand, this well-maintained park offers free entry and provides a serene environment to contemplate the literary legacy of one of India's greatest devotional poets.",
+      "essential": "No strict dress code is mandated, but traditional Indian attire is strongly encouraged - men should wear dhoti, kurta-pajama, or simple cotton shirts with full-length trousers, while women should don salwar suits, sarees, or modest Indian wear. Mobile phones, wallets, gadgets, earphones, bags, flowers, garlands, prasad, and leather items are strictly prohibited. Entry requires valid government-issued ID like Aadhaar card or passport, and special aarti attendance needs advance online booking",
+      "story": "Ram Janam Bhoomi, the most sacred site in Ayodhya, represents the culmination of a 500-year struggle by Hindu devotees to reclaim their holiest pilgrimage destination. According to Hindu religious beliefs and the ancient Ramayana epic dating back to the 1st millennium BCE, this is the exact birthplace of Lord Rama, the seventh avatar of Vishnu and the embodiment of dharma. The site's tumultuous history began in 1528 when Mir Baqi, a commander of Mughal emperor Babur, constructed the Babri Masjid after allegedly demolishing a temple that marked Lord Rama's birthplace. The great saint-poet Tulsidas, in his lesser-known work \"Tulsi Doha Satak,\" poignantly recorded the destruction of the Ram temple in Samvat 1585 (1528 CE) by Mir Baqi and the construction of a mosque at the same sacred spot, describing how countless Hindus were mercilessly killed and the temple was broken to build the mosque. Throughout the centuries, Hindu resistance never ceased - the Marathas between 1751-59 prioritized Ayodhya, Kashi, and Mathura for reclamation, while in 1858, Nihang Sikhs made a significant attempt to claim the site as Lord Rama's birthplace. The modern Ram Temple movement gained unprecedented momentum in the 1980s led by the Vishwa Hindu Parishad (VHP) and BJP, culminating in the demolition of Babri Masjid by kar sevaks in 1992. After decades of legal battles, archaeological excavations, and political negotiations, the Supreme Court of India in 2019 finally awarded the disputed site to Hindu parties for the construction of Ram Temple. The magnificent new Ram Temple, inaugurated in 2024 by Prime Minister Narendra Modi, features nearly 400 pillars, 44 doors, and houses the sacred idol of Ram Lalla (infant Rama), attracting over 100,000-150,000 daily visitors and representing the triumph of faith and perseverance.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516988/kkr93cfpjfg1jdnudtaw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516991/rlszfekzptultkceucvu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516993/l5v1m80bf9q6xqhra8zh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/-dzKZDDfdMw"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd78",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Saryu Ghat",
+      "category": "Pilgrimage place",
+      "lat": 26.8112,
+      "lon": 82.2059,
+      "address": "R664+G97, Manjha Kala, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R664%2BG97+Saryu+Ghat, +Manjha+Kala, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07849b10ce49:0x293063ce47c0e5fd?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Saryu Ghat refers to multiple sacred bathing spots along the holy Saryu River, where devotees perform daily rituals, prayers, and religious ceremonies. The ghats feature modern facilities including floating bathing ponds for senior citizens with safety barriers and ramps for accessibility. These riverfront steps serve as the spiritual heart of Ayodhya, where pilgrims gather for holy dips believed to cleanse sins and provide divine blessings, especially during full moon days.",
+      "essential": "Modest dress code applies when visiting the ghats with appropriate body coverage. Devotees should respect religious customs during holy dip rituals and aarti ceremonies. Swimming or inappropriate water activities are discouraged, and visitors should follow safety guidelines especially during festival times when crowds surge",
+      "story": "Ram ki Paidi holds profound spiritual significance as the exact location where Lord Rama took his daily ritual bath in the sacred Saryu River during his time in Ayodhya. According to ancient legends preserved in Hindu scriptures, Lord Rama made a divine promise to his brother Lakshmana that anyone taking a holy dip at these ghats before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites across India. The Saryu River itself carries immense mythological importance, as it witnessed every significant moment of Lord Rama's life from his birth to his departure to Vaikuntha. Historical accounts reveal that these ghats have been sites of continuous worship and pilgrimage for millennia, with devotees gathering for daily prayers, ritual baths, and religious ceremonies. The beautifully renovated Ram ki Paidi gained international recognition during the spectacular Deepotsav celebration, when over 450,000 earthen lamps created a mesmerizing display that earned a Guinness World Record, illuminating the ghats in honor of Lord Rama's victory over darkness. The ghats feature 14-25 modern bathing spots with recently constructed facilities including floating bathing ponds for senior citizens equipped with safety barriers and ramps for accessibility. The evening aarti ceremony at Ram ki Paidi creates an ethereal atmosphere as hundreds of devotees gather with oil lamps, creating reflections on the sacred waters while chanting Lord Rama's name. The spiritual power of these ghats is believed to be especially potent during Purnima (full moon) nights when the combination of moonlight and the sacred river creates a divine ambiance for meditation and prayer.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516997/ahqh8jj1txbwsnpulnm4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516999/wkje3kj2bcjn2mdrqifm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517000/x0orgkefqzqsfuxszep1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ONZHU3aEHEI"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Tulasi Smarak Bhavan",
+      "category": "Museum",
+      "lat": 26.7948,
+      "lon": 82.205,
+      "address": "Q6V4+X22, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Q6V4%2BX22+Tulasi+Smarak+Bhavan, +New+Colony, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a078d48fc0fad:0x3eb1b8493aae690?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=48d2378e-a042-4172-b1fb-b797e14a7b5a",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "establishYear": "1969",
+      "fee": "₹0",
+      "description": "Tulasi Smarak Bhavan is a cultural and literary center dedicated to celebrating the legacy of poet-saint Tulsidas and the Ramayana. The center houses exhibitions, a library, and regularly hosts Ramleela performances from 6:00-9:00 PM, serving as a hub for scholars and tourists interested in literary heritage. This educational facility provides valuable insights into Tulsidas's contributions to devotional literature and offers a comprehensive understanding of Ramayana's cultural impact.",
+      "essential": "As a cultural and literary center, visitors should maintain appropriate behavior during exhibitions and library activities. Standard dress code for cultural institutions applies with modest clothing. Photography may be restricted in certain exhibition areas, and library rules must be followed when accessing research materials.",
+      "story": "Established in 1969, the Tulasi Smarak Bhavan is a cultural institution built to honor the monumental legacy of the 16th-century poet-saint Goswami Tulsidas, whose epic Ramcharitmanas made the story of Lord Rama accessible to the masses by translating it into the local Awadhi dialect. This Bhavan is not merely a memorial but a vibrant cultural hub, housing the Ayodhya Research Centre and the Ramakantha Museum, which preserves antiquities that narrate Ayodhya's rich history. Through daily Ramlila performances, religious discourses, and devotional concerts, the center actively continues the very traditions and spiritual devotion that Tulsidas championed, making it a living testament to his enduring impact on Indian culture.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517039/orz6ncdogyo7pno9y2cd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517040/xembl6ruhzcsbuqif90g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517044/tvj8eyk2oom4bszweoxm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/JSzKniedIQA"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd80",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Lata Mangeshkar chowk",
+      "category": "Historical landmark",
+      "lat": 26.808,
+      "lon": 82.209,
+      "address": "R655+6J8, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R655%2B6J8+Lata+Mangeshkar+chowk, +Karsewakpuram, +Ayodhya, +Manjha+Kala, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07004a2751cd:0x500d067d9e69b653?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=47d80941-055a-4cca-a834-d91683de9cda",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "2022",
+      "fee": "₹0",
+      "description": "Lata Mangeshkar Chowk is a prominent intersection in Ayodhya featuring a statue and musical-themed installations dedicated to the legendary singer Lata Mangeshkar. The chowk serves as both a memorial to India's beloved melody queen and a practical landmark for visitors navigating through the city. This cultural monument celebrates the musical heritage of India while providing tourists with an easily recognizable reference point during their exploration of Ayodhya.",
+      "essential": "As a public monument and landmark, standard public space behavior applies with respect for the memorial installations. Photography is generally permitted, but visitors should be mindful of traffic and pedestrian safety at this busy intersection",
+      "story": "Lata Mangeshkar Chowk is a modern cultural monument inaugurated in 2022 to posthumously honor the legendary singer Lata Mangeshkar, India's most celebrated \"Nightingale\". Located at a key intersection, its stunning centerpiece is a 40-foot-long veena sculpture, a traditional Indian instrument that symbolizes the singer's immense contribution to the nation's musical heritage.  Developed by the government, this chowk has quickly become a popular landmark and \"selfie hotspot,\" signifying Ayodhya's evolution into a city that celebrates both its ancient spiritual roots and its connection to contemporary Indian culture.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517064/mscnoategtheikemmd56.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517066/nauq3fnmgq7cemqfj9ob.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517067/ctocjizjxkvkxldhrhl4.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/AE9K9dzdaqc"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd81",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Surya Kund",
+      "category": "Hindu temple",
+      "lat": 26.7521,
+      "lon": 82.2106,
+      "address": "Harlalka Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Surya+Kund, +Harlalka+Rd, +Darshan+Nagar, +Ayodhya, +Shanawa, +Uttar+Pradesh+224135/data=!4m2!3m1!1s0x399a081eb8acc8c3:0xf57d0a0800874ae8?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=0140bc15-4f47-4048-939a-9d07c882f780",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "establishYear": null,
+      "fee": "₹30",
+      "description": "Surya Kund is a sacred water tank dedicated to Surya, the Sun God, where devotees come for ritual baths and worship. The kund holds historical significance through its connection to various festival celebrations and religious stories involving Lord Rama. This ancient site is particularly auspicious for early morning visits during sunrise when devotees perform traditional Sun God worship rituals and seek divine blessings.",
+      "essential": "As a sacred water tank dedicated to Surya (Sun God), traditional ritual protocols apply including appropriate dress and respectful behavior during worship. Visitors should follow safety guidelines around the water area and respect ongoing religious ceremonies.",
+      "story": "Surya Kund holds a extraordinary place in Ayodhya's spiritual landscape, with its origins traced to one of the most significant events in Hindu mythology - the coronation ceremony of Lord Rama. According to Puranic legends, when Lord Rama was born, all gods and goddesses converged in Ayodhya to witness this divine incarnation, including Lord Surya (the Sun God) who decided to grace the earth with his presence. The fascinating story reveals that Lord Surya, captivated by the divine form of Lord Rama, halted his celestial chariot near present-day Darshan Nagar and stayed for an entire month, during which time the sun seemingly never set in Ayodhya, creating a month-long day of divine illumination. During Lord Rama's coronation ceremony, Lord Surya's chariot remained stationed at this sacred spot, leading to the construction of Surya Kund to commemorate this divine visitation. The kund's significance was further enhanced during the 19th century when King Darshan Singh, a descendant of Lord Rama from the Suryavanshi dynasty, suffered from leprosy and found miraculous healing after bathing in the waters of a dilapidated pond at this site. Grateful for this divine cure and inspired by a divine vision, King Darshan Singh reconstructed the kund and established a temple complex, leading to the area being named Darshan Nagar in his honor. During the restoration work, King Darshan Singh unearthed remarkable treasures including an idol of Lord Surya with a chariot drawn by seven horses, a Shivlinga, and great wealth, which he used to build the magnificent kund and surrounding temple. The ancient significance of this site is also connected to King Ghosh of the Ikshvaku dynasty, after whom it was originally called \"Ghoshark Tirtha\" - legend states that King Ghosh witnessed sages bathing in the sacred waters and after taking a dip himself, his body became divine and radiant. The Suryavanshi rulers of Ayodhya, who considered themselves descendants of the Sun God, constructed this kund as a place of worship to pay homage to their dynastic deity. Today, the renovated Surya Kund with its surrounding corridor serves as an essential stop for pilgrims visiting Ayodhya, where they seek darshan of the Sun God before proceeding to other temples, completing their spiritual journey in the holy",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517070/lw945egrtnmgrzzqr3c1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517072/enod3hs5lys5ypw84acp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517076/sasnav9llgpb67urblis.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/R6eIETjpbCk"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd73",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "kanak bhawan",
+      "category": "Hindu temple",
+      "lat": 26.798,
+      "lon": 82.1992,
+      "address": "Janmabhoomi Path, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Kanak+Bhawan/@26.7980174, 82.1992155, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a07b9c7d40cc1:0x9491c1265f1c6a15!8m2!3d26.7980174!4d82.1992155!16s%2Fg%2F11gtc7h87m?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 11:00PM, 04:30PM - 09:00PM",
+      "establishYear": "1891",
+      "fee": "₹0",
+      "description": "Kanak Bhawan, known as the \"Golden Palace,\" is a magnificent temple dedicated to Lord Rama and Goddess Sita, believed to be gifted by Queen Kaikeyi to Sita after her marriage. The temple houses three pairs of gold-crowned idols under a silver roof, showcasing exquisite Bundelkhand architecture with arched doorways and ornate decorations. This sacred abode is considered the personal palace of Lord Rama and Sita, making it one of Ayodhya's most beloved and spiritually significant temples",
+      "essential": "Visitors must dress modestly with traditional clothing mandatory - men should wear long pants with shirts or kurtas, while women must don sarees, salwar-kameez, or Indian attire covering shoulders and knees. Western garments like shorts, skirts, and sleeveless tops are strictly prohibited. Footwear removal is required before entering the temple premises, and non-vegetarian food and alcohol are completely banned.",
+      "story": "Kanak Bhawan, literally meaning \"Golden Palace,\" holds one of the most beautiful love stories in Hindu mythology, tracing its origins back to the Treta Yuga when it was gifted by Queen Kaikeyi to her daughter-in-law Goddess Sita immediately after her marriage to Lord Rama. According to ancient religious traditions, King Dasharatha commissioned the construction of this magnificent palace under the direction of divine architect Vishwakarma at the request of prominent craftsmen for Queen Kaikeyi. The original palace was described as the most divine and opulent residence in Ayodhya, occupying fourteen kos of land with such grandeur that it was considered Lord Rama and Sita's personal paradise. Mythological accounts reveal that the palace had strict protocols where men were not allowed in any of its annexes, and even Hanuman, Lord Rama's most devoted follower, could only secure a spot in the courtyard with special permission. The temple's remarkable history spans multiple cosmic eras - after the original structure was damaged during the transition from Treta to Dvapara Yuga, it was believed to have been rebuilt by Lord Krishna himself who visited this sacred place around 614 BC. Throughout history, the palace was reconstructed several times: first by Rama's son Kush in the early Dvapara Yuga, then by King Rishabh Dev in the middle of Dvapara Yuga, later by Chandragupta Vikramaditya in 2431 BC, and by Samudragupta in 387 AD. The present structure was beautifully reconstructed in 1891 by Maharaj Mahendra Pratap Singh and his wife Maharani Vrishabhan Kunwari of Orchha after the temple was destroyed by Nawab Salarjung-II Ghazi in 1027 AD. The temple houses three magnificent pairs of gold-crowned idols of Rama and Sita under a silver roof, representing the eternal divine love and showcasing exquisite Bundelkhand architecture.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516952/slwdv65ebqzxynharw1i.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516954/laxj9tv3iptdvfbcsicw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516957/poy3r8qmbktz5zloo54b.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/702_vnKt7hM"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd74",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Hanuman garhi",
+      "category": "Hindu temple",
+      "lat": 26.7956,
+      "lon": 82.2018,
+      "address": "Sai Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shri+Hanuman+Garhi+Mandir, +Sai+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0792dbf96a15:0x68c9050f72e31d9d?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 11:00PM",
+      "establishYear": "1800",
+      "fee": "₹0",
+      "description": "Hanuman Garhi is a prominent 10th-century fort-temple dedicated to Lord Hanuman, built on a hilltop and accessible by climbing 76 steep steps. The temple houses a beautiful 6-inch idol of young Hanuman sitting in the lap of his mother Anjani, surrounded by silver carvings and inscribed with verses from Hanuman Chalisa. Believed to be the guardian temple of Ayodhya, it's traditionally visited first before any other temple, as Lord Rama instructed that devotees should seek Hanuman's blessings before darshan of other deities.",
+      "essential": "Traditional dress code applies with modest clothing covering the body appropriately. Mobile phones, cameras, and electronic devices may be restricted in certain areas. Visitors must remove shoes before entering and follow the established queue system during peak times. The temple maintains strict behavioral guidelines requiring respectful conduct during prayers and aarti ceremonies.",
+      "story": "Hanuman Garhi, literally meaning \"Hanuman's Fort,\" stands as one of the most spiritually significant and historically rich temples in Ayodhya, with its origins deeply rooted in the 10th century when it was constructed by Jagat Singh, brother of the legendary King Vikramaditya. According to the revered legend recorded in Skanda Purana, after Lord Rama's triumphant return to Ayodhya following his victory over Ravana, he gifted this sacred land to Lord Hanuman as a token of eternal gratitude for his unwavering devotion and selfless service. Local folklore beautifully narrates that Lord Hanuman chose to reside in a cave at this very location to diligently guard Lord Rama's birthplace (Ram Janmabhoomi) and protect the entire kingdom of Ayodhya from any evil forces. The temple's turbulent history reflects the broader struggles of Hindu faith, as the original structure built by King Vikramaditya was destroyed by Mughal emperor Aurangzeb who constructed a mosque in its place. However, in a remarkable display of religious determination, the Bairagi warriors occupied the land by defeating Nawab Shujauddula, the King of Awadh, removed the mosque, and rebuilt a magnificent new temple dedicated to Lord Hanuman. The present temple structure was significantly developed in the 18th century by the Nawab of Awadh, who despite being a Muslim ruler, was a devoted follower of Lord Hanuman. The temple houses a breathtaking golden idol of Mata Anjani holding young Hanuman on her lap, surrounded by silver carvings inscribed with verses from Hanuman Chalisa, creating an atmosphere of divine protection and maternal love. According to sacred tradition established by Lord Rama himself, devotees must first seek blessings at Hanuman Garhi before visiting any other temple in Ayodhya, as Hanuman serves as the eternal guardian of the holy city.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516961/e1qhhwpbogi9zrcrm87z.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516963/pow7le2qsvxt0tcaz9vg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516964/yqdu8xguomxrzb2styur.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/DF2T9TPrfP8"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd76",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Tulsiudyan",
+      "category": "Park",
+      "lat": 26.8046,
+      "lon": 82.2071,
+      "address": "R634+VV2, Ayodhya - Faizabad Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Tulsi+Udyan/@26.8046322, 82.2071304, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a078f73092eff:0xf88bc1d5dea51062!8m2!3d26.8046322!4d82.2071304!16s%2Fg%2F1vvywh1s?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 08:00PM",
+      "establishYear": "1960",
+      "fee": "₹0",
+      "description": "Ram ki Paidi is a series of sacred ghats (riverfront steps) on the banks of the Saryu River, believed to be the exact spot from where Lord Rama used to take his daily bath. According to legend, Lord Rama promised Lakshman that anyone taking a holy dip here before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites. The beautifully renovated ghats are famous for the spectacular Deepotsav celebration during Diwali, when over 450,000 earthen lamps create a mesmerizing display that holds a Guinness World Record.",
+      "essential": "The garden maintains standard public park rules with no specific dress code requirements. Visitors should maintain cleanliness, avoid damaging plants or structures, and respect the peaceful environment. Photography is generally allowed, but flash photography near the Tulsi Das statue should be avoided.",
+      "story": "Tulsi Udyan serves as a beautiful tribute to one of India's greatest devotional poets, Saint Tulsidas, whose monumental work 'Ramcharitmanas' brought the story of Lord Rama to every household in northern and central India. Goswami Tulsidas, born in the 16th century, became the real catalyst for the Ram Janmabhoomi movement by translating Valmiki's Sanskrit Ramayana into the local Awadhi dialect, making the divine story accessible to common people and creating an emotional connection between Hindu households and Lord Rama. According to his biographical accounts, after constructing the Tulsi Manas Mandir in Chitrakuta, Tulsidas received divine guidance from Lord Shiva and Parvati directing him to go to Ayodhya and compose poetry in the vernacular language. He initiated the writing of Ramcharitmanas in Ayodhya on Ramnavami in Chaitra month in 1631 and completed this epic endeavor in two years, seven months, and twenty-six days in 1633 on Vivaha Panchami (celebrating Rama and Sita's marriage) in Margashirsha. The completed masterpiece was then delivered to Lord Shiva and Mata Parvati at Kashi Vishwanath Temple in Varanasi, where Tulsidas spent most of his later life. The peaceful garden features a statue of Tulsidas under a carved canopy, symbolizing his deep spiritual connection with Lord Rama and his literary contributions that made him immortal in devotional literature. The garden also serves as a cultural hub where locals and visitors can engage in devotional music, recitations, and performances revolving around Tulsidas's life stories, helping people delve deeper into his contributions to society. This serene retreat, located near the Ayodhya bus stand, provides free entry to visitors seeking quiet reflection on the legacy of the saint who peacefully passed away on the banks of the Ganges at Assi Ghat in Varanasi in 1623.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516982/dhphzzyrvsoaachvcg21.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516984/i2waearkolgzymfofkb6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516986/wjyj0lp9hq6fopuughgx.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/gdf1qWNePzA"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Bharat Kund Nandigram Ayodhya",
+      "category": "Tourist attraction",
+      "lat": 26.6481,
+      "lon": 82.1356,
+      "address": "J4XP+778, Nandigram, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/J4XP%2B778+Bharat+Kund+Nandigram+Ayodhya, +Nandigram, +Uttar+Pradesh+224202/data=!4m2!3m1!1s0x399a0b96054bab61:0x9741869f3ddf6d34?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=8c976ab7-aac9-42ea-95bb-f5da76475be4",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Bharat Kund in Nandigram is a sacred water tank associated with Lord Bharat, who resided in this peaceful area during Lord Rama's fourteen-year exile. This tranquil site holds deep mythological significance as the place where Bharat performed his duties as regent while awaiting Ram's return. The kund serves as a place of worship and reflection, attracting pilgrims who come to honor Bharat's devotion and sacrifice for his brother.",
+      "essential": "As a sacred pilgrimage site, visitors must dress modestly and maintain appropriate behavior during religious activities. Traditional temple protocols apply including footwear removal and respectful conduct during prayers and rituals. The site may have restrictions on certain activities to preserve its tranquil meditation atmosphere",
+      "story": "Bharat Kund in Nandigram holds one of the most touching stories of devotion and sacrifice in the Ramayana, serving as the place where Lord Bharata performed rigorous penance for fourteen years while Lord Rama was in exile. The name \"Nandigram\" itself carries deep spiritual significance, derived from Nandi (Lord Shiva's vehicle) who once performed severe penance at this location, receiving a boon from Lord Shiva that every wish asked at this place would be fulfilled. When Bharata learned that his beloved brother Rama had been exiled due to his mother Kaikeyi's manipulations, he was devastated and refused to rule from the royal palace in Ayodhya. Instead, he placed Lord Rama's sacred sandals (padukas) on the throne as a symbol of the rightful ruler and retired to Nandigram, located 19 kilometers south of Ayodhya city. Following the same austere lifestyle as his brother, Bharata lived like a hermit for fourteen years, sleeping in a cave, wearing simple clothes, and maintaining matted hair just as Lord Rama did in the forest. This sacred site witnessed the emotional reunion between Rama and Bharata when Lord Rama returned from exile, marking the end of Bharata's self-imposed penance and the restoration of dharmic rule in Ayodhya. The Bharat Kund itself is believed to have been created when Lord Rama built a pond for performing the Shraddh ceremony (final rites) for his father King Dasharatha, which is why this place is also known as 'Chhota Gaya' (Little Gaya). According to tradition, when Lord Rama's coronation was to take place, Bharata brought sacred water from 27 pilgrimage places, pouring half in a well at Chitrakoot and the remaining half in the well at Bharat Kund, which still exists today. The site also features a centuries-old banyan tree near the well, where it's believed that careful observation of its branches reveals divine images of various gods, adding to the mystical aura of this sacred location.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517011/lobrdyjdunsxcdh2yxue.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517017/zx2kdr3jo7vnhmj9k7fs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/j9-AL59fyLQ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Shri Nageshwar Nath Mandir Ayodhya Trust",
+      "category": "Hindu temple",
+      "lat": 26.7813,
+      "lon": 82.1636,
+      "address": "near Ram Ki Paidi, Swargdwar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shri+Nageshwar+Nath+Mandir+Ayodhya+Trust, +near+Ram+Ki+Paidi, +Swargdwar, +Theri+Bazar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0784e18ffe91:0xc24026ae48028071?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=c7516ab7-0631-405a-8ab0-c5b3f8a3ad1f",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 09:00PM",
+      "establishYear": "1750",
+      "fee": "₹0",
+      "description": "Shri Nageshwar Nath Mandir is an ancient temple dedicated to Lord Shiva, believed to have been established by Kush, the son of Lord Rama. The temple is beautifully situated at Ram ki Paidi facing the sacred Saryu River, where devotees traditionally take a holy bath before entering for Lord Shiva darshan. This historic temple holds special significance during Mahashivratri and Shravan month, featuring grand celebrations and the spectacular Shiva Baraat procession.",
+      "essential": "Modest and decent dress is mandatory when entering the temple premises, avoiding revealing or inappropriate attire. Footwear must be removed before temple entry, and visitors should carry socks or sandals for comfort. Photography is generally allowed but specific guidelines from temple administration must be observed, with restrictions in certain sacred areas.",
+      "story": "Shri Nageshwar Nath Mandir carries a fascinating story dating back to the Treta Yuga, believed to have been established by Kush, the younger son of Lord Rama, through a chain of events involving love, conflict, and divine intervention. The captivating legend begins when Prince Kush was taking a ritual bath in the sacred Saryu River and accidentally lost his precious armlet (bajuband), which was a cherished gift from Maharishi Agastya to Lord Rama, who had then gifted it to his son. The lost armlet was discovered by Nag Princess Kumudini, daughter of the Naga King, who was instantly mesmerized by its divine beauty and decided to keep it with her. When Kush learned that his sacred armlet was with the Nag Princess, he became furious and threatened to destroy the entire Nag Lok (serpent world) to retrieve it, leading to a prolonged war between Kush and the Naga kingdom. The conflict continued for years until the desperate Naga King meditated intensely on Lord Shiva, seeking divine intervention to protect his kingdom and daughter. Moved by the sincere prayers, Lord Shiva appeared on the banks of the Saryu River and pacified Kush's anger, suggesting that he marry Princess Kumudini as a gesture of peace and harmony. Bound by Lord Shiva's divine words and recognizing the righteousness of the solution, Kush agreed to marry the devoted Nag Princess, who gratefully returned the armlet to him. In appreciation of Lord Shiva's intervention and as a tribute to his new wife who was an ardent devotee of Shiva, Kush established the magnificent Nageshwar Nath Temple on the banks of the Saryu River. The temple survived through various historical periods and remained in excellent condition even during King Vikramaditya's reign, who later renovated and restored it along with 359 other temples in Ayodhya. The present structure was rebuilt in 1750 by Naval Rai, minister of Nawab Safdarjung, ensuring that this ancient Shiva temple continued to serve devotees. The temple is renowned for its spectacular Mahashivratri celebrations and the grand Shiva Baraat procession, when lakhs of devotees visit to witness the divine festivities and seek Lord Shiva's blessings.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517021/o0lzn8ohl7ertdufwugd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517027/fhkb3rx7ako9yskdvgmr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517029/a3fteuijynv4kmyr9lgp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/oqlJH8mj_cQ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Imambada Gulab Bari - Tomb of Shuja-ud-daula",
+      "category": "Tourist attraction",
+      "lat": 26.7798,
+      "lon": 82.1575,
+      "address": "State Highway 9, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Imambada+Gulab+Bari+-+Tomb+of+Shuja-ud-daula, +State+Highway+9, +Vaidehi+Nagar, +Faizabad, +Uttar+Pradesh+224001/data=!4m2!3m1!1s0x399a063b2b30ada9:0x51cc9eab59a0f346?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=a1b912a4-5da1-4a42-8443-136ab9069153",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 07:00PM",
+      "establishYear": "1775",
+      "fee": "₹0",
+      "description": "Imambada Gulab Bari is the magnificent garden tomb of Nawab Shuja-ud-daula, showcasing exquisite Mughal architecture with white marble, arched doorways, and traditional Char Bagh layout. The complex features beautiful rose gardens, fountains, and Indo-Islamic architectural elements that represent the four rivers of Paradise. This over-two-centuries-old monument serves as both a historical heritage site and a peaceful retreat, blending Islamic and Hindu cultural elements within its premises.",
+      "essential": "Visitors must wear clothes that completely cover their body, keeping in mind the sanctity of the over-two-centuries old monument. Short skirts, skimpy tops, shorts, miniskirts, and revealing clothing are strictly prohibited. Women must wear headscarves and are not allowed in shorts or without proper head covering. Professional photography and video shoots are banned, and guards restrict entry of improperly dressed visitors.",
+      "story": "Imambada Gulab Bari stands as a magnificent testament to Mughal architectural brilliance and represents the rich cultural synthesis that characterized medieval Indian history. This beautiful garden tomb was constructed as the final resting place of Nawab Shuja-ud-daula, a prominent ruler of Awadh who played a significant role in 18th-century Indian politics. The tomb complex showcases exquisite Indo-Islamic architecture with its traditional Char Bagh layout representing the four rivers of Paradise, white marble construction, elegant arched doorways, and intricate decorative elements that reflect the sophisticated craftsmanship of Mughal artisans. The name \"Gulab Bari\" translates to \"Rose Garden,\" reflecting the tomb's original design that featured extensive rose gardens, fountains, and landscaped areas that created a paradisiacal environment befitting a royal mausoleum. Over the centuries, this over-two-hundred-year-old monument has served not only as a burial site but also as a cultural landmark that represents the harmonious coexistence of different religious traditions, as evidenced by the presence of both Islamic structures and Hindu temples within the complex. The site has been carefully preserved as a heritage monument and continues to attract visitors interested in Mughal history, architectural studies, and the cultural evolution of Ayodhya through different historical periods. Recent conservation efforts have focused on maintaining the structural integrity of the tomb while preserving its historical authenticity, ensuring that future generations can appreciate this important example of Indo-Islamic architectural heritage.�",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517032/rmpumb6a8relhhwkkext.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517033/llq0elscng5260ukimbl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517036/uskothnic9bkuiobaeml.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/CVDt8lk9otU"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Raj Dwar Mandir",
+      "category": "Hindu temple",
+      "lat": 26.79614,
+      "lon": 82.2018,
+      "address": "Q6W2+FP4, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Q6W2%2BFP4+Raj+Dwar+Mandir, +Tulsi+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0792e4d76063:0xf294139620fddd0d?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=4f0b5ff2-17dc-439d-abec-de55bfc0fc32",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1100",
+      "fee": "₹0",
+      "description": "Raj Dwar Mandir is a historically significant temple that once served as one of the main ceremonial entrances to Ayodhya's royal palace areas. The temple features classic local architecture and plays an important role during religious processions and traditional ceremonies. This heritage site embodies the connection between Ayodhya's spiritual and royal past, making it a meaningful stop for those interested in the city's architectural and cultural history.",
+      "essential": "Traditional Hindu temple protocols apply including modest dress requirements covering shoulders and knees. Footwear removal is mandatory before entering the temple premises, and respectful behavior must be maintained during religious ceremonies and processions.",
+      "story": "The Raj Dwar Mandir, or \"Royal Gateway Temple,\" is a site steeped in ancient history, marking the location of the main ceremonial entrance to Ramkot, the fortified palace complex of Ayodhya's Suryavanshi kings. Believed to be where Lord Rama, Sita, and Lakshmana began their fourteen-year exile, this gateway was the primary point of entry to the royal heart of the kingdom, including Dashrath Bhavan and Kanak Bhawan. While the original structure is ancient, the current 900-year-old temple was reconstructed by Raja Man Singh and has been maintained by his descendants, standing today as a silent but powerful guardian of Ayodhya's regal and epic past.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517046/skhmcft0m7fxulhqph4a.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517050/s64ay3gaxp1bqkwbjkw9.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517054/uwamzhuogpsnfhirgh3s.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jLhVyuPngjs"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ammaji Mandir",
+      "category": "Hindu temple",
+      "lat": 26.8051,
+      "lon": 82.1995,
+      "address": "R54X+2RV, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R54X%2B2RV+Ammaji+Mandir, +Tulsi+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0790a45354eb:0x3e058896fb43b25b?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=44c322b4-6597-4bdd-b924-ba0ea594508f",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1904",
+      "fee": "₹0",
+      "description": "Ammaji Mandir is a small but deeply revered local temple known for its peaceful environment and regular community worship ceremonies. The temple serves as an important social gathering spot for local devotees and is valued for its contributions to community welfare activities. This intimate temple offers visitors a glimpse into the grassroots spiritual life of Ayodhya, where local traditions and daily worship practices continue to thrive.",
+      "essential": "Standard temple etiquette applies with modest dress requirements and respectful behavior during worship ceremonies. Visitors should maintain quiet demeanor and follow any specific instructions from temple authorities or community members.",
+      "story": "Ammaji Mandir is a unique cultural landmark in Ayodhya, representing the devotion of the South Indian Sri Vaishnava tradition in the heart of North India. Its story begins in the late 19th century with a devout couple, Yogi Parthasarathy Ayyangar and his wife Singammal from Chennai, who were guided by a divine dream to unearth idols in Tamil Nadu and establish a temple for them in Ayodhya. After Yogi Parthasarathy's early death, Singammal single-handedly managed the temple for 30 years, spreading Sri Vaishnava philosophy and earning the affectionate title \"Ammaji\" (Respected Mother), which gave the temple its popular name and cemented its identity as a beacon of South Indian faith in the holy city.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517058/xchlqxrsd22vmkeq54pk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517059/lnfnlggbclmnfpofdjbh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517061/akqmhwxjanmfo8n35snm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/B9QPrNXYKnU"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "shop": [
+    {
+      "_id": "68e02d6cbd1f9c367048dd9d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Mohbra Bazar",
+      "lat": 26.7762,
+      "lon": 82.1719,
+      "address": "Mohbra Bazar, ChooramaniChowk, Ranopali Village, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Mohbra+Bazar/@26.7762172, 82.1719302, 14z/data=!4m10!1m2!2m1!1sayodhya+shopping!3m6!1s0x399a07efbac6bc63:0x359e24cffce4adf9!8m2!3d26.7762172!4d82.1894397!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQZtYXJrZXSqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQA!16s%2Fg%2F11ffw6z486?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Local Market",
+      "priceRange": "₹398-₹16,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517222/rpirxhmkvxz7xkfwb64o.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517225/yurdekdmhj4mbmfszh2r.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517228/tx3nt6m9smhund8rjfdx.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Mall Of Avadh",
+      "lat": 26.7843,
+      "lon": 82.1267,
+      "address": "Q4PQ+5Q5, Naharbagh, Niyawan, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Mall+Of+Avadh/@26.784346, 82.1267472, 14z/data=!4m10!1m2!2m1!1sayodhya+shopping!3m6!1s0x399a074b4ad87077:0xd104a24dde8b09e2!8m2!3d26.784346!4d82.1442567!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQ9zaG9wcGluZ19jZW50ZXKqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQA!16s%2Fg%2F11t47wjrtz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Shopping mall",
+      "priceRange": "₹150-₹80,000+",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "phone": "7752982073",
+      "website": "http://hotelavadhclassio.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517232/bgpxcdwuyyksikt4nklu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517233/c6sjtv8impnkgwrr3ptb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517235/d0fwnp3eklsbgittrqlp.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Shivam Emporium Lucknowi Chikankari In Ayodhya",
+      "lat": 26.7912,
+      "lon": 82.1827,
+      "address": "Shop no. G10, Kaushleshkunj building, Railway Sta Rd, near Shri Ram Hospital Road, New Colony, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shivam+Emporium+Lucknowi+Chikankari+In+Ayodhya/@26.7912839, 82.1827167, 14z/data=!4m13!1m5!2m4!1sayodhya+shopping!5m1!4e3!6e6!3m6!1s0x399a071e88bc9255:0x7e6908eb2d022ff7!8m2!3d26.7912839!4d82.2002262!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQ5jbG90aGluZ19zdG9yZaoBUQoIL20vMGhoZGIQASoMIghzaG9wcGluZygAMh8QASIb29yekURlaHvuqIdkfmMNwKr0t75csGBFbMInMhQQAiIQYXlvZGh5YSBzaG9wcGluZ-ABAA!16s%2Fg%2F11y3zvwz_1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Clothing store",
+      "priceRange": "₹300-₹80,000+",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "phone": "9648948308",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517237/vnp4bmczi1zmin4wgbwo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517238/ydp0yfq4caedwargyfcc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517239/xuyocbfiploaiqqvp4mj.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda0",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Bombay style ayodhya",
+      "lat": 26.8011,
+      "lon": 82.1785,
+      "address": "Asharfi Bhawan Chauraha Rd, Kandharpur, Ayodhya, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps/place/Bombay+style+ayodhya/@26.8011221, 82.178567, 14z/data=!4m13!1m5!2m4!1sayodhya+shopping!5m1!4e3!6e6!3m6!1s0x399a07fec9449dc9:0xa4a48db46fd5000c!8m2!3d26.8011221!4d82.1960765!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSARNtZW5zX2Nsb3RoaW5nX3N0b3JlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1RmVXSlVSVEJVVkVKNll6SmtXRkp1UlRSTmEwNTJVa2hzU1ZWRlJSQUKqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQD6AQQIABAs!16s%2Fg%2F11vqwtqy1k?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Men's clothing store",
+      "priceRange": "₹149-₹3,499",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 10:00PM",
+      "phone": "9369328247",
+      "website": "https://indouvr.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517242/cbaydtjr2zmnpzdvpy3z.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517243/amtv4artu9wg2g4rtxkh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517244/svzb24ufobrxcrckxtrz.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "transport": [
+    {
+      "_id": "68e02d6cbd1f9c367048dda4",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Saryu Ghat/Ram ki Paidi",
+      "autoPrice": "Rs 100-120",
+      "bikePrice": "Rs 190-240",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda8",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Kanak Bhawan",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb0",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Bharat Kund, Nandigram",
+      "autoPrice": null,
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb4",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Saryu Ghat/Ram ki Paidi",
+      "to": "Guptar Ghat",
+      "autoPrice": "Rs 140-160",
+      "bikePrice": "Rs 200-250",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda5",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddab",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs120-170",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddad",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "New International Bus Station",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs 140-190",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddae",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "New International Bus Station",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 70-90",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb2",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Gulab Bari",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 70-120",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb5",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Saryu Ghat/Ram ki Paidi",
+      "to": "Tulasi Smarak Bhavan:",
+      "autoPrice": "Rs 30-50",
+      "bikePrice": "Rs 40-90",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda3",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 130-180",
+      "bikePrice": "Rs 80-100",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda7",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Saryu Ghat/Ram ki Paidi",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 40-60",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddaa",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 80-100",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddac",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Cantt",
+      "to": "Guptar Ghat",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 60-110",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb1",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Surya Kund",
+      "autoPrice": "Rs 70-90",
+      "bikePrice": "Rs 120-170",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddb3",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Ammaji Mandir",
+      "autoPrice": "Rs 20-40",
+      "bikePrice": "Rs 40-90",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda2",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Maharshi Valmiki International Airport",
+      "to": "Ram Janam Bhoomi",
+      "autoPrice": "Rs 130-180",
+      "bikePrice": "Rs 80-100",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda6",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Hanuman Garhi",
+      "autoPrice": "Rs 30-80",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda9",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ayodhya Junction",
+      "to": "Lata Mangeshkar Chowk",
+      "autoPrice": "Rs 40-90",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048ddaf",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "from": "Ram Janam Bhoomi",
+      "to": "Shri Nageshwar Nath Mandir",
+      "autoPrice": "Rs 50-70",
+      "bikePrice": "Rs 60-110",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ]
+}

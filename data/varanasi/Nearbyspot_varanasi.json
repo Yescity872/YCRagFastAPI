@@ -1,301 +1,312 @@
 {
-    "Nearbyspot": [
-        {
-            "_id": "68c7f27e20f4dc4834768bca",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Shri Kashi Karvat Temple(baba ratneshwar mahadev)",
-            "distance": "1.2km from godowlia chowk varanasi",
-            "category": "Religious/Pilgrimage",
-            "lat": 25.31149,
-            "lon": 83.00988,
-            "address": "Nepali Khapra, Ghats of Varanasi, Katesar, Varanasi, Domari,(U.P.)221001",
-            "locationLink": "https://maps.app.goo.gl/vSG3Lq8GCBcauUCw5",
-            "openDay": "Monday-Sunday",
-            "openTime": "6:30 am–10:30 pm",
-            "establishYear": "ancient",
-            "fee": "free",
-            "description": "The Kashi Karvat Temple, also known as Ratneshwar Mahadev Temple, is an ancient Shiva temple in Varanasi, India, known for its unique leaning structure. It's located near the Kashi Vishwanath Temple and the Manikarnika Ghat, and is famous for its significant tilt, even more pronounced than the Leaning Tower of Pisa. ",
-            "essential": "Do not pray inside the temple;follow the local rules;refrain from alcohol;remove shoes at the ghat;don't try go near the temple when submerged in the river;modest dress codes",
-            "story": "Among the legends revolving around the partially submerged temple of Ratneshwar, the most popular one is of a boy named Man Singh, who wanted to pay off his mother's (Ratna Bai) love. But she refused to break the bond from her end, instead, asked him to do so from his end. So the son decided to come to the holy city of Kashi and built Lord Shiva's temple and that's how he tried to clear the debt of love. As the story goes, after the construction his mother cursed the temple stating that nothing can pay off a mother's love for her child. And since then the temple was damned and remains submerged in water.According to another story, it is believed that the temple was built by a female servant of Ahilya Bai of Indore, named Ratna Bai. Ahilya Bai cursed it to lean because her servant had named it after herself.The temple is elegantly constructed in the classical style of architecture with a nagara shikhara and phamsana mandapa.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438512/q41wyj8x4rvqvszqgtcj.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438514/qejxafemjdxtofqg7dil.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438515/j40csq2r3qg0uw6a3x8b.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/iqsQ1jN5JLA?si=z9ULnl_y13IwqSXF"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bcb",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Ramnagar Fort",
-            "distance": "6.7km from godowlia chowk varanasi",
-            "category": "Historic/Forts",
-            "lat": 25.26952,
-            "lon": 83.02039,
-            "address": "Varanasi Rd, Ram nagar, Ramnagar,(U.P.)221008",
-            "locationLink": "https://maps.app.goo.gl/YWQoiMeABNV8KdR9A",
-            "openDay": "Monday-Sunday",
-            "openTime": "10:00am-5:00pm",
-            "establishYear": "1750",
-            "fee": "75rs(adults),20rs(kids),200rs(foreign tourists)",
-            "description": "The Ramnagar Fort is a fortification in Ramnagar, Varanasi, India. It is located near the Ganges on its eastern bank, opposite to the Tulsi Ghat. The sandstone structure was built in 1750 by Kashi Naresh Maharaja Balwant Singh. The current king and the resident of the fort is Anant Narayan Singh, who is also known as the Maharaja of Benares.The fort is at a scenic location on the eastern right bank of the Ganges River.The building was constructed with creamy-coloured chunar sandstone. The fort houses the Veda Vyasa Temple, a museum, and the king's residential complex.[5] There is also a Dakshin Mukhi temple of Hanuman, which faces towards south.",
-            "essential": "Photography not allowed inside the gallery;do not litter in the premises;chewing tabacoo is not allowed;carry water on hot days",
-            "story": "The museum is known as Saraswati Bhawan. The museum is in what used to be the Durbar Hall or the Public Audience Hall of the fort. It is well known for its unusual and rare collections of American vintage cars, bejeweled sedan chairs, ivory work, medieval costumes, gold and silver brocaded royal Palakis (Palanquins in the shape of a lotus flower). It has elephant saddles carved out of silver, jewellery, costumes made of kimkhwa silk (finest product of the weavers of Varanasi), an impressive armoury hall with swords, old guns from Africa, Burma and Japan.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438518/rb1olpclqfkmdxn4wm0h.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438519/zjc9scgke7lhs99u8iv0.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438520/ydgfssmswc5ildmdy6tr.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/sFzn6641YhY?si=hPDb7HzdEvuSEBzb"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bcd",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Chunar Fort",
-            "distance": "31km from godowlia chowk varanasi",
-            "category": "Historic/Forts",
-            "lat": 25.12336,
-            "lon": 82.87316,
-            "address": "Tammanpatti,(U.P.)231304",
-            "locationLink": "https://maps.app.goo.gl/1zrUK6DdC6PoqCJE7",
-            "openDay": "Monday-Sunday",
-            "openTime": "7:00am-5:00pm",
-            "establishYear": "11th century ",
-            "fee": "free",
-            "description": "The Chunar Fort (also known as Chandrakanta Chunargarh and Charanadri) is located in Mirzapur district of Uttar Pradesh.The fort stands on a rock, a detached part of the Vindhya Range, at an elevation of 280 feet (85 m) above sea level. It was built in a commanding position, high above a meander in the Ganges River, near the Kaimur Hills. The approach to Chunar Hill is marked by a chain of low hills, running parallel to the river on its right bank, which is covered by plantations and bungalows.",
-            "essential": "Wear steardy  shoes;take basic food supplies;refrain from alcohol",
-            "story": "There are many legends linking the fort to divine aspects. One such is the story of King Bali. God, known in these parts as Bawan Bhagwan, appeared before Bali, disguised as a Brahmin, and begged for three feet of land. The generous king agreed. God placed his first step on the hill of Chunar Fort and left his foot mark there. Since then it is known as \"Charanadri\", which over the years took the short form of \"Chunar\".The second legend is king Vikramāditya of Ujjain. His brother Bharthari, who opted to live the life of a hermit, started living near the rockface of Chunar. Realising his brother's situation, Vikramadiathya visited Chunar, and after finding out his brother's whereabouts through the hermit Goraknath, built a house for his brother to live in. The black stone where the saint Bhatinath lived and prayed is worshiped even now, as it is believed that Bhatinath is seated in the fort area in an invisible form.A third legend linked the fort to the well known king of Rajasthan. Prithviraj brought this settlement under his rule and also many neighbouring villages. Subsequent to his demise, his descendants sold the land to Khair-ud-din Subuktagin. An inscription (not very legible) in Sanskrit on the gateway of the fort mentions that the place had been taken over by Swami Raja, who had established a stone tablet recording the event. Later, the fort was acquired by Sahab-ud-din.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438529/apxvljfqfggcit6xeyoe.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438534/oe5zas5bdndkkit7dose.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438536/jfomrcpfogxpwtxcumai.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/z69DgWkt5pc?si=SK4tkzS0cYlURHCy"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bd0",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Rajdari & Devdari Waterfalls",
-            "distance": "62km from godowlia chowk varanasi",
-            "category": "Nature/Waterfall",
-            "lat": 24.9462,
-            "lon": 82.93505,
-            "address": "Chandauli district (U.P.)",
-            "locationLink": "https://maps.app.goo.gl/8oF1kqvDWAenSWmAA",
-            "openDay": "Monday-Sunday",
-            "openTime": "6 :00am–6:00 pm",
-            "establishYear": "natural",
-            "fee": "50rs/300rs(foreign tourists)",
-            "description": "Rajdari and Devdari Waterfalls are among the most prominent tourist attractions in the Chandauli district. Nestled within the scenic Chandraprabha Wildlife Sanctuary—originally established for the conservation of Asiatic lions—these waterfalls offer a stunning display of nature. With water cascading from high rocky cliffs, the beauty of Rajdari and Devdari is truly mesmerizing. Surrounded by serene, mystical landscapes far from the chaos of city life, this destination provides a perfect escape into nature’s tranquility.",
-            "essential": "Take basic food supplies;lack of food spots on route;reach early morning;wear steardy shoes;take a extra pair of clothing;do not go deep in the fall in monsoon seasons;no facilities or accomodation available",
-            "story": "The Rajdari and Devdari waterfalls are found in the Chandraprabha Wildlife Sanctuary. The sanctuary was established to conserve Asiatic lions and though their population has dwindled, there are several species of animals and birds that live here. Apart from the animals and birds, the sanctuary is home to several other attractions, more notably the Rajdari and Devdari waterfalls. The crystal clear waters, gurgling over the rocks present a breathtaking sight. The scenic, tranquil surroundings lend a sense of mysticism to the experience.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438566/aiqokrg3qep90jsz9wrq.webp",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438568/rcio7nzqrmqjicg8qqwr.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438569/vmamea9av2dv28xmf0rt.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/TWLBgNhHaeQ?si=lX5ZPi8_t7cuMBzo"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bce",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Markandey Mahadev",
-            "distance": "34km from godowlia chowk varanasi",
-            "category": "Religious/Pilgrimage",
-            "lat": 25.40705,
-            "lon": 82.92371,
-            "address": "Markanday Mahadev Mandir, Kaithi,(U.P.)221116",
-            "locationLink": "https://maps.app.goo.gl/NV63StmbghcvRjgQ9",
-            "openDay": "Monday-Sunday",
-            "openTime": "5:00am-11:00pm",
-            "establishYear": "ancient",
-            "fee": "free",
-            "description": "The temple is situated in Kaithi, a village near Varanasi, and is believed to be the place where Markandeya performed his penance.The temple is considered an important pilgrimage site for devotees of Lord Shiva, who come to seek blessings and experience the spiritual atmosphere. The temple is designed in a traditional North Indian style, with intricate carvings and designs that depict scenes from Hindu mythology.",
-            "essential": "Modest dress code;refrain from any alcohol;remove shoes at temple;follow local guidelines during rituals and bathing at ghats",
-            "story": "The temple's history is intertwined with the story of Rishi Markandeya, who was blessed by Lord Shiva with immortality after he pleased the deity with his intense devotion and prayers. Markandeya, born with a short lifespan, was saved by Shiva from the clutches of Yama (the god of death) at this very spot. Shiva is said to have emerged from the Shiva Linga (the temple's main deity) to protect Markandeya, granting him eternal life and making him forever young.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438544/amujezwtr3cxfbxvfnuk.png",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438548/h7kvzstm00bcee4fyccy.png",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438550/at0xy4bw0foxykn640mi.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Vph6_wQYN08?si=bbU25upOTHYMTH3D"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bcf",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Lakhaniya Dari Waterfall",
-            "distance": "46km from godowlia chowk varanasi",
-            "category": "Nature/Waterfall",
-            "lat": 24.95862,
-            "lon": 83.00643,
-            "address": "Latifpur, (U.P.)231301",
-            "locationLink": "https://maps.app.goo.gl/cN6cawtPfUTUAjE17",
-            "openDay": "Monday-Sunday",
-            "openTime": "9:00am-5:00pm",
-            "establishYear": "natural",
-            "fee": "5rs",
-            "description": "A short, rugged hike leads to this popular scenic waterfall in a tranquil forest setting.Lakhaniya Dari Waterfall it is located along the Lakhaniya Valley, about 50 kilometres south of Varanasi.The waterfall has a height of 150 metres.This water is famous among trekkers and sports enthusiast",
-            "essential": "Do not go inside the water body until permitted;refrain from carrying any alcohol or cigarettes.;wear steardy shoes ",
-            "story": "Lakhaniya Dari Falls is one stunning water body, set about 30 km from the ancient town of Chunar in the district of Mirzapur, Uttar Pradesh. To witness the waterfall in all its glory, you must visit here during the monsoons. Pouring from a height of 150 m, these falls make for a pretty enchanting sight. The entire region is covered in huge boulders and rocks and rivulets. You can also go explore the town of Chunar, which is known for its pottery tradition and handicrafts.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438555/cqtyzwxe9xgozbgenire.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438559/btzfpllr0tzkziapminu.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438561/usmm9rpblksfcy6n3jko.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/1RAP4rpFRLY?si=6JqBgMnLniDOKOHa"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bd1",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Vindhyachal(Maa Vindhyavasini temple)",
-            "distance": "68km from godowlia chowk varanasi",
-            "category": "Religious/Pilgrimage",
-            "lat": 25.31348,
-            "lon": 83.01675,
-            "address": "Vindhyachal Gali, Rajadarwaja, Bulanala, Varanasi, Uttar Pradesh 221001",
-            "locationLink": "https://maps.app.goo.gl/fkafWkP7acssNpFJ9",
-            "openDay": "Monday-Sunday",
-            "openTime": "8:30 am–10:30 pm",
-            "establishYear": "ancient(mythic)",
-            "fee": "free",
-            "description": "It is a renowned religious city dedicated to the goddess Vindhyavasini (daughter of Yashoda-Nanda).The Vindhyavasini Devi Temple is situated 8 km from Mirzapur, on the banks of the holy river Ganga.There are several temples of other deities in the vicinity, the most famous ones being Ashtabhuja Devi Temple and Kalikhoh Temple",
-            "essential": "Modest dress codes;refrain from any alcohol;remove shoes at temples;follow local guidelines during rituals and while bathing at ghats",
-            "story": "The city is a Hindu pilgrimage site having the temple of Vindhyavasini, who according to Markandeya Purana, had incarnated to kill the demon Mahishasura.Vindhyachal Temple, also known as Maa Vindhyavasini Temple and Vindhyachal Dham is one of the Shakti Pitha temples in India.The temple has been mentioned in Durga Saptashati.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438572/jt9mn2rz4hmzqyhdfo3v.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438575/zhwxmxejruftn2vzqifv.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438577/t7wcis72rli0me8jrmsz.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/9K-k67RkyD8?si=ncCp_kBw73GIRTxa"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bd2",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Tanda Falls",
-            "distance": "76km from godowlia chowk varanasi",
-            "category": "Scenic Spot/Waterfall",
-            "lat": 25.05786,
-            "lon": 82.51364,
-            "address": "Tanda Fall Rd, Tand, Pagar, (U.P.) 231211",
-            "locationLink": "https://maps.app.goo.gl/Sn3KutN3vR4GAmfs5",
-            "openDay": "Monday-Sunday",
-            "openTime": "8:00am-4:00pm",
-            "establishYear": "1940",
-            "fee": "50rs [50rs (parking)]",
-            "description": "Tanda Falls in Mirzapur is a standout amongst the most picturesque outing spots in the district. The normal water stream and water store are real vacation spots on account of their serene climate and rich magnificence. The waterfall is effortlessly open by street and lies around 14 km south of the fundamental city of Mirzapur.",
-            "essential": "Needs a suv to reach as road is steep and rocky;only good in the monsoon season;take basic food supplies;reach early;wear steardy shoes as terrain is rocky;take a extra pair of clothes ,towels",
-            "story": "A man made fall that was built approximately 90 years ago has risen to be a key spot among tourists in all these years.Tanda Falls in Mirzapur is a standout amongst the most picturesque outing spots in the district. The normal water stream and water store are real vacation spots on account of their serene climate and rich magnificence. The waterfall is effortlessly open by street and lies around 14 km south of the fundamental city of Mirzapur",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438581/gh11lri6r7tqt6oqyj71.webp",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438582/z4w1hhnwh1lcoyzi5htj.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438589/pjquw9eikmxr2kgiqday.png"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/k7UWmX083ec?si=zo-R2xU_JKjb3xpo"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bcc",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Sarnath ",
-            "distance": "13km from godowlia chowk varanasi",
-            "category": "historic city/Pilgrimage",
-            "lat": 25.37294,
-            "lon": 83.00424,
-            "address": "Sarnath Varanasi(U.P.)221007",
-            "locationLink": "https://maps.app.goo.gl/Nw2FEaD6dHDtBuJN7",
-            "openDay": "Monday-Sunday",
-            "openTime": "6:00am-5:00pm",
-            "establishYear": "3rd century BCE",
-            "fee": "250rs(Dhamek Stupa) ,30rs(chaukhandi stupa)",
-            "description": "The name Sarnath is derived from Saranganath that translates as, “Lord of the Deer”Sarnath is one of the eight most important pilgrimage sites for Buddhists, and has been nominated to become a UNESCO World Heritage Site.Sarnath is located eight kilometres (five miles) northeast of Varanasi near the confluence of the Ganges and the Varuna rivers.Sarnath is where Gautama Buddha's sangha first convened, when he gave the first teaching to the Buddha's original five disciples",
-            "essential": "Carry a hat and water during hot days;Maintain silence inside the Stupa;be respectful to the monument and its significance",
-            "story": "It’s the site where Gautama Buddha delivered his first sermon after attaining enlightenment. This event is called the Dhammacakkappavattana Sutta — “Turning the Wheel of Dharma.” After attaining enlightenment under the Bodhi tree in Bodh Gaya, Gautama Buddha traveled to Sarnath (then called Isipatana) in search of the five ascetics (his former companions). Sarnath thus became the birthplace of organized Buddhism.In the 3rd century BCE, Emperor Ashoka visited Sarnath and contributed significantly to its development by constructing the Dhamek Stupa and the Ashokan Pillar, both bearing inscriptions that promoted non-violence and dharma. Between the 5th and 12th centuries CE, Sarnath flourished as a major center of learning, filled with temples and monasteries that attracted scholars and monks from across Asia. However, in the 12th century, the site suffered destruction during the Turkish invasions. It remained in ruins until it was rediscovered by the British in the 19th century, sparking archaeological interest and preservation efforts.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438523/l2dlxllct8vbpktavxec.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438524/hrpopoqdiwprcfpoue1m.jpg",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438525/vmzbqhmotsajgn3wv4kn.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/1mfqVupHH0E?si=IMC7v-u75hn8QGup"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bd3",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Sitamarhi Temple(Sita Samahit Sthal)",
-            "distance": "84km from godowlia chowk varanasi",
-            "category": "Religious/Pilgrimage",
-            "lat": 25.27296,
-            "lon": 82.25507,
-            "address": "Sitamarhi, Bhadohi,(U.P.)221309",
-            "locationLink": "https://maps.app.goo.gl/vsCk9jNj2qvSJzoG6",
-            "openDay": "Monday-Sunday",
-            "openTime": "5am-12pm,2pm-9pm",
-            "establishYear": "ancient(mythic)",
-            "fee": "free",
-            "description": "Sitamarhi is a historical place of immense significance and is being visited by large number of pilgrims with great faith and devotion. It is one of the five ‘Teerths’ (holy places) in Purvanchal which are Prayagraj, Sitamarhi,Sarnath. Vindhyavasini & Kashiraj, all can be visited within 3 days.This temple is situated on the banks of Ganga river and It is believed that at this place Mother Sita had absorbed herself in the earth.",
-            "essential": "Modest dree codes;refrain from any alcohol;remove shoes at the temple;follow local guidelines during rituals;beaware of monkeys",
-            "story": "Sitamarhi has got immense significance, because it was here that Lord Rama’s wife Maa Sitaji was abandoned, gave birth to Luv & Kush and descended into the lap of Mother Earth forever. The only existing Valmiki Ashram on the banks of the river Ganges is located here .Once the place was visited by Swami Jitendranand Tirth and he had desired that a very magnificent memorial to Sitaji be built here. The Sita Samahit temple stands exactly on the mound where Bhagwati Sitaji descended into Mother Earth. This was built with the kind help of Late Shri. Satya Narain Prakash Punj, New Delhi who was inspired by his mother. Within the campus of the main temple there exists temples of Maa Sita & Lord Shiva. There also stands 108 ft. high statue of Ram Bhakt Hanuman installed on an artificial rock of 20 ft. Under this hillock there is a cave having small temple of Hanumanji",
-            "images": [
-                "https://i0.wp.com/prayagpedia.com/wp-content/uploads/2024/07/410586833_847765840691949_8668328409451795046_n.jpg?w=1080&ssl=1",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438593/u9vmaqbozq8uhoveuwoo.webp",
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438597/s34ctx1j0f2wftqzcawi.jpg"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/gSIm9hP9HwA?si=uEuggGbh3gxV8d1M"
-            ]
-        },
-        {
-            "_id": "68c7f27e20f4dc4834768bd4",
-            "cityId": "68c7454b4ea2df675385f352",
-            "cityName": "Varanasi",
-            "places": "Shaktipeeth Shivdwar (Shiv Durga Temple)",
-            "distance": "92km from godowlia chowk varanasi",
-            "category": "Religious/Pilgrimage",
-            "lat": 27.41822,
-            "lon": 78.47504,
-            "address": "Sonbhadra, Uttar Pradesh",
-            "locationLink": "https://maps.app.goo.gl/c1BbTLT4Mz1ZxUcr5",
-            "openDay": "Monday-Sunday",
-            "openTime": "6:00am-8:00pm",
-            "establishYear": "ancient(mythic)",
-            "fee": "free",
-            "description": "Shivdwar, officially known as Uma Maheshwar Temple, is located 10 km from Ghorawal in Sonbhadra district, Uttar Pradesh.The specialty of Shivdwar Dham is that it has the idol of Lord Shiva and Mother Parvati and that too together. The 11th century black stone idol of Goddess Parvati is kept in the sanctum  of this temple. This three feet high idol is placed in Srijan Mudra which is a creative posture.This statue is an example of excellent artistry. This temple displays fine examples of craftsmanship and magnificent art of that period",
-            "essential": "Modest dress codes;refrain from any alcohol;remove shoes at temples;follow local guidelines during rituals ",
-            "story": "Shivdwar, also known as Uma Maheshwar Temple, is a Shaktipeeth (a place of Shakti worship) located in Sonbhadra district, Uttar Pradesh, dedicated to Lord Shiva and Goddess Parvati. It is unique because it houses an idol of Shiva and Parvati, where water is offered to the deities rather than the traditional lingam. The templeis a significant pilgrimage site, particularly during the month of Shravan.It is believed that in the fourth decade of the 19th century, while plowing the fields, a village farmer named Moti Mahato found the unique statue of the famous Umamaheshwar in Satdwari village. When the idol was found, everyone considered it a blessing from God. Then this idol was installed by Avinash Kuwari, daughter-in-law of the village’s landlord family, and the temple was constructed. This temple was named Shivdwar.",
-            "images": [
-                "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438601/fm8req1sntvetjmndoe8.jpg",
-                "https://i0.wp.com/hamarapurvanchal.com/wp-content/uploads/2018/05/shivdwar.jpg?w=1280&ssl=1",
-                "https://i0.wp.com/hamarapurvanchal.com/wp-content/uploads/2018/05/IMG_20180520_135732145-1.jpg?w=1280&ssl=1"
-            ],
-            "videos": [
-                "https://www.youtube.com/embed/Xj8gh3dNZO8?si=REzdluuHv9DkKbH2"
-            ]
-        }
-    ]
+  "nearbyspot": [
+    {
+      "_id": "68c7f27e20f4dc4834768bca",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Shri Kashi Karvat Temple(baba ratneshwar mahadev)",
+      "distance": "1.2km from godowlia chowk varanasi",
+      "category": "Religious/Pilgrimage",
+      "lat": 25.31149,
+      "lon": 83.00988,
+      "address": "Nepali Khapra, Ghats of Varanasi, Katesar, Varanasi, Domari,(U.P.)221001",
+      "locationLink": "https://maps.app.goo.gl/vSG3Lq8GCBcauUCw5",
+      "openDay": "Monday-Sunday",
+      "openTime": "6:30 am–10:30 pm",
+      "establishYear": "ancient",
+      "fee": "free",
+      "description": "The Kashi Karvat Temple, also known as Ratneshwar Mahadev Temple, is an ancient Shiva temple in Varanasi, India, known for its unique leaning structure. It's located near the Kashi Vishwanath Temple and the Manikarnika Ghat, and is famous for its significant tilt, even more pronounced than the Leaning Tower of Pisa. ",
+      "essential": "Do not pray inside the temple;follow the local rules;refrain from alcohol;remove shoes at the ghat;don't try go near the temple when submerged in the river;modest dress codes",
+      "story": "Among the legends revolving around the partially submerged temple of Ratneshwar, the most popular one is of a boy named Man Singh, who wanted to pay off his mother's (Ratna Bai) love. But she refused to break the bond from her end, instead, asked him to do so from his end. So the son decided to come to the holy city of Kashi and built Lord Shiva's temple and that's how he tried to clear the debt of love. As the story goes, after the construction his mother cursed the temple stating that nothing can pay off a mother's love for her child. And since then the temple was damned and remains submerged in water.According to another story, it is believed that the temple was built by a female servant of Ahilya Bai of Indore, named Ratna Bai. Ahilya Bai cursed it to lean because her servant had named it after herself.The temple is elegantly constructed in the classical style of architecture with a nagara shikhara and phamsana mandapa.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438512/q41wyj8x4rvqvszqgtcj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438514/qejxafemjdxtofqg7dil.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438515/j40csq2r3qg0uw6a3x8b.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/iqsQ1jN5JLA?si=z9ULnl_y13IwqSXF"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bcb",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Ramnagar Fort",
+      "distance": "6.7km from godowlia chowk varanasi",
+      "category": "Historic/Forts",
+      "lat": 25.26952,
+      "lon": 83.02039,
+      "address": "Varanasi Rd, Ram nagar, Ramnagar,(U.P.)221008",
+      "locationLink": "https://maps.app.goo.gl/YWQoiMeABNV8KdR9A",
+      "openDay": "Monday-Sunday",
+      "openTime": "10:00am-5:00pm",
+      "establishYear": "1750",
+      "fee": "75rs(adults),20rs(kids),200rs(foreign tourists)",
+      "description": "The Ramnagar Fort is a fortification in Ramnagar, Varanasi, India. It is located near the Ganges on its eastern bank, opposite to the Tulsi Ghat. The sandstone structure was built in 1750 by Kashi Naresh Maharaja Balwant Singh. The current king and the resident of the fort is Anant Narayan Singh, who is also known as the Maharaja of Benares.The fort is at a scenic location on the eastern right bank of the Ganges River.The building was constructed with creamy-coloured chunar sandstone. The fort houses the Veda Vyasa Temple, a museum, and the king's residential complex.[5] There is also a Dakshin Mukhi temple of Hanuman, which faces towards south.",
+      "essential": "Photography not allowed inside the gallery;do not litter in the premises;chewing tabacoo is not allowed;carry water on hot days",
+      "story": "The museum is known as Saraswati Bhawan. The museum is in what used to be the Durbar Hall or the Public Audience Hall of the fort. It is well known for its unusual and rare collections of American vintage cars, bejeweled sedan chairs, ivory work, medieval costumes, gold and silver brocaded royal Palakis (Palanquins in the shape of a lotus flower). It has elephant saddles carved out of silver, jewellery, costumes made of kimkhwa silk (finest product of the weavers of Varanasi), an impressive armoury hall with swords, old guns from Africa, Burma and Japan.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438518/rb1olpclqfkmdxn4wm0h.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438519/zjc9scgke7lhs99u8iv0.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438520/ydgfssmswc5ildmdy6tr.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/sFzn6641YhY?si=hPDb7HzdEvuSEBzb"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bcd",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Chunar Fort",
+      "distance": "31km from godowlia chowk varanasi",
+      "category": "Historic/Forts",
+      "lat": 25.12336,
+      "lon": 82.87316,
+      "address": "Tammanpatti,(U.P.)231304",
+      "locationLink": "https://maps.app.goo.gl/1zrUK6DdC6PoqCJE7",
+      "openDay": "Monday-Sunday",
+      "openTime": "7:00am-5:00pm",
+      "establishYear": "11th century ",
+      "fee": "free",
+      "description": "The Chunar Fort (also known as Chandrakanta Chunargarh and Charanadri) is located in Mirzapur district of Uttar Pradesh.The fort stands on a rock, a detached part of the Vindhya Range, at an elevation of 280 feet (85 m) above sea level. It was built in a commanding position, high above a meander in the Ganges River, near the Kaimur Hills. The approach to Chunar Hill is marked by a chain of low hills, running parallel to the river on its right bank, which is covered by plantations and bungalows.",
+      "essential": "Wear steardy  shoes;take basic food supplies;refrain from alcohol",
+      "story": "There are many legends linking the fort to divine aspects. One such is the story of King Bali. God, known in these parts as Bawan Bhagwan, appeared before Bali, disguised as a Brahmin, and begged for three feet of land. The generous king agreed. God placed his first step on the hill of Chunar Fort and left his foot mark there. Since then it is known as \"Charanadri\", which over the years took the short form of \"Chunar\".The second legend is king Vikramāditya of Ujjain. His brother Bharthari, who opted to live the life of a hermit, started living near the rockface of Chunar. Realising his brother's situation, Vikramadiathya visited Chunar, and after finding out his brother's whereabouts through the hermit Goraknath, built a house for his brother to live in. The black stone where the saint Bhatinath lived and prayed is worshiped even now, as it is believed that Bhatinath is seated in the fort area in an invisible form.A third legend linked the fort to the well known king of Rajasthan. Prithviraj brought this settlement under his rule and also many neighbouring villages. Subsequent to his demise, his descendants sold the land to Khair-ud-din Subuktagin. An inscription (not very legible) in Sanskrit on the gateway of the fort mentions that the place had been taken over by Swami Raja, who had established a stone tablet recording the event. Later, the fort was acquired by Sahab-ud-din.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438529/apxvljfqfggcit6xeyoe.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438534/oe5zas5bdndkkit7dose.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438536/jfomrcpfogxpwtxcumai.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/z69DgWkt5pc?si=SK4tkzS0cYlURHCy"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bd0",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Rajdari & Devdari Waterfalls",
+      "distance": "62km from godowlia chowk varanasi",
+      "category": "Nature/Waterfall",
+      "lat": 24.9462,
+      "lon": 82.93505,
+      "address": "Chandauli district (U.P.)",
+      "locationLink": "https://maps.app.goo.gl/8oF1kqvDWAenSWmAA",
+      "openDay": "Monday-Sunday",
+      "openTime": "6 :00am–6:00 pm",
+      "establishYear": "natural",
+      "fee": "50rs/300rs(foreign tourists)",
+      "description": "Rajdari and Devdari Waterfalls are among the most prominent tourist attractions in the Chandauli district. Nestled within the scenic Chandraprabha Wildlife Sanctuary—originally established for the conservation of Asiatic lions—these waterfalls offer a stunning display of nature. With water cascading from high rocky cliffs, the beauty of Rajdari and Devdari is truly mesmerizing. Surrounded by serene, mystical landscapes far from the chaos of city life, this destination provides a perfect escape into nature’s tranquility.",
+      "essential": "Take basic food supplies;lack of food spots on route;reach early morning;wear steardy shoes;take a extra pair of clothing;do not go deep in the fall in monsoon seasons;no facilities or accomodation available",
+      "story": "The Rajdari and Devdari waterfalls are found in the Chandraprabha Wildlife Sanctuary. The sanctuary was established to conserve Asiatic lions and though their population has dwindled, there are several species of animals and birds that live here. Apart from the animals and birds, the sanctuary is home to several other attractions, more notably the Rajdari and Devdari waterfalls. The crystal clear waters, gurgling over the rocks present a breathtaking sight. The scenic, tranquil surroundings lend a sense of mysticism to the experience.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438566/aiqokrg3qep90jsz9wrq.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438568/rcio7nzqrmqjicg8qqwr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438569/vmamea9av2dv28xmf0rt.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/TWLBgNhHaeQ?si=lX5ZPi8_t7cuMBzo"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bce",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Markandey Mahadev",
+      "distance": "34km from godowlia chowk varanasi",
+      "category": "Religious/Pilgrimage",
+      "lat": 25.40705,
+      "lon": 82.92371,
+      "address": "Markanday Mahadev Mandir, Kaithi,(U.P.)221116",
+      "locationLink": "https://maps.app.goo.gl/NV63StmbghcvRjgQ9",
+      "openDay": "Monday-Sunday",
+      "openTime": "5:00am-11:00pm",
+      "establishYear": "ancient",
+      "fee": "free",
+      "description": "The temple is situated in Kaithi, a village near Varanasi, and is believed to be the place where Markandeya performed his penance.The temple is considered an important pilgrimage site for devotees of Lord Shiva, who come to seek blessings and experience the spiritual atmosphere. The temple is designed in a traditional North Indian style, with intricate carvings and designs that depict scenes from Hindu mythology.",
+      "essential": "Modest dress code;refrain from any alcohol;remove shoes at temple;follow local guidelines during rituals and bathing at ghats",
+      "story": "The temple's history is intertwined with the story of Rishi Markandeya, who was blessed by Lord Shiva with immortality after he pleased the deity with his intense devotion and prayers. Markandeya, born with a short lifespan, was saved by Shiva from the clutches of Yama (the god of death) at this very spot. Shiva is said to have emerged from the Shiva Linga (the temple's main deity) to protect Markandeya, granting him eternal life and making him forever young.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438544/amujezwtr3cxfbxvfnuk.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438548/h7kvzstm00bcee4fyccy.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438550/at0xy4bw0foxykn640mi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Vph6_wQYN08?si=bbU25upOTHYMTH3D"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bcf",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Lakhaniya Dari Waterfall",
+      "distance": "46km from godowlia chowk varanasi",
+      "category": "Nature/Waterfall",
+      "lat": 24.95862,
+      "lon": 83.00643,
+      "address": "Latifpur, (U.P.)231301",
+      "locationLink": "https://maps.app.goo.gl/cN6cawtPfUTUAjE17",
+      "openDay": "Monday-Sunday",
+      "openTime": "9:00am-5:00pm",
+      "establishYear": "natural",
+      "fee": "5rs",
+      "description": "A short, rugged hike leads to this popular scenic waterfall in a tranquil forest setting.Lakhaniya Dari Waterfall it is located along the Lakhaniya Valley, about 50 kilometres south of Varanasi.The waterfall has a height of 150 metres.This water is famous among trekkers and sports enthusiast",
+      "essential": "Do not go inside the water body until permitted;refrain from carrying any alcohol or cigarettes.;wear steardy shoes ",
+      "story": "Lakhaniya Dari Falls is one stunning water body, set about 30 km from the ancient town of Chunar in the district of Mirzapur, Uttar Pradesh. To witness the waterfall in all its glory, you must visit here during the monsoons. Pouring from a height of 150 m, these falls make for a pretty enchanting sight. The entire region is covered in huge boulders and rocks and rivulets. You can also go explore the town of Chunar, which is known for its pottery tradition and handicrafts.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438555/cqtyzwxe9xgozbgenire.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438559/btzfpllr0tzkziapminu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438561/usmm9rpblksfcy6n3jko.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/1RAP4rpFRLY?si=6JqBgMnLniDOKOHa"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bd1",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Vindhyachal(Maa Vindhyavasini temple)",
+      "distance": "68km from godowlia chowk varanasi",
+      "category": "Religious/Pilgrimage",
+      "lat": 25.31348,
+      "lon": 83.01675,
+      "address": "Vindhyachal Gali, Rajadarwaja, Bulanala, Varanasi, Uttar Pradesh 221001",
+      "locationLink": "https://maps.app.goo.gl/fkafWkP7acssNpFJ9",
+      "openDay": "Monday-Sunday",
+      "openTime": "8:30 am–10:30 pm",
+      "establishYear": "ancient(mythic)",
+      "fee": "free",
+      "description": "It is a renowned religious city dedicated to the goddess Vindhyavasini (daughter of Yashoda-Nanda).The Vindhyavasini Devi Temple is situated 8 km from Mirzapur, on the banks of the holy river Ganga.There are several temples of other deities in the vicinity, the most famous ones being Ashtabhuja Devi Temple and Kalikhoh Temple",
+      "essential": "Modest dress codes;refrain from any alcohol;remove shoes at temples;follow local guidelines during rituals and while bathing at ghats",
+      "story": "The city is a Hindu pilgrimage site having the temple of Vindhyavasini, who according to Markandeya Purana, had incarnated to kill the demon Mahishasura.Vindhyachal Temple, also known as Maa Vindhyavasini Temple and Vindhyachal Dham is one of the Shakti Pitha temples in India.The temple has been mentioned in Durga Saptashati.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438572/jt9mn2rz4hmzqyhdfo3v.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438575/zhwxmxejruftn2vzqifv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438577/t7wcis72rli0me8jrmsz.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/9K-k67RkyD8?si=ncCp_kBw73GIRTxa"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bd2",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Tanda Falls",
+      "distance": "76km from godowlia chowk varanasi",
+      "category": "Scenic Spot/Waterfall",
+      "lat": 25.05786,
+      "lon": 82.51364,
+      "address": "Tanda Fall Rd, Tand, Pagar, (U.P.) 231211",
+      "locationLink": "https://maps.app.goo.gl/Sn3KutN3vR4GAmfs5",
+      "openDay": "Monday-Sunday",
+      "openTime": "8:00am-4:00pm",
+      "establishYear": "1940",
+      "fee": "50rs [50rs (parking)]",
+      "description": "Tanda Falls in Mirzapur is a standout amongst the most picturesque outing spots in the district. The normal water stream and water store are real vacation spots on account of their serene climate and rich magnificence. The waterfall is effortlessly open by street and lies around 14 km south of the fundamental city of Mirzapur.",
+      "essential": "Needs a suv to reach as road is steep and rocky;only good in the monsoon season;take basic food supplies;reach early;wear steardy shoes as terrain is rocky;take a extra pair of clothes ,towels",
+      "story": "A man made fall that was built approximately 90 years ago has risen to be a key spot among tourists in all these years.Tanda Falls in Mirzapur is a standout amongst the most picturesque outing spots in the district. The normal water stream and water store are real vacation spots on account of their serene climate and rich magnificence. The waterfall is effortlessly open by street and lies around 14 km south of the fundamental city of Mirzapur",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438581/gh11lri6r7tqt6oqyj71.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438582/z4w1hhnwh1lcoyzi5htj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438589/pjquw9eikmxr2kgiqday.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/k7UWmX083ec?si=zo-R2xU_JKjb3xpo"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bcc",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Sarnath ",
+      "distance": "13km from godowlia chowk varanasi",
+      "category": "historic city/Pilgrimage",
+      "lat": 25.37294,
+      "lon": 83.00424,
+      "address": "Sarnath Varanasi(U.P.)221007",
+      "locationLink": "https://maps.app.goo.gl/Nw2FEaD6dHDtBuJN7",
+      "openDay": "Monday-Sunday",
+      "openTime": "6:00am-5:00pm",
+      "establishYear": "3rd century BCE",
+      "fee": "250rs(Dhamek Stupa) ,30rs(chaukhandi stupa)",
+      "description": "The name Sarnath is derived from Saranganath that translates as, “Lord of the Deer”Sarnath is one of the eight most important pilgrimage sites for Buddhists, and has been nominated to become a UNESCO World Heritage Site.Sarnath is located eight kilometres (five miles) northeast of Varanasi near the confluence of the Ganges and the Varuna rivers.Sarnath is where Gautama Buddha's sangha first convened, when he gave the first teaching to the Buddha's original five disciples",
+      "essential": "Carry a hat and water during hot days;Maintain silence inside the Stupa;be respectful to the monument and its significance",
+      "story": "It’s the site where Gautama Buddha delivered his first sermon after attaining enlightenment. This event is called the Dhammacakkappavattana Sutta — “Turning the Wheel of Dharma.” After attaining enlightenment under the Bodhi tree in Bodh Gaya, Gautama Buddha traveled to Sarnath (then called Isipatana) in search of the five ascetics (his former companions). Sarnath thus became the birthplace of organized Buddhism.In the 3rd century BCE, Emperor Ashoka visited Sarnath and contributed significantly to its development by constructing the Dhamek Stupa and the Ashokan Pillar, both bearing inscriptions that promoted non-violence and dharma. Between the 5th and 12th centuries CE, Sarnath flourished as a major center of learning, filled with temples and monasteries that attracted scholars and monks from across Asia. However, in the 12th century, the site suffered destruction during the Turkish invasions. It remained in ruins until it was rediscovered by the British in the 19th century, sparking archaeological interest and preservation efforts.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438523/l2dlxllct8vbpktavxec.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438524/hrpopoqdiwprcfpoue1m.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438525/vmzbqhmotsajgn3wv4kn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/1mfqVupHH0E?si=IMC7v-u75hn8QGup"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bd3",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Sitamarhi Temple(Sita Samahit Sthal)",
+      "distance": "84km from godowlia chowk varanasi",
+      "category": "Religious/Pilgrimage",
+      "lat": 25.27296,
+      "lon": 82.25507,
+      "address": "Sitamarhi, Bhadohi,(U.P.)221309",
+      "locationLink": "https://maps.app.goo.gl/vsCk9jNj2qvSJzoG6",
+      "openDay": "Monday-Sunday",
+      "openTime": "5am-12pm,2pm-9pm",
+      "establishYear": "ancient(mythic)",
+      "fee": "free",
+      "description": "Sitamarhi is a historical place of immense significance and is being visited by large number of pilgrims with great faith and devotion. It is one of the five ‘Teerths’ (holy places) in Purvanchal which are Prayagraj, Sitamarhi,Sarnath. Vindhyavasini & Kashiraj, all can be visited within 3 days.This temple is situated on the banks of Ganga river and It is believed that at this place Mother Sita had absorbed herself in the earth.",
+      "essential": "Modest dree codes;refrain from any alcohol;remove shoes at the temple;follow local guidelines during rituals;beaware of monkeys",
+      "story": "Sitamarhi has got immense significance, because it was here that Lord Rama’s wife Maa Sitaji was abandoned, gave birth to Luv & Kush and descended into the lap of Mother Earth forever. The only existing Valmiki Ashram on the banks of the river Ganges is located here .Once the place was visited by Swami Jitendranand Tirth and he had desired that a very magnificent memorial to Sitaji be built here. The Sita Samahit temple stands exactly on the mound where Bhagwati Sitaji descended into Mother Earth. This was built with the kind help of Late Shri. Satya Narain Prakash Punj, New Delhi who was inspired by his mother. Within the campus of the main temple there exists temples of Maa Sita & Lord Shiva. There also stands 108 ft. high statue of Ram Bhakt Hanuman installed on an artificial rock of 20 ft. Under this hillock there is a cave having small temple of Hanumanji",
+      "images": [
+        "https://i0.wp.com/prayagpedia.com/wp-content/uploads/2024/07/410586833_847765840691949_8668328409451795046_n.jpg?w=1080&ssl=1",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438593/u9vmaqbozq8uhoveuwoo.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438597/s34ctx1j0f2wftqzcawi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/gSIm9hP9HwA?si=uEuggGbh3gxV8d1M"
+      ],
+      "premium": "A"
+    },
+    {
+      "_id": "68c7f27e20f4dc4834768bd4",
+      "cityId": "68c7454b4ea2df675385f352",
+      "cityName": "Varanasi",
+      "places": "Shaktipeeth Shivdwar (Shiv Durga Temple)",
+      "distance": "92km from godowlia chowk varanasi",
+      "category": "Religious/Pilgrimage",
+      "lat": 27.41822,
+      "lon": 78.47504,
+      "address": "Sonbhadra, Uttar Pradesh",
+      "locationLink": "https://maps.app.goo.gl/c1BbTLT4Mz1ZxUcr5",
+      "openDay": "Monday-Sunday",
+      "openTime": "6:00am-8:00pm",
+      "establishYear": "ancient(mythic)",
+      "fee": "free",
+      "description": "Shivdwar, officially known as Uma Maheshwar Temple, is located 10 km from Ghorawal in Sonbhadra district, Uttar Pradesh.The specialty of Shivdwar Dham is that it has the idol of Lord Shiva and Mother Parvati and that too together. The 11th century black stone idol of Goddess Parvati is kept in the sanctum  of this temple. This three feet high idol is placed in Srijan Mudra which is a creative posture.This statue is an example of excellent artistry. This temple displays fine examples of craftsmanship and magnificent art of that period",
+      "essential": "Modest dress codes;refrain from any alcohol;remove shoes at temples;follow local guidelines during rituals ",
+      "story": "Shivdwar, also known as Uma Maheshwar Temple, is a Shaktipeeth (a place of Shakti worship) located in Sonbhadra district, Uttar Pradesh, dedicated to Lord Shiva and Goddess Parvati. It is unique because it houses an idol of Shiva and Parvati, where water is offered to the deities rather than the traditional lingam. The templeis a significant pilgrimage site, particularly during the month of Shravan.It is believed that in the fourth decade of the 19th century, while plowing the fields, a village farmer named Moti Mahato found the unique statue of the famous Umamaheshwar in Satdwari village. When the idol was found, everyone considered it a blessing from God. Then this idol was installed by Avinash Kuwari, daughter-in-law of the village’s landlord family, and the temple was constructed. This temple was named Shivdwar.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757438601/fm8req1sntvetjmndoe8.jpg",
+        "https://i0.wp.com/hamarapurvanchal.com/wp-content/uploads/2018/05/shivdwar.jpg?w=1280&ssl=1",
+        "https://i0.wp.com/hamarapurvanchal.com/wp-content/uploads/2018/05/IMG_20180520_135732145-1.jpg?w=1280&ssl=1"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Xj8gh3dNZO8?si=REzdluuHv9DkKbH2"
+      ],
+      "premium": "A"
+    }
+  ]
 }

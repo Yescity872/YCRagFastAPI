@@ -19,7 +19,8 @@
       "publicWashrooms": "Venna Lake Public Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/KwisowYq9RszjD5W8",
       "publicWashroomsLat": 17.9339,
-      "publicWashroomsLon": 73.6704
+      "publicWashroomsLon": 73.6704,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5bb20f4dc4834768c4e",
@@ -40,7 +41,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5bb20f4dc4834768c49",
@@ -61,7 +63,8 @@
       "publicWashrooms": "Public Toilet Pratapgarh",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/kowXpCSwk3AJaZJy6",
       "publicWashroomsLat": 17.9363,
-      "publicWashroomsLon": 73.5781
+      "publicWashroomsLon": 73.5781,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5bb20f4dc4834768c4d",
@@ -82,7 +85,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5bb20f4dc4834768c4c",
@@ -103,7 +107,8 @@
       "publicWashrooms": "BUS STATION PUBLIC TOILET",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/KKAjg4cPpr1nh8Nx8",
       "publicWashroomsLat": 17.9254,
-      "publicWashroomsLon": 73.6566
+      "publicWashroomsLon": 73.6566,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5bb20f4dc4834768c4b",
@@ -124,7 +129,8 @@
       "publicWashrooms": "makharia garden public toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/urhtF5VAYW2ShSA58",
       "publicWashroomsLat": 17.9259,
-      "publicWashroomsLon": 73.6602
+      "publicWashroomsLon": 73.6602,
+      "premium": "FREE"
     }
   ]
 }

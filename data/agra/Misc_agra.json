@@ -20,7 +20,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad2",
@@ -42,7 +43,8 @@
       "publicWashrooms": "public sulabh shochalay ( toilet )",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/DtLFbxqu8heEHVFp8",
       "publicWashroomsLat": 27.6567,
-      "publicWashroomsLon": 78.2314
+      "publicWashroomsLon": 78.2314,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad5",
@@ -64,7 +66,8 @@
       "publicWashrooms": "Automatic Smart Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/JWq7KXyW9TupipYg6",
       "publicWashroomsLat": 27.1799,
-      "publicWashroomsLon": 78.0163
+      "publicWashroomsLon": 78.0163,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768acf",
@@ -86,7 +89,8 @@
       "publicWashrooms": "SBM Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/k5AnkFHBsuA3M1L97",
       "publicWashroomsLat": 27.2168,
-      "publicWashroomsLon": 77.9507
+      "publicWashroomsLon": 77.9507,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad0",
@@ -108,7 +112,8 @@
       "publicWashrooms": "E Toilet Mughal Ki Puliya",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/MsdHamqf4tpSfU6L6",
       "publicWashroomsLat": 27.1608,
-      "publicWashroomsLon": 77.0392
+      "publicWashroomsLon": 77.0392,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad1",
@@ -130,7 +135,8 @@
       "publicWashrooms": "Taj Mahal toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/dyjRtwp6rBHm1Lf1A",
       "publicWashroomsLat": 27.1718,
-      "publicWashroomsLon": 78.0381
+      "publicWashroomsLon": 78.0381,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad3",
@@ -152,7 +158,8 @@
       "publicWashrooms": "Deluxe Toilet",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/dvkcroN3Wzbp5gf39",
       "publicWashroomsLat": 27.6603,
-      "publicWashroomsLon": 77.2255
+      "publicWashroomsLon": 77.2255,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad4",
@@ -174,7 +181,8 @@
       "publicWashrooms": "public toilet -shochalaya",
       "publicWashroomsLocationLink": "https://maps.app.goo.gl/aqpdCsM8UF8S3y8T6",
       "publicWashroomsLat": 27.1703,
-      "publicWashroomsLon": 78.0095
+      "publicWashroomsLon": 78.0095,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad7",
@@ -196,7 +204,8 @@
       "publicWashrooms": null,
       "publicWashroomsLocationLink": null,
       "publicWashroomsLat": null,
-      "publicWashroomsLon": null
+      "publicWashroomsLon": null,
+      "premium": "FREE"
     }
   ]
 }

@@ -1,0 +1,3497 @@
+{
+  "accommodation": [
+    {
+      "_id": "68c7f5f720f4dc4834768c6a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hotel Mahadev Rishikesh",
+      "lat": 30.073,
+      "lon": 78.253,
+      "address": "Karnprayag - Haridwar Rd, Malviya Nagar, IDPL Colony, Rishikesh, Uttarakhand 249203",
+      "locationLink": "https://maps.app.goo.gl/TPgdZ3YxTjqr65zQ9",
+      "category": "Mid-range, 3-star hotel",
+      "roomTypes": "Standard Room, Deluxe Room; Prices start from approx. ₹1615 - ₹1713 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Jungle Safari, Bonfire, Indoor Games, Coffee Shop, Smoking Rooms, Photocopying, Seating Area, Outdoor Furniture, Verandah, Lounge, Reception, Balcony/Terrace, Bonfire Pit, Professional Photography, Security Guard, Music System, Sitout Area, Kid's Menu, Terrace The Rooftop Cafe (Veg & Non-Veg), Hairdryer, Dental Kit, Work Desk",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153425/lod3yy6o6hqjhf7myil1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153426/fp4rkf1qvlimzwdlwmts.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153427/kiubyjfq7hg8xs55dwcl.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": true,
+      "hotels": "Terrakotta Rishikesh",
+      "lat": 30.13,
+      "lon": 78.328,
+      "address": "Laxman Jhula Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/mEwujCvkjmawEeTB8",
+      "category": "Boutique",
+      "roomTypes": "Average price approx. ₹3,666 per night",
+      "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Yoga Hall, Internet services, Buffet Breakfast, Room Service, Air-conditioned rooms, Daily housekeeping, 247 Security, CCTV, Photocopy/fax, 247 Front Desk, Free car parking",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153432/pimdasklemrf0j1coaby.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153433/qovponelfoh4kpauhwtb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153435/ntu3crhb8lkrtkeks3jd.jpg"
+      ],
+      "premium": "A",
+      "__v": 4
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c70",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Punyah Residency Rishikesh",
+      "lat": 30.129,
+      "lon": 78.328,
+      "address": "Divine Ganga Cottage, near, Laxman Jhula, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/EhLdLoGnxSaH7vtR8",
+      "category": "Boutique",
+      "roomTypes": "Premium Room, Superior Double Room With Mountain View; Price approx. ₹2,891 + taxes per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Yoga Shala, 24-hour security, Air conditioning, CCTV, Commercial shops, Doctor on call, Elevator, Fire safety, Housekeeping, Intercom, Laundry service, Locker room, Newspaper, Smoke detector, Bike rental",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153452/rberjbstwwnfihh2ppsv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153453/bjxqfs3gb2fyk8ivieom.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153454/sopgfm7hlfka09dimvzv.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c74",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": true,
+      "hotels": "Anand Kashi by the Ganges",
+      "lat": 30.107,
+      "lon": 78.438,
+      "address": "Near 23rd Milestone, Badrinath Rd, Gular Dogi, Rishikesh, Uttarakhand 249303",
+      "locationLink": "https://maps.app.goo.gl/HrZXhYWGE4b8hpGW7",
+      "category": "Heritage",
+      "roomTypes": "Superior Room, Luxury Suite (River View, Tent), Deluxe Room (River View), Suite (Seleqtions Ganges); Prices start from approx. ₹38,000 - ₹44,794 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Woodsy Beach, Riverside Restaurant, Cultural and spiritual experiences (Aarti, stargazing), Rejuvenating spa treatments, Outdoor Pool, 24-hour Fitness Center, Private Beach Access, 24-Hour Room Service, Lounge, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153472/lvn3s3ret20xcz10s0ei.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153473/qchhrgjmkohuwy7beztp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153474/jclml3ltux8okijagmjo.jpg"
+      ],
+      "premium": "A",
+      "__v": 1
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "ArtBuzz Rishikesh",
+      "lat": 30.128,
+      "lon": 78.325,
+      "address": "Gopal Nagar, near Anand Dham, Tapovan, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/kK93XgJFoM8dj1y39",
+      "category": "Mid-range, Hostel",
+      "roomTypes": "2 Beds in a Dorm, Private Rooms; Prices start from approx. ₹1068 per night (bunk bed)",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Housekeeping, Dining Area, Cafe, Fire Extinguishers, Luggage Storage, Air Conditioning, Elevator/Lift, Laundry Service, Drinking Water, Play Zone, Book Reading Area",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153428/gsooqsngjkao4mpnkkww.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153429/algxxdm0z199cpusviw6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153430/rn2lhhnjwwt6juziibdq.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 4
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hotel Ishan – A Riverside Retreat",
+      "lat": 30.126,
+      "lon": 78.329,
+      "address": "Lakshman Jhula, chowk, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/xgSK5qwYPoyYNxqh9",
+      "category": "Riverside, Art Deco Hotel",
+      "roomTypes": "Standard Room, Executive Room, Double Room; Average price approx. ₹6,386 - ₹7,906 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Yoga, Rooftop Terrace, 24-hour front desk, Snack bar/deli, Free self parking, Conference center, Business center, Meeting room, Air-conditioned accommodations, Fireplaces, Complimentary newspapers, Satellite channels, Showers, Housekeeping, Laundry facilities, Safe, Currency exchange, Disabled access, Refrigerator, Room service",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153445/jxmtzzyqumgftlsalb7g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153447/zvhimlauxhfjak9iw9jy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153448/joyyd5epnc3dzhmf4wld.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c73",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Mahadev Resort & Cafe",
+      "lat": 30.132,
+      "lon": 78.323,
+      "address": "Deccan Valley Apts, Near, NH58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/Zd12FeMABh1H5s2Z9",
+      "category": "Boutique, 3-star Hotel",
+      "roomTypes": "Mountain View, 2 Double Beds; Prices start from approx. ₹2,343 per night",
+      "facilities": "Parking, Wi‑Fi, Bar, Restaurant, Pool (unconfirmed by direct search), Free Wi-Fi, Smoking Rooms, Reception, Work Desk, Air Conditioning, 24-hour Room Service, Laundry Service, Smoke Detector, Toiletries, Mineral Water, Fire Extinguishers, 24-hour front desk, Self-serve laundry, Luggage storage, Tour/ticket assistance, Private bathroom, Daily housekeeping, Cooked-to-order breakfast, Pet friendly, Valet parking",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/t8ev1xks1spncjdfu2cr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153469/tuolfca7wbtqkjkbylhq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153471/zamff50l8o02qte7uw87.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c76",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Ananda In The Himalayas",
+      "lat": 30.158,
+      "lon": 78.291,
+      "address": "The Palace Estate, Narendra Nagar, Uttarakhand 249175",
+      "locationLink": "https://maps.app.goo.gl/7E8choLDK3FwbB3y6",
+      "category": "Ultra-luxury spa resort, Mountain spa retreat",
+      "roomTypes": "Rooms and Suites with Ganges valley views; specific room types not explicitly detailed with prices in snippets",
+      "facilities": "Parking, Pool, Spa, Restaurant, Yoga, Ayurveda, Hammam, Dining, Bar, Golf course, Billiards, Library, Shuttle Service, Doctor on call, Wi-Fi, Conference room, Power backup, Laundry Service, Meditation, Business Centre, Luggage assistance, CCTV, Fire extinguishers",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153482/vzaa84dcr2qhcr9ksmh5.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153483/bzqhm56roknr0geadcvt.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153485/b9i6s6sr6ykipkjkarmu.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Seventh Heaven Inn",
+      "lat": 30.13,
+      "lon": 78.326,
+      "address": "Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/VLTLRLUA5LwEiW1R7",
+      "category": "Plush, Guesthouse",
+      "roomTypes": "Standard Room (₹2500-₹3000), Deluxe Room (₹3000-₹3500), Superior Deluxe Room (₹3500-₹4000)",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Cafe, Yoga Studio, Rooftop Terrace, Mountain Views",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153437/uweoa2qadmuart1csqq1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153438/kvccjdf2aqa1w90m5yar.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153439/fy0ry0ugugybtsklsorb.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c75",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Taj Rishikesh Resort & Spa",
+      "lat": 30.058,
+      "lon": 78.482,
+      "address": "Singthali, near Pebble Beach, Byasi, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/6GQrDzbRTYWVRA7r5",
+      "category": "Luxury Resort",
+      "roomTypes": "Villas with King-sized bed, lounge chairs, sofa, outdoor seating; Prices start at approx. INR 36,000 per night",
+      "facilities": "Parking, Pool, Spa, Gym, Restaurant, Yoga, Bar, Wellness facility (J Wellness Circle), Riverside dining, Nature walks, Wake-up Call, Concierge, Facilities for Guests with Disabilities, Luggage Storage, Wheelchair, Bellboy Service, Doctor on Call",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153477/lslsxa4xkvfoakvq0jau.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153479/j1e2zjr6xhbawv7vhsgs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153480/da93mp0zj0ljso6fyvet.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c6e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Vyom Boutique Hotel",
+      "lat": 30.131,
+      "lon": 78.326,
+      "address": "NH 58, Badrinath Rd, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/revfLay9VhhEUh1r5",
+      "category": "Boutique",
+      "roomTypes": "Price approx. $35 + taxes & fees per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Swimming Pool, Jungle Safari, Bonfire, Rooftop Pool",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153441/iz8q5xglti19newm0d18.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153443/eefvwhfbtucjkgqoafqo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153444/shmtzkoosipo0fnhe12l.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c71",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Rêveries Luxury Hotel",
+      "lat": 30.127,
+      "lon": 78.32,
+      "address": "Badrinath Rd, opposite Kriya Yoga Ashram, Tapovan, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/a4K1Lhfb9D3zDoBW7",
+      "category": "Boutique, Luxury Hotel",
+      "roomTypes": "Double Bed, Room With Free Cancellation; Price starts at approx. INR 6,110 per night",
+      "facilities": "Parking, Wi‑Fi, Restaurant, Spa, Tours",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153458/zpcou22xlgbobuxogphu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153459/fie7dj6usnoiract5w02.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153460/wb3hbquwrjbz0ja8toxm.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 1
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c72",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "hotels": "Hill Top Swiss Cottage",
+      "lat": 30.128,
+      "lon": 78.318,
+      "address": "High Bank Bhirkhet, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/FfjN9iLRJa8EdSdN8",
+      "category": "Cozy Chalet, Boutique Guesthouse",
+      "roomTypes": "Deluxe Single Room, Deluxe Double Room, Spectacular Double Sky Room, Spectacular Sky Single Room; Prices range approx. ₹1,463 - ₹2,786 per night",
+      "facilities": "Parking, Wi‑Fi, Spa, Restaurant, Gym, Bonfire, Indoor Games, Yoga, Iron/Ironing Board, Smoking Room, Bathroom, In-room Dining, Housekeeping, Laundry Service, Air Conditioning, Mineral Water, Room Service, Heater, Closet, Mini Fridge, Chair, Work Desk, Blackout Curtains, Dining Table, Charging Points, Woollen Blanket, TV, Refrigerator, Hairdryer, Dental Kit, Geyser/Water Heater, Toiletries, Hot & Cold Water, Ceiling Fan, Balcony, Kettle, Safety & Security, Car rental, Dry cleaning, Waiting area, Concierge, Ayurveda Clinic",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153464/qy0afx1a9flivgivrpbw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/j8jziaiqaqrm2hej7pd1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153466/mjgw1e03hnhcdfhcbsef.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "activity": [
+    {
+      "_id": "68c7f5f820f4dc4834768ca3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Visit Laxman Jhula, Ram Jhula & Temples",
+      "bestPlaces": "Laxman Jhula, Ram Jhula, Trimbakeshwar Temple, Bharat Mandir, Kunjapuri Temple",
+      "description": "Cross the iconic suspension bridges that connect ashrams and markets across the Ganges. Laxman Jhula is steeped in legend, believed to be crossed by Laxman. The temples nearby offer a rich blend of spiritual and historical significance.",
+      "essentials": [
+        "Best to visit early morning. Remove shoes before entering temples. Be cautious of monkeys near the bridges. Carry water and avoid littering."
+      ],
+      "fee": "Free (temples may accept ₹10–₹50 as donation)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153713/apttx2ja71hzvdvxxilb.jpg"
+      ],
+      "videos": [
+        "www.youtube.com/embed/Q_Yv0y009NU?si=qnL3IdR3zx98QqWS"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Riverside Camping & Bonfire",
+      "bestPlaces": "Shivpuri, Marine Drive, Byasi",
+      "description": "Stay in tented camps by the Ganges and enjoy bonfires, music, and outdoor activities. Most packages include meals, rafting, and hiking. It’s an offbeat way to enjoy Rishikesh’s natural beauty.",
+      "essentials": [
+        "Book through reputed operators. Carry warm clothes for night, flashlight, insect repellent, and basic toiletries. Don’t swim without a guide."
+      ],
+      "fee": "₹1000–₹2500 per person (includes camping, meals, and activities)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153714/lmgjk9dcd4iqxwymhjpc.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/O2unLAunpSM?si=FBpCtfCNnZYX2w1T"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Ayurvedic Massage and wellness",
+      "bestPlaces": "Swastha Yoga, Ayuskama Ayurveda, Ananda in the Himalayas (premium), Tapovan area",
+      "description": "Unwind with traditional Ayurvedic massages like Abhyanga, Shirodhara, or herbal steam baths. Ideal for relieving stress or post-adventure recovery. Some centers offer detox packages too.",
+      "essentials": [
+        "Book appointments in advance. Arrive early and mention any health issues. Don’t eat heavy meals just before therapy. Carry a fresh towel or use the clinic’s."
+      ],
+      "fee": "₹600–₹1500 per session (depending on type and location)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153715/y6wieq7kosegjwvids5y.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/dkqUPPreQVo?si=cFTjoaNcvONhJrJw"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Evening Ganga Aarti Ceremony",
+      "bestPlaces": "Parmarth Niketan Ghat (serene and spiritual), Triveni Ghat (largest and most attended)",
+      "description": "Every evening at sunset, Rishikesh’s riverbanks come alive with the Ganga Aarti ritual. The most famous venue is Parmarth Niketan Ashram’s Ghats, where priests (and often schoolchildren) perform a fire-and-lamp ceremony accompanied by hymns. Devotees and visitors offer lamps to the river, and the glowing diya (oil lamp) waving to the current is a mesmerizing sight.",
+      "essentials": [
+        "Arrive ~30 min before sunset to get a good spot. Sit quietly, join in clapping or singing if you like. Respect local customs—women often wear a shawl, and photographers should not flash lights at the ceremony. You can float a small lamp into the Ganges (many ashrams sell them)."
+      ],
+      "fee": "Free (optional diya purchase ₹20–₹50)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153706/bsfzghn1jc3wjmray4tb.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/_Sj-tf26TcY?si=jH-C7WOGN69mAqoP"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Yoga & Meditation at Ashrams",
+      "bestPlaces": "Parmarth Niketan, Sivananda Ashram, Anand Prakash Ashram (Tapovan)",
+      "description": "Known as the “Yoga Capital of the World,” Rishikesh has dozens of ashrams and schools where visitors can practice yoga, pranayama and meditation daily. Leading centers offer drop-in classes, multi-day retreats and even 200‑hour YTT (teacher training) courses. Classes may be gentle Hatha or Vinyasa flow, mantra chanting, kirtan or guided meditation – all set against the tranquil Ganges.",
+      "essentials": [
+        "Wear comfortable, modest activewear. Morning (sunrise) and evening sessions are most popular. Bring a yoga mat or towel (many ashrams provide mats, but having your own is handy). Ashrams are generally alcohol‑free and promote vegetarian diet; observing silence in certain areas is appreciated."
+      ],
+      "fee": "Drop-in classes: free to ₹500. Retreats: ₹5000–₹15000+ depending on the duration and ashram.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153705/vn78hxdqfbeuscmw25v0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Rv1O8NyGG3I?si=VUCI53s66raxs9wV"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "White Water Rafting on the Ganges",
+      "bestPlaces": "Shivpuri → Rishikesh (16 km), Brahmpuri (9 km), Marine Drive (26 km), Kaudiyala (35 km)",
+      "description": "Rishikesh is world-famous for Ganges river rafting. Sections range from gentle (Grade I–II) to extreme (Grade III–IV) rapids. Popular stretches include Brahmpuri–Rishikesh (9 km, Grade I) for beginners and Shivpuri–Rishikesh (16 km, Grade I–II) for families. Thrill-seekers often opt for Kaudiyala (35 km, Grade III–IV), which packs intense rapids (like “The Wall”) into a half-day trip. All rafting tours include life jackets and helmets; guides instruct novices before launching.",
+      "essentials": [
+        "The rafting season runs roughly September–June (peak October–April). Wear a swimsuit/quick-dry clothes and old sports shoes. Pack sunscreen, a hat, sunglasses with a strap, and a waterproof pouch for valuables. Bring a change of dry clothes and towel for afterwards. Only swim if instructed by guides—the Ganges current is deceptively strong."
+      ],
+      "fee": "₹600–₹2500 per person depending on the distance and operator. Includes guide, safety gear, and sometimes transport.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153703/kowx9offu0w2mgf2z5jw.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/fNpEGJV5v-Q?si=AaaU0w8-N-eybWHv"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Explore Beatles Ashram (Chaurasi Kutia)",
+      "bestPlaces": "Inside Rajaji Reserve, near Ram Jhula",
+      "description": "The abandoned Maharishi Mahesh Yogi ashram – now popularly called the Beatles Ashram – is a cultural-historic site. Famous for hosting the Beatles in 1968, its overgrown ruins are decorated with colorful murals and graffiti inspired by their visit. Highlights include the old meditation caves and satsang hall. The atmosphere is both haunting and inspiring.",
+      "essentials": [
+        "The ashram is ~6 km from Laxman Jhula. Walk or rent a scooter to reach it through a forested path. Entry fee is modest. Carry water, insect repellent and a sunhat. The terrain is uneven – wear sturdy shoes. There are no facilities on site (no shops/water), so plan accordingly."
+      ],
+      "fee": "₹150 for Indians, ₹600 for foreigners",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153708/k8zbxzh5ctxmac0gilfd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zvxtCpb73Bg?si=y5q0g4H4MSB1wTM1"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Bungee Jumping & Giant Swing",
+      "bestPlaces": "Jumpin Heights, Mohanchatti (15 km from Rishikesh)",
+      "description": "For the ultimate adrenaline rush, head to Jumpin Heights. This is India’s highest fixed‑platform bungee site (83 meters). Leaping into the void from a rocky cliff is an unforgettable thrill. There are also a 270‑ft Giant Swing and Flying Fox zipline.",
+      "essentials": [
+        "Minimum age is 12 (with consent) and weight limits apply (40–110 kg). A safety briefing is mandatory. Do not attempt if you have heart problems, high blood pressure, recent injuries or other major medical issues. Wear comfortable clothes that won’t entangle; remove loose items beforehand. Early morning jumps mean shorter waits."
+      ],
+      "fee": "₹3700 per activity (Bungee or Swing), Zipline: ₹2000–₹3500, Transport from city: ₹500 (optional)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153709/l340qsclprmtthzonibf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Y756Qzxpq1U?si=E5tvbxTesa2TwmAv"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Trekking to Neer Garh Waterfall & Neelkanth Temple",
+      "bestPlaces": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
+      "description": "Neer Garh Falls is a forest trail ending in blue waterfall pools, good for swimming and a short nature trek. Neelkanth Temple is a sacred pilgrimage spot with scenic forest paths and mythological significance as the place where Shiva drank poison during Samudra Manthan.",
+      "essentials": [
+        "Wear trekking shoes. Carry water, snacks, mosquito repellent. Early start recommended. Dress modestly when visiting temples."
+      ],
+      "fee": "Neer Garh: ₹30 entry,Neelkanth: Free entry (donations welcome)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153711/wp1fzlvk9grsbnh9chy0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/m41FahMG7jE?si=PzUs0QUJuEX7tXkl"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "topActivities": "Kayaking & Canyoning",
+      "bestPlaces": "Shivpuri, Kaudiyala (kayaking), Mohanchatti (canyoning)",
+      "description": "Try solo or guided kayaking on the Ganges, or canyoning which includes waterfall rappelling, sliding down rocks, and swimming. It’s a raw adventure perfect for outdoor lovers.",
+      "essentials": [
+        "Must know basic swimming. Wear grip shoes and follow your guide strictly. Avoid monsoon season for canyoning."
+      ],
+      "fee": "Kayaking: ₹1500–₹2500,Canyoning: ₹3500–₹4500",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153718/auqgzzyxramsm7gzje6u.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/s-0VT_2sTXM?si=uSbsj-yj5YamLgf1"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "cityinfo": [
+    {
+      "_id": "68c7f5f720f4dc4834768c52",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "stateOrUT": "Uttarakhand",
+      "alternateNames": [
+        "Hrishikesh",
+        "Kubjamrak"
+      ],
+      "languagesSpoken": [
+        "Hindi",
+        "Garhwali"
+      ],
+      "climateInfo": "It has a humid subtropical climate with hot summers, heavy monsoon rains and mild winters. ",
+      "bestTimeToVisit": "October to March (Winter Season) – Especially November to February. Reason: Pleasant and cool weather, ideal for river rafting, yoga, and sightseeing; perfect for Ganga Aarti at Triveni Ghat, sunrise views, adventure sports, and festivals like International Yoga Festival, Mahashivratri, and Basant Panchami",
+      "cityHistory": "It is associated with Ram. According to legend, hare he came on the advice of sage Vasishtha to do penance for killing Ravana. the king of Lanka. There are scores of ancient temples and ashrams affording spiritual solace to pilgrims, the important among them being temple of Bharata Pushkar temple, Shatrughan temple, Lahkhsmana temple, Geeta Bhawan and the Punjab Kshetra. Rishikesh, also known as the “place of sagas” is a spiritual town situated 24 kms upstream from Haridwar, at the confluence of the Chandrabhaga and Ganga. It is believed that God by the name of “Hrishikesh” had appeared as an answer to the hard penances by Rabhiya Rishi and henceforth the place derived its name. It is the starting point for the Char Dham pilgrimage and an ideal destination not only for pilgrims but also for the people who are interested in medtation, yoga and other aspects of Hinduism. For the adventure seekers, Rishikesh is the suggested place for starting their trekking expeditions to the Himalayan peaks and for rafting. Also, International Yoga week which attracts participation from across the world, is held here, every year, in February on the banks of the Ganga.",
+      "coverImage": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153418/ggy0tszkubp2srfurvzj.jpg",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "connectivity": [
+    {
+      "_id": "68c7f5f720f4dc4834768c5b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Ahmedabad to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c60",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "13009 DOON EXPRESS[Howrah to Yog Nagari Rishikesh]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c68",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Haridwar to Rishikesh",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c54",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": "Jolly Grant Airport",
+      "distance": "35km from  Indermani Badoni Chowk ( natraj chowk) (City centre) ",
+      "lat": 30.1951,
+      "lon": 77.9037,
+      "locationLink": "https://maps.app.goo.gl/BjhQrkCpp4KomVTn9",
+      "majorFlightsTrainsBuses": "Delhi to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c56",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": "Rishikesh New Railway Station",
+      "distance": "700m from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 30.1094,
+      "lon": 78.26,
+      "locationLink": "https://maps.app.goo.gl/Sgxp5aZt1qh7p3Mg6",
+      "majorFlightsTrainsBuses": "Hyderabad to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c58",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": "Rishikesh Bus Station",
+      "distance": "1.3km from Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 30.1094,
+      "lon": 78.2309,
+      "locationLink": "https://maps.app.goo.gl/qqDWCyJMw79qjf3w8",
+      "majorFlightsTrainsBuses": "Jaipur to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c59",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Chandigarh to Rishikesh flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c5c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "12017 DDN SHTBDI EXP[NDLS to Dehradun Train Station]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c5e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "12055 DDN JANSHTBDI[NDLS to Dehradun Train Station]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c63",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "13151 KOAA JAT EXPRES[Kolkata to Jammu Tawi]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c65",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Jaipur to Rishikesh ",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c67",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Lucknow to Rishikesh",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c57",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": "Yog Nagri Rishikesh Railway Station",
+      "distance": "200m from  Indermani Badoni Chowk ( natraj chowk) (City centre)",
+      "lat": 30.1093,
+      "lon": 78.2618,
+      "locationLink": "https://maps.app.goo.gl/MQVfKL47uoo49NeT9",
+      "majorFlightsTrainsBuses": "Bengaluru to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c5a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Kolkata to Rishikesh flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c5d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "12038 SIDDHABALI J SH[Delhi Junction to Kotdwar]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c5f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "12401 KOTA DDN AC EXP[Kota Junction to Degradun Train Station]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c61",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "14609 HEMKUNT EXPRESS[Katra to Yog Nagari Rishikesh]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c55",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": "Rishikesh Railway Station",
+      "distance": "1km from  Indermani Badoni Chowk ( natraj chowk ) (City centre) ",
+      "lat": 30.1076,
+      "lon": 78.2699,
+      "locationLink": "https://maps.app.goo.gl/LaS4ghYzKJmMZThm9",
+      "majorFlightsTrainsBuses": "Mumbai to Rishikesh by flight",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c62",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "14610 HEMKUNT EXPRESS[Katra to Yog Nagari Rishikesh]",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c64",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Delhi to Rishikesh ",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c66",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "nearestAirportStationBusStand": null,
+      "distance": null,
+      "lat": null,
+      "lon": null,
+      "locationLink": null,
+      "majorFlightsTrainsBuses": "Buses from Agra to Rishikesh",
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "food": [
+    {
+      "_id": "68c7f5f820f4dc4834768c8b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Gita Bhawan Canteen",
+      "lat": 30.1207,
+      "lon": 78.3127,
+      "address": "Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/ZmedtZfYBpXuEoTM7",
+      "category": "Ashram Canteen/Budget",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.5,
+      "service": 3.8,
+      "taste": 3.8,
+      "hygiene": 4,
+      "menuSpecial": "Rice, sabzi, chapati thali",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153582/d8uzirzyaty5g3hl5hq7.jpg",
+      "openDay": "All days",
+      "openTime": "10 AM–8 PM",
+      "phone": null,
+      "website": null,
+      "description": "Simple, sattvic meals inside the ashram, affordable and peaceful.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153582/wwp8xtzenxat8icnzhnl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153583/jwo3dymhrpf4uljp18bi.jpg",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153584/ligd0gmqw09wsbmqmzp7.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/nGJeoqe4Ezs?si=YX1GWbgfI65e34iQ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c8f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Pappu Lassi Wala",
+      "lat": 30.1052,
+      "lon": 78.3002,
+      "address": "Main Bazar Rd, Mayakund, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/2VTrGQ1TLWvawjYA9",
+      "category": "Street Drink Stall",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.6,
+      "service": 3.5,
+      "taste": 4.5,
+      "hygiene": 4,
+      "menuSpecial": "Lassi (sweet/salty/flavored)",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153609/n0n2inevk4g2qkqercuu.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–9:30 PM",
+      "phone": "9837024423",
+      "website": null,
+      "description": "Beloved local lassi stall famous among both tourists and locals.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153610/yqvgtstfytmgv8twvin4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153611/hw9fiy6eutozykunodws.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153613/zvqvhhsz6mihhoy4u6lp.jpg",
+        "*"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Clpa5iKbzIk?si=2B3lZcQfhDra1HB3"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c90",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "The 60’s Cafe",
+      "lat": 30.131,
+      "lon": 78.3238,
+      "address": "Ground Floor, 60s Green Hills Badrinath Road, Tapovan, Laxman Jhula, Sarai, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/vFw7VUp6vciRckCPA",
+      "category": "Themed Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 4,
+      "menuSpecial": "Falafel wraps, smoothies",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153618/cp7appcgtihqu8w5epp6.jpg",
+      "openDay": "All days",
+      "openTime": "9 AM–10 PM",
+      "phone": "8979800995",
+      "website": "https://the60s.life/",
+      "description": "Beatles‑themed, retro-style café with clean ambiance.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153619/msuvysvsu1geqqb7rh7n.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153620/sogyhum3iujjv38yhynn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153621/uquwdpiktzsfan3xxobe.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/B5yEsDKBLgY?si=XJYU33ALiqHrEI89"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c97",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Ira’s Kitchen & Tea Room",
+      "lat": 30.1302,
+      "lon": 78.3228,
+      "address": "Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/5qv3o2wcjgz7GuZB7",
+      "category": "Café/Tea House",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.3,
+      "service": 4.4,
+      "taste": 4.3,
+      "hygiene": 4.3,
+      "menuSpecial": "Homemade snacks, teas, light meals",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153667/epd9uua3yxn51jyrqfw0.jpg",
+      "openDay": "All days",
+      "openTime": "6:30 AM–6 PM",
+      "phone": "9058621247",
+      "website": null,
+      "description": "Cozy tea room offering homemade-style food and relaxing atmosphere.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153668/q6idqwujen4buf4o3cjn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153669/sggjuduczdsntrg5veb8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153672/cowp5m9cjejjm3z2ujj6.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/IS5LVHFoP28?si=56JRvQlpg38RiSrZ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Sanskriti Cafe",
+      "lat": 30.1236,
+      "lon": 78.3124,
+      "address": "Yatri Niwas, Ram Jhula, Muni Ki Reti, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/3BdqMhX859zur34k6",
+      "category": "Cultural Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.2,
+      "service": 4.2,
+      "taste": 4.3,
+      "hygiene": 4.2,
+      "menuSpecial": "Indian snacks, fusion desserts",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153697/qmobu5baro0dttai3pki.jpg",
+      "openDay": "All days",
+      "openTime": "7 AM–9 PM",
+      "phone": "7060449920",
+      "website": "https://sanskritivedicretreat.com/",
+      "description": "Café with cultural décor and focus on art/music and clean offerings.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153700/jpg1jn527bnni5z8bgxb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153701/pwgd56dpouvu1xxsaid4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153702/yebyprqdrux7p8dbesp4.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wuMP5I0xZjU?si=x20tw9V0T_I3Lm31"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c92",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Tattv Cafe",
+      "lat": 30.1279,
+      "lon": 78.3223,
+      "address": "Tapovan, Rishikesh, Jonk, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/xaTHrrnd5fPpWSv77",
+      "category": "Garden Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.1,
+      "service": 4.1,
+      "taste": 4.3,
+      "hygiene": 4.2,
+      "menuSpecial": "Healthy bowls, herbal teas, salads",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153634/uefgjfsxe5sboqxid62q.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–10 PM",
+      "phone": null,
+      "website": null,
+      "description": "Garden-style café with focus on healthy, nutritious meals.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153635/toqolbvknwdh101b6nmb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153636/kxkmcjmq4trosgyp1n2h.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153637/oigpt1qxemynyterwxdh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Cxz2p5Kjj-w?si=6Yxb1yETq-ChqfRS"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c94",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Little Buddha Cafe",
+      "lat": 30.1237,
+      "lon": 78.3291,
+      "address": "Laxman Jhula Road, Lakshman Jhula, near Little Buddha Cafe, Rishikesh, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/sDzb3287SbLrZSZ27",
+      "category": "Riverside Cafe",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.8,
+      "service": 3.5,
+      "taste": 4,
+      "hygiene": 3.8,
+      "menuSpecial": "Wood-fired pizza, breakfast options",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153647/cuszm1oqvr4rtfj3jnb4.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–11 PM",
+      "phone": "7500758873",
+      "website": null,
+      "description": "Boho-style café with river views and global menu.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153648/j7otfzlpkqou1hpqqy7m.jpg",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153649/refrapp5g2djp6gqrhii.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153650/orecztslf9ycrfrauz6i.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/XHhYxOZIqlQ?si=Rjw0_vpxFEZZ0tb7"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c95",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Jal & Jalebi by Ganges",
+      "lat": 30.0925,
+      "lon": 78.289,
+      "address": "Barrage Road, c/o Hotel Ganga Kinare, 237, Virbhadra Rd, near AIIMS, Sturida Colony, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/Nu4saDd7Byob1Fkw9",
+      "category": "Fine Dining Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.3,
+      "service": 4.6,
+      "taste": 4.6,
+      "hygiene": 4.6,
+      "menuSpecial": "Jalebi‑rabri, vegan sushi",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153653/cma3lpln8qlzorvbab4d.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–10 PM",
+      "phone": "7302000752",
+      "website": null,
+      "description": "Riverside fine dining blending traditional and modern fusion cuisines.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153654/bdgm0wqhyawmelooat3e.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153656/e9jxufab60aw0ntuudyz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153657/wfakdox1l9c53lskiela.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FzlZV15YoZc?si=2ywtF9hIQImEKfqW"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c98",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Honey Hut Cafe",
+      "lat": 30.1202,
+      "lon": 78.3123,
+      "address": "Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/LFy49BLtNUC51ptZA",
+      "category": "Café/Multicuisine",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.2,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 4.1,
+      "menuSpecial": "Honey-based desserts, coffees",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153675/eq4yf9mi9krnvcmtks6z.png",
+      "openDay": "All days",
+      "openTime": "8 AM–10 PM",
+      "phone": "9997486677",
+      "website": "https://www.honeyhut.in/",
+      "description": "Small café offering honey desserts, healthy drinks, sweets.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153678/vhign5wlwg1b2xmr1ew1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153679/ecyygrpsn6oczozagrxb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153680/vobpjmbuou37kgjltrws.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jVeRbPVpr5s?si=WHIJNSzvQ5ccCDsQ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c8c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Chai Chatram ",
+      "lat": 30.1219,
+      "lon": 78.3142,
+      "address": "Nai Dharamshala, Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/vtsZ849Ko4MjNUVo7",
+      "category": "Tea/Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.3,
+      "service": 4,
+      "taste": 4.2,
+      "hygiene": 4,
+      "menuSpecial": "Teas, milkshakes, sandwiches, street food",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153587/rstcsbdv4nhslvxeellm.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–10 PM",
+      "phone": "9368507574",
+      "website": null,
+      "description": "Popular pocket café for tea, shakes & light snacks.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153588/lfuulocvfraywvcw1pig.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153589/adexwm0rdjypyo53nzqy.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153591/w5zis1kvpgvvz3e2hryo.jpg"
+      ],
+      "videos": [],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c8d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Shambala Cafe",
+      "lat": 30.1268,
+      "lon": 78.3261,
+      "address": "Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/RGo55ngLjZbkxNqf7",
+      "category": "Riverside Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.5,
+      "taste": 3.7,
+      "hygiene": 3.8,
+      "menuSpecial": "Falafel, juices, western‑Indian fusion",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153593/nyoj7ejclrp82teglicn.jpg",
+      "openDay": "All days",
+      "openTime": "10:30 AM–10 PM",
+      "phone": "9837628348",
+      "website": null,
+      "description": "Bohemian riverside café with great views but inconsistent food/service.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153595/wtrbv7f2q5exzakyhbxf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153596/daxuouxyddgiuhlx61dd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153597/crlyfkfstgc4kxbf7vmm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/BQyTZb7PN1k?si=SSDbG_P6UYIAOTyt"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c8e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Chotiwala Restaurant",
+      "lat": 30.1218,
+      "lon": 78.315,
+      "address": "Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/AwTbDvFGTEhGtKuw7",
+      "category": "Pure Veg Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 3.8,
+      "service": 3.7,
+      "taste": 3.5,
+      "hygiene": 3.3,
+      "menuSpecial": "Garhwali thali, North Indian dishes",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153600/gqmhacqqudnkfbfie711.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–10 PM",
+      "phone": "9639490001",
+      "website": "chotiwalarestaurant.com",
+      "description": "One of the oldest, offering local cuisine; some hygiene concerns noted.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153601/z2xiibq9lo91azzist3n.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153602/sdbq6ws5tybjnpdarxzn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153604/wdyblmmm3rmxlk6diwj0.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/G9vDnpq_x0U?si=RlYDlJ4H1QljLyiZ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c93",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Ganga View Cafe",
+      "lat": 30.1276,
+      "lon": 78.3314,
+      "address": "Ganga View Cafe, near 13 Stories Temple, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/aVJcT8SCrJ4QFrTj8",
+      "category": "Riverside Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.8,
+      "taste": 4,
+      "hygiene": 3.9,
+      "menuSpecial": "Thalis, lassis, light meals",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153640/d0xrhdvdfb6nbpdyga1q.jpg",
+      "openDay": "All days",
+      "openTime": "10 AM–10 PM",
+      "phone": "9297972929",
+      "website": "https://gangaviewcafe.com/",
+      "description": "Rustic seating with Ganga vista, casual riverside eating spot.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153643/bdxxqoqeh8ytl7pishph.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153644/zevibj5kwj8vn7yic0ax.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153645/d4jllxdsz7prs0e7q7ea.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/qJLY3lMYNH8?si=BUrQTpMBc57E1G4G"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c96",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Las Brisas",
+      "lat": 30.1294,
+      "lon": 78.3286,
+      "address": "Laxman Jhula Vill. Post, Distt, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/aUt3V3Q3DojVxdr68",
+      "category": "Riverside Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 4,
+      "menuSpecial": "Continental, Indian fusion",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153661/diwbmfglwgncfedkl6sb.png",
+      "openDay": "All days",
+      "openTime": "8 AM–11 PM",
+      "phone": "8192000227",
+      "website": "https://antalyahotels.in/dining/",
+      "description": "Colorful café with mix of western and Indian offerings and river ambience.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153664/q8wbtpyjssqvzxwxrbkc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153665/nax9san2mtscovmvlnfn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153666/ealdmfh4gsvy2blzsrrx.jpg"
+      ],
+      "videos": [],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c9a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Bistro Nirvana Cafe",
+      "lat": 30.128,
+      "lon": 78.3189,
+      "address": "Swami Omkarananda Saraswati Rd, Near Green Valley Cottage, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/aPZ2EDEGq7wjWGzR6",
+      "category": "Garden Bistro",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.1,
+      "service": 4.2,
+      "taste": 4.3,
+      "hygiene": 4.3,
+      "menuSpecial": "Palak paneer, herbal teas",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153687/psnwxk7v6porsnfloswy.jpg",
+      "openDay": "All days",
+      "openTime": "8:30 AM–10:30 PM",
+      "phone": "7217510222",
+      "website": "https://www.facebook.com/Bistro-Nirvana-1376300075932790/?ref=bookmarks",
+      "description": "Garden-style bistro with calm setting and homely meals.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153691/auopk6u5wxebhestzch2.jpg",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153692/cl8adetpgxzbm6n7q2or.jpg",
+        "*",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153694/h2dia3ppim13n3ozw5vv.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/wmffMA8oB2A?si=IGH3WXC72XlhIUq4"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c8a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Uttar Dakshin",
+      "lat": 30.1284,
+      "lon": 78.3239,
+      "address": "Shop no. 13, Second Floor, Badrinath Rd, near Mahananda Complex, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/mvaEzSqV5HuDFi2s7",
+      "category": "South Indian restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 4,
+      "taste": 4,
+      "hygiene": 4.3,
+      "menuSpecial": "Dosa, idli, South Indian Thali",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153577/q2ufq87a0vszejm7ewye.jpg",
+      "openDay": "All days",
+      "openTime": "9 AM–10 PM",
+      "phone": "8791790719",
+      "website": null,
+      "description": "Cozy spot with authentic South Indian staples.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153578/q6l4ve4vcvixhheh4tbr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153579/zzfcdj2rvz3ynoe83ftn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153579/yz8okzeb4qsiozy5pqgz.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/YVwZALeu7Og?si=qNyLXECHTQnXx9CL"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c91",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "The Sitting Elephant",
+      "lat": 30.1023,
+      "lon": 78.2925,
+      "address": "Hotel EllBee Ganga View, 355, Haridwar Rd, Palika Nagar, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/5FzYdej7A5RdQxD1A",
+      "category": "Rooftop Restaurant",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4.2,
+      "service": 4.4,
+      "taste": 4.5,
+      "hygiene": 4.4,
+      "menuSpecial": "Veg biryani, North Indian buffet",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153625/e3eysugdiffymrezqxs0.jpg",
+      "openDay": "All days",
+      "openTime": "8 AM–10:30 PM",
+      "phone": "8882661577",
+      "website": null,
+      "description": "Scenic rooftop bamboo décor with Ganga views.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153626/vwt3wziwxq0ajhl21ebm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153627/s3igfhwto8negk5zd2qq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153629/bj9aymqrkkcyxxk9holj.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/nEnAJ7RzzrQ?si=V9jYe5kflHnpaVap"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768c99",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "foodPlace": "Beatles Cafe",
+      "lat": 30.127,
+      "lon": 78.3261,
+      "address": "Tapovan, Sarai, Paidal Marg, near divine resort Radhe Krishna Mandir, near Divine Resort, Laxman Jhula, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/CqTA7aj3erpH8Snh6",
+      "category": "Themed Café",
+      "vegOrNonVeg": "Veg",
+      "valueForMoney": 4,
+      "service": 3.9,
+      "taste": 4.2,
+      "hygiene": 4,
+      "menuSpecial": "Wraps, coffee, smoothies",
+      "menuLink": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153682/vwkq3meoeyffdpijenqx.jpg",
+      "openDay": "All days",
+      "openTime": "11:30 AM–9:30 PM",
+      "phone": "7618161717",
+      "website": null,
+      "description": "Colorful Beatles-themed café, similar vibe but distinct from The 60’s.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153683/fmm0k32dobavliihlcg6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153684/jetmahgnizj9pc7o8dir.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153685/l8ngzewputhvgjdzfwrt.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/r2Fdde4klic?si=vEzSlsoJRVvU_4_m"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "hiddengem": [
+    {
+      "_id": "68c7f5f820f4dc4834768cdb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Rishikund Hot Spring",
+      "category": "Hot spring",
+      "lat": 30.1039,
+      "lon": 78.2991,
+      "address": "Mayakund, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/JhZLw4mz7DiBS8Xt8",
+      "openDay": "Monday to Sunday",
+      "openTime": "24-hours",
+      "establishYear": "Mythological",
+      "fee": "₹0–₹20",
+      "description": "Sacred thermal water pond",
+      "essential": "Towel & clothes",
+      "story": "It is said that Lord Rama took a bath here while in exile. The pond was filled by Goddess Yamuna upon the request of Sage Kubz, who was an ardent devotee of Rama. The water is warm throughout the year and is revered as sacred.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153778/j7wc1pipdb7opcijrhyi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153781/cu5vfaeiqmoy64fslirz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153783/bhogzrvoyt7szxpylvk3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/rgrZSqDa2gg?si=LgpGpJRds2t4VF-R"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cde",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Kyarki Sunset Point",
+      "category": "Viewpoint",
+      "lat": 30.1373,
+      "lon": 78.3474,
+      "address": "Near Neergarh Waterfall Rd, Rishikesh, Kyarki, Uttarakhand 249175",
+      "locationLink": "https://maps.app.goo.gl/1S7ktWDqW6JUF3HC7",
+      "openDay": "Monday to Sunday",
+      "openTime": "5 PM–7 PM",
+      "establishYear": null,
+      "fee": null,
+      "description": "Hidden scenic spot with sunset views",
+      "essential": "Warm clothes",
+      "story": "A locally beloved viewpoint overlooking Neer Waterfall. No local myth, but as a peaceful retreat for locals and spiritual travelers to view the sunset over the Shivaliks undisturbed.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153798/gdkmflgyntjun4rbvr6w.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153801/zkpopbhauvnhfcjuliez.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153804/hkwg7wqusnspwmsjk6wi.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/1USHMdKwN-Q?si=EwF1mMVgdaiiaF7Z"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "The Secret Waterfall Rishikesh - DhaulSrot",
+      "category": "Waterfall",
+      "lat": 30.1488,
+      "lon": 78.3149,
+      "address": "kunja puri trek By Pass road village dhaulSrot, Tapovan, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/UMBGzWdpPYFJ8Q7f7",
+      "openDay": "Monday to Sunday",
+      "openTime": "24-hours",
+      "establishYear": null,
+      "fee": "Free",
+      "description": "Hidden Waterfall with Beautiful Views",
+      "essential": "Towel & clothes",
+      "story": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153814/glzzmhubbjsjsg1ccd7x.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153815/b6wzk0cosppomopvs98n.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153816/r7n7lcqcrgiu5vmtixdm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FaufHKpkYnQ?si=r6u44aRCvd8TBNZV"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Phool Chatti Ashram",
+      "category": "Ashram",
+      "lat": 30.1159,
+      "lon": 78.3763,
+      "address": "Neellkanth temple road 5 km from Laxman Jhula Near Phool Chatti Bathing Ghat, Paliyal Gaon, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/n1jx86phJL6MFDEj6",
+      "openDay": "Monday to Sunday",
+      "openTime": "9 AM - 9PM",
+      "establishYear": "Old",
+      "fee": "₹Free–₹300",
+      "description": "Peaceful yoga & meditation stay",
+      "essential": "Yoga mat",
+      "story": "Established more than 140 years ago by Sri Devi Dayal Ji, the ashram was named after the rich profusion of flowers (\"phool\") in the surrounding forest. It became a serene spiritual center for yoga, meditation, and self-reflection on the banks of the Ganges.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153786/zeu7x1zodz786l39yqm8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153787/rjhy3aj2iuljdpr8aeli.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153788/tjgmiio8zcpooaej5zf8.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/HOUGmUKD3UY?si=DgJXTZuoK0HzgocD"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Jhilmil Gufa",
+      "category": "Cave",
+      "lat": 30.0604,
+      "lon": 78.3375,
+      "address": "Manikoot Parvat ( Mountain )  near Neelkanth Temple in Rishikesh",
+      "locationLink": "https://maps.app.goo.gl/eriEpup81UjyaSKu5",
+      "openDay": "Monday to Sunday",
+      "openTime": "Daylight hours",
+      "establishYear": "Mythological",
+      "fee": null,
+      "description": "Forest cave of Guru Jhilmil",
+      "essential": "Shoes, flashlight",
+      "story": "A holy trio of caves nestled in thick forest, said to be the meditation place of Guru Jhilmil, a sage renowned for profound yogic penance. Locals claim that chants still reverberate within the cave while meditating.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153790/fmac01ydlck2wwmnnfj3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153791/tkfqjfy1xnltk9rd8tqy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153794/zkiirx8x8sq0evjkq21r.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/iKrFGof1-k0?si=qY8MGajXLncVztkG"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cdf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "hiddenGem": "Malakhunti Village",
+      "category": "Village",
+      "lat": 30.0858,
+      "lon": 78.4346,
+      "address": "NH 7, Koudiyla, Atali, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/2GHrRasBwKYh895w6",
+      "openDay": "Monday to Sunday",
+      "openTime": "Anytime",
+      "establishYear": "Traditional",
+      "fee": "₹0–₹200",
+      "description": "Local lifestyle & mustard fields",
+      "essential": "Camera",
+      "story": "A centuries-old village of Garhwali in the hills. Famous for its hospitality and traditional way of life, it is the unspoiled beauty of hill life. According to local legend, the villagers continue to adhere to rituals that have come down from generations unchanged.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153807/rzqfoprdiap6bj6bch0s.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153808/tupvmcqdgxidzvmoh08w.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153810/kj6crcevbdgkd2tcww8w.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/9nDALGudrtc?si=-k1rlrQUa0sdlBLa"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "itinerary": [
+    {
+      "_id": "68c7f5f820f4dc4834768cf8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Start your day with a peaceful dip in the holy Ganges at Triveni Ghat, a significant bathing spot. Witness the morning rituals and serene atmosphere.",
+      "day2": "Chaurasi Kutia (Beatles Ashram)",
+      "day3": "Chaurasi Kutia (Beatles Ashram)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Visit the ancient Bharat Mandir, located right next to Triveni Ghat.",
+      "day2": "Evening Ganga Aarti at Parmarth Niketan.",
+      "day3": "Evening Ganga Aarti at Parmarth Niketan.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cfb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Transportation: From Indermani Badoni Chowk (Natraj Chowk), Triveni Ghat is approximately 1 km (Auto: ₹140, Cab: ₹400, Bike: ₹30).",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cfc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "8:30 AM – 9:30 AM: Breakfast",
+      "day2": "Morning: Waterfall & Nature (8:00 AM – 1:00 PM)",
+      "day3": "Neer Garh Waterfall",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cfe",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "9:30 AM – 10:00 AM: Travel to Ram Jhula Area",
+      "day2": "Take an auto or scooter from the Laxman Jhula area to Neer Garh Waterfall (approx. 5 km, auto + short trek). Enjoy the natural beauty and the refreshing pools.",
+      "day3": "Adventure option: Bungee Jumping/Giant Swing OR Serenity option: Vashistha Gufa",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d11",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Essentials: Wear comfortable shoes; carry water; there's an entry fee.",
+      "day2": null,
+      "day3": "Evening: Departure or Leisure",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d14",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Evening: Grand Ganga Aarti & Leisure (5:00 PM – 8:00 PM)",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": "Day 1: (As per the 1-Day Plan)",
+      "day3": "Day 1: (As per the 2-Day Plan)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cfa",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Essentials: Remove footwear before entering the ghat area; maintain cleanliness.",
+      "day2": "Day 2: Nature, Adventure & Serenity (Next most important)",
+      "day3": "Day 2: (As per the 2-Day Plan above)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d00",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "10:00 AM – 12:00 PM: Parmarth Niketan Ashram & Ram Jhula",
+      "day2": "11:00 AM – 1:00 PM: Tapovan Area & Brunch",
+      "day3": "Day 3: Hilltop Views & Wildlife/Spiritual Excursion (Lesser priority / Further out)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d02",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Walk across the famous Ram Jhula bridge, enjoying the scenic views of the Ganges.",
+      "day2": "Take some time to explore this area known for its yoga and meditation centers.",
+      "day3": "Morning: Sunrise Views (Requires very early departure, e.g., 5:00 AM)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d09",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Essentials: Be cautious of monkeys; walk on the left; avoid overcrowding. Remove shoes before entering temples.",
+      "day2": "Visit Vashistha Gufa (near Shivpuri, approx. 20-25 km from Rishikesh). This is a serene meditation cave where Sage Vashistha is believed to have meditated. Ideal for those seeking peace and spiritual depth.",
+      "day3": "Essentials: Dress modestly; remove footwear; be prepared for winding roads.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Rishikesh 1-Day Trip Plan (Most Important Places)",
+      "day2": "Rishikesh 2-Day Trip Plan (Next Most Important Places)",
+      "day3": "Rishikesh 3-Day Trip Plan (Additional Important / Outskirts)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "This plan covers the absolute must-see places in Rishikesh, arranged in a time-efficient sequence for a fulfilling single-day visit.",
+      "day2": "If you have two days, you can expand on the core experiences of Day 1 by adding more natural beauty and adventure or deeper spiritual exploration.",
+      "day3": "This plan (which was previously provided in detail) expands your Rishikesh experience to include more distant but highly scenic and significant locations, enriching your journey.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Morning: Spiritual Dawn & Ganges Immersion (7:00 AM – 12:00 PM)",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cfd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Enjoy a local breakfast near Triveni Ghat or try a refreshing lassi from Pappu Lassi Wala (near Main Bazar Rd, Mayakund).",
+      "day2": "8:00 AM – 11:00 AM: Neer Garh Waterfall",
+      "day3": "Tapovan area (cafes, shopping)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d07",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Walk from Ram Jhula to Laxman Jhula, another iconic suspension bridge over the Ganges.",
+      "day2": "Note: Allocate 3-4 hours for this, including travel and activity.",
+      "day3": "10:00 AM – 1:00 PM: Neelkanth Mahadev Temple",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "1:00 PM – 2:00 PM: Lunch",
+      "day2": "Essentials: Maintain silence inside; remove shoes before entering.",
+      "day3": "Afternoon: Wildlife or Deep Spirituality (Choose one based on interest)",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Have lunch in the Laxman Jhula/Tapovan area. Options include The 60's Cafe, Little Buddha Cafe, or Uttar Dakshin for South Indian cuisine.",
+      "day2": "Evening: Local Market & Dinner (6:00 PM onwards)",
+      "day3": "Option A: Wildlife Safari",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Take an auto or scooter to Chaurasi Kutia (Beatles Ashram).",
+      "day2": "For dinner, consider a rooftop experience at The Sitting Elephant or fine dining at Jal & Jalebi by Ganges for special vegetarian options.",
+      "day3": "Note: Jeep safari slots are fixed (morning/afternoon); ensure booking in advance.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "2:30 PM – 4:30 PM: Explore Chaurasi Kutia (Beatles Ashram)",
+      "day2": null,
+      "day3": "Option B: Tranquil Retreat",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d10",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Discover this unique and historic abandoned ashram, famous for hosting The Beatles. Explore its meditation huts and artistic graffiti.",
+      "day2": null,
+      "day3": "Explore Phool Chatti Ashram or Jhilmil Gufa for quiet meditation and a deeper spiritual experience. These are less commercialized and offer a serene environment.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d12",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "4:30 PM – 5:00 PM: Return to Parmarth Niketan Area",
+      "day2": null,
+      "day3": "Return to Rishikesh. Depending on your departure schedule, you can relax at your hotel or enjoy a final meal at a preferred restaurant.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d18",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "6:30 PM – 8:00 PM: Ganga Aarti at Parmarth Niketan Ghat",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d1a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Essentials: Arrive early for a good view; maintain silence during the ceremony.",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": "Triveni Ghat, Bharat Mandir",
+      "day3": "Triveni Ghat, Bharat Mandir",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cf7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "7:00 AM – 8:30 AM: Triveni Ghat & Bharat Mandir",
+      "day2": "Ram Jhula, Parmarth Niketan Ashram, Laxman Jhula, Trimbakeshwar Temple",
+      "day3": "Ram Jhula, Parmarth Niketan Ashram, Laxman Jhula, Trimbakeshwar Temple",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cff",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Take an auto or e-rickshaw towards the Ram Jhula area.",
+      "day2": "Essentials: Wear comfortable trekking shoes; carry water.",
+      "day3": "Local market and dinner.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d01",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Explore Parmarth Niketan Ashram, Rishikesh's largest ashram. Experience its tranquil environment and visit the temples within.",
+      "day2": "Return from the waterfall and have brunch at one of the lovely cafes in the Tapovan area. You can try Shambala Cafe, Ira’s Kitchen & Tea Room, or Beatles Cafe for healthy and tasty options.",
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d03",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d04",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Afternoon: Iconic Bridges & Beatles Heritage (12:00 PM – 5:00 PM)",
+      "day2": "Afternoon: Adventure or Secluded Meditation (1:00 PM – 6:00 PM)",
+      "day3": "5:00 AM – 10:00 AM: Kunjapuri Devi Temple",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d05",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": "Option A: Adventure Thrill (if interested)",
+      "day3": "Start very early to drive uphill to Kunjapuri Devi Temple (approx. 25 km from Rishikesh). Witness breathtaking sunrise views over the Himalayas and the Ganges valley, and seek blessings.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d06",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "12:00 PM – 1:00 PM: Laxman Jhula & Trimbakeshwar Temple",
+      "day2": "Head to Jumpin Heights in Mohanchatti (approx. 15 km from Rishikesh) for Bungee Jumping or the Giant Swing. This is a thrilling experience.",
+      "day3": "Essentials: Wear comfortable shoes; carry warm clothes; requires an early start.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d08",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Visit the 13-story Trimbakeshwar Temple (Tera Manzil Temple), located near Laxman Jhula.",
+      "day2": "Option B: Peaceful Contemplation",
+      "day3": "Travel to Neelkanth Mahadev Temple (approx. 30 km from Rishikesh, a scenic drive). Pay homage at this sacred Shiva temple, nestled amidst dense forests.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d0d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "2:00 PM – 2:30 PM: Travel to Beatles Ashram",
+      "day2": "Stroll through Rishikesh's local markets like Bada Bazaar or Gole Market for local handicrafts, spiritual items, or clothing.",
+      "day3": "Visit Rajaji National Park (Chilla Range) (approx. 15 km from Rishikesh). Enjoy a jeep safari to spot elephants, deer, and various bird species.",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d13",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Travel back from Beatles Ashram to the Parmarth Niketan area.",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d15",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": null,
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d16",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "5:00 PM – 6:30 PM: Leisure / Local Market Stroll",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d17",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Relax for a bit before the Aarti, or quickly browse the shops around Ram Jhula/Parmarth Niketan.",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768d19",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "day1": "Arrive at Parmarth Niketan's ghat at least 30 minutes before sunset to secure a good spot for the mesmerizing Ganga Aarti ceremony. This spiritual experience with lamps, hymns, and rituals is a must-see.",
+      "day2": null,
+      "day3": null,
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "misc": [
+    {
+      "_id": "68c7f5f820f4dc4834768cef",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": null,
+      "emergencyContacts": null,
+      "hospital": null,
+      "hospitalLocationLink": null,
+      "hospitalLat": null,
+      "hospitalLon": null,
+      "PoliceLocationLink": null,
+      "PoliceLat": null,
+      "PoliceLon": null,
+      "parking": null,
+      "parkingLocationLink": null,
+      "parkingLat": null,
+      "parkingLon": null,
+      "publicWashrooms": "SBM Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/83TEHhWHaeBospeG9",
+      "publicWashroomsLat": 30.127,
+      "publicWashroomsLon": 78.331,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cec",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": null,
+      "emergencyContacts": "Fire No. 101",
+      "hospital": "S.P.S Government Hospital",
+      "hospitalLocationLink": "https://maps.app.goo.gl/ricCB42qeucybfFA6",
+      "hospitalLat": 30.109,
+      "hospitalLon": 78.296,
+      "PoliceLocationLink": "https://maps.app.goo.gl/tw3PwSChmpWgSzGS8",
+      "PoliceLat": 30.119,
+      "PoliceLon": 78.288,
+      "parking": "Parking lot Laxman Jhula Road",
+      "parkingLocationLink": "https://maps.app.goo.gl/kuKcKve6pqHiupGx6",
+      "parkingLat": 30.123,
+      "parkingLon": 78.327,
+      "publicWashrooms": "Public Toilet - Nagar Palika Parishad Munikireti Dhalwala",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/r4TGqxFY4oEesfEy8",
+      "publicWashroomsLat": 30.119,
+      "publicWashroomsLon": 78.307,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ced",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": null,
+      "emergencyContacts": "Helpline No. 18001800550",
+      "hospital": "Sanjeevani hospital /Puri Hospital",
+      "hospitalLocationLink": "https://maps.app.goo.gl/9yyGJBa6q2vw9Vm1A",
+      "hospitalLat": 30.114,
+      "hospitalLon": 78.293,
+      "PoliceLocationLink": "https://maps.app.goo.gl/dZToPEqS4KJFx3Yb6",
+      "PoliceLat": 30.122,
+      "PoliceLon": 78.315,
+      "parking": "Paid Public parking Tapovan",
+      "parkingLocationLink": "https://maps.app.goo.gl/TwhYdfmnLVHDXR356",
+      "parkingLat": 30.128,
+      "parkingLon": 78.32,
+      "publicWashrooms": "Sulabh Toilet",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/ydfBSe4ez1myp1YQ6",
+      "publicWashroomsLat": 30.122,
+      "publicWashroomsLon": 78.316,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cee",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": null,
+      "emergencyContacts": "Utrakhand Tourist Helpline No. 0135 - 2559898, 0135 - 2552627, or 0135 - 3520100, available from 7:00 AM to 9:00 PM. ",
+      "hospital": null,
+      "hospitalLocationLink": null,
+      "hospitalLat": null,
+      "hospitalLon": null,
+      "PoliceLocationLink": null,
+      "PoliceLat": null,
+      "PoliceLon": null,
+      "parking": "Parking lot Ram jhula",
+      "parkingLocationLink": "https://maps.app.goo.gl/aPYSjYGYQMvRCorj7",
+      "parkingLat": 30.123,
+      "parkingLon": 78.311,
+      "publicWashrooms": "Public Toilet and Bathroom",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/tq34QTuNb1QMfFpP7",
+      "publicWashroomsLat": 30.127,
+      "publicWashroomsLon": 78.327,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cea",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153869/b4dlyqrcne1ccvnsvm5w.jpg",
+      "emergencyContacts": "Police No. 112",
+      "hospital": "Navjeevanam Ayurvedic Hospital (Dr. DK Srivastava)",
+      "hospitalLocationLink": "https://maps.app.goo.gl/qRPTMZLUvZzNZR8m7",
+      "hospitalLat": 30.069,
+      "hospitalLon": 78.281,
+      "PoliceLocationLink": "https://maps.app.goo.gl/ao5p6KkDL9Liw5APA",
+      "PoliceLat": 30.067,
+      "PoliceLon": 78.469,
+      "parking": "Triveni Ghat Parking",
+      "parkingLocationLink": "https://maps.app.goo.gl/aAoADptSkLvRTKxHA",
+      "parkingLat": 30.104,
+      "parkingLon": 78.301,
+      "publicWashrooms": "Public Toilet (Bus Stand) ",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/pB9dALNMHk9ZhUbv5",
+      "publicWashroomsLat": 30.113,
+      "publicWashroomsLon": 78.296,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ceb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "localMap": "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153874/rwz2lhon5o7zvo9rtsvi.jpg",
+      "emergencyContacts": "Ambulance No. 108",
+      "hospital": "AYUSHWAAN MULTI SPECIALITY HOSPITAL",
+      "hospitalLocationLink": "https://maps.app.goo.gl/LfMnDsGKbgeh3ZwR6",
+      "hospitalLat": 30.128,
+      "hospitalLon": 78.321,
+      "PoliceLocationLink": "https://maps.app.goo.gl/WkfUZc4TWoWh1Aiz8",
+      "PoliceLat": 30.065,
+      "PoliceLon": 78.243,
+      "parking": "Janki Setu Parking",
+      "parkingLocationLink": "https://maps.app.goo.gl/SmH9Pi47nNpk7ea48",
+      "parkingLat": 30.117,
+      "parkingLon": 78.306,
+      "publicWashrooms": "Public Washroom",
+      "publicWashroomsLocationLink": "https://maps.app.goo.gl/tV6Q2P81dW2UPUHH8",
+      "publicWashroomsLat": 30.104,
+      "publicWashroomsLon": 78.3,
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "nearbyspot": [
+    {
+      "_id": "68c7f5f820f4dc4834768ce2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Byasi",
+      "distance": "30 km from Rishikesh on Badrinath highway",
+      "category": "Adventure / Nature",
+      "lat": 30.0693,
+      "lon": 78.4709,
+      "address": "Byasi, Tehri Garhwal, Uttarakhand 249192",
+      "locationLink": "https://maps.google.com/?q=Byasi+Uttarakhand",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "Ancient (traditional)",
+      "fee": "Free",
+      "description": "A small village on the Ganga known for rafting and riverside camping. It offers Class III-IV rapids and sandy beaches ideal for adventure sports. Visitors enjoy jungle camping and riverside relaxation.",
+      "essential": "Wear life jackets and helmets for rafting; follow instructor’s commands; keep campsites clean; avoid plastic and loud music; obtain permits for camping; respect riverside shrine etiquette.",
+      "story": "Byasi means a settlement by the river. It has no major mythic origin; rather, it is valued for its scenic Ganga shores. Bathing here is considered purifying by pilgrims on the Char Dham route, but the site is primarily noted for modern adventure tourism.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153820/aj1p4ob2pknlseipl0f2.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153821/mo1czloavv4ej7tdx4ey.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153825/lu5dmzlwkh4mgamy9oy2.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ofP6b83PnL0?si=UKUy0n6EoOEl3Do4"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Muni ki Reti",
+      "distance": "just before Rishikesh town, 2–3 km from Ram Jhula",
+      "category": "Spiritual / Cultural",
+      "lat": 30.07,
+      "lon": 78.16,
+      "address": "Muni Ki Reti, Rishikesh, Uttarakhand 249137",
+      "locationLink": "https://maps.google.com/?q=Muni+Ki+Reti+Rishikesh",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "Ancient",
+      "fee": "Free",
+      "description": "A town by Rishikesh known for its many ashrams and temples along the Ganga. Its name means “Sands of the Sages.” Famous as the site of Sivananda’s Divine Life Society and Swarg Ashram, it serves as a spiritual rest stop. The holy Ram Jhula footbridge provides access to ashrams on both riverbanks.",
+      "essential": "Shoes off in temple premises; maintain silence during meditation; respect local monks and rituals; donate if entering ashram programs; avoid littering on ghats; use only designated ferry/bridge crossings across the river.\t",
+      "story": "Legend holds that King Bharata (brother of Rama) did penance on these sandbanks and that Muni ki Reti is the gateway to the Char Dham temple. It evolved into a meditation center; Swami Sivananda and others founded major ashrams here in the early 20th century, making it a hub of Vedantic learning.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153838/g3xu4lmnahiwehkoplxi.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153841/ktwqfs3ssoa7i26syemq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153842/dpjajqhsrufhyxxwsqmd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/1EXvrY9XbtE?si=PYUXFn7SW5z04Mw4"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Malakunthi Waterfall",
+      "distance": "10–12 km from Rishikesh",
+      "category": "Nature / Waterfall",
+      "lat": 30.0667,
+      "lon": 78.3,
+      "address": "Malakhunti Village (near Rishikesh), Uttarakhand",
+      "locationLink": "https://maps.google.com/?q=Malakunti+Uttarakhand",
+      "openDay": "Monday–Sunday",
+      "openTime": "06:00 AM – 6:PM",
+      "establishYear": "Natural",
+      "fee": "Free",
+      "description": "A multi-tiered waterfall in the hills outside Rishikesh, reached by a 2–3 km forest trek from Malakhunti village. It cascades over limestone rocks into natural pools, offering a serene picnic spot. Its flow is strongest during monsoon and post-monsoon months.",
+      "essential": "Trek on marked trails only; wear sturdy shoes; do not climb near the falls; carry water and snacks; avoid trekking alone; no littering or camping without permission; heed weather warnings (avoid slippery rocks when wet).",
+      "story": "Mahakunthi Waterfall, nestled in the serene forests near Rishikesh, is steeped in local legend linking it to the Mahabharata era. According to folklore, it is believed that Kunti, the revered mother of the Pandavas, once meditated and performed penance in this sacred region during their exile. The name \"Mahakunthi\" is said to derive from her, symbolizing her spiritual greatness and connection to the divine. The waterfall, surrounded by dense Himalayan greenery, is considered a place of purification and quiet reflection, attracting seekers and pilgrims journeying to the nearby Neelkanth Mahadev Temple.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153850/f1eiedojorrzjywxj9ul.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153851/wcpfvm2ir1bdq5bi2ykl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153852/omsmumxa43qrudheyzmn.jpg"
+      ],
+      "videos": [],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Swarg Ashram",
+      "distance": "Across the Ganga near Ram Jhula",
+      "category": "Spiritual / Ashram",
+      "lat": 30.1165,
+      "lon": 78.3131,
+      "address": "Swargashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.google.com/?q=Swargashram+Rishikesh",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "20th century",
+      "fee": "Paid (donation)\t",
+      "description": "A cluster of ashrams and temples on the east bank of the Ganges near Ram Jhula. Founded in memory of Swami Vishudhanand (Kali Kamliwala), it offers yoga, meditation, and cultural programs. Foreigners frequent it for its relaxed, “heavenly” atmosphere and ethnic charm",
+      "essential": "Follow ashram norms: dress modestly, remove shoes, keep silence in meditation halls; avoid photography during ceremonies; respect the daily aarti and chanting schedules; handle donations as asked by trust; stay on designated paths.",
+      "story": "According to local legend, Swarg Ashram derives its name from the belief that this was the spot where ancient sages meditated to attain moksha (liberation) and enter Swarg (heaven). The story links it to the saptarishis (seven great sages) who were said to have performed intense penance on the banks of the holy Ganga. Later, Swami Vishudhanand Ji, a 19th-century saint famously known as Kali Kamli Wala, chose this site to spread spiritual teachings and serve pilgrims and sadhus. The ashram was built in his memory and became a sanctuary for seekers of enlightenment. Even today, the serene environment, spiritual vibrations, and daily rituals like the Ganga Aarti remind visitors of those mythological times when the gods themselves were believed to descend to listen to the prayers echoing through the valley.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153845/onrqsjgoyny02mrlukpl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153846/brj3rjkxhojcokthh6h1.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153847/w5nqvpvktiqidfgapxey.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/E2MB9PvNXpw?si=khqAkE7uCG7lryv0"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Devprayag",
+      "distance": "70 km from Rishikesh",
+      "category": "Religious / Pilgrimage",
+      "lat": 30.146,
+      "lon": 78.598,
+      "address": "Devprayag, Tehri Garhwal, Uttarakhand 249190",
+      "locationLink": "https://maps.google.com/?q=Devprayag+Uttarakhand",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "Ancient (mythic)",
+      "fee": "Free",
+      "description": "A holy confluence town where the Alaknanda and Bhagirathi rivers merge to form the Ganga . It is known for the ancient Raghunathji Temple on the riverbank. The setting is sacred and picturesque, attracting pilgrims en route to the Char Dham temples.",
+      "essential": "Modest dress required; remove shoes at temples; avoid alcohol and non-vegetarian food; use designated ghats for bathing; keep the confluence clean; follow priestly or local guidance during rituals.",
+      "story": "Devprayag literally means “godly confluence.” According to Hindu lore, Lord Rama and King Dasharatha performed penance here. The Raghunath Temple (over 10,000 years old by legend) stands at the sangam, making the spot a revered Shakti-Pitha where the Ganga river truly begins.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153828/zy6hdrrmihjgdegjaqbr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153831/rjejb3tdr9l8b4kdgotf.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153834/chx8kw0jnfmi1jhzlonb.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jKJuxu50Kz0?si=l2dVEBUEonSbiyfo"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Narendra Nagar",
+      "distance": "15 km uphill from Rishikesh",
+      "category": "Cultural / Scenic",
+      "lat": 30.1617,
+      "lon": 78.2871,
+      "address": "Narendra Nagar, Tehri Garhwal, Uttarakhand",
+      "locationLink": "https://maps.google.com/?q=Narendranagar+Uttarakhand",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1919",
+      "fee": "Free",
+      "description": "A hillside town 16 km from Rishikesh (elevation ~1322 m) with panoramic views of the Ganga and Doon Valley. Formerly Tehri’s capital (founded by Maharaja Narendra Shah), it features a royal palace (now Ananda Spa) and hilltop temples. The scenic sunsets and colonial-era heritage make it a tranquil escape",
+      "essential": "Respect private and historic sites (palace area); follow local guides on nature walks; avoid wandering after dark in forest areas; do not disturb wildlife; use proper waste disposal to keep the town clean; seek permission before photographing locals or sacred spots.",
+      "story": "In 1919 King Narendra Shah moved the Tehri capital here for its beauty. British Viceroys later vacationed in its palace. The town’s history as a royal hill station is its legacy. The name honors Maharaja Narendra, and local lore recalls the palace turning into a princely retreat by the Ganges.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153854/pkqi7uf5xh1wihaqkcwo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153857/zztswn8tvlgsbt0p9h97.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153858/bziod7eaa429j7lsxeuq.png"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ZIL5D53tdDo?si=TTq2VQY1EfgiVLZK"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ce8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Mussoorie (Extended trip)",
+      "distance": "75–80 km from Rishikesh",
+      "category": "Hill Station / Scenic",
+      "lat": 30.45,
+      "lon": 78.08,
+      "address": "Mussoorie, Dehradun district, Uttarakhand",
+      "locationLink": "https://maps.google.com/?q=Mussoorie+Uttarakhand",
+      "openDay": "Monday–Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1825",
+      "fee": "Free",
+      "description": "A famous hill resort town (“Queen of the Hills”) in the Garhwal Himalayas. At ~2005 m elevation, it overlooks Dehradun Valley. Founded in 1825 by British officers, it features colonial architecture, viewpoints like Camel’s Back Road and Lal Tibba, and natural attractions (Kempty Falls nearby)",
+      "essential": "Expect cool climate; carry jackets (snowfall in winter); use local buses or hire taxis carefully (mountain roads); do not litter on trails; protect forest areas and follow fire-ban rules; be cautious of monkeys near markets; check for altitude sickness if not acclimatized.",
+      "story": "Mussoorie’s name comes from a local shrub. As a British hill station, it has colonial heritage (est. 1825 by Capt. Frederick Young). It became a summer capital for British officials and later a popular retreat for Indian leaders (e.g. Nehru family). It’s culturally tied to Tibetan Buddhist settlements at Happy Valley.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153862/rn054qqojp3ecf6mtv4o.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153867/xwjlydnvbuyrset7lrta.jpg",
+        "https://i0.wp.com/www.manjulikapramod.com/wp-content/uploads/2021/11/Mussoorie-Library-Chowk.jpg?resize=800%2C738&ssl=1"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/XIu2U5Fe9jA?si=b8cnLx3S0tqntKuG"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "place": [
+    {
+      "_id": "68c7f5f720f4dc4834768c88",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Shivpuri",
+      "category": "Adventure Sports Hub",
+      "lat": 30.1351,
+      "lon": 78.3893,
+      "address": "49PQ+PP8, Shivpuri, Dhunar Gaon, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/Wrpx1a7uzPvXnF4q7",
+      "openDay": "Monday to Sunday( Open from mid-September to early June; closed during monsoon (mid-June to mid-September) due to high river flow and safety regulations.)",
+      "openTime": "7:00–8:00 AM to 4:00 PM (Adventure activities have fixed slots)",
+      "establishYear": "Not Available",
+      "fee": "Free",
+      "description": "Major adventure hub offering river rafting, camping, bungee; rafting grades II‑III+",
+      "essential": "Ideal for river rafting, bungee jumping, and camping. Wear light, quick-dry clothing and ensure you follow safety instructions from certified adventure operators. Best time to visit is from mid-September to early June.",
+      "story": "Once a quiet forest region, Shivpuri (meaning \"City of Lord Shiva\") transformed into an adventure hub over the past two decades. Its location on the Ganges, with naturally strong currents, made it perfect for rafting, which was introduced in the 1990s. Despite modernization, it retains a peaceful spiritual vibe outside adventure zones.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153572/wzapbqptvghkwutjpqvk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153573/jrrdpjwfltitionwk1x1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153574/lqheorcdhn3shstdwaf9.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/0ujg11IoYvM?si=_PZKc9Y9oFSFnV6H"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7a",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Laxman Jhula & Ram Jhula",
+      "category": "Iconic Landmark",
+      "lat": 30.1225,
+      "lon": 78.315,
+      "address": "Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/Ff6c11vgBoQX2dH37",
+      "openDay": "Monday to Sunday",
+      "openTime": "Open 24/7 footover bridge access (best visited during daylight for safety and views 5 AM–10 PM)",
+      "establishYear": "1929",
+      "fee": "Free",
+      "description": "Iconic iron suspension bridges linked to Ramayana legend; key spiritual landmarks",
+      "essential": "Laxman Jhula and Ram Jhula are pedestrian suspension bridges in Rishikesh that require visitors to follow certain guidelines for safety and respect. Pedestrians should walk on the left side and avoid overcrowding or stopping in the middle for long periods. Two-wheelers are generally restricted, and honking or rash driving (if allowed during certain hours) is prohibited. Littering, spitting, and use of plastic on or near the bridges are strictly banned to maintain cleanliness. Visitors should refrain from feeding monkeys or teasing animals. Loud music, smoking, and inappropriate behavior are not allowed. Respectful dress and demeanor are encouraged as the bridges lead to sacred temples and ashrams.",
+      "story": "Laxman Jhula (1939) and Ram Jhula (1986) are iron suspension bridges that connect the spiritual areas of Tapovan, Swarg Ashram, and Muni ki Reti. Legend says Laxman, brother of Lord Rama, crossed the river here on a jute rope. The bridges are surrounded by temples, shops, and ashrams, and symbolize spiritual and cultural unity across the Ganges.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153495/qndqsmstfsqlzy7elkyf.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153496/kxqnwzgiewmiyb0mkvfo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153497/xcwexiehwma7x3v1rc7z.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Kfb4rp41-9c?si=3K65qv20GHYY7bDl"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7b",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Chaurasi Kutia(Beatles Ashram)",
+      "category": "Heritage / Meditation Spot",
+      "lat": 30.1087,
+      "lon": 78.3113,
+      "address": "4856+RVP, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/8ZiebPJot9KyRGms5",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00 AM – 04:00 PM",
+      "establishYear": "1961",
+      "fee": "₹150 per person",
+      "description": "1960s ashram where The Beatles stayed; known for graffiti and spiritual heritage .",
+      "essential": "Wear comfortable walking shoes as you’ll explore a large, forested area. Bring a flashlight or use your phone for darker meditation caves. There’s an entry ticket as it lies within Rajaji Tiger Reserve. Avoid littering and follow forest regulations.",
+      "story": "Established in the 1960s by Maharishi Mahesh Yogi, the ashram gained global attention when The Beatles stayed here in 1968 to learn Transcendental Meditation. Their stay was musically prolific and spiritually transformative, contributing to the famous “White Album.” The ashram, once abandoned, was reopened by the Forest Department as a heritage site, with murals, huts, and meditation caves still intact.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153500/lpgmcfbne9pfaphbifkh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153501/llivjrqht5ntfiro6qbo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153502/ysamrqjdz5fb6qrkod4h.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/zvxtCpb73Bg?si=y5q0g4H4MSB1wTM1"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7c",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Neer Garh Waterfall",
+      "category": "Nature / Waterfall",
+      "lat": 30.1465,
+      "lon": 78.3402,
+      "address": "Neergarh Waterfall Rd, Rishikesh, Kuee, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/aa5Q5aqkFWXu6ag79",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 06:00 PM",
+      "establishYear": "Not Available",
+      "fee": "₹30 per person",
+      "description": "Scenic twin waterfalls reached via a short trek; popular for photos & nature trips",
+      "essential": "Neer Garh Waterfall, located about 5 km from Laxman Jhula in Rishikesh, requires a short 1–3 km trek through scenic forest paths to reach the beautiful falls. Swimming is allowed in the natural pools, but visitors should be careful as the rocks can be slippery and currents strong. To preserve the environment, littering, use of plastic, and loud music are strictly prohibited. The best time to visit is from September to March, while the monsoon season should be avoided due to slippery trails and the risk of landslides.",
+      "story": "Tucked into a forested cliffside, Neer Garh (or Neer Gaddu) waterfall is a natural spring-fed fall. It gained tourist popularity in recent years for its serene setting and accessibility. Though not tied to ancient history, it complements Rishikesh's natural charm and is a favorite among nature lovers and photographers.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153505/mfwlzwinxk31miq9lh1u.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153506/dczidebawhmxoreh6hz4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153507/yyyr9lk0u49oafysjmdt.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/m41FahMG7jE?si=PzUs0QUJuEX7tXkl"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7f",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Patna Waterfall",
+      "category": "Nature / Waterfall",
+      "lat": 30.1031,
+      "lon": 78.2947,
+      "address": "4978+V22, Patna, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/XCuZ3X7oERFfQsXT9",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 06:00 PM (Best visited in daylight)",
+      "establishYear": "In Ancient Time",
+      "fee": "Free",
+      "description": "Offbeat waterfall accessible via light trek; less crowded and peaceful.",
+      "essential": "Patna Waterfall is a scenic and peaceful spot located about 6–7 km from Laxman Jhula, accessed by a 1.5 km forest trek starting near Garud Chatti on the Neelkanth Temple road. The trail passes through parts of the Rajaji forest and is relatively easy, though proper shoes and water are recommended. Visitors can enjoy a dip in the small natural pool, but caution is needed as rocks may be slippery. There’s no entry fee, and small stalls selling tea or snacks may be found near the starting point. The best time to visit is after the monsoon or in winter, as the waterfall may dry up in summer or overflow during heavy rains.",
+      "story": "Unlike Neer Garh, Patna Waterfall is more secluded and lesser known. It's named after a nearby Patna village. While it holds no ancient mythological ties, its untouched beauty has made it a favorite among trekkers and meditation enthusiasts.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153522/wlumnnstmb6gkjnnwge1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153523/wmpdwmx59jv4h4g1iyiu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153525/e7uvcybmfvnzj3ek2eos.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/siMa802eUdg?si=quqnqCsilXKssIxZ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c84",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Neelkanth Mahadev Temple",
+      "category": "Religious Temple",
+      "lat": 30.0811,
+      "lon": 78.3405,
+      "address": "38JR+C6G, Kotdwar - Pauri Rd, Kotdwar, Uttarakhand 246149",
+      "locationLink": "https://maps.app.goo.gl/p87zPNzBaFaNQQ3ZA",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 09:00 PM",
+      "establishYear": "At the time of Samudra Manthan",
+      "fee": "Free",
+      "description": "Shiva temple at confluence of rivers, tied to myth of Shiva consuming poison; dense forest setting .",
+      "essential": "At Neelkanth Mahadev Temple, visitors must respect the religious sanctity by adhering to certain rules. Footwear must be removed before entering the temple premises. Devotees should dress modestly and maintain a peaceful and respectful demeanor. Alcohol, tobacco, and non-vegetarian food are strictly prohibited in and around the temple. Photography inside the sanctum is generally not allowed and should be avoided unless permitted. During peak pilgrimage times, crowd control rules and queue systems must be followed. Offerings like water, milk, and bilva leaves are allowed, but littering and plastic use are strictly banned to preserve the natural and spiritual environment.",
+      "story": "The Neelkanth Mahadev Temple, located near Rishikesh amidst the dense forests of the Rajaji National Park, is steeped in Hindu mythology and marks the sacred spot where Lord Shiva is believed to have consumed the deadly poison Halahala that emerged from the churning of the cosmic ocean (Samudra Manthan) by gods and demons in their quest for the nectar of immortality. To save the universe, Shiva drank the poison, which turned his throat blue, earning him the name “Neelkanth” (the blue-throated one). The surrounding forest, now protected as Rajaji National Park, has long been considered a spiritual Tapovan (forest of penance), where sages meditated and divine events are said to have unfolded, making the entire region a deeply revered site for pilgrims and nature lovers alike.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153552/jxc8ieq4eurwenu1xrta.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153553/rz3e66se1jecvbofx1sr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153555/cpab90bb1na8uvoxjyd1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GBOR853PDiY?si=r8KDYKi0oqeh-_tM"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c85",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Rajaji National Park",
+      "category": "Wildlife / Nature Park",
+      "lat": 30.0155,
+      "lon": 78.1524,
+      "address": "Uttarakhand",
+      "locationLink": "https://maps.app.goo.gl/r9X85JXDeMAZFTCX7",
+      "openDay": "Monday to Sunday (Open from November 15 to June 15; closed during monsoon (June 16 to Nov 14) for wildlife protection and track maintenance.)",
+      "openTime": "06:00 AM – 09:00 AM, 03:00 PM – 06:00 PM (Jeep safari slots)",
+      "establishYear": "1983",
+      "fee": "₹150 per person",
+      "description": "Wildlife sanctuary home to elephants, tigers, leopards; forest safaris twice daily .",
+      "essential": "Visitors to Rajaji National Park must follow certain rules to ensure safety and protect wildlife. Entry is allowed only during daylight hours with a valid permit and ID, and staying inside the vehicle is mandatory during safaris. Loud noise, music, teasing, or feeding animals is strictly prohibited. Driving must be slow and only on marked routes. Littering, use of plastic, smoking, and open fires are banned to prevent harm to the forest. Wearing dull-colored clothes and avoiding strong perfumes is advised. Flash photography is not allowed, and any kind of hunting equipment, sharp objects, or harmful items are forbidden. These rules help keep the park safe and peaceful for both visitors and animals.",
+      "story": "Rajaji National Park, nestled in the Shivalik ranges near Haridwar and Rishikesh, is not only a haven for rich biodiversity but also holds deep cultural and spiritual significance, as its forests have long been considered sacred Tapovans where ancient sages meditated and legends say Lord Shiva himself wandered. The park, named after C. Rajagopalachari (Rajaji), India’s first Indian Governor-General, was established in 1983 by merging three sanctuaries—Rajaji, Motichur, and Chilla—and is home to elephants, tigers, leopards, and hundreds of bird species. With its blend of mythological reverence and ecological richness, the park offers a unique harmony of spirituality, wildlife, and natural beauty, deeply rooted in India’s cultural and environmental heritage.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153557/zvtpebmclveh8rqhosnw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153558/yzh6aiypjj6d5dolggnx.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153559/lobf7pjpgqwaajojmoym.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/nFtFqR885ps?si=W6UJhMGrwDdxXjOi"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c78",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Triveni Ghat",
+      "category": "Spiritual / Religious",
+      "lat": 30.1038,
+      "lon": 78.2993,
+      "address": "Triveni Ghat, Mayakund, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/Bf13jG4ofZJzfkSCA",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7(Aarti at 6 PM (winter) / 7 PM (summer))",
+      "establishYear": "In Ancient Time",
+      "fee": "Free",
+      "description": "Main bathing ghat and site of the famous evening Ganga Aarti — devotees bath here for ritual purification.",
+      "essential": "Visitors to Triveni Ghat are expected to maintain the sanitry of this sacred site by following key rules and regulations. Footwear should be removed before entering the ghat area, and bathing is permitted only in designated zones for safety and hygiene. Littering, spitting, and use of plastic are strictly prohibited to preserve cleanliness and the environment. Loud music, inappropriate behavior, and photography during rituals should be avoided out of respect for religious practices. Alcohol, tobacco, and non-vegetarian food are not allowed. Visitors are encouraged to dress modestly and follow instructions given by local authorities.",
+      "story": "Triveni Ghat is revered as the confluence of three sacred rivers—Ganga, Yamuna, and the invisible Saraswati. Mythologically, it is believed Lord Krishna visited here after being struck by a hunter’s arrow. Mentioned in both the Ramayana and Mahabharata, the ghat has served as a site for penance, purification, and ritual for saints and pilgrims for thousands of years.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153486/oeckqwlxdxegqhtxtxax.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153487/bw3fj9ql8takmtfrwzkw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153488/nieub9npdwmfcnsrorpu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pj9Szv0-wgg?si=ckaDUOt9Hebp93Yj"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c79",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Parmarth Niketan Ashram",
+      "category": "Spiritual / Yoga Retreat",
+      "lat": 30.1192,
+      "lon": 78.3124,
+      "address": "Near, Main Market Road, Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/fMDxKyfACLfiaPSa9",
+      "openDay": "Monday to Sunday ",
+      "openTime": "06:00 AM – 08:00 PM (Ganga aarti everyday at 06:00 pm - 07:00 pm (Daily))",
+      "establishYear": "1942",
+      "fee": "Free",
+      "description": "Founded in 1942 by Swami Shukdevanandji Maharaj; largest ashram in Rishikesh, hosts yoga, satsang, Ganga Aarti .",
+      "essential": "Visitors to Parmarth Niketan Ashram must observe discipline and spiritual decorum. Silence is encouraged in spiritual areas, especially near temples and during meditation or yoga sessions. Footwear must be removed before entering prayer halls and temples. Alcohol, smoking, tobacco, and non-vegetarian food are strictly prohibited within the ashram premises. Modest clothing is required, and respectful behavior towards monks, staff, and other visitors is expected. Participation in daily activities like Ganga Aarti, yoga, and satsangs is open to all, but punctuality and sincerity are encouraged. Photography is allowed in public areas but should not disturb spiritual practices or ceremonies.",
+      "story": "Founded in 1942 by Swami Shukdevanandji Maharaj, Parmarth Niketan has grown into Rishikesh’s largest ashram, offering thousands of rooms and daily spiritual programs. It has hosted spiritual leaders, saints, and international yoga festivals. Its mission focuses on spiritual upliftment, environmental care, and service to humanity.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153491/jpnkomqcy47zrkdwoqwl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153492/alzdcvkvwlkvbmfwc0yp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153493/ftkezfx9bovab44roww3.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/Rv1O8NyGG3I?si=VUCI53s66raxs9wV"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7d",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Tapovan",
+      "category": "Spiritual / Yoga Area",
+      "lat": 30.1302,
+      "lon": 78.324,
+      "address": "Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/1wxd4oFFV22LU3R28",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24 hours (Open freely; no formal gate/ticket)",
+      "establishYear": "Early 20th Centuries",
+      "fee": "Free",
+      "description": "Valley area known for its yoga schools and serene riverbank retreats; upcoming ropeway to Kunjapuri .",
+      "essential": "Tapovan, located near Laxman Jhula in Rishikesh, is a peaceful spiritual area known for ashrams, yoga centers, and meditation retreats. It’s a place for quiet reflection, so visitors are expected to maintain silence in many areas, especially during classes or prayers. Loud music, alcohol, smoking, and non-vegetarian food are strictly prohibited. Modest clothing and respectful behavior are required, especially in ashrams and temples. Photography may be restricted in some spiritual spaces. Cleanliness is important—no littering or use of plastic is allowed. Tapovan encourages a calm, mindful atmosphere ideal for those seeking spiritual growth or inner peace.",
+      "story": "In Sanskrit, “Tapovan” means “forest of penance.” Legends say sages like Vishwamitra and Dronacharya meditated here. Today, Tapovan blends modern yoga centers with ancient spiritual roots, making it a retreat for seekers from all over the world.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153510/iozrwe4dfegoyj4elbg9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153512/wunu31drlxgdf4mfi92g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153515/ioaz6aplja6mac4ksiql.jpg"
+      ],
+      "videos": [
+        "www.youtube.com/embed/NHNLlLYchjU?si=Yk8kFtHiUQk4ao3H"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c7e",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Rishikesh Market ",
+      "category": "Local Shopping / Market",
+      "lat": 30.1083,
+      "lon": 78.2972,
+      "address": "4842+Q4R, Manvendera Nagar, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/ysZ2fhEVcpUrBshc8",
+      "openDay": "Monday to Sunday, Some shops may be closed on Tuesday",
+      "openTime": "9:00 AM–9:00 PM (varies by shop)",
+      "establishYear": "Not Available",
+      "fee": "Free",
+      "description": "Bustling bazaar selling spiritual items, handicrafts, clothing & snacks.",
+      "essential": "Carry cash for small shops; many sell unique handicrafts, rudraksha beads, and yoga gear. Bargain respectfully and explore side lanes for hidden treasures.",
+      "story": "The markets evolved around temples and ashrams, originally catering to pilgrims. Over time, with the rise of spiritual tourism and yoga popularity, stalls expanded to offer meditation gear, organic goods, and even Western fusion clothing, creating a blend of tradition and modernity.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153517/kgfkmii7ygmk7ynt4yes.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153518/of8kmeck7ah3rdmfteez.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153519/o1cqcwcrhfp5qzdlquwd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/sxYslG9aZ_A?si=HSEwolXZkv1vjJsz"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c80",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Trimbakeshwar Temple",
+      "category": "Religious Temple",
+      "lat": 30.1266,
+      "lon": 78.329,
+      "address": "Shiv chowk, near trimbakeshwar temple, Laxman Jhula, Rishikesh, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/DdZuacHA2WfoVvTC7",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 12:00 PM, 02:00 PM – 07:00 PM (Reopens)",
+      "establishYear": "9th CE",
+      "fee": "Free",
+      "description": "Multi-story Rama temple near Laxman Jhula; ancient religious site.",
+      "essential": "Trimbakeshwar Temple, also known as the 13-storey Tera Manzil Temple, is a prominent spiritual site located near Laxman Jhula in Rishikesh. As a sacred Hindu temple, visitors are expected to dress modestly and behave respectfully. Footwear must be removed before entering the inner sanctum. Photography may be restricted in certain areas, especially around idols. Smoking, alcohol, and non-vegetarian food are strictly prohibited on temple premises. Silence or low voices are encouraged inside, especially during prayer times. Devotees and tourists should also avoid littering and follow cleanliness norms, maintaining the sanctity and peaceful atmosphere of the temple.",
+      "story": "This 13-story temple is dedicated to Lord Shiva and houses multiple deities on each floor. It is modeled after the original Trimbakeshwar Jyotirlinga in Nashik. Built in the 20th century, it's now one of Rishikesh’s most visited spiritual landmarks.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153529/hrf4kiff1nopkolq0whz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153530/akixvmq1lye6nxzmoq3z.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153532/ss85nlrokfeizndz6tvv.jpg"
+      ],
+      "videos": [
+        "www.youtube.com/embed/Q_Yv0y009NU?si=qnL3IdR3zx98QqWS"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c82",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Garud Chatti Waterfall",
+      "category": "Nature / Waterfall",
+      "lat": 30.1228,
+      "lon": 78.3526,
+      "address": "49F3+QR9, Patna, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/5fdkzKQqdFGMyvyn7",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00 AM – 06:00 PM(Natural open 24 hrs)",
+      "establishYear": "In Ancient Time",
+      "fee": "Free",
+      "description": "Small waterfall near Neelkanth highway; short, easy trek.",
+      "essential": "Garud Chatti Waterfall, located near the Neelkanth Mahadev Road and about 4–5 km from Laxman Jhula, is a serene natural spot accessible via a short forest trek. The path is rocky and slightly steep, so good footwear and water are recommended. Swimming in the natural pools is allowed but should be done cautiously, as rocks can be slippery. To preserve the peaceful and eco-friendly environment, littering, use of plastic, loud music, smoking, and alcohol are strictly prohibited. Modest clothing and respectful behavior are expected, especially since the area is close to spiritual sites. Best time to visit is post-monsoon when the water flow is strong.",
+      "story": "Named after Garud (the eagle vehicle of Lord Vishnu), the falls are serene and ideal for a short nature break. Locals consider the area sacred, and it’s often used by small spiritual groups for chanting and solitude.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153541/k2noqlk5m5xcwmxzgbwu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153544/evybwwquyf6stieyjsgn.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153545/wbdfn56plqf8kzyimb7q.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GnP2PrT9f5s?si=CNmBs5vTTSReWT9O"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c83",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Haridwar ",
+      "category": "City places ",
+      "lat": 29.9457,
+      "lon": 78.1642,
+      "address": "Haridwar main city,Uttrakhand,India",
+      "locationLink": "https://www.google.com/maps/place/Haridwar, +Uttarakhand/@29.9526242, 78.0335242, 24146m/data=!3m2!1e3!4b1!4m6!3m5!1s0x3909470eb8ee57c9:0x4e449176a640f5f3!8m2!3d29.9456906!4d78.1642478!16zL20vMDFxNnJi?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "Vedic period (around 3,000+ years ago).",
+      "fee": "Free",
+      "description": "Haridwar is one of the seven holiest cities (Sapta Puri) in Hinduism. It is the place where the Ganga River enters the plains of North India from the Himalayas. The city is known for its Ganga Aarti, ancient temples, and spiritual energy.",
+      "essential": "Visiting Haridwar is a deeply spiritual experience, but a few essential tips can help make your trip smooth and meaningful. Dress modestly and respectfully, as most places are active temples or sacred ghats. Attend the Ganga Aarti at Har Ki Pauri in the evening — arrive early (by 5:30 PM) to get a good spot and experience the soulful atmosphere. Be cautious around the ghats; the river current is strong, so avoid swimming unless guided. Opt for registered e-rickshaws or autos to travel around the city affordably. Carry cash, as smaller shops and local eateries may not accept cards. If visiting Mansa Devi or Chandi Devi, consider buying a ropeway combo ticket to save time and effort. Also, avoid non-vegetarian food and alcohol during your stay — Haridwar is a devout vegetarian city. Finally, be respectful of local customs, don’t photograph people during rituals without permission, and keep the ghats clean.",
+      "story": "According to Hindu mythology, Haridwar (meaning \"Gateway to Lord Vishnu\") is one of the four cities where drops of Amrit (elixir of immortality) fell during the Samudra Manthan (churning of the ocean). These drops made the city spiritually charged and gave rise to the Kumbh Mela, which occurs every 12 years. Haridwar has been a gateway to the Char Dham Yatra (Gangotri, Yamunotri, Kedarnath, Badrinath) for centuries.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153547/jcusjul9ffdkwagwh9dj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153548/nhelxwmhspnq03cjkvdj.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153549/oduxdu5rxuoeq15iaucs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/i2oYiFabX-o?si=TUh5km_-joKe-9W-"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c87",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Vashistha Gufa",
+      "category": "Meditation Spot",
+      "lat": 30.1144,
+      "lon": 78.432,
+      "address": "4C7J+PR3, Haridwar Rishikesh Badrinath Rd, Shivpuri Range, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/uXKp4eTbfTEf2pFb7",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 06:00 PM(Dawn–dusk)",
+      "establishYear": "1930",
+      "fee": "Free",
+      "description": "Meditation cave associated with sage Vashistha; used for silent spiritual practice.",
+      "essential": "Vashishta Gufa is a peaceful cave near Shivpuri where sage Vashishta is believed to have meditated. Visitors must descend around 200 stone steps to reach the cave by the Ganga River. Silence is highly respected inside the cave, as it's a meditation spot, and photography is generally not allowed. Shoes must be removed before entering, and visitors should wear modest clothing. Smoking, loud noises, and use of plastic are strictly prohibited. The cave has limited lighting, so carrying a small flashlight is helpful. The area is open only during fixed hours, usually in the morning and late afternoon, and remains closed during midday.",
+      "story": "The cave is believed to have been the meditation site of sage Vashistha, one of the Saptarishis (seven sages). The atmosphere inside the cave remains cool and calm year-round, drawing serious meditators and spiritual seekers.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153567/dh8vlkxt0z3lwtgnf0xu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153569/lbtlmvtnlq1b8imoq0pn.jpg",
+        "162)",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153570/akogxim9vjf18qfz6hua.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/I-X5-t4PmFw?si=fbw4wcNa08Tg8tnQ"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c81",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Bharat Mandir",
+      "category": "Religious Temple",
+      "lat": 30.1031,
+      "lon": 78.2947,
+      "address": "9, Ghat Rd, Mayakund, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/mWAGLss16iYpreuW8",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00 AM – 12:00 PM, 04:00 PM – 09:00 PM",
+      "establishYear": "1921",
+      "fee": "Free",
+      "description": "One of India’s oldest temples, attributed to Adi Shankaracharya; tourist and spiritual significance.",
+      "essential": "Bharat Mandir, one of the oldest temples in Rishikesh, venerates Lord Hrishikesh Narayan and holds deep spiritual significance. Entry is free, and the temple operates in two daily time slots. Visitors should dress modestly, remove footwear before entering, and maintain decorum by avoiding loud conversations, smoking, alcohol, and non-vegetarian food. Photography may be restricted inside the inner sanctum. Daily rituals include aarti ceremonies and special events like Basant Panchami and Akshaya Tritiya, when taking 108 parikramas around the deity is believed to fulfill wishes. The temple complex also hosts ancient sacred trees and a small museum displaying artifacts unearthed on site",
+      "story": "Thought to be the oldest temple in Rishikesh, it is said to have been established by Adi Shankaracharya in the 8th century. Dedicated to Lord Vishnu (Bharat form), it houses a rare black stone idol made of Shaligram, unearthed from the Alaknanda River.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153534/bfuzgycgkjoqpoizb2pd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153536/qgans5zoaicsx66pnnkr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153537/bibgj9svthgizpaacpbl.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FNiEG_FZovA?si=uTX_AlPaOqXxd-k9"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f720f4dc4834768c86",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "places": "Kunjapuri Devi Temple",
+      "category": "Religious Temple",
+      "lat": 30.1742,
+      "lon": 78.314,
+      "address": "58F7+JM9, Adali, Uttarakhand 249175",
+      "locationLink": "https://maps.app.goo.gl/X1pxBywQGMxfBdCy5",
+      "openDay": "Monday to Sunday",
+      "openTime": "06:00 AM – 07:00 PM",
+      "establishYear": "8th CE",
+      "fee": "Free",
+      "description": "Hilltop Devi temple offering sunrise views; highly revered for blessings.",
+      "essential": "Kunjapuri Devi Temple, located on a hilltop near Rishikesh, is a sacred Shaktipeeth that requires a climb of around 80 steps or a trek through forest trails. Visitors should be prepared for steep paths and high altitude, making comfortable shoes and water important. Photography is generally allowed, but respectful behavior and modest clothing are expected at this holy site. Littering, smoking, and loud behavior are not permitted. Aarti rituals are held daily, and the temple becomes especially crowded during festivals like Navratri and Dussehra. Many visitors arrive early in the morning to witness the peaceful and scenic sunrise.",
+      "story": "One of the 52 Shakti Peethas, this temple is dedicated to Goddess Durga and is believed to be where her upper body fell during the legend of Sati. Kunjapuri has been a pilgrimage site for centuries and is also a key point in the spiritual triangle with Surkanda Devi and Chandrabadni temples.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153562/ibc1h9ridbu8f51iemn8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153564/v4yhznn6hjriccuhuheh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153565/qk6zse58o0lkerpiskld.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/FuusjIL52ks?si=9wrnAuO9pXsxyrgR"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "shop": [
+    {
+      "_id": "68c7f5f820f4dc4834768ca9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Bada Bazaar",
+      "lat": 30.1047,
+      "lon": 78.2989,
+      "address": "6, Ghat Rd, Mayakund, Rishikesh, Uttarakhand 249201, India",
+      "locationLink": "https://maps.app.goo.gl/3zXMbkt3upA3F5AE8",
+      "famousFor": "General market",
+      "priceRange": "250-5000",
+      "openDay": "Monday to Sunday",
+      "openTime": "Open 24 hours",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153731/bpgsqzyfafrwy9cydaqk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153732/kgw1qdpvwkqvynsgyqlv.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153733/ulqpcx6gfrr9gih8j1cy.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cac",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Adventure axis",
+      "lat": 30.1283,
+      "lon": 78.3232,
+      "address": "162, Badrinath Rd, Near Tapovan Police Check Post, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/7vPHbA64RqFDtBvd8",
+      "famousFor": "Adventure sports equipment/services",
+      "priceRange": "500-725000",
+      "openDay": "Monday to Friday",
+      "openTime": "10:30 AM - 7:30 PM",
+      "phone": "+91 76692 80002",
+      "website": "https://www.adventureaxis.in/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153744/dg6anbaligizwkuqaquq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153745/d3jxxdk5kzbesoexcwjl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153746/gu1ry1lcgtdylfoxgoql.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Scorpion Handicrafts",
+      "lat": 30.127,
+      "lon": 78.3264,
+      "address": "Laxman Jhula Rd, Tapovan, Rishikesh, Jonk, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/xQFrSRVZRg4GVdT79",
+      "famousFor": "Handicrafts",
+      "priceRange": "200-5000",
+      "openDay": "Monday to Sunday",
+      "openTime": "8:00 AM - 9:00 PM",
+      "phone": "+91 99174 49863",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153764/xbxcvj21en85x9qwtnk9.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153765/uyyhqgb3bkqgj1ronceg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153766/o7lliggvruerhd0fz1fi.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ca8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "GoleMarket ",
+      "lat": 30.1083,
+      "lon": 78.2972,
+      "address": "4842+Q4R, Manvendera Nagar, Rishikesh, Uttarakhand 249201, India",
+      "locationLink": "https://maps.app.goo.gl/ysZ2fhEVcpUrBshc8",
+      "famousFor": "General market",
+      "priceRange": "50-3000",
+      "openDay": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday",
+      "openTime": "9:00 AM - 9:00 PM",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153722/awkiaxnbkko3vs6uwwsy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153724/jms8qopap61q3rphavkb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153729/e09e1klalni24popciib.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768caa",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Music for soul store",
+      "lat": 30.1212,
+      "lon": 78.3133,
+      "address": "48C7+G86, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/1haQ6qB4aTLWVwMi8",
+      "famousFor": "Music-related items",
+      "priceRange": " 200-6000",
+      "openDay": "Monday to Friday, Saturday",
+      "openTime": "10:00 AM - 8:00 PM",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153735/knrxwcblu7uopjlf0mis.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153736/c7gusfdjhddstgvq5tym.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153737/jcslrshongq9mjdppjpe.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Crafted Experiences",
+      "lat": 30.1214,
+      "lon": 78.3177,
+      "address": "1, Ram Jhula, sivanandnagar, Muni Ki Reti, Rishikesh, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/mLx365j6ZnUUN1qC6",
+      "famousFor": "Handicrafts, spiritual items",
+      "priceRange": "800-4000",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:00 AM - 9:00 PM",
+      "phone": "+91 97607 53808",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153768/m3w7dpwiinfqw1dfjxgb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153770/iete25euyrfpgksqetu8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153771/ltjxzt8qkgcbvqlkxnfj.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cab",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Laxman Jula market",
+      "lat": 30.1251,
+      "lon": 78.3306,
+      "address": "48GJ+36R, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249302",
+      "locationLink": "https://maps.app.goo.gl/KdTNkSuPqbWocUW79",
+      "famousFor": "General market, spiritual items, handicrafts",
+      "priceRange": "50-1500",
+      "openDay": "Monday to Sunday",
+      "openTime": "8:00 AM - 11:00 PM",
+      "phone": "+91 97602 21415",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153739/lapvimims5q7qsplap5y.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153740/cnkovwijpisrxqqjyqdm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153741/j1vyula2cpim8pvhzmj3.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cad",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "khadi Bhandar",
+      "lat": 30.1071,
+      "lon": 78.2989,
+      "address": "Haridwar Rd, Adarsh Gram, Rishikesh, Uttarakhand 249201",
+      "locationLink": "https://maps.app.goo.gl/hLNTqDxSbsxvCKo3A",
+      "famousFor": "Khadi products (hand-spun, hand-woven fabrics)",
+      "priceRange": "200-2000",
+      "openDay": "Monday, Tuesday, Wednesday, Friday, Saturday, Sunday",
+      "openTime": "10:30 AM - 8:00 PM",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153748/ttt2to5b2lezjvpnom9q.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153750/bbra4ep3hk0ztkvccrpz.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153751/tciwewlqqdnxavy1pzvu.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cae",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Jain Spice Shop",
+      "lat": 30.127,
+      "lon": 78.3264,
+      "address": "Stairway . Near laxman temple, Laxman Jhula Rd, Tapovan, Rishikesh, Jonk, Uttarakhand 249137",
+      "locationLink": "https://maps.app.goo.gl/MUCMTfXfL9JbyvNS8",
+      "famousFor": "Spices",
+      "priceRange": "50-3000",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:00 AM - 9:30 PM",
+      "phone": "+91 70555 65071",
+      "website": "https://cookingmasala.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153754/d5uqlt6ktkskljupb305.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153755/n1ezoes4bvkacn6clvom.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153756/sjdngqt9jxmu1iemzx7l.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768caf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Ganpat Gems Paradise",
+      "lat": 30.1209,
+      "lon": 78.3132,
+      "address": "Parmarth Niketan, Ram Jhula, Swarg Ashram, Rishikesh, Uttarakhand 249304",
+      "locationLink": "https://maps.app.goo.gl/UpPdgzvWim1dWUAk8",
+      "famousFor": "Gems and jewelry",
+      "priceRange": "300-10000",
+      "openDay": "Monday to Sunday",
+      "openTime": "9:00 AM - 9:00 PM",
+      "phone": "+91 97604 97182",
+      "website": "http://www.rishikeshgems.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153761/sz0phw4bqdgnuj8fagyq.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153762/jn39wqsw9kffuzpsx02j.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153762/kye4e3v4ybm6cun13bum.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "flagship": false,
+      "shops": "Namaste Rishikesh Pashmina Store",
+      "lat": 30.1261,
+      "lon": 78.3287,
+      "address": "Chowk, Laxman Jhula, Rishikesh, Jonk, Uttarakhand 249192",
+      "locationLink": "https://maps.app.goo.gl/vK7LPoB3xZgZsyMJA",
+      "famousFor": "Pashmina products",
+      "priceRange": "1200-30000",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00 AM - 9:30 PM",
+      "phone": null,
+      "website": "https://sites.google.com/view/namasterishikeshpashmina",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153774/v8a2llbvqntaj7yn4dmu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153775/hhptqfoe9e3806rkqgo3.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757153776/tmkxfseaqpragwgfyzj3.jpg"
+      ],
+      "premium": "FREE",
+      "__v": 0
+    }
+  ],
+  "transport": [
+    {
+      "_id": "68c7f5f820f4dc4834768cb4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 900-100",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Tapovan",
+      "cabPrice": "Rs 800-900",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbe",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 400-500",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 350-450",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cca",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Byasi",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Gole Market",
+      "cabPrice": "Rs 250-350",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Tapovan",
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 800-1100",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Tapovan",
+      "cabPrice": "Rs 400-500",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Byasi",
+      "cabPrice": "Rs 500-600",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 1000-1100",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 200-300",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "shivpuri",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 900-1100",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Byasi",
+      "cabPrice": "Rs 1400-1500",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 500-700",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 1000-1100",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cba",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Byasi",
+      "cabPrice": "Rs 950-1050",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Gole Market",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 100-140",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Gole Market",
+      "cabPrice": "Rs 80-100",
+      "bikePrice": "Rs 20-30",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Tapovan",
+      "cabPrice": "Rs 100-200",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cce",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 100-150",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Tapovan",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 60-80",
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 1000-1200",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Gole Market",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 600-700",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 900-1000",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Byasi",
+      "cabPrice": "Rs 800-900",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Gole Market",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE",
+      "__v": 0
+    }
+  ]
+}

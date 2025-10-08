@@ -44,6 +44,13 @@ CATEGORY_FILES: Dict[str, str] = {
     "Transport": "Transport_rishikesh.json",
 }
 
+# Namespace mapping for consistency with other cities
+NAMESPACE_MAPPING: Dict[str, str] = {
+    "CityInfo": "CityInfo-Rishikesh",
+    "HiddenGem": "HiddenGem-Rishikesh", 
+    "NearbySpot": "NearbySpot-Rishikesh"
+}
+
 # --- Embedding text builders per category (fallback generic) ---
 def _join(values: List[str | None]) -> str:
     return " | ".join([v for v in values if v])
@@ -108,9 +115,12 @@ def load_section(cat: str) -> List[Dict[str, Any]]:
         return []
     with path.open("r", encoding="utf-8") as f:
         data = json.load(f)
-    section = data.get(cat)
+    
+    # Use lowercase key for data lookup (consistent with other cities)
+    lowercase_cat = cat.lower()
+    section = data.get(lowercase_cat)
     if not isinstance(section, list):
-        print(f"[WARN] {cat}: top-level key not list")
+        print(f"[WARN] {cat}: top-level key '{lowercase_cat}' not found or not list")
         return []
     return section
 
@@ -164,7 +174,10 @@ def main():
         metas = bundle["metas"]
         print(f"[EMBED] {cat} ({len(texts)}) ...")
         vectors = embeddings.embed_documents(texts)
-        namespace = f"{cat}-Rishikesh"  # Category-Rishikesh
+        
+        # Apply namespace mapping for consistency
+        namespace = NAMESPACE_MAPPING.get(cat, f"{cat}-Rishikesh")
+        
         payload = []
         for i, (vec, meta) in enumerate(zip(vectors, metas)):
             payload.append({

@@ -25,7 +25,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/AfR0uRGryvw?si=V6rBo-aK6UCREsPR"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585bc",
@@ -52,7 +53,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/CyvI3uC7xB4?si=BViUoJ0jpmA_ZU4y"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585ba",
@@ -79,7 +81,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/8t2AWC9Chlw?si=W4z6ZWagpqGFIV76"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585bf",
@@ -106,7 +109,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/ziduCLovltM?si=0Y5LLd9RKkO1AMc4"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585bd",
@@ -133,7 +137,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/hEgSGNqEE2A?si=QPYubOV7NQ-hciF0"
-      ]
+      ],
+      "premium": "FREE"
     },
     {
       "_id": "68c875339dad7b39dff585be",
@@ -160,7 +165,8 @@
       ],
       "videos": [
         "https://www.youtube.com/embed/UszGt7q6ey8?si=Puy0-ZfhgU7iDc8W"
-      ]
+      ],
+      "premium": "FREE"
     }
   ]
 }

@@ -1,0 +1,435 @@
+{
+  "place": [
+    {
+      "_id": "68e02d6bbd1f9c367048dd72",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Dashrath bhavan",
+      "category": "Hindu temple",
+      "lat": 26.7964,
+      "lon": 82.1998,
+      "address": "Q5WX+HWC, Ram Path Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Dashrath+Mahal+Ayodhya/@26.7964329, 82.1997537, 17z/data=!4m6!3m5!1s0x399a0794ecbb53d7:0x4ca3f51aa252a248!8m2!3d26.7964329!4d82.1997537!16s%2Fg%2F1tk6yxj0?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 12:00PM",
+      "establishYear": "1995",
+      "fee": "₹0",
+      "description": "Dashrath Bhavan is the historic palace complex believed to be the original residence of King Dashrath, the father of Lord Rama. The Bhavan houses a shrine with beautiful idols of Lord Rama, Lakshman, and Goddess Sita, representing the royal heritage of Ayodhya's epic past. Saffron-clad monks regularly chant mantras and perform devotional activities within this sacred palace, creating a deeply spiritual atmosphere for visitors.\n\n",
+      "essential": "The temple follows standard Hindu temple protocols requiring modest traditional dress covering shoulders and knees. Footwear must be removed before entering the inner sanctum, and visitors should maintain respectful behavior with minimal noise levels. Photography restrictions may apply in certain sacred areas, so visitors should check with temple authorities.",
+      "story": "Dashrath Bhavan stands as a magnificent testament to the ancient royal dynasty of Ayodhya, believed to have been constructed on the exact site where King Dashrath's original palace once stood. According to the Ramayana, King Dashrath of the illustrious Ikshvaku dynasty ruled the prosperous Kosala Kingdom with Ayodhya as his capital, establishing a golden age of righteousness and prosperity. The palace served as the childhood home of Lord Rama and his three brothers - Lakshmana, Bharata, and Shatrughna - where they spent their formative years under the loving guidance of their father. Historical accounts describe the original palace as a sprawling edifice adorned with exquisite architecture, high ceilings, ornate columns, and intricately designed courtyards with multiple wings serving different purposes from royal living quarters to administrative offices and grand assembly halls. The current structure, though much smaller than the original magnificent palace, continues to attract thousands of devotees annually who come to witness the very spot where Lord Rama was born and spent his childhood. The Bhavan houses a sacred shrine containing beautiful idols of King Dashrath, Lord Rama, Lakshmana, and Bharata, with saffron-clad monks regularly chanting mantras and reciting verses from the Ramayana and other scriptures.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516946/hem8u12t7hbsccgloj6p.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516948/gqpmsuskxnkt8d3abszr.webp",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516949/vnol9klnpibiuytlwigk.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/702_vnKt7hM"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd79",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Guptar ghat",
+      "category": "Tourist attraction",
+      "lat": 26.7989,
+      "lon": 82.1165,
+      "address": "Faizabad) Cantt, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Guptar+Ghat, +Faizabad+Cantt, +Faizabad, +Uttar+Pradesh+224001/data=!4m2!3m1!1s0x399a05dab20b5831:0x5954d1ae82085029?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Guptar Ghat is the most spiritually significant ghat in Ayodhya, believed to be the spot where Lord Rama meditated and took Jal Samadhi (ritual water immersion) before departing to his heavenly abode Vaikunta. Located 10 km from Ayodhya, this sacred site houses several temples including Sita-Ram, Chakrahari, and Narsingh temples, creating a deeply meditative atmosphere. The ghat has undergone complete transformation with modern amenities including meditation centers, cafeteria, and interpretation centers while maintaining its ancient spiritual essence.",
+      "essential": "Proper dress code is essential as it's a sacred worship place, with modest clothing covering the body appropriately. Visitors must follow religious decorum and maintain respectful behavior during meditation and prayer activities. Boating activities require adherence to safety guidelines, and photography should be done respectfully without disturbing devotees.",
+      "story": "Guptar Ghat stands as the most emotionally significant and spiritually powerful site in Ayodhya, as it marks the sacred spot where Lord Rama performed Jal Samadhi (ritual water immersion) to depart from his earthly form and return to his eternal abode Vaikuntha. According to the detailed narrative in Uttar Ramayana by sage Valmiki, after ruling Ayodhya with justice, love, and compassion for thousands of years, Lord Rama realized his divine mission on Earth had reached completion. The poignant story describes how Yama Deva (the god of death) visited Lord Rama in the disguise of a saint to inform him that the time had come for his departure, leading to a series of events that culminated at Guptar Ghat. On that fateful day, Lord Rama walked to the banks of the holy Saryu River accompanied by his loyal brothers, devoted followers, and all the people of Ayodhya who couldn't bear the thought of being separated from their beloved king. The atmosphere was filled with both devotion and despair as the citizens cried out for their cherished Rama to stay, but understanding the cosmic order, he proceeded with his divine plan. Historical accounts describe how Lord Rama first removed his sandals and walked toward the Saryu waters, where even Hanuman pleaded to be taken along, but Rama blessed him with immortality to continue serving devotees in Kali Yuga. As Lord Rama entered the sacred river, it's believed that the waters glowed with divine light and embraced him like a mother welcoming her child, as he merged with the infinite and returned to his original form of Vishnu. The transformation of Guptar Ghat in recent years has been remarkable - once a dilapidated area known mainly for ancient temples and meditation sites amid litter and stray animals, it has been completely revitalized under government initiatives. The modernization includes riverbank restoration, solid embankments, road widening, and beautification projects costing Rs. 76.73 crores, while maintaining its ancient spiritual essence with meditation centers, cafeteria, interpretation centers, and modern amenities for pilgrims.����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517004/biyjbposnpayckeszmuy.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517006/ehud5ui7qltoxgqrc5u8.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517008/qwa8wq4onhru7nqeekmn.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/EoessSxUdhM"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd75",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ram ki paidi",
+      "category": "Water",
+      "lat": 26.809,
+      "lon": 82.2057,
+      "address": "Theri Bazar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Ram+Ki+Paidi/@26.808957, 82.2057493, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a0784e30fab23:0x5e14268ebaacbcbf!8m2!3d26.8093486!4d82.2058888!16s%2Fg%2F1tdmhwwx?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1984",
+      "fee": "₹0",
+      "description": "Ram Janam Bhoomi is the sacred birthplace of Lord Rama, the seventh avatar of Lord Vishnu, located in the holy city of Ayodhya. The newly constructed Ram Temple, inaugurated in 2024, stands at this revered site where millions of devotees come to worship Ram Lalla (infant Rama). This holiest site in Ayodhya attracts over 100,000-150,000 daily visitors and holds immense religious significance as one of the most important pilgrimage destinations in Hinduism.",
+      "essential": "Modest dress code applies when visiting the ghats with appropriate body coverage. Devotees should respect religious customs during holy dip rituals and aarti ceremonies. Swimming or inappropriate water activities are discouraged, and visitors should follow safety guidelines especially during festival times when crowds surge",
+      "story": "Ram ki Paidi holds profound spiritual significance as the exact location where Lord Rama took his daily ritual bath in the sacred Saryu River during his time in Ayodhya. According to ancient legends preserved in Hindu scriptures, Lord Rama made a divine promise to his brother Lakshmana that anyone taking a holy dip at these ghats before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites across India. The Saryu River itself carries immense mythological importance, as it witnessed every significant moment of Lord Rama's life from his birth to his departure to Vaikuntha. Historical accounts reveal that these ghats have been sites of continuous worship and pilgrimage for millennia, with devotees gathering for daily prayers, ritual baths, and religious ceremonies. The beautifully renovated Ram ki Paidi gained international recognition during the spectacular Deepotsav celebration, when over 450,000 earthen lamps created a mesmerizing display that earned a Guinness World Record, illuminating the ghats in honor of Lord Rama's victory over darkness. The ghats feature 14-25 modern bathing spots with recently constructed facilities including floating bathing ponds for senior citizens equipped with safety barriers and ramps for accessibility. The evening aarti ceremony at Ram ki Paidi creates an ethereal atmosphere as hundreds of devotees gather with oil lamps, creating reflections on the sacred waters while chanting Lord Rama's name. The spiritual power of these ghats is believed to be especially potent during Purnima (full moon) nights when the combination of moonlight and the sacred river creates a divine ambiance for meditation and prayer.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516967/a34yfyzjbhpweparuxpl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516969/z3luldpbnuu70qeaipcs.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516972/ysaospadlttt5iuxhd4i.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/nqFlGmNr9y8"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd77",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ram Janam Bhoomi",
+      "category": "Hindu temple",
+      "lat": 26.7962,
+      "lon": 82.1962,
+      "address": "near Ayodhya Railway Staion, near Hanuman ghadi, Ayodhya, Uttar Pradesh",
+      "locationLink": "google.com/maps/place/Shree+Ram+Janmabhoomi+Mandir,+Sai+Nagar,+Ayodhya,+Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07cd3079f0bf:0x5589e823b23ba9dc?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 06:00PM",
+      "establishYear": "2024",
+      "fee": "₹0",
+      "description": "Tulsi Udyan is a peaceful garden and memorial dedicated to the poet-saint Tulsidas, author of the famous Ramcharitmanas. The garden features a beautiful statue of Tulsidas under a carved canopy and serves as a tranquil retreat for visitors seeking quiet reflection. Located near the Ayodhya bus stand, this well-maintained park offers free entry and provides a serene environment to contemplate the literary legacy of one of India's greatest devotional poets.",
+      "essential": "No strict dress code is mandated, but traditional Indian attire is strongly encouraged - men should wear dhoti, kurta-pajama, or simple cotton shirts with full-length trousers, while women should don salwar suits, sarees, or modest Indian wear. Mobile phones, wallets, gadgets, earphones, bags, flowers, garlands, prasad, and leather items are strictly prohibited. Entry requires valid government-issued ID like Aadhaar card or passport, and special aarti attendance needs advance online booking",
+      "story": "Ram Janam Bhoomi, the most sacred site in Ayodhya, represents the culmination of a 500-year struggle by Hindu devotees to reclaim their holiest pilgrimage destination. According to Hindu religious beliefs and the ancient Ramayana epic dating back to the 1st millennium BCE, this is the exact birthplace of Lord Rama, the seventh avatar of Vishnu and the embodiment of dharma. The site's tumultuous history began in 1528 when Mir Baqi, a commander of Mughal emperor Babur, constructed the Babri Masjid after allegedly demolishing a temple that marked Lord Rama's birthplace. The great saint-poet Tulsidas, in his lesser-known work \"Tulsi Doha Satak,\" poignantly recorded the destruction of the Ram temple in Samvat 1585 (1528 CE) by Mir Baqi and the construction of a mosque at the same sacred spot, describing how countless Hindus were mercilessly killed and the temple was broken to build the mosque. Throughout the centuries, Hindu resistance never ceased - the Marathas between 1751-59 prioritized Ayodhya, Kashi, and Mathura for reclamation, while in 1858, Nihang Sikhs made a significant attempt to claim the site as Lord Rama's birthplace. The modern Ram Temple movement gained unprecedented momentum in the 1980s led by the Vishwa Hindu Parishad (VHP) and BJP, culminating in the demolition of Babri Masjid by kar sevaks in 1992. After decades of legal battles, archaeological excavations, and political negotiations, the Supreme Court of India in 2019 finally awarded the disputed site to Hindu parties for the construction of Ram Temple. The magnificent new Ram Temple, inaugurated in 2024 by Prime Minister Narendra Modi, features nearly 400 pillars, 44 doors, and houses the sacred idol of Ram Lalla (infant Rama), attracting over 100,000-150,000 daily visitors and representing the triumph of faith and perseverance.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516988/kkr93cfpjfg1jdnudtaw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516991/rlszfekzptultkceucvu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516993/l5v1m80bf9q6xqhra8zh.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/-dzKZDDfdMw"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd78",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Saryu Ghat",
+      "category": "Pilgrimage place",
+      "lat": 26.8112,
+      "lon": 82.2059,
+      "address": "R664+G97, Manjha Kala, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R664%2BG97+Saryu+Ghat, +Manjha+Kala, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07849b10ce49:0x293063ce47c0e5fd?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Saryu Ghat refers to multiple sacred bathing spots along the holy Saryu River, where devotees perform daily rituals, prayers, and religious ceremonies. The ghats feature modern facilities including floating bathing ponds for senior citizens with safety barriers and ramps for accessibility. These riverfront steps serve as the spiritual heart of Ayodhya, where pilgrims gather for holy dips believed to cleanse sins and provide divine blessings, especially during full moon days.",
+      "essential": "Modest dress code applies when visiting the ghats with appropriate body coverage. Devotees should respect religious customs during holy dip rituals and aarti ceremonies. Swimming or inappropriate water activities are discouraged, and visitors should follow safety guidelines especially during festival times when crowds surge",
+      "story": "Ram ki Paidi holds profound spiritual significance as the exact location where Lord Rama took his daily ritual bath in the sacred Saryu River during his time in Ayodhya. According to ancient legends preserved in Hindu scriptures, Lord Rama made a divine promise to his brother Lakshmana that anyone taking a holy dip at these ghats before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites across India. The Saryu River itself carries immense mythological importance, as it witnessed every significant moment of Lord Rama's life from his birth to his departure to Vaikuntha. Historical accounts reveal that these ghats have been sites of continuous worship and pilgrimage for millennia, with devotees gathering for daily prayers, ritual baths, and religious ceremonies. The beautifully renovated Ram ki Paidi gained international recognition during the spectacular Deepotsav celebration, when over 450,000 earthen lamps created a mesmerizing display that earned a Guinness World Record, illuminating the ghats in honor of Lord Rama's victory over darkness. The ghats feature 14-25 modern bathing spots with recently constructed facilities including floating bathing ponds for senior citizens equipped with safety barriers and ramps for accessibility. The evening aarti ceremony at Ram ki Paidi creates an ethereal atmosphere as hundreds of devotees gather with oil lamps, creating reflections on the sacred waters while chanting Lord Rama's name. The spiritual power of these ghats is believed to be especially potent during Purnima (full moon) nights when the combination of moonlight and the sacred river creates a divine ambiance for meditation and prayer.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516997/ahqh8jj1txbwsnpulnm4.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516999/wkje3kj2bcjn2mdrqifm.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517000/x0orgkefqzqsfuxszep1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ONZHU3aEHEI"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Tulasi Smarak Bhavan",
+      "category": "Museum",
+      "lat": 26.7948,
+      "lon": 82.205,
+      "address": "Q6V4+X22, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Q6V4%2BX22+Tulasi+Smarak+Bhavan, +New+Colony, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a078d48fc0fad:0x3eb1b8493aae690?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=48d2378e-a042-4172-b1fb-b797e14a7b5a",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "establishYear": "1969",
+      "fee": "₹0",
+      "description": "Tulasi Smarak Bhavan is a cultural and literary center dedicated to celebrating the legacy of poet-saint Tulsidas and the Ramayana. The center houses exhibitions, a library, and regularly hosts Ramleela performances from 6:00-9:00 PM, serving as a hub for scholars and tourists interested in literary heritage. This educational facility provides valuable insights into Tulsidas's contributions to devotional literature and offers a comprehensive understanding of Ramayana's cultural impact.",
+      "essential": "As a cultural and literary center, visitors should maintain appropriate behavior during exhibitions and library activities. Standard dress code for cultural institutions applies with modest clothing. Photography may be restricted in certain exhibition areas, and library rules must be followed when accessing research materials.",
+      "story": "Established in 1969, the Tulasi Smarak Bhavan is a cultural institution built to honor the monumental legacy of the 16th-century poet-saint Goswami Tulsidas, whose epic Ramcharitmanas made the story of Lord Rama accessible to the masses by translating it into the local Awadhi dialect. This Bhavan is not merely a memorial but a vibrant cultural hub, housing the Ayodhya Research Centre and the Ramakantha Museum, which preserves antiquities that narrate Ayodhya's rich history. Through daily Ramlila performances, religious discourses, and devotional concerts, the center actively continues the very traditions and spiritual devotion that Tulsidas championed, making it a living testament to his enduring impact on Indian culture.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517039/orz6ncdogyo7pno9y2cd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517040/xembl6ruhzcsbuqif90g.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517044/tvj8eyk2oom4bszweoxm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/JSzKniedIQA"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd80",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Lata Mangeshkar chowk",
+      "category": "Historical landmark",
+      "lat": 26.808,
+      "lon": 82.209,
+      "address": "R655+6J8, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R655%2B6J8+Lata+Mangeshkar+chowk, +Karsewakpuram, +Ayodhya, +Manjha+Kala, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a07004a2751cd:0x500d067d9e69b653?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=47d80941-055a-4cca-a834-d91683de9cda",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "2022",
+      "fee": "₹0",
+      "description": "Lata Mangeshkar Chowk is a prominent intersection in Ayodhya featuring a statue and musical-themed installations dedicated to the legendary singer Lata Mangeshkar. The chowk serves as both a memorial to India's beloved melody queen and a practical landmark for visitors navigating through the city. This cultural monument celebrates the musical heritage of India while providing tourists with an easily recognizable reference point during their exploration of Ayodhya.",
+      "essential": "As a public monument and landmark, standard public space behavior applies with respect for the memorial installations. Photography is generally permitted, but visitors should be mindful of traffic and pedestrian safety at this busy intersection",
+      "story": "Lata Mangeshkar Chowk is a modern cultural monument inaugurated in 2022 to posthumously honor the legendary singer Lata Mangeshkar, India's most celebrated \"Nightingale\". Located at a key intersection, its stunning centerpiece is a 40-foot-long veena sculpture, a traditional Indian instrument that symbolizes the singer's immense contribution to the nation's musical heritage.  Developed by the government, this chowk has quickly become a popular landmark and \"selfie hotspot,\" signifying Ayodhya's evolution into a city that celebrates both its ancient spiritual roots and its connection to contemporary Indian culture.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517064/mscnoategtheikemmd56.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517066/nauq3fnmgq7cemqfj9ob.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517067/ctocjizjxkvkxldhrhl4.webp"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/AE9K9dzdaqc"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd81",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Surya Kund",
+      "category": "Hindu temple",
+      "lat": 26.7521,
+      "lon": 82.2106,
+      "address": "Harlalka Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Surya+Kund, +Harlalka+Rd, +Darshan+Nagar, +Ayodhya, +Shanawa, +Uttar+Pradesh+224135/data=!4m2!3m1!1s0x399a081eb8acc8c3:0xf57d0a0800874ae8?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=0140bc15-4f47-4048-939a-9d07c882f780",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 10:00PM",
+      "establishYear": null,
+      "fee": "₹30",
+      "description": "Surya Kund is a sacred water tank dedicated to Surya, the Sun God, where devotees come for ritual baths and worship. The kund holds historical significance through its connection to various festival celebrations and religious stories involving Lord Rama. This ancient site is particularly auspicious for early morning visits during sunrise when devotees perform traditional Sun God worship rituals and seek divine blessings.",
+      "essential": "As a sacred water tank dedicated to Surya (Sun God), traditional ritual protocols apply including appropriate dress and respectful behavior during worship. Visitors should follow safety guidelines around the water area and respect ongoing religious ceremonies.",
+      "story": "Surya Kund holds a extraordinary place in Ayodhya's spiritual landscape, with its origins traced to one of the most significant events in Hindu mythology - the coronation ceremony of Lord Rama. According to Puranic legends, when Lord Rama was born, all gods and goddesses converged in Ayodhya to witness this divine incarnation, including Lord Surya (the Sun God) who decided to grace the earth with his presence. The fascinating story reveals that Lord Surya, captivated by the divine form of Lord Rama, halted his celestial chariot near present-day Darshan Nagar and stayed for an entire month, during which time the sun seemingly never set in Ayodhya, creating a month-long day of divine illumination. During Lord Rama's coronation ceremony, Lord Surya's chariot remained stationed at this sacred spot, leading to the construction of Surya Kund to commemorate this divine visitation. The kund's significance was further enhanced during the 19th century when King Darshan Singh, a descendant of Lord Rama from the Suryavanshi dynasty, suffered from leprosy and found miraculous healing after bathing in the waters of a dilapidated pond at this site. Grateful for this divine cure and inspired by a divine vision, King Darshan Singh reconstructed the kund and established a temple complex, leading to the area being named Darshan Nagar in his honor. During the restoration work, King Darshan Singh unearthed remarkable treasures including an idol of Lord Surya with a chariot drawn by seven horses, a Shivlinga, and great wealth, which he used to build the magnificent kund and surrounding temple. The ancient significance of this site is also connected to King Ghosh of the Ikshvaku dynasty, after whom it was originally called \"Ghoshark Tirtha\" - legend states that King Ghosh witnessed sages bathing in the sacred waters and after taking a dip himself, his body became divine and radiant. The Suryavanshi rulers of Ayodhya, who considered themselves descendants of the Sun God, constructed this kund as a place of worship to pay homage to their dynastic deity. Today, the renovated Surya Kund with its surrounding corridor serves as an essential stop for pilgrims visiting Ayodhya, where they seek darshan of the Sun God before proceeding to other temples, completing their spiritual journey in the holy",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517070/lw945egrtnmgrzzqr3c1.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517072/enod3hs5lys5ypw84acp.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517076/sasnav9llgpb67urblis.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/R6eIETjpbCk"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd73",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "kanak bhawan",
+      "category": "Hindu temple",
+      "lat": 26.798,
+      "lon": 82.1992,
+      "address": "Janmabhoomi Path, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Kanak+Bhawan/@26.7980174, 82.1992155, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a07b9c7d40cc1:0x9491c1265f1c6a15!8m2!3d26.7980174!4d82.1992155!16s%2Fg%2F11gtc7h87m?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "08:00AM - 11:00PM, 04:30PM - 09:00PM",
+      "establishYear": "1891",
+      "fee": "₹0",
+      "description": "Kanak Bhawan, known as the \"Golden Palace,\" is a magnificent temple dedicated to Lord Rama and Goddess Sita, believed to be gifted by Queen Kaikeyi to Sita after her marriage. The temple houses three pairs of gold-crowned idols under a silver roof, showcasing exquisite Bundelkhand architecture with arched doorways and ornate decorations. This sacred abode is considered the personal palace of Lord Rama and Sita, making it one of Ayodhya's most beloved and spiritually significant temples",
+      "essential": "Visitors must dress modestly with traditional clothing mandatory - men should wear long pants with shirts or kurtas, while women must don sarees, salwar-kameez, or Indian attire covering shoulders and knees. Western garments like shorts, skirts, and sleeveless tops are strictly prohibited. Footwear removal is required before entering the temple premises, and non-vegetarian food and alcohol are completely banned.",
+      "story": "Kanak Bhawan, literally meaning \"Golden Palace,\" holds one of the most beautiful love stories in Hindu mythology, tracing its origins back to the Treta Yuga when it was gifted by Queen Kaikeyi to her daughter-in-law Goddess Sita immediately after her marriage to Lord Rama. According to ancient religious traditions, King Dasharatha commissioned the construction of this magnificent palace under the direction of divine architect Vishwakarma at the request of prominent craftsmen for Queen Kaikeyi. The original palace was described as the most divine and opulent residence in Ayodhya, occupying fourteen kos of land with such grandeur that it was considered Lord Rama and Sita's personal paradise. Mythological accounts reveal that the palace had strict protocols where men were not allowed in any of its annexes, and even Hanuman, Lord Rama's most devoted follower, could only secure a spot in the courtyard with special permission. The temple's remarkable history spans multiple cosmic eras - after the original structure was damaged during the transition from Treta to Dvapara Yuga, it was believed to have been rebuilt by Lord Krishna himself who visited this sacred place around 614 BC. Throughout history, the palace was reconstructed several times: first by Rama's son Kush in the early Dvapara Yuga, then by King Rishabh Dev in the middle of Dvapara Yuga, later by Chandragupta Vikramaditya in 2431 BC, and by Samudragupta in 387 AD. The present structure was beautifully reconstructed in 1891 by Maharaj Mahendra Pratap Singh and his wife Maharani Vrishabhan Kunwari of Orchha after the temple was destroyed by Nawab Salarjung-II Ghazi in 1027 AD. The temple houses three magnificent pairs of gold-crowned idols of Rama and Sita under a silver roof, representing the eternal divine love and showcasing exquisite Bundelkhand architecture.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516952/slwdv65ebqzxynharw1i.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516954/laxj9tv3iptdvfbcsicw.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516957/poy3r8qmbktz5zloo54b.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/702_vnKt7hM"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd74",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Hanuman garhi",
+      "category": "Hindu temple",
+      "lat": 26.7956,
+      "lon": 82.2018,
+      "address": "Sai Nagar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shri+Hanuman+Garhi+Mandir, +Sai+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0792dbf96a15:0x68c9050f72e31d9d?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI0LjQ5LjYYACCenQoqkAEsOTQyNDI0OTYsOTQyMjMyOTksOTQyMTY0MTMsOTQyMTI0OTYsOTQyMTI2NjUsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjgyMDQsOTQyMjk4MzksOTQyMzkxMjcsNDcwODcxMTgsNDcwODQzOTMsOTQyMTMyMDBCAklO",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 11:00PM",
+      "establishYear": "1800",
+      "fee": "₹0",
+      "description": "Hanuman Garhi is a prominent 10th-century fort-temple dedicated to Lord Hanuman, built on a hilltop and accessible by climbing 76 steep steps. The temple houses a beautiful 6-inch idol of young Hanuman sitting in the lap of his mother Anjani, surrounded by silver carvings and inscribed with verses from Hanuman Chalisa. Believed to be the guardian temple of Ayodhya, it's traditionally visited first before any other temple, as Lord Rama instructed that devotees should seek Hanuman's blessings before darshan of other deities.",
+      "essential": "Traditional dress code applies with modest clothing covering the body appropriately. Mobile phones, cameras, and electronic devices may be restricted in certain areas. Visitors must remove shoes before entering and follow the established queue system during peak times. The temple maintains strict behavioral guidelines requiring respectful conduct during prayers and aarti ceremonies.",
+      "story": "Hanuman Garhi, literally meaning \"Hanuman's Fort,\" stands as one of the most spiritually significant and historically rich temples in Ayodhya, with its origins deeply rooted in the 10th century when it was constructed by Jagat Singh, brother of the legendary King Vikramaditya. According to the revered legend recorded in Skanda Purana, after Lord Rama's triumphant return to Ayodhya following his victory over Ravana, he gifted this sacred land to Lord Hanuman as a token of eternal gratitude for his unwavering devotion and selfless service. Local folklore beautifully narrates that Lord Hanuman chose to reside in a cave at this very location to diligently guard Lord Rama's birthplace (Ram Janmabhoomi) and protect the entire kingdom of Ayodhya from any evil forces. The temple's turbulent history reflects the broader struggles of Hindu faith, as the original structure built by King Vikramaditya was destroyed by Mughal emperor Aurangzeb who constructed a mosque in its place. However, in a remarkable display of religious determination, the Bairagi warriors occupied the land by defeating Nawab Shujauddula, the King of Awadh, removed the mosque, and rebuilt a magnificent new temple dedicated to Lord Hanuman. The present temple structure was significantly developed in the 18th century by the Nawab of Awadh, who despite being a Muslim ruler, was a devoted follower of Lord Hanuman. The temple houses a breathtaking golden idol of Mata Anjani holding young Hanuman on her lap, surrounded by silver carvings inscribed with verses from Hanuman Chalisa, creating an atmosphere of divine protection and maternal love. According to sacred tradition established by Lord Rama himself, devotees must first seek blessings at Hanuman Garhi before visiting any other temple in Ayodhya, as Hanuman serves as the eternal guardian of the holy city.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516961/e1qhhwpbogi9zrcrm87z.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516963/pow7le2qsvxt0tcaz9vg.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516964/yqdu8xguomxrzb2styur.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/DF2T9TPrfP8"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd76",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Tulsiudyan",
+      "category": "Park",
+      "lat": 26.8046,
+      "lon": 82.2071,
+      "address": "R634+VV2, Ayodhya - Faizabad Rd, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Tulsi+Udyan/@26.8046322, 82.2071304, 17z/data=!3m1!4b1!4m6!3m5!1s0x399a078f73092eff:0xf88bc1d5dea51062!8m2!3d26.8046322!4d82.2071304!16s%2Fg%2F1vvywh1s?entry=ttu&g_ep=EgoyMDI1MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "openDay": "Monday to Sunday",
+      "openTime": "05:00AM - 08:00PM",
+      "establishYear": "1960",
+      "fee": "₹0",
+      "description": "Ram ki Paidi is a series of sacred ghats (riverfront steps) on the banks of the Saryu River, believed to be the exact spot from where Lord Rama used to take his daily bath. According to legend, Lord Rama promised Lakshman that anyone taking a holy dip here before sunrise would receive the same spiritual benefits as visiting all sacred pilgrimage sites. The beautifully renovated ghats are famous for the spectacular Deepotsav celebration during Diwali, when over 450,000 earthen lamps create a mesmerizing display that holds a Guinness World Record.",
+      "essential": "The garden maintains standard public park rules with no specific dress code requirements. Visitors should maintain cleanliness, avoid damaging plants or structures, and respect the peaceful environment. Photography is generally allowed, but flash photography near the Tulsi Das statue should be avoided.",
+      "story": "Tulsi Udyan serves as a beautiful tribute to one of India's greatest devotional poets, Saint Tulsidas, whose monumental work 'Ramcharitmanas' brought the story of Lord Rama to every household in northern and central India. Goswami Tulsidas, born in the 16th century, became the real catalyst for the Ram Janmabhoomi movement by translating Valmiki's Sanskrit Ramayana into the local Awadhi dialect, making the divine story accessible to common people and creating an emotional connection between Hindu households and Lord Rama. According to his biographical accounts, after constructing the Tulsi Manas Mandir in Chitrakuta, Tulsidas received divine guidance from Lord Shiva and Parvati directing him to go to Ayodhya and compose poetry in the vernacular language. He initiated the writing of Ramcharitmanas in Ayodhya on Ramnavami in Chaitra month in 1631 and completed this epic endeavor in two years, seven months, and twenty-six days in 1633 on Vivaha Panchami (celebrating Rama and Sita's marriage) in Margashirsha. The completed masterpiece was then delivered to Lord Shiva and Mata Parvati at Kashi Vishwanath Temple in Varanasi, where Tulsidas spent most of his later life. The peaceful garden features a statue of Tulsidas under a carved canopy, symbolizing his deep spiritual connection with Lord Rama and his literary contributions that made him immortal in devotional literature. The garden also serves as a cultural hub where locals and visitors can engage in devotional music, recitations, and performances revolving around Tulsidas's life stories, helping people delve deeper into his contributions to society. This serene retreat, located near the Ayodhya bus stand, provides free entry to visitors seeking quiet reflection on the legacy of the saint who peacefully passed away on the banks of the Ganges at Assi Ghat in Varanasi in 1623.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516982/dhphzzyrvsoaachvcg21.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516984/i2waearkolgzymfofkb6.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759516986/wjyj0lp9hq6fopuughgx.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/gdf1qWNePzA"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Bharat Kund Nandigram Ayodhya",
+      "category": "Tourist attraction",
+      "lat": 26.6481,
+      "lon": 82.1356,
+      "address": "J4XP+778, Nandigram, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/J4XP%2B778+Bharat+Kund+Nandigram+Ayodhya, +Nandigram, +Uttar+Pradesh+224202/data=!4m2!3m1!1s0x399a0b96054bab61:0x9741869f3ddf6d34?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=8c976ab7-aac9-42ea-95bb-f5da76475be4",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": null,
+      "fee": "₹0",
+      "description": "Bharat Kund in Nandigram is a sacred water tank associated with Lord Bharat, who resided in this peaceful area during Lord Rama's fourteen-year exile. This tranquil site holds deep mythological significance as the place where Bharat performed his duties as regent while awaiting Ram's return. The kund serves as a place of worship and reflection, attracting pilgrims who come to honor Bharat's devotion and sacrifice for his brother.",
+      "essential": "As a sacred pilgrimage site, visitors must dress modestly and maintain appropriate behavior during religious activities. Traditional temple protocols apply including footwear removal and respectful conduct during prayers and rituals. The site may have restrictions on certain activities to preserve its tranquil meditation atmosphere",
+      "story": "Bharat Kund in Nandigram holds one of the most touching stories of devotion and sacrifice in the Ramayana, serving as the place where Lord Bharata performed rigorous penance for fourteen years while Lord Rama was in exile. The name \"Nandigram\" itself carries deep spiritual significance, derived from Nandi (Lord Shiva's vehicle) who once performed severe penance at this location, receiving a boon from Lord Shiva that every wish asked at this place would be fulfilled. When Bharata learned that his beloved brother Rama had been exiled due to his mother Kaikeyi's manipulations, he was devastated and refused to rule from the royal palace in Ayodhya. Instead, he placed Lord Rama's sacred sandals (padukas) on the throne as a symbol of the rightful ruler and retired to Nandigram, located 19 kilometers south of Ayodhya city. Following the same austere lifestyle as his brother, Bharata lived like a hermit for fourteen years, sleeping in a cave, wearing simple clothes, and maintaining matted hair just as Lord Rama did in the forest. This sacred site witnessed the emotional reunion between Rama and Bharata when Lord Rama returned from exile, marking the end of Bharata's self-imposed penance and the restoration of dharmic rule in Ayodhya. The Bharat Kund itself is believed to have been created when Lord Rama built a pond for performing the Shraddh ceremony (final rites) for his father King Dasharatha, which is why this place is also known as 'Chhota Gaya' (Little Gaya). According to tradition, when Lord Rama's coronation was to take place, Bharata brought sacred water from 27 pilgrimage places, pouring half in a well at Chitrakoot and the remaining half in the well at Bharat Kund, which still exists today. The site also features a centuries-old banyan tree near the well, where it's believed that careful observation of its branches reveals divine images of various gods, adding to the mystical aura of this sacred location.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517011/lobrdyjdunsxcdh2yxue.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517017/zx2kdr3jo7vnhmj9k7fs.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/j9-AL59fyLQ"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Shri Nageshwar Nath Mandir Ayodhya Trust",
+      "category": "Hindu temple",
+      "lat": 26.7813,
+      "lon": 82.1636,
+      "address": "near Ram Ki Paidi, Swargdwar, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shri+Nageshwar+Nath+Mandir+Ayodhya+Trust, +near+Ram+Ki+Paidi, +Swargdwar, +Theri+Bazar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0784e18ffe91:0xc24026ae48028071?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=c7516ab7-0631-405a-8ab0-c5b3f8a3ad1f",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 09:00PM",
+      "establishYear": "1750",
+      "fee": "₹0",
+      "description": "Shri Nageshwar Nath Mandir is an ancient temple dedicated to Lord Shiva, believed to have been established by Kush, the son of Lord Rama. The temple is beautifully situated at Ram ki Paidi facing the sacred Saryu River, where devotees traditionally take a holy bath before entering for Lord Shiva darshan. This historic temple holds special significance during Mahashivratri and Shravan month, featuring grand celebrations and the spectacular Shiva Baraat procession.",
+      "essential": "Modest and decent dress is mandatory when entering the temple premises, avoiding revealing or inappropriate attire. Footwear must be removed before temple entry, and visitors should carry socks or sandals for comfort. Photography is generally allowed but specific guidelines from temple administration must be observed, with restrictions in certain sacred areas.",
+      "story": "Shri Nageshwar Nath Mandir carries a fascinating story dating back to the Treta Yuga, believed to have been established by Kush, the younger son of Lord Rama, through a chain of events involving love, conflict, and divine intervention. The captivating legend begins when Prince Kush was taking a ritual bath in the sacred Saryu River and accidentally lost his precious armlet (bajuband), which was a cherished gift from Maharishi Agastya to Lord Rama, who had then gifted it to his son. The lost armlet was discovered by Nag Princess Kumudini, daughter of the Naga King, who was instantly mesmerized by its divine beauty and decided to keep it with her. When Kush learned that his sacred armlet was with the Nag Princess, he became furious and threatened to destroy the entire Nag Lok (serpent world) to retrieve it, leading to a prolonged war between Kush and the Naga kingdom. The conflict continued for years until the desperate Naga King meditated intensely on Lord Shiva, seeking divine intervention to protect his kingdom and daughter. Moved by the sincere prayers, Lord Shiva appeared on the banks of the Saryu River and pacified Kush's anger, suggesting that he marry Princess Kumudini as a gesture of peace and harmony. Bound by Lord Shiva's divine words and recognizing the righteousness of the solution, Kush agreed to marry the devoted Nag Princess, who gratefully returned the armlet to him. In appreciation of Lord Shiva's intervention and as a tribute to his new wife who was an ardent devotee of Shiva, Kush established the magnificent Nageshwar Nath Temple on the banks of the Saryu River. The temple survived through various historical periods and remained in excellent condition even during King Vikramaditya's reign, who later renovated and restored it along with 359 other temples in Ayodhya. The present structure was rebuilt in 1750 by Naval Rai, minister of Nawab Safdarjung, ensuring that this ancient Shiva temple continued to serve devotees. The temple is renowned for its spectacular Mahashivratri celebrations and the grand Shiva Baraat procession, when lakhs of devotees visit to witness the divine festivities and seek Lord Shiva's blessings.�����",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517021/o0lzn8ohl7ertdufwugd.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517027/fhkb3rx7ako9yskdvgmr.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517029/a3fteuijynv4kmyr9lgp.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/oqlJH8mj_cQ"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7c",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Imambada Gulab Bari - Tomb of Shuja-ud-daula",
+      "category": "Tourist attraction",
+      "lat": 26.7798,
+      "lon": 82.1575,
+      "address": "State Highway 9, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Imambada+Gulab+Bari+-+Tomb+of+Shuja-ud-daula, +State+Highway+9, +Vaidehi+Nagar, +Faizabad, +Uttar+Pradesh+224001/data=!4m2!3m1!1s0x399a063b2b30ada9:0x51cc9eab59a0f346?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=a1b912a4-5da1-4a42-8443-136ab9069153",
+      "openDay": "Monday to Sunday",
+      "openTime": "04:00AM - 07:00PM",
+      "establishYear": "1775",
+      "fee": "₹0",
+      "description": "Imambada Gulab Bari is the magnificent garden tomb of Nawab Shuja-ud-daula, showcasing exquisite Mughal architecture with white marble, arched doorways, and traditional Char Bagh layout. The complex features beautiful rose gardens, fountains, and Indo-Islamic architectural elements that represent the four rivers of Paradise. This over-two-centuries-old monument serves as both a historical heritage site and a peaceful retreat, blending Islamic and Hindu cultural elements within its premises.",
+      "essential": "Visitors must wear clothes that completely cover their body, keeping in mind the sanctity of the over-two-centuries old monument. Short skirts, skimpy tops, shorts, miniskirts, and revealing clothing are strictly prohibited. Women must wear headscarves and are not allowed in shorts or without proper head covering. Professional photography and video shoots are banned, and guards restrict entry of improperly dressed visitors.",
+      "story": "Imambada Gulab Bari stands as a magnificent testament to Mughal architectural brilliance and represents the rich cultural synthesis that characterized medieval Indian history. This beautiful garden tomb was constructed as the final resting place of Nawab Shuja-ud-daula, a prominent ruler of Awadh who played a significant role in 18th-century Indian politics. The tomb complex showcases exquisite Indo-Islamic architecture with its traditional Char Bagh layout representing the four rivers of Paradise, white marble construction, elegant arched doorways, and intricate decorative elements that reflect the sophisticated craftsmanship of Mughal artisans. The name \"Gulab Bari\" translates to \"Rose Garden,\" reflecting the tomb's original design that featured extensive rose gardens, fountains, and landscaped areas that created a paradisiacal environment befitting a royal mausoleum. Over the centuries, this over-two-hundred-year-old monument has served not only as a burial site but also as a cultural landmark that represents the harmonious coexistence of different religious traditions, as evidenced by the presence of both Islamic structures and Hindu temples within the complex. The site has been carefully preserved as a heritage monument and continues to attract visitors interested in Mughal history, architectural studies, and the cultural evolution of Ayodhya through different historical periods. Recent conservation efforts have focused on maintaining the structural integrity of the tomb while preserving its historical authenticity, ensuring that future generations can appreciate this important example of Indo-Islamic architectural heritage.�",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517032/rmpumb6a8relhhwkkext.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517033/llq0elscng5260ukimbl.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517036/uskothnic9bkuiobaeml.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/CVDt8lk9otU"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Raj Dwar Mandir",
+      "category": "Hindu temple",
+      "lat": 26.79614,
+      "lon": 82.2018,
+      "address": "Q6W2+FP4, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Q6W2%2BFP4+Raj+Dwar+Mandir, +Tulsi+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0792e4d76063:0xf294139620fddd0d?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=4f0b5ff2-17dc-439d-abec-de55bfc0fc32",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1100",
+      "fee": "₹0",
+      "description": "Raj Dwar Mandir is a historically significant temple that once served as one of the main ceremonial entrances to Ayodhya's royal palace areas. The temple features classic local architecture and plays an important role during religious processions and traditional ceremonies. This heritage site embodies the connection between Ayodhya's spiritual and royal past, making it a meaningful stop for those interested in the city's architectural and cultural history.",
+      "essential": "Traditional Hindu temple protocols apply including modest dress requirements covering shoulders and knees. Footwear removal is mandatory before entering the temple premises, and respectful behavior must be maintained during religious ceremonies and processions.",
+      "story": "The Raj Dwar Mandir, or \"Royal Gateway Temple,\" is a site steeped in ancient history, marking the location of the main ceremonial entrance to Ramkot, the fortified palace complex of Ayodhya's Suryavanshi kings. Believed to be where Lord Rama, Sita, and Lakshmana began their fourteen-year exile, this gateway was the primary point of entry to the royal heart of the kingdom, including Dashrath Bhavan and Kanak Bhawan. While the original structure is ancient, the current 900-year-old temple was reconstructed by Raja Man Singh and has been maintained by his descendants, standing today as a silent but powerful guardian of Ayodhya's regal and epic past.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517046/skhmcft0m7fxulhqph4a.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517050/s64ay3gaxp1bqkwbjkw9.png",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517054/uwamzhuogpsnfhirgh3s.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/jLhVyuPngjs"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6bbd1f9c367048dd7f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "places": "Ammaji Mandir",
+      "category": "Hindu temple",
+      "lat": 26.8051,
+      "lon": 82.1995,
+      "address": "R54X+2RV, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/R54X%2B2RV+Ammaji+Mandir, +Tulsi+Nagar, +Ayodhya, +Uttar+Pradesh+224123/data=!4m2!3m1!1s0x399a0790a45354eb:0x3e058896fb43b25b?utm_source=mstt_1&entry=gps&coh=192189&g_ep=CAESBzI1LjIzLjQYACCenQoqogEsOTQyNjc3MjcsOTQyNzU0MDMsOTQyODQ0OTAsOTQyMjMyOTksOTQyMTY0MTMsOTQyODA1NzYsOTQyMTI0OTYsOTQyODUwNTEsOTQyMDczOTQsOTQyMDc1MDYsOTQyMDg1MDYsOTQyMTc1MjMsOTQyMTg2NTMsOTQyMjk4MzksOTQyNzUxNjgsNDcwODQzOTMsOTQyMTMyMDAsOTQyNTgzMjVCAklO&skid=44c322b4-6597-4bdd-b924-ba0ea594508f",
+      "openDay": "Monday to Sunday",
+      "openTime": "Opens 24/7",
+      "establishYear": "1904",
+      "fee": "₹0",
+      "description": "Ammaji Mandir is a small but deeply revered local temple known for its peaceful environment and regular community worship ceremonies. The temple serves as an important social gathering spot for local devotees and is valued for its contributions to community welfare activities. This intimate temple offers visitors a glimpse into the grassroots spiritual life of Ayodhya, where local traditions and daily worship practices continue to thrive.",
+      "essential": "Standard temple etiquette applies with modest dress requirements and respectful behavior during worship ceremonies. Visitors should maintain quiet demeanor and follow any specific instructions from temple authorities or community members.",
+      "story": "Ammaji Mandir is a unique cultural landmark in Ayodhya, representing the devotion of the South Indian Sri Vaishnava tradition in the heart of North India. Its story begins in the late 19th century with a devout couple, Yogi Parthasarathy Ayyangar and his wife Singammal from Chennai, who were guided by a divine dream to unearth idols in Tamil Nadu and establish a temple for them in Ayodhya. After Yogi Parthasarathy's early death, Singammal single-handedly managed the temple for 30 years, spreading Sri Vaishnava philosophy and earning the affectionate title \"Ammaji\" (Respected Mother), which gave the temple its popular name and cemented its identity as a beacon of South Indian faith in the holy city.",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517058/xchlqxrsd22vmkeq54pk.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517059/lnfnlggbclmnfpofdjbh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517061/akqmhwxjanmfo8n35snm.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/B9QPrNXYKnU"
+      ],
+      "premium": "FREE"
+    }
+  ]
+}

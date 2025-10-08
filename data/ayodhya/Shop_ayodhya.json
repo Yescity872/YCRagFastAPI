@@ -1,0 +1,96 @@
+{
+  "shop": [
+    {
+      "_id": "68e02d6cbd1f9c367048dd9d",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Mohbra Bazar",
+      "lat": 26.7762,
+      "lon": 82.1719,
+      "address": "Mohbra Bazar, ChooramaniChowk, Ranopali Village, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Mohbra+Bazar/@26.7762172, 82.1719302, 14z/data=!4m10!1m2!2m1!1sayodhya+shopping!3m6!1s0x399a07efbac6bc63:0x359e24cffce4adf9!8m2!3d26.7762172!4d82.1894397!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQZtYXJrZXSqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQA!16s%2Fg%2F11ffw6z486?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Local Market",
+      "priceRange": "₹398-₹16,000",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "phone": null,
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517222/rpirxhmkvxz7xkfwb64o.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517225/yurdekdmhj4mbmfszh2r.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517228/tx3nt6m9smhund8rjfdx.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9e",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Mall Of Avadh",
+      "lat": 26.7843,
+      "lon": 82.1267,
+      "address": "Q4PQ+5Q5, Naharbagh, Niyawan, Faizabad, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Mall+Of+Avadh/@26.784346, 82.1267472, 14z/data=!4m10!1m2!2m1!1sayodhya+shopping!3m6!1s0x399a074b4ad87077:0xd104a24dde8b09e2!8m2!3d26.784346!4d82.1442567!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQ9zaG9wcGluZ19jZW50ZXKqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQA!16s%2Fg%2F11t47wjrtz?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Shopping mall",
+      "priceRange": "₹150-₹80,000+",
+      "openDay": "Monday to Sunday",
+      "openTime": null,
+      "phone": "7752982073",
+      "website": "http://hotelavadhclassio.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517232/bgpxcdwuyyksikt4nklu.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517233/c6sjtv8impnkgwrr3ptb.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517235/d0fwnp3eklsbgittrqlp.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9f",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Shivam Emporium Lucknowi Chikankari In Ayodhya",
+      "lat": 26.7912,
+      "lon": 82.1827,
+      "address": "Shop no. G10, Kaushleshkunj building, Railway Sta Rd, near Shri Ram Hospital Road, New Colony, Ayodhya, Uttar Pradesh",
+      "locationLink": "https://www.google.com/maps/place/Shivam+Emporium+Lucknowi+Chikankari+In+Ayodhya/@26.7912839, 82.1827167, 14z/data=!4m13!1m5!2m4!1sayodhya+shopping!5m1!4e3!6e6!3m6!1s0x399a071e88bc9255:0x7e6908eb2d022ff7!8m2!3d26.7912839!4d82.2002262!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSAQ5jbG90aGluZ19zdG9yZaoBUQoIL20vMGhoZGIQASoMIghzaG9wcGluZygAMh8QASIb29yekURlaHvuqIdkfmMNwKr0t75csGBFbMInMhQQAiIQYXlvZGh5YSBzaG9wcGluZ-ABAA!16s%2Fg%2F11y3zvwz_1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Clothing store",
+      "priceRange": "₹300-₹80,000+",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 09:00PM",
+      "phone": "9648948308",
+      "website": null,
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517237/vnp4bmczi1zmin4wgbwo.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517238/ydp0yfq4caedwargyfcc.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517239/xuyocbfiploaiqqvp4mj.jpg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dda0",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "flagship": false,
+      "shops": "Bombay style ayodhya",
+      "lat": 26.8011,
+      "lon": 82.1785,
+      "address": "Asharfi Bhawan Chauraha Rd, Kandharpur, Ayodhya, Uttar Pradesh ",
+      "locationLink": "https://www.google.com/maps/place/Bombay+style+ayodhya/@26.8011221, 82.178567, 14z/data=!4m13!1m5!2m4!1sayodhya+shopping!5m1!4e3!6e6!3m6!1s0x399a07fec9449dc9:0xa4a48db46fd5000c!8m2!3d26.8011221!4d82.1960765!15sChBheW9kaHlhIHNob3BwaW5nWhIiEGF5b2RoeWEgc2hvcHBpbmeSARNtZW5zX2Nsb3RoaW5nX3N0b3JlmgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1RmVXSlVSVEJVVkVKNll6SmtXRkp1UlRSTmEwNTJVa2hzU1ZWRlJSQUKqAVEKCC9tLzBoaGRiEAEqDCIIc2hvcHBpbmcoADIfEAEiG9vcnpFEZWh77qiHZH5jDcCq9Le-XLBgRWzCJzIUEAIiEGF5b2RoeWEgc2hvcHBpbmfgAQD6AQQIABAs!16s%2Fg%2F11vqwtqy1k?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyOS4wIKXMDSoASAFQAw%3D%3D",
+      "famousFor": "Men's clothing store",
+      "priceRange": "₹149-₹3,499",
+      "openDay": "Monday to Sunday",
+      "openTime": "10:00AM - 10:00PM",
+      "phone": "9369328247",
+      "website": "https://indouvr.com/",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517242/cbaydtjr2zmnpzdvpy3z.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517243/amtv4artu9wg2g4rtxkh.jpg",
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517244/svzb24ufobrxcrckxtrz.jpg"
+      ],
+      "premium": "FREE"
+    }
+  ]
+}

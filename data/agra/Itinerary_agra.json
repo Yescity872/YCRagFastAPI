@@ -6,7 +6,8 @@
       "cityName": "Agra",
       "day1": "Morning: Mughal Grandeur & Sunrise Spectacle (6:00 AM – 1:00 PM)",
       "day2": "Day 1: (As per the 1-Day Plan)",
-      "day3": "Day 1: (As per the 2-Day Plan)"
+      "day3": "Day 1: (As per the 2-Day Plan)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae3",
@@ -14,7 +15,8 @@
       "cityName": "Agra",
       "day1": "Transportation: From Agra Cantt, Taj Mahal is approx. 5.5 km (Auto: ₹125-150, Cab: ₹160-180). From Sadar Bazaar, approx. 4.5 km (Auto: ₹105-130, Cab: ₹120-160).",
       "day2": null,
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae5",
@@ -22,7 +24,8 @@
       "cityName": "Agra",
       "day1": "Enjoy a local breakfast. You can find good options near the East Gate or in Tajganj.",
       "day2": null,
-      "day3": "Tomb of Akbar the Great (Sikandra), Mariam’s Tomb, Chini Ka Rauza"
+      "day3": "Tomb of Akbar the Great (Sikandra), Mariam’s Tomb, Chini Ka Rauza",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae6",
@@ -30,7 +33,8 @@
       "cityName": "Agra",
       "day1": "Recommendation: Try Deviram Sweets for Bedai with Aloo Sabzi (₹30) and Jalebi (₹25/100g), or a local joint for hot parathas.",
       "day2": "Morning: Royal Tombs & Gardens (8:00 AM – 1:00 PM)",
-      "day3": "Ram Bagh, Local Market & Street Food Tour"
+      "day3": "Ram Bagh, Local Market & Street Food Tour",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae7",
@@ -38,7 +42,8 @@
       "cityName": "Agra",
       "day1": "9:30 AM – 10:00 AM: Travel to Mehtab Bagh",
       "day2": null,
-      "day3": "Dayalbagh, Roman Catholic Cemetery / Mankameshwar Temple"
+      "day3": "Dayalbagh, Roman Catholic Cemetery / Mankameshwar Temple",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aea",
@@ -46,7 +51,8 @@
       "cityName": "Agra",
       "day1": "10:00 AM – 11:30 AM: Mehtab Bagh",
       "day2": "Essentials: Wear comfortable shoes for walking around the vast complex. Closed on Fridays.",
-      "day3": "Day 3: Historical City Outing or Wildlife Excursion (Lesser priority / Further out)"
+      "day3": "Day 3: Historical City Outing or Wildlife Excursion (Lesser priority / Further out)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aec",
@@ -54,7 +60,8 @@
       "cityName": "Agra",
       "day1": "Essentials: Carry water, wear comfortable shoes.",
       "day2": "Transportation: From Sadar Bazaar, Sikandra is approx. 8-10 km (Cab: ~₹200-300).",
-      "day3": "Morning: UNESCO Heritage Site or Bird Sanctuary (8:00 AM – 1:00 PM)"
+      "day3": "Morning: UNESCO Heritage Site or Bird Sanctuary (8:00 AM – 1:00 PM)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af0",
@@ -62,7 +69,8 @@
       "cityName": "Agra",
       "day1": "Essentials: Wear comfortable walking shoes. Consider hiring a government-approved guide for historical insights. Closed on Fridays.",
       "day2": "10:30 AM – 11:30 AM: Ram Bagh",
-      "day3": "Transportation: From Agra Fort, Fatehpur Sikri is approx. 40 km (Cab: ₹700-800). From Taj Mahal, approx. 45 km (Cab: ₹750-850). Auto/Bike not recommended for this distance."
+      "day3": "Transportation: From Agra Fort, Fatehpur Sikri is approx. 40 km (Cab: ₹700-800). From Taj Mahal, approx. 45 km (Cab: ₹750-850). Auto/Bike not recommended for this distance.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af2",
@@ -70,7 +78,8 @@
       "cityName": "Agra",
       "day1": "Transportation: From Mehtab Bagh, Agra Fort is approx. 3-4 km (Auto: ₹110-130, Cab: ₹130-160, Bike: ₹40-60).",
       "day2": "Fees: ₹25 (Indians), ₹300 (Foreigners).",
-      "day3": "Transportation: From Agra Fort, Keoladeo is approx. 57 km (Cab: ₹690-750). From Taj Mahal, approx. 60 km (Cab: ₹730-800). Auto/Bike not recommended."
+      "day3": "Transportation: From Agra Fort, Keoladeo is approx. 57 km (Cab: ₹690-750). From Taj Mahal, approx. 60 km (Cab: ₹730-800). Auto/Bike not recommended.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af5",
@@ -78,7 +87,8 @@
       "cityName": "Agra",
       "day1": "1:00 PM – 2:00 PM: Lunch",
       "day2": "Immerse yourself in the local life by exploring bustling markets like Sadar Bazaar or Kinari Bazaar.",
-      "day3": "Explore this magnificent abandoned Mughal capital. Key attractions include the Buland Darwaza, Jama Masjid, Tomb of Sheikh Salim Chishti, and various palaces."
+      "day3": "Explore this magnificent abandoned Mughal capital. Key attractions include the Buland Darwaza, Jama Masjid, Tomb of Sheikh Salim Chishti, and various palaces.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768afa",
@@ -86,7 +96,8 @@
       "cityName": "Agra",
       "day1": "Transportation: From Agra Fort, Itmad-ud-Daulah is approx. 3 km (Auto: ~₹70-100, Cab: ~₹80-120).",
       "day2": "Afternoon: Offbeat & Reflection (1:00 PM – 6:00 PM)",
-      "day3": "Essentials: Best visited in winter (Nov-Feb). Carry water, wear comfortable walking shoes. Prefer a guide for accurate information. Be back before dark; stay aware of wild animals; do not litter."
+      "day3": "Essentials: Best visited in winter (Nov-Feb). Carry water, wear comfortable walking shoes. Prefer a guide for accurate information. Be back before dark; stay aware of wild animals; do not litter.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b03",
@@ -94,7 +105,8 @@
       "cityName": "Agra",
       "day1": "5:00 PM – 6:00 PM: Leisure / Hotel Check-in / Relax",
       "day2": "Option A (History/Serenity): Explore the historical Roman Catholic Cemetery, one of the oldest Christian cemeteries in India, offering a glimpse into colonial history.",
-      "day3": "Essentials: Follow local rules; modest dress code; remove shoes at temple."
+      "day3": "Essentials: Follow local rules; modest dress code; remove shoes at temple.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b06",
@@ -102,7 +114,8 @@
       "cityName": "Agra",
       "day1": "6:00 PM – 7:30 PM: \"Mohabbat-e-Taj\" Light & Sound Show",
       "day2": "Fees: FREE for both.",
-      "day3": "Essentials: Wear sturdy shoes; modest dress code."
+      "day3": "Essentials: Wear sturdy shoes; modest dress code.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b09",
@@ -110,7 +123,8 @@
       "cityName": "Agra",
       "day1": "Essentials: Book tickets online in advance. Shows are available in English & Hindi.",
       "day2": "Evening: Dinner & Relaxation (6:00 PM onwards)",
-      "day3": "Option A (Spiritual/Historical): Continue from Bateshwar to Mathura/Vrindavan (approx. 60 km from Agra Fort). Explore temples dedicated to Lord Krishna."
+      "day3": "Option A (Spiritual/Historical): Continue from Bateshwar to Mathura/Vrindavan (approx. 60 km from Agra Fort). Explore temples dedicated to Lord Krishna.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0d",
@@ -118,7 +132,8 @@
       "cityName": "Agra",
       "day1": "Recommendation: Pinch of Spice or Taj Mahal Restaurant for Mughlai cuisine. For street food exploration, head to Chaat Gali, Sadar Bazaar (opens from 5 PM, try Bhalla, Aloo Tikki).",
       "day2": null,
-      "day3": "Option B (Cultural/Rural): Visit Korai Village for a unique cultural and rural experience. Interact with locals and learn about their way of life."
+      "day3": "Option B (Cultural/Rural): Visit Korai Village for a unique cultural and rural experience. Interact with locals and learn about their way of life.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b10",
@@ -126,7 +141,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b11",
@@ -134,7 +150,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Evening: Departure or Leisure (6:00 PM onwards)"
+      "day3": "Evening: Departure or Leisure (6:00 PM onwards)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b18",
@@ -142,7 +159,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Hotel Recommendation (Budget): Hotel Royal Phoenix (~₹1,284-₹2,019/night) or Joey's Hostel Agra (~₹401-₹2,189/night)."
+      "day3": "Hotel Recommendation (Budget): Hotel Royal Phoenix (~₹1,284-₹2,019/night) or Joey's Hostel Agra (~₹401-₹2,189/night).",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae0",
@@ -150,7 +168,8 @@
       "cityName": "Agra",
       "day1": "Start your day with the breathtaking beauty of the Taj Mahal as the sun rises, casting a golden glow on the marble. This early start helps avoid crowds and capture stunning photographs.",
       "day2": "Agra Fort",
-      "day3": "Agra Fort"
+      "day3": "Agra Fort",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae1",
@@ -158,7 +177,8 @@
       "cityName": "Agra",
       "day1": "Essentials: Reach East Gate before sunrise to secure tickets and a good spot. Wear comfortable shoes. Avoid Fridays as Taj Mahal is closed.",
       "day2": "Itmad-ud-Daulah's Tomb (Baby Taj)",
-      "day3": "Itmad-ud-Daulah's Tomb (Baby Taj)"
+      "day3": "Itmad-ud-Daulah's Tomb (Baby Taj)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aef",
@@ -166,7 +186,8 @@
       "cityName": "Agra",
       "day1": "Head to Agra Fort, a UNESCO World Heritage site that served as the main residence of the Mughal emperors. Explore its palaces, halls, and courtyards.",
       "day2": "Fees: Mariam's Tomb: ₹25 (Indians), ₹300 (Foreigners); Chini Ka Rauza: FREE.",
-      "day3": "Option A (Historical City): Travel to Fatehpur Sikri. It's about 40 km from Agra."
+      "day3": "Option A (Historical City): Travel to Fatehpur Sikri. It's about 40 km from Agra.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af4",
@@ -174,7 +195,8 @@
       "cityName": "Agra",
       "day1": "Afternoon: Itmad-ud-Daulah & Local Flavors (1:00 PM – 5:00 PM)",
       "day2": "11:30 AM – 1:00 PM: Local Market & Street Food Tour",
-      "day3": "Option A: Fatehpur Sikri"
+      "day3": "Option A: Fatehpur Sikri",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768afd",
@@ -182,7 +204,8 @@
       "cityName": "Agra",
       "day1": "Fees: ₹30 (Indians), ₹310 (Foreigners). On Fridays, ₹25 (Indians), ₹300 (Foreigners).",
       "day2": "2:00 PM – 3:30 PM: Dayalbagh (Radhasoami Memorial Complex)",
-      "day3": "Afternoon: Spiritual Journey or Local Village Experience (1:00 PM – 6:00 PM)"
+      "day3": "Afternoon: Spiritual Journey or Local Village Experience (1:00 PM – 6:00 PM)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b01",
@@ -190,7 +213,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": "Transportation: From Sadar Bazaar to Dayalbagh, approx. 8-9 km.",
-      "day3": "2:00 PM – 3:30 PM: Travel Back / Continue Exploration"
+      "day3": "2:00 PM – 3:30 PM: Travel Back / Continue Exploration",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b02",
@@ -198,7 +222,8 @@
       "cityName": "Agra",
       "day1": "Evening: Cultural Immersion & Leisure (5:00 PM – 8:00 PM)",
       "day2": "3:30 PM – 5:00 PM: Roman Catholic Cemetery (Padre ka Bagh) / Mankameshwar Temple",
-      "day3": "If at Fatehpur Sikri: Travel to Bateshwar Temples (approx. 30 km from Fatehpur Sikri, or 78 km from Agra Fort). These are ancient Hindu temples along the Yamuna."
+      "day3": "If at Fatehpur Sikri: Travel to Bateshwar Temples (approx. 30 km from Fatehpur Sikri, or 78 km from Agra Fort). These are ancient Hindu temples along the Yamuna.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b05",
@@ -206,7 +231,8 @@
       "cityName": "Agra",
       "day1": "Hotel Recommendation (Mid-Range): Courtyard By Marriott (~₹3,600-₹4,500/night) or Radisson Hotel Agra (~₹4,793-₹9,826/night) for good facilities.",
       "day2": "Essentials: For temples, remove shoes and dress modestly.",
-      "day3": "If at Keoladeo National Park: Travel to Lohagarh Fort in Bharatpur (approx. 3-4 km from Keoladeo). This 18th-century fort is known for its formidable design."
+      "day3": "If at Keoladeo National Park: Travel to Lohagarh Fort in Bharatpur (approx. 3-4 km from Keoladeo). This 18th-century fort is known for its formidable design.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768adc",
@@ -214,7 +240,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ade",
@@ -222,7 +249,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae2",
@@ -230,7 +258,8 @@
       "cityName": "Agra",
       "day1": "Fees: ₹50 (Indians), ₹1100 (Foreigners); additional ₹200 for Mausoleum entry.",
       "day2": "Shopping, Cultural Show & Dinner.",
-      "day3": "Shopping, Cultural Show & Dinner."
+      "day3": "Shopping, Cultural Show & Dinner.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae8",
@@ -238,7 +267,8 @@
       "cityName": "Agra",
       "day1": "Take an auto or cab to Mehtab Bagh for a classic view of the Taj Mahal from across the Yamuna River.",
       "day2": "8:00 AM – 9:30 AM: Tomb of Akbar the Great (Sikandra)",
-      "day3": "Dinner & Leisure."
+      "day3": "Dinner & Leisure.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae9",
@@ -246,7 +276,8 @@
       "cityName": "Agra",
       "day1": "Transportation: From Taj Mahal, Mehtab Bagh is approx. 2-3 km (Auto: ₹150-170, Cab: ₹170-220, Bike: ₹70-80).",
       "day2": "Start your day with a visit to the grand mausoleum of Emperor Akbar. It's a unique blend of architectural styles.",
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aeb",
@@ -254,7 +285,8 @@
       "cityName": "Agra",
       "day1": "Explore this beautiful Mughal garden, which offers a serene and picturesque view of the Taj Mahal, especially ideal for photography.",
       "day2": "Fees: ₹30 (Indians), ₹310 (Foreigners). On Fridays, ₹25 (Indians), ₹300 (Foreigners).",
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aee",
@@ -262,7 +294,8 @@
       "cityName": "Agra",
       "day1": "11:30 AM – 1:00 PM: Agra Fort",
       "day2": "Visit Mariam's Tomb nearby, the resting place of Emperor Akbar's wife, and then Chini Ka Rauza, known for its Persian-style glazed tile work.",
-      "day3": "Choose one major excursion for the day."
+      "day3": "Choose one major excursion for the day.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af3",
@@ -270,7 +303,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": "Transportation: From Sikandra area to Ram Bagh, approx. 6-7 km (Auto: ₹160-190, Cab: ₹190-230, Bike: ₹70-80).",
-      "day3": "9:00 AM – 1:00 PM: Explore Chosen Destination"
+      "day3": "9:00 AM – 1:00 PM: Explore Chosen Destination",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af9",
@@ -278,7 +312,8 @@
       "cityName": "Agra",
       "day1": "Take an auto or cab to this exquisite Mughal mausoleum, often called the \"Baby Taj\" due to its intricate marble inlay work.",
       "day2": null,
-      "day3": "Enjoy bird watching in this famous avifauna sanctuary, home to thousands of birds, especially migratory ones in winter. You can rent a rickshaw or explore on foot."
+      "day3": "Enjoy bird watching in this famous avifauna sanctuary, home to thousands of birds, especially migratory ones in winter. You can rent a rickshaw or explore on foot.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768afb",
@@ -286,7 +321,8 @@
       "cityName": "Agra",
       "day1": "2:30 PM – 4:00 PM: Itmad-ud-Daulah's Tomb (Baby Taj)",
       "day2": "1:00 PM – 2:00 PM: Lunch",
-      "day3": "Fees: ₹830/- per person."
+      "day3": "Fees: ₹830/- per person.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aff",
@@ -294,7 +330,8 @@
       "cityName": "Agra",
       "day1": "Explore local markets or shops for famous Agra products.",
       "day2": "Essentials: Wear modest clothes; follow temple rules; refrain from alcohol. Be mindful of ongoing construction.",
-      "day3": "If at Fatehpur Sikri: Local eateries outside the complex."
+      "day3": "If at Fatehpur Sikri: Local eateries outside the complex.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b00",
@@ -302,7 +339,8 @@
       "cityName": "Agra",
       "day1": "Recommendation: Visit Panchi Petha for traditional Petha sweets (₹200-₹500/kg) or Marble Handicraft Agra near Tajganj for intricate marble inlay work (₹500–₹50,000).",
       "day2": "Fees: No entry fee.",
-      "day3": "If at Keoladeo National Park: Options available within Bharatpur."
+      "day3": "If at Keoladeo National Park: Options available within Bharatpur.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b07",
@@ -310,7 +348,8 @@
       "cityName": "Agra",
       "day1": "Experience a theatrical presentation narrating the love story of Shah Jahan and Mumtaz.",
       "day2": "5:00 PM – 6:00 PM: Leisure / Return to Hotel",
-      "day3": "Fees: Varies, generally minimal or FREE for walking around outer areas."
+      "day3": "Fees: Varies, generally minimal or FREE for walking around outer areas.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0a",
@@ -318,7 +357,8 @@
       "cityName": "Agra",
       "day1": "Fees: ₹600–₹1200 depending on seating.",
       "day2": "6:00 PM onwards: Dinner & Leisure",
-      "day3": "Essentials: Wear modest clothing; follow temple rules. Most places shut between 12noon-4:40pm."
+      "day3": "Essentials: Wear modest clothing; follow temple rules. Most places shut between 12noon-4:40pm.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0b",
@@ -326,7 +366,8 @@
       "cityName": "Agra",
       "day1": "7:30 PM onwards: Dinner",
       "day2": "Enjoy a leisurely dinner at a highly-rated restaurant.",
-      "day3": "Fees: FREE for most temples."
+      "day3": "Fees: FREE for most temples.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0c",
@@ -334,7 +375,8 @@
       "cityName": "Agra",
       "day1": "Enjoy dinner at a restaurant of your choice.",
       "day2": "Recommendation: For a themed experience, try Pind Balluchi Agra for Dal Makhani or Butter Chicken. For grill and street food, Sardar G Malai Chaap Junction is a good vegetarian option.",
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b12",
@@ -342,7 +384,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Return to Agra: Depending on your departure schedule, you can return to Agra."
+      "day3": "Return to Agra: Depending on your departure schedule, you can return to Agra.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b13",
@@ -350,7 +393,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Dinner & Departure: Enjoy a final meal in Agra before heading to your airport or station."
+      "day3": "Dinner & Departure: Enjoy a final meal in Agra before heading to your airport or station.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b16",
@@ -358,7 +402,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Agra Cantt Railway Station: 2.5km from Sadar Bazar."
+      "day3": "Agra Cantt Railway Station: 2.5km from Sadar Bazar.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b17",
@@ -366,7 +411,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Idgah Bus Stand: 2km from Sadar Bazar."
+      "day3": "Idgah Bus Stand: 2km from Sadar Bazar.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ad9",
@@ -374,7 +420,8 @@
       "cityName": "Agra",
       "day1": "Agra 1-Day Trip Plan (Most Important Places)",
       "day2": "Agra 2-Day Trip Plan (Next Most Important Places)",
-      "day3": "Agra 3-Day Trip Plan (Additional Important / Outskirts)"
+      "day3": "Agra 3-Day Trip Plan (Additional Important / Outskirts)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ada",
@@ -382,7 +429,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768adb",
@@ -390,7 +438,8 @@
       "cityName": "Agra",
       "day1": "This plan covers the absolute must-see places in Agra, arranged in a time-efficient sequence for a fulfilling single-day visit, focusing on the iconic Mughal heritage.",
       "day2": "If you have two days, you can expand on the core experiences of Day 1 by adding more historical sites and local cultural immersion.",
-      "day3": "This plan expands your Agra experience to include more distant but highly scenic and significant locations, enriching your journey."
+      "day3": "This plan expands your Agra experience to include more distant but highly scenic and significant locations, enriching your journey.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768adf",
@@ -398,7 +447,8 @@
       "cityName": "Agra",
       "day1": "6:00 AM – 8:30 AM: Taj Mahal at Sunrise",
       "day2": "Taj Mahal at Sunrise, Mehtab Bagh",
-      "day3": "Taj Mahal at Sunrise, Mehtab Bagh"
+      "day3": "Taj Mahal at Sunrise, Mehtab Bagh",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768ae4",
@@ -406,7 +456,8 @@
       "cityName": "Agra",
       "day1": "8:30 AM – 9:30 AM: Breakfast near Taj Mahal",
       "day2": "Day 2: Historical Outskirts & Local Life (Next most important)",
-      "day3": "Day 2: (As per the 2-Day Plan above)"
+      "day3": "Day 2: (As per the 2-Day Plan above)",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768aed",
@@ -414,7 +465,8 @@
       "cityName": "Agra",
       "day1": "Fees: ₹25 (Indians), ₹300 (Foreigners).",
       "day2": "9:30 AM – 10:30 AM: Mariam’s Tomb & Chini Ka Rauza",
-      "day3": "8:00 AM – 9:00 AM: Travel to Fatehpur Sikri / Keoladeo National Park"
+      "day3": "8:00 AM – 9:00 AM: Travel to Fatehpur Sikri / Keoladeo National Park",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af1",
@@ -422,7 +474,8 @@
       "cityName": "Agra",
       "day1": "Fees: ₹50 (Indians), ₹650 (Foreigners). On Fridays, ₹40 (Indians), ₹600 (Foreigners).",
       "day2": "Explore Ram Bagh, one of the oldest Mughal gardens in India, believed to be the first Mughal garden laid out by Babur.",
-      "day3": "Option B (Wildlife/Nature): Travel to Keoladeo National Park (Bharatpur). It's about 57 km from Agra."
+      "day3": "Option B (Wildlife/Nature): Travel to Keoladeo National Park (Bharatpur). It's about 57 km from Agra.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af6",
@@ -430,7 +483,8 @@
       "cityName": "Agra",
       "day1": "Enjoy authentic Mughlai cuisine.",
       "day2": "Activity: Take a Street Food Tour – Flavors of Agra (Evening is best, but can be done for brunch).",
-      "day3": "Essentials: Wear comfortable shoes; carry water. Consider a guide. Closed on Fridays."
+      "day3": "Essentials: Wear comfortable shoes; carry water. Consider a guide. Closed on Fridays.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af7",
@@ -438,7 +492,8 @@
       "cityName": "Agra",
       "day1": "Recommendation: Pinch of Spice (Fatehabad Road) offers excellent Butter Chicken (₹350) and Mutton Rogan Josh (₹400). Alternatively, Taj Mahal Restaurant for a fine dining experience (Multicuisine).",
       "day2": "Recommendations: Try Bedai, Jalebi, Bhalla, Petha. For non-veg street food, visit Mama Chicken Mama Franky House for Galouti Kebabs and Frankies.",
-      "day3": "Fees: ₹50 (Indians), ₹610 (Foreigners). On Fridays, ₹40 (Indians), ₹600 (Foreigners)."
+      "day3": "Fees: ₹50 (Indians), ₹610 (Foreigners). On Fridays, ₹40 (Indians), ₹600 (Foreigners).",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768af8",
@@ -446,7 +501,8 @@
       "cityName": "Agra",
       "day1": "2:00 PM – 2:30 PM: Travel to Itmad-ud-Daulah's Tomb",
       "day2": "Cost: ₹200–₹500 for food.",
-      "day3": "Option B: Keoladeo National Park"
+      "day3": "Option B: Keoladeo National Park",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768afc",
@@ -454,7 +510,8 @@
       "cityName": "Agra",
       "day1": "Marvel at the delicate pietra dura work, which predates the Taj Mahal and showcases early Mughal architectural brilliance.",
       "day2": "Have lunch at a local eatery in Sadar Bazaar or try Ram Babu Paratha Bhandar for authentic Dhaba-style parathas (Aloo Paratha: ₹60).",
-      "day3": null
+      "day3": null,
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768afe",
@@ -462,7 +519,8 @@
       "cityName": "Agra",
       "day1": "4:00 PM – 5:00 PM: Shopping for Local Souvenirs",
       "day2": "Visit Dayalbagh, a unique spiritual and architectural complex. The construction of the temple here is ongoing for over 100 years, showcasing intricate carvings.",
-      "day3": "1:00 PM – 2:00 PM: Lunch"
+      "day3": "1:00 PM – 2:00 PM: Lunch",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b04",
@@ -470,7 +528,8 @@
       "cityName": "Agra",
       "day1": "Head to your hotel for some relaxation.",
       "day2": "Option B (Spiritual): Visit Mankameshwar Temple, an ancient Shiva temple believed to be from the time of Lord Krishna.",
-      "day3": "Fees: FREE."
+      "day3": "Fees: FREE.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b08",
@@ -478,7 +537,8 @@
       "cityName": "Agra",
       "day1": "Location: Kalakriti Cultural Center.",
       "day2": "Time to relax or head back to your accommodation.",
-      "day3": "3:30 PM – 6:00 PM: Further Exploration / Hidden Gem"
+      "day3": "3:30 PM – 6:00 PM: Further Exploration / Hidden Gem",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0e",
@@ -486,7 +546,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Essentials: Be respectful of local customs."
+      "day3": "Essentials: Be respectful of local customs.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b0f",
@@ -494,7 +555,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Fees: FREE."
+      "day3": "Fees: FREE.",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b14",
@@ -502,7 +564,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Connectivity:"
+      "day3": "Connectivity:",
+      "premium": "FREE"
     },
     {
       "_id": "68c7f22920f4dc4834768b15",
@@ -510,7 +573,8 @@
       "cityName": "Agra",
       "day1": null,
       "day2": null,
-      "day3": "Agra Airport: 5km from Sadar Bazar."
+      "day3": "Agra Airport: 5km from Sadar Bazar.",
+      "premium": "FREE"
     }
   ]
 }

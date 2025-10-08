@@ -28,7 +28,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196106/po0iq6wjybsxzplntcun.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196107/zw5tyadhvp3lxaahsca2.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c1e",
@@ -58,7 +59,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196127/ku1aoh7odfm7fjs6gmhu.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196128/nakoe1py61zrhmrgkble.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c20",
@@ -88,7 +90,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196140/tlvtcfmfmidq85tqflp2.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196141/bl8nx2uzycyd3wfwqr7v.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c25",
@@ -118,7 +121,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196192/gy9nozh6czusiajwbowd.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196194/ayoc8bxttafz2gu2ncyf.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c1a",
@@ -148,7 +152,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196100/vvibe7pcqkaukpiyv7x8.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196102/b4g4jswvlvzbfghjps8m.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c1c",
@@ -178,7 +183,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196112/r7q417xzrfbbmv1ii5at.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196115/owsoiytyz3blby2lsyzu.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c1f",
@@ -208,7 +214,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196134/xgbzat0fv1a65duwhe55.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196135/yuqmwhwx2h0c5qllz8rq.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "A"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c1d",
@@ -238,7 +245,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196120/ccx43zudrj0t7iig5wxa.webp",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196122/uftjpebnliqbtbcbl62y.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c21",
@@ -268,7 +276,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196150/jv6hlahaskbqtnb4iddj.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196152/iyqgahtbru9asjfbi8tv.webp"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c22",
@@ -298,7 +307,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196162/i1nansjrn6nejmi4s8k8.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196165/ncpl4y2ajhb7tavj248y.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c23",
@@ -328,7 +338,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196174/slhk5ahaquhe7mbmjyqt.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196177/phjg41ug8ddkerc1w22t.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "FREE"
     },
     {
       "_id": "68c7f5ba20f4dc4834768c24",
@@ -358,7 +369,8 @@
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196185/s96u1mjmpct0e7lpy8hl.jpg",
         "https://res.cloudinary.com/dmpo42qxm/image/upload/v1757196188/fq5h2kmazaylrxreoyo9.jpg"
       ],
-      "videos": []
+      "videos": [],
+      "premium": "A"
     }
   ]
 }

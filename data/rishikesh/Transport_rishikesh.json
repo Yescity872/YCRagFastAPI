@@ -1,384 +1,384 @@
 {
-    "Transport": [
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Shivpuri",
-            "cabPrice": "Rs 700-800",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Triveni Ghat",
-            "cabPrice": "Rs 700-800",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Parmarth Niketan",
-            "cabPrice": "Rs 1000-1100",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Laxman Jhula",
-            "cabPrice": "Rs 900-100",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Gole Market",
-            "cabPrice": "Rs 700-800",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Tapovan",
-            "cabPrice": "Rs 800-900",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Haridwar Railway Station",
-            "to": "Byasi",
-            "cabPrice": "Rs 950-1050",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cb4"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Dehradun Airport",
-            "cabPrice": "Rs 650-750",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Triveni Ghat",
-            "cabPrice": "Rs 450-550",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Parmarth Niketan",
-            "cabPrice": "Rs 450-550",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Laxman Jhula",
-            "cabPrice": "Rs 400-500",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Gole Market",
-            "cabPrice": "Rs 450-550",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Tapovan",
-            "cabPrice": "Rs 400-500",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Byasi",
-            "cabPrice": "Rs 500-600",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Shivpuri ",
-            "to": "Haridwar Railway Junction",
-            "cabPrice": "Rs 1000-1100",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cbe"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Dehradun Airport",
-            "cabPrice": "Rs 350-450",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Shivpuri",
-            "cabPrice": "Rs 300-400",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Haridwar Railway Junction",
-            "cabPrice": "Rs 700-800",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Parmarth Niketan",
-            "cabPrice": "Rs 300-400",
-            "bikePrice": "Rs 100-140",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Laxman Jhula",
-            "cabPrice": "Rs 200-300",
-            "bikePrice": "Rs 90-120",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Gole Market",
-            "cabPrice": "Rs 80-100",
-            "bikePrice": "Rs 20-30",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Tapovan",
-            "cabPrice": "Rs 100-200",
-            "bikePrice": "Rs 30-50",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Triveni Ghat",
-            "to": "Byasi",
-            "cabPrice": "Rs 550-650",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cc3"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "shivpuri",
-            "cabPrice": "Rs 550-650",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Dehradun Airport",
-            "cabPrice": "Rs 600-700",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Haridwar Railway Junction",
-            "cabPrice": "Rs 900-1000",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Parmarth Niketan",
-            "cabPrice": "Rs 100-150",
-            "bikePrice": "Rs 20-40",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Triveni Ghat",
-            "cabPrice": "Rs 300-400",
-            "bikePrice": "Rs 90-120",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Tapovan",
-            "cabPrice": "Rs 300-400",
-            "bikePrice": "Rs 60-80",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Byasi",
-            "cabPrice": "Rs 800-900",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Laxman Jhula",
-            "to": "Gole Market",
-            "cabPrice": "Rs 250-350",
-            "bikePrice": "Rs 90-120",
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd2"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Shivpuri",
-            "cabPrice": "Rs 900-1100",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Gole Market",
-            "cabPrice": "Rs 550-650",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Tapovan",
-            "cabPrice": "Rs 650-750",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Byasi",
-            "cabPrice": "Rs 1400-1500",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Laxman Jhula",
-            "cabPrice": "Rs 800-1100",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Triveni Ghat",
-            "cabPrice": "Rs 500-700",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        },
-        {
-            "cityId": "68a57ac9fe74fcba8502d52b",
-            "cityName": "Rishikesh",
-            "from": "Dehradhun Airport",
-            "to": "Parmarth Niketan",
-            "cabPrice": "Rs 1000-1200",
-            "bikePrice": null,
-            "premium": "FREE",
-            "_id": "68c7f5f820f4dc4834768cd5"
-        }
-    ]
+  "transport": [
+    {
+      "_id": "68c7f5f820f4dc4834768cb4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 900-100",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Tapovan",
+      "cabPrice": "Rs 800-900",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbe",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 400-500",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 350-450",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cca",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Byasi",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Gole Market",
+      "cabPrice": "Rs 250-350",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Tapovan",
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 800-1100",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb5",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Tapovan",
+      "cabPrice": "Rs 400-500",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Byasi",
+      "cabPrice": "Rs 500-600",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc2",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 1000-1100",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc7",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Laxman Jhula",
+      "cabPrice": "Rs 200-300",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "shivpuri",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd3",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Shivpuri",
+      "cabPrice": "Rs 900-1100",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Byasi",
+      "cabPrice": "Rs 1400-1500",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 500-700",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 1000-1100",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cba",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Byasi",
+      "cabPrice": "Rs 950-1050",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Gole Market",
+      "cabPrice": "Rs 450-550",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc6",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 100-140",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Gole Market",
+      "cabPrice": "Rs 80-100",
+      "bikePrice": "Rs 20-30",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cc9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Triveni Ghat",
+      "to": "Tapovan",
+      "cabPrice": "Rs 100-200",
+      "bikePrice": "Rs 30-50",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cce",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 100-150",
+      "bikePrice": "Rs 20-40",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccf",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Triveni Ghat",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 90-120",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd0",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Tapovan",
+      "cabPrice": "Rs 300-400",
+      "bikePrice": "Rs 60-80",
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd9",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Parmarth Niketan",
+      "cabPrice": "Rs 1000-1200",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cb8",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Haridwar Railway Station",
+      "to": "Gole Market",
+      "cabPrice": "Rs 700-800",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cbb",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Shivpuri ",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 650-750",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccc",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Dehradun Airport",
+      "cabPrice": "Rs 600-700",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768ccd",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Haridwar Railway Junction",
+      "cabPrice": "Rs 900-1000",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd1",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Laxman Jhula",
+      "to": "Byasi",
+      "cabPrice": "Rs 800-900",
+      "bikePrice": null,
+      "premium": "FREE"
+    },
+    {
+      "_id": "68c7f5f820f4dc4834768cd4",
+      "cityId": "68c7454b4ea2df675385f353",
+      "cityName": "Rishikesh",
+      "from": "Dehradhun Airport",
+      "to": "Gole Market",
+      "cabPrice": "Rs 550-650",
+      "bikePrice": null,
+      "premium": "FREE"
+    }
+  ]
 }

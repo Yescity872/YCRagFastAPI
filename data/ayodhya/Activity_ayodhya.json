@@ -1,0 +1,192 @@
+{
+  "activity": [
+    {
+      "_id": "68e02d6cbd1f9c367048dd92",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Experience Evening Aarti & Light Show",
+      "bestPlaces": "Ram Ki Paidi / Saryu Ghat Riverfront",
+      "description": "Witness the mesmerizing daily grand evening ritual of lamps and chants dedicated to the Saryu River, often followed by a light and sound show.",
+      "essentials": [
+        "Arrive 30 mins early for a good spot; comfortable seating mat; modest clothing."
+      ],
+      "fee": "Free (The Aarti ceremony itself is free. Donations are voluntary.)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517195/fkcwwcul9pgauq38dyeu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/C_uPNChCuUA"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd94",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Walk Old City Lanes & Hidden Temples",
+      "bestPlaces": "Inner streets near Hanuman Garhi, Karsevakpuram area",
+      "description": "Self-explore narrow alleys to find old havelis (mansions), unique murals, small local shrines, and experience the non-touristy life of Ayodhya.",
+      "essentials": [
+        "Comfortable walking shoes; small cash; respect for local privacy; a local map or guide."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517200/l3uwrexenq4yu7uksmu9.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/7Kt56x9EM4w?si=h7vTFhxecl_EVB6O"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd95",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Book a Guided Storytelling Tour",
+      "bestPlaces": "Old City/Riverfront/Major Sites",
+      "description": "Hire a local guide to narrate myths, legends, folklore, and historical anecdotes that are not found on standard plaques or in guidebooks.",
+      "essentials": [
+        "Booking confirmation (half-day or full-day); water bottle; good listener's attention."
+      ],
+      "fee": "₹500 - ₹1500+ (Per day/group, depending on guide experience/duration)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517204/ip5aufmbuuprrpjdz1tg.webp"
+      ],
+      "videos": [],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd97",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Attend Cultural Programs / Relax",
+      "bestPlaces": "Ram Katha Park",
+      "description": "Stroll and relax in the spacious park, and if dates align, attend open-air theatrical performances, katha recitals, or poetry evenings.",
+      "essentials": [
+        "Check local listings for events; blanket/mat for sitting; insect repellent (evening)."
+      ],
+      "fee": "Free (unless a ticketed event is running)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517208/metb6chumraewlithwtu.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/uLT1HV8FfT4"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd98",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Explore Historical Architecture",
+      "bestPlaces": "Bahu Begum's Tomb / Moti Mahal (Faizabad area)",
+      "description": "Visit structures from the Nawabi/Awadh era, offering a contrast to the temple architecture and a glimpse into the Mughal-era history of the region.",
+      "essentials": [
+        "Small entry fee might apply to the Tomb; respectful attire; good transport to Faizabad (if needed)."
+      ],
+      "fee": "₹20 - ₹50 (Estimated minimal entry fee, if any)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517210/clt4dc5tcqobqpjzqpuo.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/GCBBZTH_bmg"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd99",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Visit Ancient Culinary Exhibit",
+      "bestPlaces": "Sita Ki Rasoi",
+      "description": "See displays and models representing ancient kitchen tools and culinary traditions, connecting the site's spiritual importance with daily life.",
+      "essentials": [
+        "Respectful conduct inside the temple-museum area."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517211/nqbcpvcqaszkgnea1fos.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/pJygbfNF05s"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd93",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Sunrise/Sunset Boat Ride",
+      "bestPlaces": "Saryu River (via Guptar Ghat or Ram ki Paidi)",
+      "description": "Take a short boat ride during the \"golden hours\" for unique architectural photography and a tranquil view of the city reflecting on the water.",
+      "essentials": [
+        "Camera/Sketchbook; bargaining skills for the boat price; life jacket (if provided/necessary)."
+      ],
+      "fee": "₹50 - ₹200 per person (Approx. for a short shared ride)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517198/o9jfnalstwbfbzunrwsf.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/ylL-RAxi2Zk"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd96",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Local Food / Snack / Sweet Hunts",
+      "bestPlaces": "Alleyway shops, Chaat Stalls, Temple proximity",
+      "description": "Go \"food trekking\" to try local specialties like Ayodhya's famous chaat, peda, rabri, or kachori-sabzi for an authentic taste of the region.",
+      "essentials": [
+        "Small change (Chillar); own water bottle; an adventurous palate; check for hygiene."
+      ],
+      "fee": "₹20 - ₹150 per dish (Highly budget-friendly)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517205/ukgw0fzi7cutoynmffj1.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/gJk0VRER6ko?si=bOM2TLn1DaUHjo7z"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9a",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Local Viewpoint",
+      "bestPlaces": "Mani Parvat",
+      "description": "Climb this small mythological hillock for a panoramic, bird’s-eye view of Ayodhya and the surrounding Saryu river plains.",
+      "essentials": [
+        "Comfortable shoes for the climb; sunscreen/hat."
+      ],
+      "fee": "Free",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517214/h9qdvntazfybyhximijq.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/U2gQX455uDc"
+      ],
+      "premium": "FREE"
+    },
+    {
+      "_id": "68e02d6cbd1f9c367048dd9b",
+      "cityId": "68e02d40bd1f9c367048dd42",
+      "cityName": "Ayodhya",
+      "topActivities": "Volunteer / Join Community Service",
+      "bestPlaces": "Temple Langar Kitchens / Community Centers",
+      "description": "Engage in Seva (selfless service) by helping out in a community kitchen or local temple operations to gain a deeper, participatory insight into local life.",
+      "essentials": [
+        "Modest, clean clothing; willingness to work/help; flexibility in time."
+      ],
+      "fee": "Free (Donations are welcome, but participation is free)",
+      "images": [
+        "https://res.cloudinary.com/dmpo42qxm/image/upload/v1759517219/bk2fef8r9tcbrdghmdbd.jpg"
+      ],
+      "videos": [
+        "https://www.youtube.com/embed/22fhVUyDTtw?si=OvRQnuLFzl4csmHe"
+      ],
+      "premium": "FREE"
+    }
+  ]
+}
