@@ -6,7 +6,7 @@ FOOD_ORDER: List[str] = [
     '_id','cityId','cityName','flagship','foodPlace','lat','lon','address','locationLink',
     'category','vegOrNonVeg','valueForMoney','service','taste','hygiene',
     'menuSpecial','menuLink','openDay','openTime','phone','website','description',
-    'images','videos','updatedAt','premium'
+    'images','videos','premium'
 ]
 
 PLACE_ORDER: List[str] = [

@@ -433,6 +433,7 @@ from fastapi.concurrency import run_in_threadpool
 from pydantic import BaseModel
 from service.query_classifier import classify_query_with_gemini
 from service.async_utils import run_blocking
+from service.city_normalizer import normalize_city
 from agents.tralli_agent import get_city_handlers
 from typing import Dict, Any
 
@@ -444,7 +445,8 @@ class CityQueryInput(BaseModel):
 
 @router.post("/tralli/query")
 async def classify_and_handle_query(input: CityQueryInput) -> Dict[str, Any]:
-    city = input.city.lower()
+    # Normalize city name (LLM + fuzzy, constrained to supported whitelist)
+    city = await run_blocking(normalize_city, input.city)
     handlers = get_city_handlers(city)
     if not handlers:
         raise HTTPException(status_code=400, detail=f"City '{city}' not supported.")
